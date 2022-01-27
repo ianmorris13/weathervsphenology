@@ -1,7 +1,5 @@
 # weathervsphenology
 
-I'll be seein if native plants get sad with the new weather.
-
 (A quick game of tic-tac-toe, it's not as fun by yourself.)
 
 X . .
