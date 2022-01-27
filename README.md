@@ -77,6 +77,6 @@ The ethics of this project seem straight foward. I can act like this is one hund
 There will be checkpoints for the project at approximately two-week intervals. With this in mind, please describe what you expect to achieve after two, four, and six weeks. At each stage, you should have “something that works.” For example, maybe in two weeks you’ll ready to demonstrate the data acquisition pipeline, in four weeks you’ll be able to demonstrate some data analysis, and in six weeks you’ll have your full machine learning pipeline set up. Please keep in mind that you’ll be asked to present at each of these checkpoints. Showing “something that works” will usually be necessary for full credit. The “something that works” idea is related to the common concept of “minimum viable products” in software development, and is visually illustrated here:
 
 In two weeks, I hope to have clean data that is easy to interpret and is easy to combine between the two data sets. 
-In four weeks, I hope to have my interactive plots website ready.
-In six weeks, I hope to have thorough analysis on aboot my data and its implications. In addition I hope to have my website up and ready with wonderful CSS to present.
+In four weeks, I hope to have my interactive plots' website ready in a shell state.
+In six weeks, I hope to have thorough analysis on aboot my data and its implications. In addition I hope to have my website up with wonderful CSS and a nice, presentable theme.
 
