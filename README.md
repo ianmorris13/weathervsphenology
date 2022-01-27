@@ -65,7 +65,7 @@ The ethics of this project seem straight foward. I can act like this is one hund
 ###Some thoughts that may question the ethics of my project:
 
 - What is the possibility for someone looking at a website gets the wrong idea?
-    -Maybe my data somehow strengthens another's thoughts on climate change? 
+    -Maybe my data somehow strengthens another's thoughts against the concept of climate change? 
 - Are my data sources ethical in the first place? 
     -Is my data complete and uniform in coverage? Are any geographic areas or groups of people (or organisms) underrepresented? 
 - If I choose to use models, what is the cost of making errors in future forcasting?
