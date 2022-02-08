@@ -1,30 +1,18 @@
-# weathervsphenology
-
-(A quick game of tic-tac-toe, it's not as fun by yourself.)
-
-X . .
-. X .
-. . X
-
-## Now that that's done I shall explain why my project is so important...
-
-Maybe it is or isn't I'm not to sure myself yet.
+# weather vs phenology
 
 ## Abstract
 
-The California climate is currently under extreme stress due to constant drought and increasing average temperatures. I would like to focus on if precipitation and differing temperture gradiants affect the distribution of native plants vs the distribution of non-native plants. I hope to visualize and project the future of the effect climate chagne has on California's native plants.
+Over time, the impact of drought in the western United States, specifically California, has grown to be more and more worrisome. The ecological effect of a drought, specifically, the effect on plant growth, will be analyzed. We will be utilizing already existing data on plant growth and California drought, to understand the lasting effects of a drought that may occur in the future. We aim to focus on whether precipitation and differing temperature gradients affect the distribution of native plants vs the distribution of non-native plants. The goal is to visualize and project the future of the effect climate change has on California's native plants.
 
 ## Planned Deliverables
 
-I plan to end up with a website that can accurately visualize the data that I have aggregated from various weather. There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Also, there will be options to filter between species, genus, native non-native, etc... different categories between all flowers and to compare said categories over the yers. This applet and website will be hosted on herkuapp.com, simlar to this website https://eitc-app.herokuapp.com/. 
+The aim of this project is to create a machine learning model that can predict to utmost accuracy what the progression of California drought will be and the effect it will have on native and nonnative plant growth. Utilizing Jupyter Notebook, the model will be trained based on already existing data of the California drought over the years and already existing data on plant growth over the same time frame. We will be plotting drought conditions vs plant growth, which will offer a visual of what the past and current conditions are, as well as the correlation of the two. There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Additionally, there will be options to filter between species, genus, native non-native, etc. Different categories between all flowers and to compare said categories over the years. This webapp will be hosted on herkuapp.com, similar to this website https://eitc-app.herokuapp.com/. 
 
-In addition to the data visualizations, I hope to forecast the future of native species, though that may be tough due to the many many variables that comes with ecological models. If so, the website that I have configured will instead include more interactivity, such as the ability to 
-
-Lastly, I will provide thorough written analysis on the data, explaining in my opinion on why this is important.
+In addition to the data visualizations, we aim to forecast the future of native species. Many factors will need to be considered, especially since there are many variables that come with ecological models.  Nevertheless, the website will provide current information on the correlation and effect of a drought and plant growth. Lastly, I will provide thorough written analysis on the data, explaining why this is important.
 
 ## Resources Required
 
-I am going to use free to use open source data from scientific organizations. 
+I am going to use ope source data from scientific organizations; which include:
 
 Global Biodiversity Information Facility-
 Free and open access to biodiversity data
@@ -41,26 +29,24 @@ https://ucnrs.org/nrs-weather-station-database/
 
 ## Tools and Skills Required
 
-I hope to become better at machine learning, database management, complex visualizations, website building, and modeling. These skills will help me greatly in this project and additionally further in my career.
+Web scrapping, machine learning, database management, complex visualizations, website building, and modeling are required for this project. 
 
-Packages may include; Mesa, plotly, matplotlib, pandas, sqlite3, numpy, scikit-learn, seaborn, and anymore I might encounter.
+Packages may include; Mesa, plotly, matplotlib, pandas, sqlite3, numpy, scikit-learn, seaborn, and possibly others.
 
 ## What You Will Learn
 
-I hope to learn how to create attractive websites and present data in a format that's easily digestible. In addition, I hope to forcast the future of this interaction between weather and Californian plant species using machine learning, or provide an Agent Based Model with this data. Lastly, I hope this project will help better my self-teaching skills in my future with programming languages. 
+We hope to learn how to create attractive websites and present data in a format that's easily digestible. In addition, we hope to forecast the future of this interaction between weather and Californian plant species using machine learning models, or provide an Agent Based Model with this data.
 
 
 ## Risks
 
-A risk that I may encounter stems from the fact that ecological systems are often super hard to predict due to their multifaceted data. There are many variables that go into the growth of an organism, meaning there are also many variables that I could possibly not even think of to include, as well as variables that I include that will make my data unnecessarily complicated. This will become especially apparent with any models or forecasts I may run, whether it be through regression or agent-based modeling.
+A risk that we may encounter stems from the fact that ecological systems are often challenging to predict due to their multifaceted data. There are many variables that go into the growth of an organism, meaning there are also many variables that can affect plant growth which may skew the predictions. This will become especially apparent with any models or forecasts we may run, whether it be through regression or agent-based modeling.
 
 ## Ethics
 
-All projects we undertake involve decisions about whose interests matter; which problems are important; and which tradeoffs are considered acceptable. Take some time to reflect on the potential impacts of your product on its users and the broader world. If you can see potential biases or harms from your work, describe some of the ways in which you will work to mitigate them. 
+The effect humans have on the climate and ecological systems is important to many. There are many organizations and activists whom advocate for government officials to reduce the harm we cause. Providing data and information on the further damage that climate change can have may provide more support to make an environmental difference. 
 
-Now there may be some things that could possibly arise from this project like leading to exploitation of certain groups or leading others astray from the truth.
-
-The ethics of this project seem straight foward. I can act like this is one hundred percent foolproof, and can only benefit those who desire to preserve the native plant ecology of California. But like everything in this world, things have biases and you tend to only see them a certain way. I could try to see the consequences of this project from a different point of view...
+Those who may appeal to further work and analysis in climate change are companies that produce the most environmental harm. If government officials decide to place in more regulations on, for example, the waste companies produce, those companies will be financially hurt.
 
 ### Some thoughts that may question the ethics of my project:
 
@@ -77,4 +63,3 @@ There will be checkpoints for the project at approximately two-week intervals. W
 In two weeks, I hope to have clean data that is easy to interpret and is easy to combine between the two data sets. 
 In four weeks, I hope to have my interactive plots' website ready in a shell state.
 In six weeks, I hope to have thorough analysis on aboot my data and its implications. In addition I hope to have my website up with wonderful CSS and a nice, presentable theme.
-
