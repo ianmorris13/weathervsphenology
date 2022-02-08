@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c8bcbc1e-3073-4a7a-930c-65a0727493be"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/4pey4p</alternateIdentifier>
+        <alternateIdentifier>c8bcbc1e-3073-4a7a-930c-65a0727493be</alternateIdentifier>
+        <alternateIdentifier>https://ipt.isa.ulisboa.pt/ipt_isa/resource?r=madeira_and_porto_santo_vegetation_catalogue</alternateIdentifier>
+    <title>Catalogue of the plant communities of Madeira and Porto Santo</title>
+    <creator>
+    <individualName>
+<givenName>José Carlos</givenName>          <surName>Costa</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Capelo</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Roberto</givenName>          <surName>Jardim</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Sequeira</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Dalila</givenName>          <surName>Espírito-Santo</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mário</givenName>          <surName>Lousã</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Suzana</givenName>          <surName>Fontinha</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Aguiar</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Salvador</givenName>          <surName>Rivas-Martínez</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Tomás</surName>
+    </individualName>
+<organizationName>ISA</organizationName>    <address>
+<country>PORTUGAL</country>    </address>
+<electronicMailAddress>dianarstomas@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Coelho</surName>
+    </individualName>
+<organizationName>ISA</organizationName>    <address>
+<country>PORTUGAL</country>    </address>
+<electronicMailAddress>paula.cris.coelho@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-12-09
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>This dataset is a catalogue of plant species observed in plant communities in Madeira and Porto Santo islands. It is based on the syntaxonomic and floristic catalogue of the plant communities of Madeira and Porto Santo, published on Quercetea vol. 6, published in 2004. The sampling is based on field trips performed in the same year. The Madeira and Porto Santo Vegetation Catalogue data includes 119 plant families.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>samplingEvent</keyword>
+              <keyword>occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>syntaxonomic catalogue</keyword>
+              <keyword>plant communities</keyword>
+              <keyword>vegetation</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://bibliotecadigital.ipb.pt/bitstream/10198/5335/1/2004%20Cat%20Sintax%20Madeira%20PSanto.pdf</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madeira and Porto Santo Islands</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-17.298</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-16.235</eastBoundingCoordinate>
+                      <northBoundingCoordinate>33.139</northBoundingCoordinate>
+                      <southBoundingCoordinate>32.599</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2004-04-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2004-11-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The plant species identified in the catalogue belong to 40 orders, 359 genus and 651 species of vascular plants, 5 orders, 11 genus and 15 species of non vascular plants, 9 orders, 17 genus and 18 species of Bryophytes and 2 species of lichens</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Bryophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Marchantiophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Anthocerotopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Bryopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Marchantiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gnetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>José Carlos</givenName>          <surName>Costa</surName>
+    </individualName>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Publication data was exported to csv and reinterpreted attributes matching to DwC standard terms. Information was divided in two tables, event and occurrences. The event table contains location, georeferentiation and sampling method, and the occurrence table contains occurrence and taxon information.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Geographic coordinates and uncertainty radius of sampled locations were obtained by using the GEOLocate Web Application tool, considering the provided place description and altitude. Additional geographic information was later obtained through a geographic layer in shape file format, using WGS84 as the reference system, exported to csv and attributes matched to DwC standard terms.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Plant communities catalogue of Madeira and Porto Santo islands published in 2004.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Cover-abundance assessment of plant species recorded in different plant communities according to the Braun-Blanquet scale.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Data of all the inventories referred in the publication (tables and text) was inserted in a specific relational database built specifically for the project, which implemented several quality control methods. In the preparation of the dataset for GBIF publication, data consistency was verified using cluster algorithms using OpenRefine.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Catálogo sintaxonómico e florístico das comunidades vegetais da Madeira e Porto Santo</title>
+          <personnel>
+    <individualName>
+<givenName>José Carlos</givenName>          <surName>Costa</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>This dataset is a syntaxonomic catalogue of Madeira and Porto Santo plant communities described in the 6th edition of the periodical publication Quercetea vol. 6, edited by the Portuguese Association of Vegetation Science- PHYTOS.</para>
+          </abstract>
+          <funding>
+              <para>The preparation of this resource for publication through GBIF was supported by Project PORBIOTA—Portuguese E-Infrastructure for Information and Research on Biodiversity (POCI-01-0145-FEDER-022127), under the Operational Thematic Program for Competitiveness and Internationalization (POCI), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (FEDER) and FCT.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Madeira and Porto Santo Islands (Madeira Archipelago)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:09Z</dateStamp>
+      <citation>Costa J C, Capelo J, Jardim R, Sequeira M, Espírito-Santo D, Lousã M, Fontinha S, Aguiar C, Rivas-Martínez S, Tomás D, Coelho P (2021). Catalogue of the plant communities of Madeira and Porto Santo. Version 1.2. Instituto Superior de Agronomia / Universidade de Lisboa. Sampling event dataset https://doi.org/10.15468/4pey4p accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Costa, J.C., Capelo, J., Jardim, R., Sequeira, M., Espírito Santo, D., Lousã, M., Fontinha, S., Aguiar, C. and Rivas-Martinez, S., 2004. Catálogo sintaxonómico e florístico das comunidades vegetais da Madeira e do Porto Santo. Quercetea, 6, 61-185.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www.isa.ulisboa.pt/files/logo_green.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

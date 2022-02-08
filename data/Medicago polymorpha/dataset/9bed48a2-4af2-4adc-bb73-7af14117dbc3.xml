@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9bed48a2-4af2-4adc-bb73-7af14117dbc3"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/ltnq1o</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=pamp-tracheo-la</alternateIdentifier>
+        <alternateIdentifier>9bed48a2-4af2-4adc-bb73-7af14117dbc3</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=pamp-tracheo-la</alternateIdentifier>
+    <title>PAMP-tracheo: Vascular plants recovery after a fire event in a mixed oak forest in Nazar (Navarra, Spain). PhD project, L. Alberdi</title>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Rita Yolanda</givenName>          <surName>Cavero</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>rcavero@unav.es</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Lucía</givenName>          <surName>Alberdi</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Lucía</givenName>          <surName>Alberdi López</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rita Yolanda</givenName>          <surName>Cavero Remón</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>rcavero@unav.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Leticia</givenName>          <surName>Orradre</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone>    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>This dataset provides information about 1211 preserved specimens from 311 species and subspecies and 45 families of vascular plants. The specimens were collected in the PhD project of Alberdi (2003), which assessed the recovery of vascular plants 6-7 years after a fire event occurred in 1994 in a mixed Quercus ilex subsp. ballota- Q. faginea forest. The forest is located in the south slope of sierra Costalera, in the boundary between the Mediterranean and Eurosiberian biogeographical regions (Nazar, Navarra, northern Spain). Four area types were surveyed in the study: non-disturbed forest, cleared forest, burned forest and burned grassland. The most relevant families were Compositae, Gramineae, Leguminosae and Labiatae. Disturbed areas were more species rich than non-disturbed ones. Leguminosae, Gramineae and Compositae were also more frequent in disturbed areas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>herbarium</keyword>
+              <keyword>vascular plants</keyword>
+              <keyword>secondary succession</keyword>
+              <keyword>northern Spain</keyword>
+              <keyword>flora</keyword>
+              <keyword>fire</keyword>
+              <keyword>Navarra</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The origin of the PAMP Herbarium dates back to the arrival at the University of Navarra by Professor T.M. Losa España in 1964. One year later M.L. López Fernández began her doctoral thesis, maintaining her contributions to the herbarium uninterruptedly for several decades. Most of the material deposited in the herbarium comes from collections made by researchers from the Department of Environmental Biology (formerly Department of Botany) of the University of Navarra, as a result of theses and dissertations generally carried out in the territory of the Autonomous Community of Navarra (Spain). The herbarium store c. 100 000 sheets with dried specimens. The digitisation of the specimens has been done through the HERBAR v3.7.1 software (Pando et al., 1994-2010) and was supported by the Spanish Government (CGL2007-30978-E, CGL2009-08507-E and CGL2011-15056-E).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The area studied is located in the south slope of sierra Costalera (Nazar, Navarra, northern Spain), close to the boundary between the Mediterranean and Eurosiberian biogeographical regions.
+Country: Spain. Province: Navarra (N Spain). Municipality: Nazar.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.284</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.274</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.642</northBoundingCoordinate>
+                      <southBoundingCoordinate>42.639</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1998-12-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2001-08-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Out of a total of 1211 specimens, 1208 were identified to species or subspecies level. They belong to 311 species or subspecies and 45 families of vascular plants.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>vascular plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                          <commonName>monocots</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                          <commonName>dicotyledons</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                          <commonName>modern ferns</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Plant collection. Plant vouchers were selected and collected in the field.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identification to species or subspecies level. Identification was performed between 2003 and 2009 by L. Alberdi and R.Y. Cavero using Flora europaea (Tutin et al. 1964-1980), Flora iberica (Castroviejo et al. 1986-2015) and Flora del País Vasco y territorios limítrofes (Aizpuru et al. 1999).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plant conservation. Specimens were dried and pressed for conservation using standard protocols. Vouchers were deposited in the herbarium of the University of Navarra.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Numbering and digitization of vouchers. From 2012 to date, each specimen was labelled, with a unique collection number, and digitized, using HERBAR software (v3.7.1 Pando et al. 1994-2010).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Nomenclature was updated using Flora iberica (Castroviejo 1986-2015).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Names of municipalities, localities and place names were updated according to Toponimia Oficial de Navarra (http://toponimianavarra.tracasa.es/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Localities were georeferenced using x- and y- UTM coordinates. Uncertainty was also assigned.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Coordinates, characters and format of dates were checked for possible mistakes using Darwin test software (v3.3, Ortega-Maqueda &amp; Pando 2008). This software also allowed the data to fulfil the Darwin Core Standard (Wieczorek et al. 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Metadata were documented and the dataset was published in the GBIF data portal using the Integrated Publishing Toolkit (IPT v2.3.5) of GBIF.es (http://ipt.gbif.es/).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The specimens were collected in the south slope of sierra Costalera (Nazar, Navarra, northern Spain).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Samples were collected between the years 1998 and 2001 in eight permanent plots of 10 m x 10 m with different treatments: non-disturbed forest, cleared forest, burned forest and burned grassland.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>PhD project L. Alberdi: “Recuperación de la flora vascular y vegetación post-incendio y aplicación de técnicas que puedan acelerarla”.</title>
+          <personnel>
+    <individualName>
+<givenName>Lucía</givenName>          <surName>Alberdi López</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Rita Yolanda</givenName>          <surName>Cavero Remón</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas Lecumberri</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Leticia</givenName>          <surName>Romeo Orradre</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez Gastón</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>The recovery of vascular plants was assessed 6-7 years after a fire event occurred in 1994 in a mixed Quercus ilex subsp. ballota- Q. faginea forest. The forest is located in the south slope of sierra Costalera (Nazar, Navarra, northern Spain). Four area types were surveyed in the study: non-disturbed forest, cleared forest, burned forest and burned grassland. The most relevant families were Compositae, Gramineae, Leguminosae and Labiatae. Disturbed areas were more species rich than non-disturbed ones. Leguminosae, Gramineae and Compositae were also more frequent in disturbed areas.</para>
+          </abstract>
+          <funding>
+              <para>Digitization and georeferencing of the herbarium specimens have been supported through the project: “Informatización y adecuación a la red GBIF de colecciones de plantas vasculares depositadas en el herbario de la Universidad de Navarra-PAMP. Fase II”. Reference: CGL2011-15056-E. Ministerio de Economía y Competitividad. Gobierno de España. Principal investigator: Ricardo Ibáñez.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:50Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/ltnq1o">Ibáñez R, Imas M, Cavero R Y, Alberdi L (2018). PAMP-tracheo: Vascular plants recovery after a fire event in a mixed oak forest in Nazar (Navarra, Spain). PhD project, L. Alberdi. Version 1.5. University of Navarra – Department of Environmental Biology. Occurrence dataset https://doi.org/10.15470/ltnq1o accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Alberdi L (2003): Recuperación de la flora vascular y vegetación post-incendio y aplicación de técnicas que puedan acelerarla. PhD thesis. University of Navarra.</citation>
+      <citation>Aizpuru I, Aseginolaza C, Uribe-Echebarría PM, Urrutia P, Zorrakin I (1999) Claves ilustradas de la Flora del País Vasco y Territorios Limítrofes. Servicio Central de Publicaciones del Gobierno Vasco, Vitoria-Gasteiz.</citation>
+      <citation identifier="http://www.floraiberica.es/index.php">Castroviejo S (coord.) (1986–2015): Flora iberica. Plantas vasculares de la Península Ibérica y Baleares. Real Jardín Botánico (CSIC), Madrid.</citation>
+      <citation identifier="http://www.gbif.es/Darwin_test/Darwin_test.php">Ortega-Maqueda I, Pando F (2008): DARWIN TEST (3.3): Una aplicación para la validación y el chequeo de los datos en formato Darwin Core 1.2, Darwin Core 1.4 o Darwin Core Archive. Unidad de Coordinación de GBIF.ES, CSIC, Ministerio de Economía y Competitividad, España.</citation>
+      <citation identifier="http://www.gbif.es/herbar/herbar.php">Pando F et al. (1994–2010): HERBAR (3.7): Una aplicación de bases de datos para gestión de herbarios. Unidad de Coordinación de GBIF.ES, CSIC, Ministerio de Ciencia e Innovación, España.</citation>
+      <citation>Tutin TG, Heywood VH, Burges NA, Moore DM,Valentine DH, Walters SM &amp; Webb DA (eds.) (1964-1980): Flora Europaea, Vols. 1-5, Cambridge UniversityPress, Cambridge.</citation>
+      <citation identifier="https://doi.org/10.1371/journal.pone.0029715">Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D (2012): Darwin Core: An evolving community-developed biodiversity data standard. PLoS ONE 7(1): e29715.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt.gbif.es/logo.do?r=pamp-tracheo-la</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Herbario PAMP: colección ALBERDI</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="1">1,211</jgtiUnits>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

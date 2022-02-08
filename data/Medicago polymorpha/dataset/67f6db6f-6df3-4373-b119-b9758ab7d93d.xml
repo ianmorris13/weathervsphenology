@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="67f6db6f-6df3-4373-b119-b9758ab7d93d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/2qz0g4</alternateIdentifier>
+        <alternateIdentifier>67f6db6f-6df3-4373-b119-b9758ab7d93d</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=fbip_barker</alternateIdentifier>
+    <title>FBIP:RU:Floristic Survey</title>
+    <creator>
+    <individualName>
+<givenName>Prof Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences</positionName>    <address>
+<deliveryPoint>Private Bag X20</deliveryPoint><city>Hatfiled</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 12 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Prof Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences</positionName>    <address>
+<deliveryPoint>Private Bag X20</deliveryPoint><city>Hatfiled</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 12 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2018-03-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>In 2014, an analysis of sandstone vs basalt biodiversity richness was undertaken in the central Stormberg by Ms Elizabeth Gaisford as an Honours project at Rhodes University (Gaisford 2014). This resulted in the following collections:
+• Gaisford EL – c.500 records (various part of the central Stormberg, January/February 2014).
+• Clark VR &amp;amp; Gaisford EL – 350 collections (central Stormberg, March 2014).
+
+An additional collecting trip in December 2014 yielded the following:
+• Clark VR et al. – 331 collections (Bamboesberge &amp;amp; Andriesberg, December 2014).
+
+The 2014 material has all been identified, labelled and databased in BRAHMS, and will also form part of the FBIP project. As for the other collections, duplicate material of certain genera/families has been sent to various taxonomists around the world. The GRA material is in the process of being mounted for filing.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>South Africa, Eastern Cape, Stormberg Mountain range</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>26.031</westBoundingCoordinate>
+                      <eastBoundingCoordinate>26.503</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-31.102</northBoundingCoordinate>
+                      <southBoundingCoordinate>-31.651</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-01-25
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-12-10
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All flowering plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Prof Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences</positionName>    <address>
+<deliveryPoint>Private Bag X20</deliveryPoint><city>Hatfiled</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 12 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:37Z</dateStamp>
+      <citation>Barker P N (2018). FBIP:RU:Floristic Survey. Version 1.1. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/2qz0g4 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

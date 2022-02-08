@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f8cd9c4d-4693-40d7-9c0c-a3ce2ea2a1c3"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qwpfu2</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=fbip5</alternateIdentifier>
+    <title>FBIP: Great Escarpment Biodiversity Research Programme data mobilisation</title>
+    <creator>
+    <individualName>
+<givenName>Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences, University of Pretoria</positionName>    <address>
+<deliveryPoint>University of Pretoria, P. Bag X20, Hatfield</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+2712 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Vincent</givenName>          <surName>Clark</surName>
+    </individualName>
+<organizationName>University of the Free State</organizationName><positionName>Director - Afromontane Research Unit at University of the Free State</positionName>    <address>
+<deliveryPoint>Qwaqwa Campus, Private Bag X13,</deliveryPoint><city>Phuthaditjhaba</city><administrativeArea>Free State</administrativeArea><postalCode>9866</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27587185407</phone><electronicMailAddress>ClarkVR@ufs.ac.za</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Dold</surName>
+    </individualName>
+<organizationName>Selmar Schonland Herbarium, Rhodes University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Department of Botany, Rhodes University, Po Box 94</deliveryPoint><city>Grahamstown</city><administrativeArea>Eastern Cape</administrativeArea><postalCode>6140</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+270466222312</phone><electronicMailAddress>t.dold@ru.ac.za</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences, University of Pretoria</positionName>    <address>
+<deliveryPoint>University of Pretoria, P. Bag X20, Hatfield</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+2712 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Vincent</givenName>          <surName>Clark</surName>
+    </individualName>
+<organizationName>University of the Free State</organizationName><positionName>Director - Afromontane Research Unit at University of the Free State</positionName>    <address>
+<deliveryPoint>Qwaqwa Campus, Private Bag X13,</deliveryPoint><city>Phuthaditjhaba</city><administrativeArea>Free State</administrativeArea><postalCode>9866</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27587185407</phone><electronicMailAddress>ClarkVR@ufs.ac.za</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Dold</surName>
+    </individualName>
+<organizationName>Selmar Schonland Herbarium, Rhodes University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Department of Botany, Rhodes University, Po Box 94</deliveryPoint><city>Grahamstown</city><administrativeArea>Eastern Cape</administrativeArea><postalCode>6140</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+270466222312</phone><electronicMailAddress>t.dold@ru.ac.za</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mahlatse</givenName>          <surName>Kgatla</surName>
+    </individualName>
+<organizationName>SANBI</organizationName><positionName>FBIP Data Specialist</positionName>    <address>
+<deliveryPoint>2 Cussonia Avenue, Brummeria</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0184</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0128435196</phone><electronicMailAddress>m.kgatla@sanbi.org.za</electronicMailAddress><onlineUrl>http://fbip.co.za/contact/</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-10
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Specimens collected from the Stormberg area will be digitized and mobilise into a virtual herbarium for the southern Escarpment (complete with images of the specimens, c.1,000 field photographs, and digital copies of the 26 field collecting-books) using the Botanical Research and Herbarium Management System (BRAHMS) platform</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>South Africa (Northern Cape, Western Cape, Eastern Cape)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>20.17</westBoundingCoordinate>
+                      <eastBoundingCoordinate>27.225</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-31.03</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.074</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2008-10-08
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-12-14
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Flowering plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Angiospermae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+<organizationName>University of Pretoria</organizationName><positionName>Head of School of Plant and Soil Sciences, University of Pretoria</positionName>    <address>
+<deliveryPoint>University of Pretoria, P. Bag X20, Hatfield</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0028</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+2712 420 2593</phone><electronicMailAddress>nigel.barker@up.ac.za</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Vincent</givenName>          <surName>Clark</surName>
+    </individualName>
+<organizationName>University of the Free State</organizationName><positionName>Director - Afromontane Research Unit at University of the Free State</positionName>    <address>
+<deliveryPoint>Qwaqwa Campus, Private Bag X13,</deliveryPoint><city>Phuthaditjhaba</city><administrativeArea>Free State</administrativeArea><postalCode>9866</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27587185407</phone><electronicMailAddress>ClarkVR@ufs.ac.za</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Dold</surName>
+    </individualName>
+<organizationName>Selmar Schonland Herbarium, Rhodes University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Department of Botany, Rhodes University, Po Box 94</deliveryPoint><city>Grahamstown</city><administrativeArea>Eastern Cape</administrativeArea><postalCode>6140</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+270466222312</phone><electronicMailAddress>t.dold@ru.ac.za</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data input of information from specimens collected from the Stormberg area and updating or data records with missing data</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>South Africa (Northern Cape, Western Cape, Eastern Cape)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Botanical surveys and specimen collection throughout the Stormberg area</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>QGIS was used to confirm the location of points and minor geo-referencing was done</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="FBIS150528118421">
+          <title>FBIP: Great Escarpment Biodiversity Research Programme data mobilisation</title>
+          <personnel>
+    <individualName>
+<givenName>Nigel</givenName>          <surName>Barker</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Vincent</givenName>          <surName>Clark</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Dold</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Specimens collected from the Stormberg area will be digitized and mobilise into a virtual herbarium for the southern Escarpment (complete with images of the specimens, c.1,000 field photographs, and digital copies of the 26 field collecting-books) using the Botanical Research and Herbarium Management System (BRAHMS) platform.</para>
+          </abstract>
+          <funding>
+              <para>Foundational Biodiversity Information Programme</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>South Africa (Northern Cape, Western Cape, Eastern Cape)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:44Z</dateStamp>
+      <citation>Barker N, Clark V, Dold T (2020). FBIP: Great Escarpment Biodiversity Research Programme data mobilisation. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/qwpfu2 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

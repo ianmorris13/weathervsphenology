@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e06c51b2-b942-4807-ad02-14e5320fe27e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/f5qxp5</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=2019_nsmk_biodiversity_pl_8750</alternateIdentifier>
+    <title>2019_nsmk_biodiversity_pl_8750</title>
+    <creator>
+    <individualName>
+<givenName>HyunJong</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>National Science Museum of Korea</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>481 Daedeokdaero, Yuseon-gu</deliveryPoint><city>Daejeon</city><postalCode>34143</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-42-601-7724</phone><electronicMailAddress>ttliu@nsmk.kr</electronicMailAddress><onlineUrl>http://www.naris.go.kr</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mean-Young</givenName>          <surName>Yim</surName>
+    </individualName>
+<organizationName>National Science Museum of Korea</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>481 Daedeokdaero, Yuseon-gu</deliveryPoint><city>Daejeon</city><postalCode>34143</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-42-601-7724</phone><electronicMailAddress>ttliu@nsmk.kr</electronicMailAddress><onlineUrl>http://www.naris.go.kr</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>HyunJong</givenName>          <surName>Kim</surName>
+    </individualName>
+<electronicMailAddress>ttliu@nsmk.kr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-12-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>National Science Museum 2019
+Plant observation resource collection list</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>National Science Museum 2019
+Plant observation resource collection list</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>121.289</westBoundingCoordinate>
+                      <eastBoundingCoordinate>135</eastBoundingCoordinate>
+                      <northBoundingCoordinate>44.59</northBoundingCoordinate>
+                      <southBoundingCoordinate>30.751</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>HyunJong</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>National Science Museum of Korea</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>481 Daedeokdaero, Yuseon-gu</deliveryPoint><city>Daejeon</city><postalCode>34143</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-42-601-7724</phone><electronicMailAddress>ttliu@nsmk.kr</electronicMailAddress><onlineUrl>http://www.naris.go.kr</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:39Z</dateStamp>
+      <citation>Kim H, Yim M (2021). 2019_nsmk_biodiversity_pl_8750. National Science Museum of Korea. Occurrence dataset https://doi.org/10.15468/f5qxp5 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

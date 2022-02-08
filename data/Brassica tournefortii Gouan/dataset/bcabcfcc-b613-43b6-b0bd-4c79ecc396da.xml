@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bcabcfcc-b613-43b6-b0bd-4c79ecc396da"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/k97bjm</alternateIdentifier>
+        <alternateIdentifier>bcabcfcc-b613-43b6-b0bd-4c79ecc396da</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=gda-vascular-tipos</alternateIdentifier>
+    <title>Catalogue of type specimens of vascular plants deposited in the Herbarium of the University of Granada (Spain)</title>
+    <creator>
+    <individualName>
+<givenName>M. Teresa</givenName>          <surName>Vizoso Paz</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Granada (Spain)</organizationName><positionName>Support teaching and research technician</positionName>    <address>
+<deliveryPoint>C/ Rector López Argüeta, 8</deliveryPoint><city>Granada</city><administrativeArea>Granada</administrativeArea><postalCode>18017</postalCode><country>SPAIN</country>    </address>
+<phone>+34 958246329</phone><electronicMailAddress>mariate@ugr.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8757-5429</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>M. Teresa</givenName>          <surName>Vizoso Paz</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Granada (Spain)</organizationName><positionName>Support teaching and research technician</positionName>    <address>
+<deliveryPoint>C/ Rector López Argüeta, 8</deliveryPoint><city>Granada</city><administrativeArea>Granada</administrativeArea><postalCode>18006</postalCode><country>SPAIN</country>    </address>
+<phone>+34 958246329</phone><electronicMailAddress>mariate@ugr.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8757-5429</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Herbarium of the University of Granada</surName>
+    </individualName>
+<organizationName>University of Granada</organizationName><positionName>Service</positionName>    <address>
+<deliveryPoint>C/ Rector López Argüeta</deliveryPoint><city>Granada</city><administrativeArea>Granada</administrativeArea><postalCode>18071</postalCode><country>SPAIN</country>    </address>
+<phone>+34 958246329</phone><electronicMailAddress>herbario@ugr.es</electronicMailAddress><onlineUrl>http://herbarium.ugr.es/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2021-12-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>This dataset contains the specimen records from the catalogue of the nomenclature types of vascular plants in the Herbarium of the University of Granada, Spain. These herbarium specimens are included in the GDA and GDAC collections, acronyms registered  in the Index Herbariorum (Thiers 2014). A catalogue of vascular plants types from the Herbarium of the University of Granada has not previously been compiled. As a result of developing a doctoral thesis on the nomenclatural types included in their collections (Vizoso Paz 2019), and a project to get digital images to preserve and publish them, a large number of previously unrecognized types were identified. At this time, the type collection of vascular plants in the Herbarium of the University of Granada contains 565 type materials from 449 nominal taxa. In addition, this dataset contains other 6 types of 2 nominal taxa. Three of them are invalid because original material was found and the rest because it were not validly published (bachelor thesis). These types have been included by their possible interest to know their location in this collection and access to their images.
+Most of the types provide from Morocco and Spain (eastern Andalusia). Almost half of them come from the following exsiccatae: Iter Maroccanum (1927-1930) of Font Quer, Plantes D’Espagne of Sennen, Flora Iberica Selecta, Flora Selecta Canariensis of Sventenius, and Pteridophyta Iberica. The rest of this catalogue has been generated through researches conducted by Botany Department of the University of Granada, mostly from eastern Andalusia. 
+For each specimen, the locality indication, species name, observation date, collector, type status, related information, associated sequences, and other catalogue numbers related to each type are recorded. The dataset is associated with an image collection (587 images) available at Institutional repository of the University of Granada (DIGIBUG, https://digibug.ugr.es/handle/10481/60047) and at the Herbarium of University of Granada institutional web site (http://herbarium.ugr.es/pages/imagenes/tipos-nomenclaturales/tvascular).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>nomenclature</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/resource_type/nomenclature</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>typematerial</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/descriptionType/typematerial</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>herbarium collection</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>western Mediterranean</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>GDA</keyword>
+              <keywordThesaurus>Index Herbariorum: The Herbaria of the World. http://sweetgum.nybg.org/ih/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>GDAC</keyword>
+              <keywordThesaurus>Index Herbariorum: The Herbaria of the World. http://sweetgum.nybg.org/ih/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>vascular plants</keyword>
+              <keywordThesaurus>https://thesaurus.babylon-software.com/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Morocco</keyword>
+              <keywordThesaurus>UNESCO Thesaurus: http://vocabularies.unesco.org/browser/thesaurus/en/page/?uri=http://vocabularies.unesco.org/thesaurus/concept724</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Spain</keyword>
+              <keywordThesaurus>UNESCO Thesaurus: http://vocabularies.unesco.org/browser/thesaurus/en/page/?uri=http%3A%2F%2Fvocabularies.unesco.org%2Fthesaurus%2Fconcept923&amp;</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Iter maroccanum</keyword>
+              <keywordThesaurus>Index of Exsiccatae: http://indexs.botanischestaatssammlung.de/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Plantes d&apos;Espagne</keyword>
+              <keywordThesaurus>Index of Exsiccatae: http://indexs.botanischestaatssammlung.de/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Digital heritage</keyword>
+              <keywordThesaurus>UNESCO Thesaurus: http://vocabularies.unesco.org/thesaurus/concept8030</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>We wish to express our appreciation to Dr G. Blanca (Botany Department researcher at the University of Granada) for his help in the interpretation of some type specimens and the direction of the doctoral thesis developed. We also thank Katia Cezón her help in validating and publishing this resource, and to the University of Granada Library staff -Hospital Real- for the facilities provided to use the scanner to take the digital images of the sheets, and the publication of the images in the Institutional repository of the UGR, DIGIBUG.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://herbarium.ugr.es/pages/imagenes/tipos-nomenclaturales/tplant</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>In general, the distribution of the taxa of this catalogue is the western Mediterranean region, mostly from Spain and Morocco. Considering the seven types of orchids donated by Dr. Pérez-Vera this area is extended to Ivory Coast. Almost 50% of the catalogued types are from Morocco, most come from the exsiccata Iter Maroccanum of Font Quer and Plantes d&apos;Espagne of Sennen. Although 48% are from Spanish origin, they only correspond to 170 taxa that constitute 37.86% of the taxa in the catalogue. Most of the catalogued holotypes and isotypes are contained in this group. The provinces of eastern Andalusia, Granada, Almeria, Jaen, and Malaga, are represented by a greater number of taxa (from 53 taxa in Granada to nine in Malaga). Tenerife is also well represented by the types of the exsiccata Flora Selecta Canariensis of E.R. Sventenius, and also Barcelona by the types of the exsiccata of Plantes d&apos;Espagne of Sennen.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-16.884</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.23</eastBoundingCoordinate>
+                      <northBoundingCoordinate>43.775</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.703</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1852-04-22
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-04-13
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The main taxonomic coverage of this dataset correspond to Tracheophyta and classes Polypodiopsida, Liliopsida, Magnoliopsida, Pinopsida. The 565 nomenclatural types correspond to 449 nominal taxa belonging to 195 genera of 55 families. Asteraceae (with the genus Centaurea), Lamiaceae (with the genera Sideritis, Thymus and Teucrium), Fabaceae (with the genera Hippocrepis, Ononis and Genista), Brassicaceae (with the genera Erysimum, Arabis, Sisymbrium and Brassica), Scrophulariaceae (with Linaria, Veronica and Scrophularia), Caryophyllaceae (with Silene and Moehringia), and Poaceae (with Agrostis, Poa and Stipa) are the families that have the highest representation, with more than 20 types and taxa. That is a result of the broad representation that these families have in the herbarium, and a reflection of the main composition of the flora of the eastern Andalusia and northern Africa. Other families such as Apiaceae, Plumbaginaceae, Ranunculaceae, Campanulaceae, Cistaceae and Saxifragaceae are represented by more than 10 types and taxa each. Another 21 families contain between two and nine types each. The rest, 21 families, are represented by a single type contributing singularity to the taxonomic coverage of the collection.
+
+The terms used to complete the type status reference for this dataset are from the International Code of Nomenclature for algae, fungi, and plants (ICN) (McNeill et al. 2012). For the obsolete terms which are not included in the current Code, the terms used were taken from Hawksworth (2010).
+
+The type status most represented in the catalogue is syntype (44%), category that together with cotype and archetype comprise half of the type collection. The catalogue contains 74 holotypes and 108 isotypes that correspond to 32% of the collection. The lectotypes  (four specimens), neotypes (two specimens), and isoneotypes (three specimens) are almost testimonial. The 51 isolectotypes are motivated by the subsequent typifications over some syntypes distributed in the studied exsiccatae. The 38 paratypes are justified by the need to register elements of the typical series when there is only one holotype designated due to lack of materials collected and scarcity and / or threat degree to the populations.
+
+Of the 449 names of taxa represented in the catalogue, 124 remain as accepted names (the only ones included in this taxonomic coverage), 45 names correspond to basonyms, nine to homotypic synonyms, and 266 to heterotypic synonyms that correspond to names of taxa described in the studied exsiccatae. Only three catalogued names are considered as unsolved names, and two others are not mentioned in any source or repository despite being validly published.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aspleniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aceraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaryllidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Campanulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chenopodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cistaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Convolvulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crassulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Brassicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cupressaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dipsacaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ericaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Frankeniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fumariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gentianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Geraniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grossulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Guttiferae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Liliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Linaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrtaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orchidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Paeoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Papaveraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plantaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plumbaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygalaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranunculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Resedaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rutaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Saxifragaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scrophulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tamaricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Umbelliferae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Valerianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Centaurea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sideritis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Thymus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Linaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Teucrium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hippocrepis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ononis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ranunculus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Silene</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Genista</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Saxifraga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Narcissus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Armeria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Helianthemum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Statice</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Agrostis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Campanula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Linum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Arabis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Erysimum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sisymbrium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Bulbophyllum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Galatella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Juncus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Dianthus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Chamaepeuce</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Salvia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Acer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Brassica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Stipa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cirsium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Carduus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Brassicales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Dipsacales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Geraniales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malpighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ranunculales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Saxifragales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Solanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Poa</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Accepted names of the taxa whose types are deposited at the Herbarium of the University of Granada (GDA).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Acer x avilae Font Quer &amp; Rothm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Adenocarpus desertorum Castrov.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Agrostis canina subsp. granatensis Romero García, Blanca &amp; C.Morales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Agrostis hesperica Romero García, Blanca &amp; C.Morales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anacyclus alboranensis Esteve &amp; Varo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Arabis margaritae Talavera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Armeria alpinifolia Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bromus maroccanus Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bulbophyllum danii Pérez-Vera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bulbophyllum ivorense P.J.Cribb &amp; Pérez-Vera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Carthamus rhiphaeus Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centaurea ali-beyana Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centaurea citricolor Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centaurea legionis-septimae Fern.Casas &amp; Susanna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Centaurea rouyi var. macrocephala Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Centaurea rouyi var. suffrutescens Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centaurea sagredoi Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centaurea ultreiae Silva Pando</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crocus nevadensis Amo &amp; Campo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cynara x gaditana Blanca &amp; Sánchez Carrión</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Cyrtorchis brownii var. guillaumetii Pérez-Vera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Daucus mauritii Sennen</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Draba hispanica subsp. lebrunii P.Monts.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Echinops fontqueri Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eryngium caespitiferum Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eryngium × mohamedanii Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Erysimum riphaeanum Lorite, Abdelaziz, Muñoz-Pajares, Perfectti &amp; J.M.Gómez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Euphorbia flavicoma subsp. bermejense Hidalgo Triana, Pérez Lat. &amp; Cabezudo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Festuca font-queri St.-Yves</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Galatella malacitana Blanca, Gavira &amp; Suár.-Sant.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Galium talaveranum Ortega Oliv. &amp; Devesa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gypsophila montserratii Fern. Casas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haplophyllum bastetanum F.B.Navarro, Suár.-Sant. &amp; Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Helianthemum x conchitae Socorro &amp; Aroza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Helianthemum grosii Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Helianthemum raynaudii Ortega Oliv., Romero García &amp; C.Morales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hieracium riofrioi Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hippocrepis castroviejoi Talavera &amp; E. Domínguez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hippocrepis tavera-mendozae Talavera &amp; E. Domínguez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypericum andjerinum Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Jasione crispa subsp. segurensis Mota, C.Díaz, Gómez-Merc. &amp; F.Valle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Juncus fernandez-carvajaliae Romero Zarco &amp; Arán</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jurinea fontqueri Cuatrec.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lamium gevorense (Gómez Hern.) Gómez Hern. &amp; A.Pujadas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Laserpitium latifolium subsp. nevadensis Mart. Lirola, Molero Mesa &amp; Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Limonium estevei Fern.Casas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria amoi Campo ex Amo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria arenicola Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria argillicola Juan, Blanca, Cueto, J.Fuentes &amp; L.Sáez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria becerrae Blanca, Cueto &amp; J.Fuentes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria tursica Valdés &amp; Cabezudo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Marcetella moquiniana (Webb &amp; Berthel.) Svent.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Marrubium fontianum Maire</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Moehringia glochidisperma J.M.Monts.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Moehringia intricata subsp. giennensis C.Díaz, Mota &amp; F.Valle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Moricandia rytidocarpoides Lorite, Perfectti, Gómez, González-Megías &amp; Abdelaziz</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Muscari baeticum Blanca, Ruíz-Rejón &amp; Suár.-Sant.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Muscari olivetorum Blanca, Ruíz-Rejón &amp; Suár.-Sant.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myosotis macrosiphon Font Quer &amp; Maire</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Narcissus litigiosus Amo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ononis penduliflora Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Perralderia paui Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pinguicula mundi Blanca, Jamilena, Ruíz-Rejón &amp; Reg.Zamora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Potentilla caulescens subsp. achhalii Romo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Ranunculus cherubicus subsp. girelae Fern. Prieto, Molero Mesa, Muñoz Díaz &amp; Sanna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ranunculus valdesii Grau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ribes x varoi Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rivasmartinezia cazorlana Blanca, Cueto, Benavente &amp; J.Fuentes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rosmarinus x mendizabalii Sagredo ex Rosúa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rosmarinus x noeanus Maire ex Rosúa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Salvia barrelieri Etl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Salvia cavanillesiana Bolòs et Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sarcocapnos pulcherrima C.Morales &amp; Romero García</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saxifraga x sorianoi García Maroto &amp; Gómez-Merc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saxifraga tricrenata Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saxifraga werneri Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Scorzonera albicans var. macrocarpa Blanca &amp; F.Valle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scrophularia valdesii Ortega Oliv. &amp; Devesa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scrophularia viciosoi Ortega Oliv. &amp; Devesa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis bubanii Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis x candelii Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis carbonellis Socorro</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis x ginesii Socorro, L.Cano &amp; Espinar</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis x grosii Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis maireana Font Quer &amp; Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis x sagredoi Socorro, Molero Mesa, Casares &amp; Pérez Raya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sideritis x varoi Socorro &amp; García-Gran.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Silene abietum Font Quer &amp; Maire</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Silene cuatrecasasii Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Silene rhiphaena Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Silene vidaliana Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sisymbrium isatidifolium Blanca, Cueto &amp; J.Fuentes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sonchus masguindalii Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sonchus tuberifer Svent.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Stipa almeriensis F.M. Vázquez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Stipa apertifolia var. nevadensis F.M.Vázquez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Teucrium chlorostachyum Pau &amp; Font Quer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Teucrium grossii Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Teucrium teresianum Blanca, Cueto &amp; J.Fuentes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Thapsia nitida var. meridionalis A. Pujadas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x beltranii Socorro, Espinar &amp; Arreb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x enicensis Blanca, Cueto, L.Gut. &amp; M.J.Martínez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x hurtadoi Socorro, Molero Mesa, Casares &amp; Pérez Raya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x indalicus Blanca, Cueto, L.Gut. &amp; M.J.Martínez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x jimenezii Socorro, Cano &amp; Arreb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x mariae Socorro, Arreb. &amp; Espinar</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x pastoris Socorro &amp; Arreb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thymus x pseudogranatensis Vizoso, F.B. Navarro &amp; Lorite</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tolpis crassiuscula Svent.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tolpis nemoralis Font Quer ex Maire</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tragopogon cazorlanum C.Díaz &amp; Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tragopogon lainzii Suár.-Sant., P.S.Soltis, Soltis, C.Díaz &amp; Blanca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Verbascum prunellii Rodr.Gracia &amp; Valdés Berm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Variety</taxonRankName>
+                        <taxonRankValue>Veronica rosea var. macrantha Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Armeria villosa subsp. enritrianoi Blanca et al.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linaria qartobensis Blanca et al.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Narcissus nevadensis subsp. herrerae Algarra et al.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Centaurea × maritima nothosubsp. borrianensis var. nasturtiifolia Roselló et al.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Foeniculum sanguineum Triano &amp; A.Pujadas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Launaea lanifera Pau</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Linum jimenezii subsp. willkommii Mart. Labarga &amp; Muñoz Garm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Poa minor subsp. nevadensis Nannf.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subspecies</taxonRankName>
+                        <taxonRankValue>Potentilla caulescens subsp. achhalii Romo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antirrhinum bilbilitanum Güemes &amp; Mateo</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The Herbarium of the University of Granada combines two general collections: GDA and GDAC (Thiers 2014). Both sections have different origin, dates, taxonomic groups and curatorial treatment. Since 2000, both herbaria were moved to the same place, forming the current Herbarium of the University of Granada. A complete review of all materials, recovery and incorporation of unregistered materials, updating curatorial methods and, even more important, the computerization of the entire collection were the main tasks accomplished since then.
+
+Late years, the Herbarium of the University of Granada has developed a project to digitalize images of high-priority specimens in order to preserve them and make them available on Internet. As a result of the reviewing process, several types that had not previously been compiled were detected. In order to reveal the existence of nomenclatural types whose deposit in the herbarium was unknown and to catalogue, analyze and validate the types of the different taxonomic groups and its historical collections, a doctoral thesis was conceived and the associated research conducted.   This lead to an in-depth analysis of both sections and their historical collections. As a result, the catalogues of type specimens of different taxonomic groups of the Herbarium of the University of Granada have been compiled, published, and made accessible on Internet at the Herbarium of the University of Granada institutional web.
+
+During the verification process of this information, errors in the database have been revealed, and corrected, thereby contributing to the databases cleaning and their validation. In this validation process, types corresponding to a bryophytes taxon and eight to a vascular plants whose names had not been published in an effective and valid way (according to Art. 29-30 and 32 of the ICN) have been removed from the catalogue.  Other four types have been validated by publishing a valid typification of their names. The disappearance of 10 types corresponding to six taxa of vascular plants has also been detected.
+
+In total, 565 nomenclatural types of vascular plants, four of macroscopic algae, 142 of fungi and four of lichens have been catalogued. From these, 293 types of vascular plants and 42 of fungi have been detected after the study of the historical collections included in the GDA Herbarium and the exhaustive review of the Fungi collection. In addition, 45 new types have been incorporated into the vascular collection and 54 types of fungi in GDA-Fungi corresponding to the publication of new taxa.
+
+The catalogue of type specimens of fungi and lichens was the first published on the GBIF.ES Integrated Publishing Toolkit (IPT) (http://ipt.gbif.es/resource?r=gda-fungi-tipos), updated in 2018, indexed on the GBIF.ORG Data Portal (https://www.gbif.org/dataset/7ac0504d-0230-4029-afbe-04657ae47c48) and published as data paper (Vizoso &amp; Quesada, 2015). In order to complete the main goals of this work we intend to publish the catalogue of type specimens of vascular plants in the same way. However, so far, aside form the fungi and lichen specimen catalogues, only the catalogue of types of macroscopic algae has been published, but at the Herbarium of the University of Granada institutional web.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>The frequency of maintenance of this resource is timely, whenever new additions occur to the Catalogue of type specimens of vascular plants.</para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carmen</givenName>          <surName>Quesada Ochoa</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Granada (Spain)</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>C/ Rector López Argüeta, 8</deliveryPoint><city>Granada</city><administrativeArea>Granada</administrativeArea><postalCode>18017</postalCode><country>SPAIN</country>    </address>
+<phone>+34 958241551</phone><electronicMailAddress>cquesada@ugr.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6752-7796</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>First of all, a query was made to each of the two herbarium databases on nomenclatural types of the vascular plants collections (Phanerogamy and Pteridophyta database collections). Both were managed with the SICIMA software application (Fajardo &amp; Pérez, 2002) and later with HERBAR (Pando et al. 1994-2010). Thus the results of the queries were compared with the label information for the type specimens in the Herbarium collection. Three kinds of errors were detected and corrected: first,  typographical errors; second, records that were described as types samples but were not really types; and third, omissions in the database, i.e. types that should have been recorded as such. Publications on the description of new species made by Amo y Mora (1855, 1861), Font Quer (1928-1935), Pau (1928-1931), Maire (1929-1933), Sennen (1930, 1936), Sventenius (1948, 1953) and González Bueno et al. (1988), main collectors and researchers of the historical exsiccatae, were reviewed. After this review, 308 types that were not recorded as types were detected. In addition to these, others 29 which were computerized as types had not the appropriate physical curation treatment. Over all them, the appropriate curation was applied. A total of 31 errors in the database were corrected, 12 types were excluded from the catalogue, and 32 types corresponding to 12 new taxa described during the development of this project were included. In addition, nine types of the last three new taxa published in 2018 were also incorporated in this dataset. Finally, last revision during 2019 have permitted to include 18 new types belonging to 12 nominal taxa, five of them are specimens of new incorporation, and the rest of them are revisions over specimens had been loaned and returned to the herbarium.
+
+After updating the database  with the digitalization of new types obtained from reviewed publications and data cleaning, the dataset corresponding to the type collection was obtained by consulting the database again. The resulting dataset was manually migrated to DarwinCore format and completed by adding the TypeStatus, othersCatalogueNumbers, and associatedSequences fields, and the SimpleMultimedia extension with the metadata associated to the type images. Then, the migrate file was validated with the Darwin Test tool (Ortega-Maqueda and Pando 2008). Finally the Darwin Core Archive was generated to incorporate the metadata to this file and published on the GBIF.es Integrated Publishing Toolkit (IPT).
+
+After obtaining the catalogue of types, all specimens were checked for appropriate physical curation treatment. Then, an i2S CopiBook RGB scanner (resolution of 300 dpi and TIFF format) was used to obtain digital images of the nomenclatural types. After the metadata for each image was included, the corresponding tiled/pyramid TIFF was generated and uploaded at the GBIF.ES “Biodiversity Image Portal of Spanish collections” Hosting and Publishing Service. Unfortunately, this GBIF.ES service stopped working but the images collection are now available at the Intitutional Repository of the University of Granada DIGIBUG (https://digibug.ugr.es/handle/10481/60047).  The type collection is also available at the Herbarium of University of Granada institutional web site (http://herbarium.ugr.es/pages/imagenes/tipos-nomenclaturales/tplant).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This study includes a vascular plants collection that contains Spermatophyta and Pteridophyta. Both have traditionally been maintained as independent groups in both sections -GDA and GDAC- of the herbarium. Consequently, the collection codes used to describe these collections in the dataset are GDA-Fanerogamia and GDAC-Fanerogamia, as well as GDA-Pteridophyta and GDAC-Pteridophyta.
+   
+The vascular plants collection was started in the GDA section at the beginning of the 20th century. However, its origin goes back to 1850, at the beginning of the Botany studies at the new Faculty of Pharmacy founded by D. Mariano del Amo y Mora. The generation of a university herbarium was continued by his successors, among them Díez Tortosa, Cortés Latorre, Rivas Goday, Muñoz Medina and Esteve Chueca. In 1970, with the origin of the studies of Biological Sciences, at the Faculty of Science, another herbarium -GDAC- was also created, and included collections of both groups. In the year 2000, the two herbaria were joined in the Herbarium of the University of Granada (GDA). Although both sections retain their individuality, new materials are added only to the GDA collection.
+
+Each of the two sections, GDA and GDAC, brings its uniqueness to the general collection. The GDA section contains historical collections with samples dating from early 1800 until the mid-twentieth century. Among them, collection from the Science Society of Malaga stand out with about 4000 specimens, with some ones of the herbaria of Prolongo, Haenseler, Cabrera, Schousboe, Agardh and Boissier and a small collection belonged to Simón de Rojas Clemente y Rubio. Among the historical exsiccatae  &quot;Iter Maroccanum, 1927-1930&quot; stand out. It contains almost all the materials from north of Africa distributed by Font Quer between 1928 and 1932. Also about 500 specimens of the exsiccata &quot;Plantes d&apos;Espagne&quot; distributed by Sennen corresponding to the series of the years between 1928 and 1935; the full exsiccata &quot;Flora Ibérica Selecta&quot; distributed by the Botanical Institute of Barcelona between 1934-1935, the exsiccata of &quot;Flora Selecta Canariensis&quot;, compendium of endemic Canarian flora with some specimens of new species described and collected by E.R. Sventenius between 1940-1950, and others like Flora Iberica Selecta, Flora Hispanica, Flora Suecica or Flora Lusitanica. In addition to the contributions of the previous exsiccatae to the Pteridophyta collection, the exsiccate Pteridophyta Iberica stands out with 948 specimens from all over the Iberian Peninsula, wich corresponds to 33% of the Pteridophyta collection.
+
+While the GDA section contributes the historical character of the herbarium, the GDAC section stands out because of the incorporation of very different taxonomic groups that until then were represented in a testimonial way in GDA. In addition, GDAC contributes with specimens from the taxonomic and geographic studies conducted by researchers from the Botany Department of the Faculty of Sciences, and most of the types of the new species were described eastern Andalusia throughout the late XX Century.
+
+Currently, according to data from June 2020, the Spermatophyta collection comprises 92146 specimens, of which only 35% are deposited in the GDAC section. The Pteridophyta collection contains 2988 specimens of which almost 20% are in GDAC. The 88% of the samples of the former and the 93% of Pteridophyta are of Spanish origin and this is completed with a small representation of 5% from Morocco and 2% from Portugal. The rest correspond to 48 countries among them Sweden stand out, thanks to the contributions from the Science Society of Malaga, and Ivory Coast because of the donation of a collection of 364 orchids by Dr. Pérez-Vera. The collection contains specimens of all the Spanish provinces, although the character of the herbarium as a reference for the flora of eastern Andalusia is clearly corroborated. More than half of specimens come from the eastern provinces, including Granada, with 46%, followed by Almeria, Jaen and Malaga.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The vascular plants collection has been fully computerized. Therefore, developing a complete catalogue involved three kinds of type specimens, namely those that: 1) already have a record in the databases; 2) specimens not recorded as a type in the databases but have been identified as such in the collection; and 3) type specimens not recorded in the databases nor identified or treated as such in the collection. For the first kind, quality control was carried out (see next section). For the second kind of type specimens, literature from the main researchers and collectors was reviewed. This led to the identification of type specimens that were not included in the databases and were either identified as such in the collection (case 2) or had not been identified as such (case 3). The review of the literature of these authors or relative these historical exsiccatae provided new data for both the collection and the associated databases. All type specimens are now registered in the GDA-GDAC collections and in some cases another number from other herbaria has been included in the RelatedInformation or OtherCatalogNumber fields of the Darwin Core standard.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The consistency of data on type-specimen records was verified through comparisons with the information in original publications of the new species. The data reference to the original identification for each nomenclatural type of the taxon name were consigned. When the nomenclatural type was not included as such in the herbarium but was found after searching and reviewing the relevant literature, a revision label was added to the sample. Type status, name, site where it was validly published, and the author who documented it, were the fields detailed in this label. These data have also been computerized. When some information items such as geographical coordinates, altitude, identifiers of genetic sequence and others catalogue numbers belonging of the rest typical series had not been included in the herbarium database, and these data were available in the protologue, they were included in this dataset. Taxonomic status of the taxa names have been revised by comparison with Species 2000 &amp; ITIS Catalogue of Life, African Plant DataBase, The Plant List, Flora iberica (Castroviejo, 1986-2012), Flora Vascular de Andalucía oriental (Blanca et al., 2009), and Catálogo de las plantas vasculares del norte de Marruecos (Valdés et al., 2002).
+DARWIN TEST (Ortega-Maqueda &amp; Pando 2008) is the software application used to validate and check records from tables in a DARWINCORE format before exporting the database to a Darwin Core Archive file. DARWIN TEST has been used to check scientific names against the Scientific_Names table from Species 2000, to convert coordinates from UTM to decimal degrees which are used in the Darwincore format and to detect anomalous ASCII characters. Once checked and corrected, these records were exported as a Darwin Core Archive file that was uploaded to the IPT (Integrated Publishing Toolkit) hosted by GBIF.ES (http://www.gbif.es/). The metadata from the dataset have been completed directly in the IPT.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Cataloguing, analysis and validation of the nomenclatural types of the Herbarium of the University of Granada</title>
+          <personnel>
+    <individualName>
+<givenName>M. Teresa</givenName>          <surName>Vizoso Paz</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-8757-5429</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>Since the unification of the GDA and GDAC collections, and committed to the challenges that application of new information technologies imposes on natural history collections, the Herbarium of the University of Granada has incorporated the concepts, techniques and protocols, according to the new ways to access and use collections data, to guarantee the services provided to the scientiﬁc, research and management communities. Last years, its effort has focused on the development of the virtual catalogue of nomenclatural types in order to ensure their conservation, as well as to facilitate their accessibility through data and image integration portals.
+
+However, the general catalogue of nomenclatural types of the Herbarium GDA was still pending due to the heterogeneity of its collections that come from two general sections - GDA and GDAC - with different origin, dates, taxonomic groups and curatorial treatment. During the completion of this doctoral thesis (Vizoso Paz 2019), it has been made an in-depth analysis of both sections and their historical collections in order to catalogue, analyse and validate the types of both, and to reveal the existence of nomenclatural types whose deposit in the herbarium was unknown.</para>
+          </abstract>
+          <funding>
+              <para>The first funds were provided by the Technical Support Program, under the Scientific-Technological Infrastructure modality of the Ministry of Science and Innovation and the University of Granada. The project was developed from February 2010 to July 2013. Later, The Herbarium of the University of Granada as part of the research group called “The Herbarium of the University of Granada as a Source for Taxonomic, Environmental and Biodiversity Studies” (group code: 288RNM) at the Research and Technological Development groups from Regional Government of Andalusia (Junta de Andalucía) Spain supported the project, which was concluded under support of the University of Granada.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The Herbarium of the University of Granada includes two general collections: GDA and GDAC (Thiers 2014). The former GDA was the herbarium of the Pharmacy Faculty, which was created in 1852. In 1970, GDAC was created in the Science Faculty. In 2000, both herbaria were moved to the same place, thereby forming the current Herbarium of the University of Granada. At that moment, the GDAC collection was officially closed with a total of 45,000 records. Since then, all new materials are continuously added to the consolidated collection and registered with the GDA acronym. Currently, the GDA Herbarium has become an essential reference for studies of the flora of southeastern Spain. Both collections, the GDA and GDAC, include specimens of vascular plants and cryptogams. Vascular plants amount to 87% of the whole collection (including a 3% of pteridophytes) and cryptogams 13% (9% in the GDAC and 4% in the GDA). Over 50% of all vascular-plant specimens are in the GDA collection, which continues to grow, and the rest belongs to the GDAC. In addition, GDA sections contain the historical collections coming from the late XIX Century and the most important exsiccatae of the first middle of the XX Century. Conversely, over 69% of all cryptogams come from the GDAC. Within this group, fungus (51%), lichen (25%, completely within the GDA) and moss (18%) collections have special significance. The remaining specimens correspond to algae and liverworts.  Geographically, the country with the most specimens is Spain (94%), followed by Morocco (3.5%) and Portugal (1.5%). Within Spain, the largest portion is from Andalusia (82%) which in turn includes samples from Granada (68%), Almería (11%), Jaén (7%), Málaga (6%), and other Andalusian provinces, confirming the value of our Herbarium as a reference for studying the flora from eastern Andalusia.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>According to Art. 40.7 of the International Code of Nomenclature (ICN), the specification the herbarium, collection or institution where the type is preserved became mandatory in 1990.  Although most of publications prior to 1990 did not include this data, the adoption of best practices in the labelling, registration and formats of the nomenclatural types, has made it possible to locate many of these specimens. The rest have had to be located through searches and bibliographic revisions of the historical collections involved. Subsequently, the veriﬁcation of all the types included in the catalogue has been carried out, checking on their publications the names of the taxa, authors, place and date of publication, as well as their nomenclatural status, the type category of each one of the specimens, the location of other specimens of the typical series and their taxonomic status. The curatorial treatment applied to all catalogued types has also been completed, along with the unification of formats and their information.
+
+During the veriﬁcation process of this information, errors in the database have been revealed, and corrected, thereby contributing to the databases cleaning and their validation. In this validation process, types whose names had not been published in an effective and valid way (according to Art. 29-30 and 32 of the ICN) have been removed from the catalogue. Others types have been validated by publishing the typiﬁcation of their names in a valid way. The lack of some types has also been detected.
+
+Over all catalogued types, the protocol established for taking digital images following the standards in terms of capture, treatment, formats and metadata was applied. Likewise, the type datasets, in formats Darwin Core 1.4 and Darwin Core Archive, have been obtained. Images, datasets and their metadata have been transferred to the respective servers of images, data and IPT (Integrated Publishing toolkit) of GBIF.ES. The catalogues have been made accessible in the website of the Herbarium of the University of Granada and the images collection at DIGIBUG, Institutional repository of the University of Granada.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:19:59Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/k97bjm">Vizoso Paz M T (2021). Catalogue of type specimens of vascular plants deposited in the Herbarium of the University of Granada (Spain). Version 1.5. Herbario de la Universidad de Granada. Occurrence dataset https://doi.org/10.15470/k97bjm accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="http://sweetgum.nybg.org/ih/">Thiers B (2014) (continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff.</citation>
+      <citation identifier="http://www.gbif.es/herbar/herbar.php">Pando F, et al. (1994–2010) HERBAR (3.5): A database application for herbarium management http://www.gbif.es/herbar/herbar.php. Coordination Unit of GBIF.ES, CSIC. Ministry of Science and Innovation, Madrid, Spain.</citation>
+      <citation identifier="http://www.gbif.es/Darwin_test/Darwin_test.php">Ortega-Maqueda I, Pando F (2008) DARWIN_TEST: Una aplicación para la validación y el chequeo de los datos en formato Darwin Core 1.2 or Darwin Core 1.4, http://www.gbif.es/Darwin_test/Darwin_test.php (2014-01-14). Unidad de Coordinación de GBIF ES, CSIC. Ministerio de Educación y Ciencia, España.</citation>
+      <citation identifier="http://www.iapt-taxon.org/nomen/main.php">McNeill J, Barrie FR, Buck WR, Demoulin V, Greuter W, Hawksworth DL, Herendeen PS, Knapp S, Marhold K, Prado J, Prud´Homme Van Reine WF, Smith GF, Wiersema JH, Turland NJ (2012) International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July 2011. Koeltz Scientific Books.</citation>
+      <citation identifier="Accessible http://bibdigital.rjb.csic.es/ spa/Libro.php?Libro=6705">Amo Y Mora, M del (1855). Especies de plantas nuevas descubiertas por D. Pedro
+del Campo y descritas por D. Mariano del Amo, decano de la facultad de Farmacia
+en la universidad de Granada. Revista de los Progresos de las Ciencias Exactas,
+Físicas y Naturales, 5 (1), 55-57.</citation>
+      <citation>Amo Y Mora, M del (1861a). Descripción de plantas nuevas o poco conocidas del Reino
+de Granada. Madrid: Imprenta de Manuel Anoz.</citation>
+      <citation identifier="Accessible http://herbarium.ugr.es/pages/flora_andalucia_oriental">Blanca, G, Cabezudo, B, Cueto, M, Fernández, C, &amp; Morales, C (2009)
+Flora vascular de Andalucía oriental, 4 vols. Sevilla: Consejería de Medio Ambiente,
+Junta de Andalucía.</citation>
+      <citation identifier="Accessible http://www.floraiberica.org/">Castroviejo, S (1986-2012) Flora iberica, 1–8, 10, 12–15, 17–18 y 21. Madrid: Real Jardín Botánico, CSIC.</citation>
+      <citation>Font Quer, P (1931). De flora occidentale adnotationes, VII, VIII, IX. Cavanillesia, 4 , 25-31, 63-80, 88-94.</citation>
+      <citation identifier="Accessible http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=3001">González Bueno, A, Montserrat Martí, J, Sistané Salas, I, De La
+Serna, S, &amp; Font Quer, P (1988) Les campanyes botàniques de Pius Font
+i Quer al Nord d’Àfrica. Treballs de l’Institut Botànic de Barcelona, 12 , 3-173.</citation>
+      <citation identifier="Accessible http://links.gbif.org/gbif_terms_nomenclature_guide_en _v1.pdf">Hawksworth, D (2010). Terms Used in Bionomenclature. The naming of organisms
+(and plant communities). Copenhagen: Global Biodiversity Information Facility.</citation>
+      <citation>Maire, R (1929) Observations sur quelques plantes du Maroc septentrional, I, II.
+Cavanillesia, 2 , 45-54, 171-177.</citation>
+      <citation>Maire, R (1930) Observations sur quelques plantes du Maroc septentrional, III, IV. Cavanillesia, 3 , 48-54, 91-96.</citation>
+      <citation>Pau, C (1924) Plantas del norte de Yebala (Marruecos). Memorias de la Real Sociedad Española de Historia Natural, 12 (5), 263-401.</citation>
+      <citation identifier="www .catalogueoflife.org/annual-checklist/2017">Roskov, Y, Abucay, L, Orrell, T, Nicolson, D, Bailly, N, Kirk, P, . . .
+Penev, L (2017) Species 2000 &amp; ITIS Catalogue of Life, 2017 Annual Checklist. Species 2000: Naturalis, Leiden, the Netherlands. ISSN 2405-884X.</citation>
+      <citation identifier="Accessible http://bibdigital.rjb.csic.es/spa/Libro .php?Libro=40&amp;Pagina=4">Sennen, F (1930) Plantes d’Espagne; Diagnoses et commentaires (Extrait du Bulletin de la “Sociedad Ibérica de Ciencias Naturales”). Zaragoza (España): Tip. de F.Gambón. Canfranc, 3.</citation>
+      <citation>Sennen, F (1936) Diagnoses des nouveautés parues dans les exsiccata Plantes d’Espagne et du Maroc de 1928 à 1935. Vic (España): Imp. Anglada.</citation>
+      <citation>Sventenius, E R (1948) Estudio taxonómico en el género Bencomia. Boletín del Intituto Nacional de Investigaciones Agronómicas, 18 (95), 253-272.</citation>
+      <citation>Sventenius, E R (1953) Specilegium canariense III. Boletın del Instituto Nacional de Investigaciones Agronómicas, 13 (28), 15-28.</citation>
+      <citation identifier="http:// www.theplantlist.org/">THE PLANT LIST (2013) A working list of all plant species. version 1.1.</citation>
+      <citation identifier="Accessible http://bibdigital.rjb.csic.es/spa/Libro .php?Libro=4223">Valdés, B, Rejdali, M, Achhal El Kadmiri, A, Jury, S, &amp; Montserrat,
+J (2002) Catalogue des plantes vasculaires du nord du Maroc, incluant des
+clés d’identification, 2 vols. Madrid: Editorial Consejo Superior de Investigaciones
+Científicas, CSIC Press.</citation>
+      <citation identifier="http://www.ville-ge.ch/musinfo/bd/ cjb/africa/">AFRICAN PLANT DATABASE (2012) African Plant Database (version 3.4.0).
+Conservatoire et Jardin botaniques de la Ville de Genève and South African
+National Biodiversity Institute, Pretoria.</citation>
+      <citation identifier="doi: http://dx.doi.org/10.11646/phytotaxa.220.1.3">Blanca, G, Cueto, M, &amp; Fuentes, J (2015) Sisymbrium isatidifolium (Brassicaceae): a new species from southern Spain, and the identity of S. hispanicum Jacq. Phytotaxa, 220 (1), 43-53.</citation>
+      <citation identifier="http://dx.doi.org/10.11646/phytotaxa.298.3.5">Blanca, G, Cueto, M, &amp; Fuentes, J (2017a) Linaria becerrae (Plantaginaceae), a new endemic species from the southern Spain, and remarks on what Linaria salzmannii is and is not. Phytotaxa, 298 (3), 261-268.</citation>
+      <citation identifier="https://doi.org/10.1111/njb.01344">Blanca, G, Cueto, M, &amp; Fuentes, J (2017b) Teucrium teresianum sp. nov.
+(Lamiaceae) from southern Spain. Nordic Journal of Botany, 35 (1), 14-19.</citation>
+      <citation identifier="https://riuma.uma.es/xmlui/bitstream/handle/10630/8606/39_Blanca.pdf?sequence=1">Blanca López, G, &amp; Sánchez Carrión, R (2014) Un nuevo híbrido en el género
+Cynara L.(Asteraceae): C. x gaditana Blanca &amp; Sánchez Carrión, nothosp. nov. Acta Botánica Malacitana, 39 , 304-307.</citation>
+      <citation identifier="http://dx.doi.org/10.11646/phytotaxa.239.3.5">Fernández Prieto, J, Molero Mesa, J, Pérez Suárez, M, Sanna, M,
+Muñoz Díaz, J, &amp; Cires, E (2015) Are they different species or vicariant
+elevational races of the same species? The case of an Iberian endemic plant,
+Ranunculus bupleuroides (Ranunculaceae). Phytotaxa, 239 (3), 242-252.</citation>
+      <citation identifier="Accessible http://bibdigital.rjb.csic.es/spa/Libro.php?Libro= 2945&amp;Pagina=13">Navarro, C, Gutiérrez-Bustillo, M, &amp; González Bueno, A (1985)
+Nomina fontqueriana quaedam ab indice kewensi praetemissa. Fontqueria, 7 ,
+11-14.</citation>
+      <citation>Obón De Castro, C, &amp; Rivera Nuñez, D (1994) A taxonomic revision of the
+section Sideritis (genus Sideritis) (Labiatae) (Vol. 21). Berlin; Stuttgart: J. Cramer.</citation>
+      <citation>Pérez-Vera, F (2003) Les Orchidées de Côte d’Ivoire (Collection Parthénope, éditions Biotope ed., Vol. 5). Mèze (France).</citation>
+      <citation identifier="https://doi.org/10.3989/collectbot.2008.v27.3">Soriano, I (2008) Algunos tipos de cistáceas béticas y rifeñas de los herbarios BC, MA y MAF. Collectanea Botanica, 27 , 29-35.</citation>
+      <citation identifier="http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=2881&amp;Pagina=305">Soriano, I (1996) Notas sobre Veronica rosea Desf. Lagascalia, 18 (2), 299-300.</citation>
+      <citation>Fajardo, W &amp; Pérez, R (2002) Diseño y desarrollo de un Sistema Integral para un Centro de Investigación Medio Ambiental (SICIMA). Proyecto fin de carrera, Dpto. Ciencias de la Computación e Inteligencia Artificial, E.T.S. Ingeniería Informática, Universidad de Granada.</citation>
+      <citation identifier="doi: 10.3897/BDJ.3.e5204">Vizoso, M T, &amp; Quesada, C (2015) Catalogue of type specimens of fungi and lichens deposited in the Herbarium of the University of Granada (Spain). Biodiversity Data Journal, 3 (e5204), 1-20. doi: 10.3897/BDJ.3.e5204</citation>
+      <citation>Jahandiez, E, &amp; Maire, R (1934) Catalogue des plantes du Maroc. Tome III, Dicotylédones et Supplément aux volumes I et II. Minerva édition, Alger.</citation>
+      <citation>Köcke, A V, von Mering, Sabine, Mucina, Ladislav &amp; Kadereit, Joachim W. (2010) Revision of the Mediterranean and southern African Triglochin bulbosa complex (Juncaginaceae). Edinburgh Journal of Botany, 2010, 67, 3, 353-398, Cambridge Univ Press</citation>
+      <citation>Maire, R (1931) Contributions á l&apos;étude de la flore de l&apos;Afrique du Nord. Fasc. 18. Bull. Soc. Hist. Nat. Afrique N, 22, 275-330.</citation>
+      <citation>Maire, R (1932) Contributions á l&apos;étude de la flore de l&apos;Afrique du Nord. Bull. Soc. Hist. Nat. Afrique N, 23, 163-222.</citation>
+      <citation>Maire, R (1933) Contributions á l&apos;étude de la flore de l&apos;Afrique du Nord. Fasc. 20. Bull. Soc. Hist. Nat. Afrique N, 24, 194-232.</citation>
+      <citation>Maire, R (1935) Contributions á l&apos;étude de la flore de l&apos;Afrique du Nord. Fasc. 23. Bull. Soc. Hist. Nat. Afrique N, 27, 184-234.</citation>
+      <citation>Maire, R (1938) Contributions á l&apos;étude de la flore de l&apos;Afrique du Nord. Fasc. 26. Bull. Soc. Hist. Nat. Afrique N, 29, 403-458.</citation>
+      <citation>Navarro, T &amp; El Oualidi, J (1997) Synopsis of the genus&quot; Teucrium&quot; L.(Lamiaceae) in Morocco. Acta Botánica Malacitana, 22, 187-203.</citation>
+      <citation>Font Quer, P. (1928). De flora occidentale adnotationes, I-IV, V. Cavanillesia, 1 , 16-40, 68-96.</citation>
+      <citation>Font Quer, P. (1930). De flora occidentale adnotationes, VI. Cavanillesia, 3: 57-80.</citation>
+      <citation>Font Quer, P (1932). De flora occidentale adnotationes, X. Cavanillesia, 5, 45-66.</citation>
+      <citation>Font Quer, P (1933). De flora occidentale adnotationes, XI. Cavanillesia, 6, 22-24.</citation>
+      <citation>Font Quer, P (1935). De flora occidentale adnotationes, XII, XIII. Cavanillesia, 7, 71-88, 149-167.</citation>
+      <citation>Maire, R (1931) Observations sur quelques plantes du Maroc septentrional, V, VI. Cavanillesia, 4 , 5-19, 95-112.</citation>
+      <citation>Maire, R (1933) Observations sur quelques plantes du Maroc septentrional, VII. Cavanillesia, 6 , 5-21.</citation>
+      <citation identifier="http://hdl.handle.net/10481/55457">Vizoso Paz, MT (2019) Catalogación, análisis y validación de los tipos nomenclaturales del Herbario de la Universidad de Granada. (Doctoral dissertation, Universidad de Granada). Granada (Spain), 424. ISBN: 	9788413061429</citation>
+      <citation identifier="https://www.raco.cat/index.php/Nemus/article/view/336215">Ferrer-Gallego, P P, Roselló, R, Laguna, E, Guillén, A, Gómez, J, &amp; Peris, J B (2017) Apunts nomenclaturals per al gènere Centaurea L. sect. Seridia (Juss.) DC.(Asteraceae). El complex d’hibridació entre C. aspera i C. seridis. Nemus. Revista de l&apos;Ateneu de Natura, (7).</citation>
+      <citation identifier="https://riuma.uma.es/xmlui/handle/10630/11181 ">Pujadas Salvà, A J, Triano Muñoz, E, Anaya, J, Grande, M, Raposo, C, Torres, P, &amp; Hernández, P (2015) Foeniculum sanguineum Triano &amp; A. Pujadas (Apiaceae) new species from the south western Mediterranean Region. Acta Bot. Malac. 40, 71-88.</citation>
+      <citation identifier="https://dialnet.unirioja.es/servlet/articulo?codigo=5320199">Güemes, J, &amp; Mateo, G (2016) Un nuevo híbrido en el género Antirrhinum L.(Antirrhinaceae). Flora Montiberica, 62, 85-91.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://www.ugr.es/sites/default/files/ugr-marca-horizontal-color%403x.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>6a7575fa-ae03-4ba3-b322-2da15b5033e2</parentCollectionIdentifier>
+                <collectionIdentifier>c0907a67-315b-44d1-836d-a506113b4e97</collectionIdentifier>
+                <collectionName>Catálogo de los tipos nomenclaturales de plantas vasculares depositados en el Herbario de la Universidad de Granada</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>specimens</jgtiUnitType>
+                      <jgtiUnits>571</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>species</jgtiUnitType>
+                      <jgtiUnits>230</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>infraspecific rank</jgtiUnitType>
+                      <jgtiUnits>221</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>genera</jgtiUnitType>
+                      <jgtiUnits>195</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>families</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="1">55</jgtiUnits>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

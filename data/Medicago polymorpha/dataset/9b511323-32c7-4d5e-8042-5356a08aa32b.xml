@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9b511323-32c7-4d5e-8042-5356a08aa32b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/b6fecm</alternateIdentifier>
+        <alternateIdentifier>9b511323-32c7-4d5e-8042-5356a08aa32b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=lusc</alternateIdentifier>
+    <title>LUSC herbarium - Universidade do Estado de Santa Catarina - Herbário Virtual Reflora</title>
+    <creator>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Bortoluzzi</surName>
+    </individualName>
+<organizationName>Universidade do Estado de Santa Catarina</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade do Estado de Santa Catarina, Centro de Ciências Agroveterinárias (CAV/UDESC). AvenidaLuiz de Camões</deliveryPoint><city>Lages</city><administrativeArea>SC</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>roseli.bortoluzzi@udesc.br</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Bortoluzzi</surName>
+    </individualName>
+<organizationName>Universidade do Estado de Santa Catarina</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade do Estado de Santa Catarina, Centro de Ciências Agroveterinárias (CAV/UDESC). AvenidaLuiz de Camões</deliveryPoint><city>Lages</city><administrativeArea>SC</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>roseli.bortoluzzi@udesc.br</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Herbarium Collection of Santa Catarina State University.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Bortoluzzi</surName>
+    </individualName>
+<organizationName>Universidade do Estado de Santa Catarina</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade do Estado de Santa Catarina, Centro de Ciências Agroveterinárias (CAV/UDESC). AvenidaLuiz de Camões</deliveryPoint><city>Lages</city><administrativeArea>SC</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>roseli.bortoluzzi@udesc.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Reflora coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>rafaela@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:38Z</dateStamp>
+      <citation>Bortoluzzi R (2022). LUSC herbarium - Universidade do Estado de Santa Catarina - Herbário Virtual Reflora. Version 1.148. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/b6fecm accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=lusc</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

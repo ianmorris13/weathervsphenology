@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f9261370-af9d-11db-ad75-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ungzjj</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=uwr_mnhw_flora_sm</alternateIdentifier>
+        <alternateIdentifier>f9261370-af9d-11db-ad75-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>11324</alternateIdentifier>
+    <title>Flora of the Stołowe Mts.</title>
+    <creator>
+    <individualName>
+<givenName>Krzysztof</givenName>          <surName>Świerkosz</surName>
+    </individualName>
+<organizationName>Wrocław University, Museum of Natural History</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>krissw@biol.uni.wroc.pl</electronicMailAddress><onlineUrl>http://www.muzeum-przyrodnicze.uni.wroc.pl/eng/in</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Krzysztof</givenName>          <surName>Świerkosz</surName>
+    </individualName>
+<organizationName>Wrocław University, Museum of Natural History</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>krissw@biol.uni.wroc.pl</electronicMailAddress><onlineUrl>http://www.muzeum-przyrodnicze.uni.wroc.pl/eng/in</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Krzysztof</givenName>          <surName>Świerkosz</surName>
+    </individualName>
+<electronicMailAddress>krissw@biol.uni.wroc.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Observation data of vascular plants of the Stołowe Mts. (Lower Silesia, SW Poland) made between 1991-1997.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Krzysztof</givenName>          <surName>Świerkosz</surName>
+    </individualName>
+<organizationName>Wrocław University, Museum of Natural History</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>krissw@biol.uni.wroc.pl</electronicMailAddress><onlineUrl>http://www.muzeum-przyrodnicze.uni.wroc.pl/eng/in</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:31Z</dateStamp>
+      <citation>Świerkosz K (2017). Flora of the Stołowe Mts.. Wrocław University, Museum of Natural History. Occurrence dataset https://doi.org/10.15468/ungzjj accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

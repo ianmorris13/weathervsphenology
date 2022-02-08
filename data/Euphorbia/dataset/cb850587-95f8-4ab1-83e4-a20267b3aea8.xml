@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cb850587-95f8-4ab1-83e4-a20267b3aea8"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/3bdhl3</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-4A9DDA1F-B6EE-3E13-E053-2614A8C02B7C</alternateIdentifier>
+    <title>Flore Franco-Belge</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>DELVOSALLE Léon &amp; BOULLET Vincent</surName>
+    </individualName>
+<organizationName>INSTITUT FLORISTIQUE FRANCO-BELGE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-12
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>La collecte de données a débuté en 1973. Le travail de terrain s&amp;#39;est terminé en 1998.
+Un atlas a été publié par l&amp;#39;Institut Floristique Franco-Belge en 2010.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.154</westBoundingCoordinate>
+                      <eastBoundingCoordinate>7.652</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.176</northBoundingCoordinate>
+                      <southBoundingCoordinate>48.382</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>HAFFNER Patrick</surName>
+    </individualName>
+<organizationName>MUSEUM NATIONAL D HISTOIRE NATURELLE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>haffner@mnhn.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:50Z</dateStamp>
+      <citation>DELVOSALLE Léon &amp; BOULLET Vincent N, Inventaire National du Patrimoine Naturel (2019). Flore Franco-Belge. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/3bdhl3 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

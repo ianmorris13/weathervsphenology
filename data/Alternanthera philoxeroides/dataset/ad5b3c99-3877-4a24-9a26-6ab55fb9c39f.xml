@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ad5b3c99-3877-4a24-9a26-6ab55fb9c39f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/5euphs</alternateIdentifier>
+        <alternateIdentifier>ad5b3c99-3877-4a24-9a26-6ab55fb9c39f</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr416</alternateIdentifier>
+        <alternateIdentifier>22bef62e-90be-3d72-ba6b-c6d1e298df24</alternateIdentifier>
+    <title>Weeds in Australia</title>
+    <creator>
+<organizationName>Weeds in Australia</organizationName><onlineUrl>http://www.weeds.gov.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Weeds in Australia</organizationName><onlineUrl>http://www.weeds.gov.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr416</url>
+          </online>
+      </distribution>
+      <contact>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:47Z</dateStamp>
+      <citation>Atlas of Living Australia (2019). Weeds in Australia. Occurrence dataset https://doi.org/10.15468/5euphs accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

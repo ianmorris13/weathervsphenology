@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f8faa08d-a029-4e62-97ed-cb7e97c30ba9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7c7xxz</alternateIdentifier>
+    <title>Kherson State University herbarium (KHER), Department of Botany</title>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Herbarium of Kherson State University (KHER) was created in 1945. It has more than 31 000 specimens of vascular plants (12000), lichens and lichenicolous fungi (14000) and mousses (1500). There are more than 100 type specimens of species described from Ukraine. Mainly, it is lichens and lichenicolous fungi.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.kspu.edu/default.aspx?lang=en</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Geography of collections include steppe zone, Crimea and Carpathians (Ukraine), but herbarium kept specimens from Kazakhstan (desert), Russia (steppe), Nepal (forest), Poland (mountains).</geographicDescription>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Valerii</givenName>          <surName>Darmostuk</surName>
+    </individualName>
+<electronicMailAddress>valeriidarmostuk@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Moysiyenko</surName>
+    </individualName>
+<electronicMailAddress>ivan.moysiyenko@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Alexander</givenName>          <surName>Khodosovtsev</surName>
+    </individualName>
+<electronicMailAddress>khodosovtsev@i.ua</electronicMailAddress>      </contact>
+
+      <project >
+          <title></title>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:31Z</dateStamp>
+      <citation>Kherson State University. Kherson State University herbarium (KHER), Department of Botany. Occurrence dataset https://doi.org/10.15468/7c7xxz accessed via GBIF.org on 2022-02-08.</citation>
+              <formationPeriod>1945-current</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

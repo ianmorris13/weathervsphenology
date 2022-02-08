@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bbd1eb9c-0d6b-45ee-b36a-d94c91abeaef"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a91rgh</alternateIdentifier>
+        <alternateIdentifier>bbd1eb9c-0d6b-45ee-b36a-d94c91abeaef</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/bid/resource?r=monitoring_non_crop_plants_in_organic_fields_of_mauritius</alternateIdentifier>
+    <title>Monitoring of non-crop plants in organic fields of Mauritius</title>
+    <creator>
+    <individualName>
+<givenName>Gabriella</givenName>          <surName>Krivek</surName>
+    </individualName>
+<organizationName>Le Velo Vert</organizationName><positionName>Project Assistant (BID)</positionName>    <address>
+<deliveryPoint>Rue Lees</deliveryPoint><city>Curepipe</city><postalCode>74404</postalCode><country>MAURITIUS</country>    </address>
+<phone>(+230) 676 3860</phone><electronicMailAddress>krivek.g@gmail.com</electronicMailAddress><onlineUrl>http://www.organicfarmersmauritius.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Claudia</givenName>          <surName>Baider</surName>
+    </individualName>
+<organizationName>The Mauritius Herbarium</organizationName><positionName>Herbarium Officer</positionName>    <address>
+<deliveryPoint>Agricultural Services</deliveryPoint><city>Reduit</city><postalCode>80835</postalCode><country>MAURITIUS</country>    </address>
+<phone>(+230) 4541061</phone><electronicMailAddress>clbaider@gmail.com</electronicMailAddress><onlineUrl>http://agriculture.govmu.org/English/Pages/Agronomy/The-Mauritius-Herbarium.aspx</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-2203-2076</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Gabriella</givenName>          <surName>Krivek</surName>
+    </individualName>
+<organizationName>Le Velo Vert</organizationName><positionName>Project Assistant (BID)</positionName>    <address>
+<deliveryPoint>Rue Lees</deliveryPoint><city>Curepipe</city><postalCode>74404</postalCode><country>MAURITIUS</country>    </address>
+<phone>(+230) 676 3860</phone><electronicMailAddress>krivek.g@gmail.com</electronicMailAddress><onlineUrl>http://www.organicfarmersmauritius.org</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2018-10-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset consists of biannual qualitative surveys for the presence of the non-crop flora in and around pilot organic fields set in 2017 on the island of Mauritius. Plants were identified in-situ or collected for identification at The Mauritius Herbarium. The monitoring of ten fields or greenhouses scattered around the island and having different crops, is part of an effort from Mauritius NGO Le Velo Vert (LVV) to mainstream organic agriculture. LVV wants to highlight the importance of correct plant identification and the uses of non-crop species to improve and support organic farming. LVV believes sharing data will increase transparency and help cooperation of local, regional and global stakeholders of different fields to improve perspectives and multidisciplinarity, much needed to face the increasing problems of declining biodiversity and resources, and a growing human population.This databasing effort has been funded by BID Africa Call 2017, grant BID-AF2017-SMA_0316 (https://www.gbif.org/project/aRCxBBF1BYU2C0us62ea4/getting-the-plants-to-all-dissemination-of-information-from-the-collection-of-the-mauritius-herbarium.)</para>
+    </abstract>
+        <keywordSet>
+              <keyword>agricultural biodiversity</keyword>
+              <keyword>flora</keyword>
+              <keyword>organic fields</keyword>
+              <keyword>monitoring</keyword>
+              <keyword>Mascarenes</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Medicinal uses and insects recorded to visit/use the surveyed non-crop species will be added to this dataset, with references.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mauritius</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>57.277</westBoundingCoordinate>
+                      <eastBoundingCoordinate>57.881</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-19.813</northBoundingCoordinate>
+                      <southBoundingCoordinate>-20.535</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-05-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Plantae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>This dataset consists of biannual qualitative surveys for the presence of the non-crop flora in and around pilot organic fields set in 2017 on the island of Mauritius. Plants were identified in-situ or collected for identification at The Mauritius Herbarium. The checklist with more information about each species is published separately (use taxonID to match them). The monitoring of ten fields or greenhouses scattered around the island and having different crops, is part of an effort from Mauritius NGO Le Velo Vert (LVV) to mainstream organic agriculture. LVV wants to highlight the importance of correct plant identification and the uses of non-crop species to improve and support organic farming. LVV believes sharing data will increase transparency and help cooperation of local, regional and global stakeholders of different fields to improve perspectives and multidisciplinarity, much needed to face the increasing problems of declining biodiversity and resources, and a growing human population.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Additional data will be update as soon as they are available</para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Geraldine</givenName>          <surName>D&apos;Unienville</surName>
+    </individualName>
+<organizationName>Le Velo Vert</organizationName><positionName>President</positionName>    <address>
+<deliveryPoint>Rue Lees</deliveryPoint><city>Curepipe</city><postalCode>74404</postalCode><country>MAURITIUS</country>    </address>
+<phone>(+230) 676 3860</phone><electronicMailAddress>president@organicfarmersmauritius.org</electronicMailAddress><onlineUrl>http://www.organicfarmersmauritius.org</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Plant identification was done using the local Flora: Bosser, J., Cadet, T, Guého, J. &amp; Marais, W. (1976-onwards) Flore des Mascareignes: La Réunion, Maurice, Rodrigues. MSIRI/KEW/ORSTOM-IRD. Mauritius. 26 vol.Rainfall for each site is based on Willaime, P. (1984) Carte pédologique de l’Ile Maurice 1/50 000. Occasional Paper of the Mauritius Sugar Industry Research Institute no. 33. MSIRI, Mauritius.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Pilot organic fields in the island of Mauritius</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Biannual qualitative surveys of non crop plants in and around fields</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Plants were identified in the field or samples were taken for identification at The Mauritius Herbarium</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BID-AF2017-0316-SMA">
+          <title>Project In progress Getting the plants to all: dissemination of information from the collection of The Mauritius Herbarium</title>
+          <personnel>
+    <individualName>
+<givenName>Geraldine</givenName>          <surName>D&apos;Unienville</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>This dataset refers to repeated flora surveys of non-crop species in and around pilot organic fields, which is part of the Expansion en Maraichage Biologique avec Expertise Régionale (EMBER)[Expansion of organic agriculture on Mauritius with support of regional experts]</para>
+          </abstract>
+          <funding>
+              <para>BID Africa Call 2017, grant BID-AF2017-SMA_0316</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Eleven pilot organic fields around Mauritius</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Biannual qualitative survey of non-crop plants in and around organic fields</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:31Z</dateStamp>
+      <citation>Krivek G, Baider C (2018). Monitoring of non-crop plants in organic fields of Mauritius. Version 1.14. The Mauritius Herbarium. Sampling event dataset https://doi.org/10.15468/a91rgh accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://cloud.gbif.org/bid/logo.do?r=monitoring_non_crop_plants_in_organic_fields_of_mauritius</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

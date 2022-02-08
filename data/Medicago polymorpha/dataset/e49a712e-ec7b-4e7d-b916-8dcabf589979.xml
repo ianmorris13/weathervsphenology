@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e49a712e-ec7b-4e7d-b916-8dcabf589979"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/axsv9e</alternateIdentifier>
+    <title>Wikiplantbase #Liguria</title>
+    <associatedParty>
+    <individualName>
+          <surName>Gianni Bedini</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Dipartimento di Biologia, Università di Pisa, via Derna 1, I-56126 Pisa, Italy</deliveryPoint>    </address>
+<phone>+39 050 2211 314</phone><electronicMailAddress>gianni.bedini@unipi.it</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>The databases stores historical and current plant occurrence records relative to Liguria administrative region of Italy (NUTS-2 code ITC3). Source of records may be bibliographical references, herbarium specimens, or human observations. The database is associated with the Wikiplantbase project, including sister databases for Sardinia, Tuscany and Sicily</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Simonetta Peccenini</surName>
+    </individualName>
+    <address>
+<deliveryPoint>DISTAV - Università di Genova, Corso Dogali 1/M, I-16136 Genova, Italy</deliveryPoint>    </address>
+<phone>+39 010 2099 358</phone><electronicMailAddress>geobotge@unige.it</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:01Z</dateStamp>
+      <citation>Dipartimento di Biologia, Università di Pisa (2020). Wikiplantbase #Liguria. Occurrence dataset https://doi.org/10.15468/axsv9e accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

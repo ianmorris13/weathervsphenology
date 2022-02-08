@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="476e1608-b595-4dc1-a633-f37eb158d8ae"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/vebcs3</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=kand</alternateIdentifier>
+    <title>Vascular Plant Herbarium at the Kandalaksha Strict Nature Reserve (KAND), Russia</title>
+    <creator>
+    <individualName>
+<givenName>Mikhail N.</givenName>          <surName>Kozhin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Assistant Professor</positionName>    <address>
+<deliveryPoint>Leninskiye Gory, 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>mnk_umba@mail.ru</electronicMailAddress><onlineUrl>https://laplandflora.ru/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0153-0287</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mikhail N.</givenName>          <surName>Kozhin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Assistant Professor</positionName>    <address>
+<deliveryPoint>Leninskiye Gory, 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>mnk_umba@mail.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0153-0287</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Alexander N.</givenName>          <surName>Sennikov</surName>
+    </individualName>
+<organizationName>Finnish Museum of Natural History</organizationName><positionName>Curator</positionName>    <address>
+<city>Helsinki</city><country>FINLAND</country>    </address>
+<electronicMailAddress>alexander.sennikov@helsinki.fi</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-10-16
+      </pubDate>
+    <language>RUSSIAN</language>
+    <abstract>
+        <para>We present a complete dataset of all holdings of vascular plants in the Herbarium of the Kandalaksha Strict Nature Reserve, totalling 10,218 specimens collected during 1947–2019, which are referable to 764 species and 19 subspecies. All specimens were georeferenced with the utmost precision available. This dataset offers a complete and dense coverage of the territory of the nature reserve (islands and adjacent mainland coastal areas of the Barents and White Seas, Murmansk Region and Republic of Karelia, Russia); these data are little represented in herbarium collections elsewhere.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://laplandflora.ru/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Herbarium of the Kandalaksha Strict Nature Reserve possesses specimens collected in Murmansk Region and northern Karelia, Russia. The greatest amount of specimens (84.25%) originated from the territory of the nature reserve.
+
+The land size of the nature reserve totals 20,947 ha. This figure has never been stable; during its history, the territory of the nature reserve fluctuated much, mostly with expansion by gradual inclusion of new areas or some extra land (islands or mainland coast) adjacent to the existing protected areas.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>31.55</westBoundingCoordinate>
+                      <eastBoundingCoordinate>37.81</eastBoundingCoordinate>
+                      <northBoundingCoordinate>69.84</northBoundingCoordinate>
+                      <southBoundingCoordinate>66.41</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1949-05-30
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-09-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mikhail N.</givenName>          <surName>Kozhin</surName>
+    </individualName>
+<organizationName>Kandalaksha State Nature Reserve</organizationName><positionName>senior researcher</positionName>    <address>
+<deliveryPoint>Lineinaya 35</deliveryPoint><city>Kandalaksha</city><administrativeArea>Murmansk Region</administrativeArea><postalCode>184042</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>mnk_umba@mail.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0153-0287</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Entering information into a spreadsheet of MS Excel from mostly handwritten herbarium labels.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Verification of localities, collection dates and collector names against historical documents kept in the archive of the nature reserve.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Specimens georeferening.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The dataset incorporation into the database of the project ‘Flora of Russian Lapland’ (https://laplandflora.ru/), which is maintained at the Moscow State University.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset has been prepared in the course of a complete inventory of herbarium collections of vascular plants of the Kandalaksha Strict Nature Reserve.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The information on the specimen identity and the history of identifications, locality, collection date and collector was captured from mostly handwritten herbarium labels and recorded into a spreadsheet of MS Excel. When in doubt, localities, collection dates and collector names were verified against historical documents kept in the archive of the nature reserve.
+
+Specimens were georeferenced using Google Maps or Yandex Maps. Local toponyms were traced using printed large scale topographic and marine maps, Hydrographical description of the White Sea, forest inventory maps for 1976–1977 and 2016, and records in the archive of the nature reserve. The recorded coordinates correspond to the presumed centre of the georeferenced locality. Depending on the locality’s size, the estimated accuracy varied between 5 m and 16.2 km.
+
+The dataset was incorporated into the database of the project ‘Flora of Russian Lapland’ (https://laplandflora.ru/), which is maintained at the Moscow State University.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The original identification, when available, was verified for each specimen. Recognized taxonomic experts were involved in difficult cases: Yu.A. Alexeev, K.P. Glazunova, V.S. Novikov (Moscow State University), A.A. Bobrov (Institute for Biology of Inland Waters, Borok), P.G. Efimov, N.N. Tzvelev (Komarov Botanical Institute). Identifications in apomictic groups (Hieracium, Ranunculus auricomus s.l., Taraxacum) remain incomplete.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Vascular Plant Herbarium at the Kandalaksha Strict Nature Reserve (KAND), Russia</title>
+          <personnel>
+    <individualName>
+<givenName>Mikhail N.</givenName>          <surName>Kozhin</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Alexander N.</givenName>          <surName>Sennikov</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Andrey V.</givenName>          <surName>Matveev</surName>
+    </individualName>
+    <role>PROGRAMMER</role>
+          </personnel>
+          <abstract>
+              <para>The present article aimed at digital representation and making publicly available the data on the distribution of vascular plants from the herbarium collection of the Kandalaksha Strict Nature Reserve.</para>
+          </abstract>
+          <funding>
+              <para>Russian Science Foundation, grant #19-77-00025</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Kandalaksha Strict Nature Reserve is located in the northwest of European Russia and consists of 13 separate areas, scattered along the sea periphery of Murmansk Region from the border with Norway in the Barents Sea to the Karelian Republic in the White Sea. The nature reserve is situated in five administrative districts (Pechenga, Kola, Lovozero, Terskii, Kandalaksha) of Murmansk Region and Louhi district of the Republic of Karelia. The majority of these protected areas are sea archipelagos with adjacent water areas, but the nature reserve also includes some coastal mainland areas. Its area totals 705.3 sq. km, of which 70% is sea waters. From its inception the nature reserve was intended for protection of seabirds and sea mammals whose colonies use limited-size coastal areas. As a result, the nature reserve is a network of comparatively small areas separated by the distances of hundreds of kilometres. In 1975, the Kandalaksha Bay of the White Sea, where most of the nature reserve’s archipelagos are located, was included in the list of Wetlands of International Importance as a habitat for water birds.
+This territory lies almost completely north of the Arctic Circle, and its climate is mostly subarctic with a minor influence of the polar climate along the northern coast and in the northern islands. The yearly mean air temperature is about 0°, the length of the frost-free period is 90–110 days. Due to the proximity to the Gulf Stream, the protected aquatic areas in the Barents Sea are ice-free in winters, but in most severe winters shallow coastal waters can freeze. The climate in the White Sea is more continental. The territory is divided between two biogeographic regions, arctic and boreal. The tundra vegetation is typical for the Barents Sea areas of the nature reserve and occurs in a narrow belt influenced by the arctic climate, as dwarf-shrub and dwarf-shrub &amp; lichen communities, whereas islands in the White Sea are covered by the northern taiga zone represented by pine and spruce dominated forests.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The current project aims at digital representation and publication of the data on the distribution of vascular plants as represented in the Herbarium of the Kandalaksha Strict Nature Reserve. Data from herbarium specimens were captured into the database and complemented with georeferences. The resulting information was deposited in the database ‘Flora of Russian Lapland’ (https://laplandflora.ru/) and visualised through GBIF.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:32Z</dateStamp>
+      <citation>Kozhin M N, Sennikov A N (2020). Vascular Plant Herbarium at the Kandalaksha Strict Nature Reserve (KAND), Russia. Kandalaksha State Nature Reserve. Occurrence dataset https://doi.org/10.15468/vebcs3 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://kandalaksha-reserve.ru/images/logo.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>KAND</collectionIdentifier>
+                <collectionName>Herbarium of Kandalaksha Strict Nature Reserve</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

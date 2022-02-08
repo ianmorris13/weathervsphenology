@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e958291a-cd9a-484f-b7bd-72d7ee03246c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/v63d3x</alternateIdentifier>
+        <alternateIdentifier>https://ngpherbaria.org/portal/collections/misc/collprofiles.php?collid=173</alternateIdentifier>
+    <title>South Dakota State University, C. A. Taylor Herbarium</title>
+    <creator>
+<organizationName>Great Plains Herbaria</organizationName><electronicMailAddress>mary.barkworth@usu.edu</electronicMailAddress><onlineUrl>https://ngpherbaria.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Great Plains Herbaria</organizationName><electronicMailAddress>mary.barkworth@usu.edu</electronicMailAddress><onlineUrl>https://ngpherbaria.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Dr. Maribeth Latvis</surName>
+    </individualName>
+<electronicMailAddress>maribeth.latvis@sdstate.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The SDSU Herbarium dates back to 1881 and the foundation of South Dakota College. The herbarium was designated the C. A. Taylor Herbarium in 1994 to honor Charles Arthur Taylor, Jr. who dedicated 40 years of his life to its maintenance and growth. A significant part of the herbarium is the many collections &amp;#34;Charlie&amp;#34; Taylor brought with him from the Ithaca, NY area and elsewhere. The herbarium at SDSU has grown to &amp;gt;60,000 accessions due largely to more recent floristic studies focused on such areas as the Black Hills National Forest, the Fort Pierre and Grand River National Grasslands, and wetlands of the Prairie Pothole Region. We are in the early stages of specimen digitization, with &amp;gt;15,000 databased (none imaged) thus far.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>South Dakota State University, C. A. Taylor Herbarium</organizationName><phone>[1] (605) 688-5963</phone><electronicMailAddress>maribeth.latvis@sdstate.edu</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:45Z</dateStamp>
+      <citation>South Dakota State University, C. A. Taylor Herbarium (SDC) (2022). South Dakota State University, C. A. Taylor Herbarium. Occurrence dataset https://doi.org/10.15468/v63d3x accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="32d48308-ed92-4cd8-bd45-9b767596c1f2"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/ujhy5p</alternateIdentifier>
+        <alternateIdentifier>https://www.snib.mx/iptconabio/resource?r=SNIB-GE025</alternateIdentifier>
+        <alternateIdentifier>http://ipttest.conabio.gob.mx/iptconabiotest/resource?r=SNIB-GE025</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-GE025</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-GE025-GE0251111F_Corregida-ND</alternateIdentifier>
+        <alternateIdentifier>32d48308-ed92-4cd8-bd45-9b767596c1f2</alternateIdentifier>
+    <title>Inventario florístico de la familia Boraginaceae en México. Fase II</title>
+    <creator>
+    <individualName>
+<givenName>María Goreti del Carmen</givenName>          <surName>Campos Ríos</surName>
+    </individualName>
+<organizationName>Centro de Investigación Científica de Yucatán AC</organizationName><positionName>Responsable</positionName>    <address>
+<country>MEXICO</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>CONABIO</givenName>          <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>MÉXICO</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2021-07-16
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>En esta segunda fase del proyecto, se pretende, después  de haber registrado tres subfamilias representadas en MEXU (Cordioideae, Ehretioideae  y Heliotropioideae), incorporar a la base de datos a la subfamilia Boraginoideae, que en su conjunto representa más del 50 por ciento de las especies (163) registradas para la familia en México, no obstante su importancia florística, son las menos representadas específicamente  y estudiadas en los herbarios nacionales.   Al terminar el registro  de la colección completa  de MEXU, deberemos tener una representación aproximada del 60 por ciento  de las especies registradas para México (200).  La revisión  y registro  de las colecciones: ENCB, FCME  y UAMIZ, esperamos nos pueda aportar otro 20 por ciento para lograr al en esta segunda etapa el 80 por ciento  de las especies aproximadamente 260.</para>
+        <para>Reino: 1
+Filo: 1
+Clase: 1
+Orden: 1
+Familia: 4
+Género: 22
+Especie: 154
+Epitetoinfraespecifico: 7</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Plantas</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=GE&amp;Numero=25</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1847-05-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-10-04
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reino: Plantae
+Filo: Tracheophyta
+Clase: Equisetopsida
+Orden: Boraginales
+Familia: Boraginaceae, Ehretiaceae, Cordiaceae, Heliotropiaceae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ehretiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cordiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Heliotropiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Lithospermum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Macromeria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Antiphytum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Tiquilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cynoglossum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cryptantha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cordia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Amsinckia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Bourreria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Borago</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Heliotropium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hackelia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Tournefortia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ehretia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Lasiarrhenum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Nomosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pectocarya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mertensia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Harpagonella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Omphalodes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mimophytum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Onosmodium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum distichum</taxonRankValue>
+                          <commonName>white forget-me-not</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria alba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum caespitosum</taxonRankValue>
+                          <commonName>planta ceniza</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum heliotropioides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia turneri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum notatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria leonotis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum tubuliflorum</taxonRankValue>
+                          <commonName>aizquitl</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cynoglossum hintoniorum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha gypsites</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia diversifolia</taxonRankValue>
+                          <commonName>sasanil, ciricote blanco, pata de gallina, roble bajo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum parryi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amsinckia tessellata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia alliodora</taxonRankValue>
+                          <commonName>suchicuaua, aguardientillo, amapa, amapa blanca, amapa boba, amapa prieta, asta, bojón prieto, botoncillo, cueramo, galerillo, hormiguero, hormiguillo, hormiguillo blanco, laurel, pajarito, pajarito prieto, palo María, palo de hormiga, palo de hormigas, palo de rosa, palo de viga, palo prieto, prieto, rosadillo, solerilla, solerillo, solerito, sombrilla, suchil acahualero, suchil sabanero, tabaco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia mexicana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia dentata</taxonRankValue>
+                          <commonName>hormiguillo, baboso, calavera, calaverita, flor de gualaveri, gulabere blanco, guliver, jiguilote, moquillo, palo baboso, palo noble, raspa sombrero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amsinckia menziesii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia purpusii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia boissieri</taxonRankValue>
+                          <commonName>trompillo, alacahuite, anacahuite, cueramo, rasca viejo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia canescens</taxonRankValue>
+                          <commonName>oreja de perro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia hispidissima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia foliosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia curassavica</taxonRankValue>
+                          <commonName>manzana roja, azota caballos, barredor, bolita prieta, canela de cuyo, chiche de virgen, chongueos, confeterillo, confiturilla, coralillo, escobillo, escobillo cimarrón, flor de bolita, frutilla, gallinitas, hierba del pasmo, hierba prieta, manzanita, nanche de gallina, negrito, nigua macho, oreja de ratón, patila prieta, vara prieta, varita prieta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria pulchra</taxonRankValue>
+                          <commonName>bojón</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia elaeagnoides</taxonRankValue>
+                          <commonName>trueno, cueramo, grisiña, grisiña de ocote, ocotillo, ocotillo meco, palo prieto, roble de castilla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia gerascanthus</taxonRankValue>
+                          <commonName>hormiguero, bari, hormiguera, hormiguillo, hormiguillo blanco, pajarito, pajarito prieto, palo María, sombra de cortés</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia greggii</taxonRankValue>
+                          <commonName>oreja de perro, hierba del cenizo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum floribundum</taxonRankValue>
+                          <commonName>cabeza de negro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia palmeri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria obovata</taxonRankValue>
+                          <commonName>zapotito</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Borago officinalis</taxonRankValue>
+                          <commonName>boraja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia morelosana</taxonRankValue>
+                          <commonName>anacahuite, cueramo, cáscara de anacahuite, encinillo, palo prieto, palo quieto, árbol del muerto</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria spathulata</taxonRankValue>
+                          <commonName>aizquitl, granjeno, zapotillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia cuspidata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria sonorae</taxonRankValue>
+                          <commonName>si</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria hintonii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia ambigua</taxonRankValue>
+                          <commonName>orégano kax</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia dodecandra</taxonRankValue>
+                          <commonName>ciricote, cordia, cómpite, siricote, trompillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium procumbens</taxonRankValue>
+                          <commonName>hierba del alacrán, cola de alacrán, hierba de fuego, hierba del gusano, rama de ardilla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia plicata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia bicolor</taxonRankValue>
+                          <commonName>nopo blanco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia gossypina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria andrieuxii</taxonRankValue>
+                          <commonName>guayabillo, sasanil del cerro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria oxyphylla</taxonRankValue>
+                          <commonName>bojón, laurel, palo de nance, roble</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia spinescens</taxonRankValue>
+                          <commonName>vara prieta, bejuco de cara, bejuco negro, bejuco prieto, cabeza de arriera, cabeza de arriero, chilillo prieto, encaje, escobillo cimarrón, hoja de almorrana, parral, vara morada, vara negra</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia megalantha</taxonRankValue>
+                          <commonName>suchil</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiquilia tuberculata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria purpusii</taxonRankValue>
+                          <commonName>sasanil del cerro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amsinckia inepta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria huanita</taxonRankValue>
+                          <commonName>jasmin de palo, flor de paloma, flor de palomita, jazmín de Oaxaca, jazmín de Tehuantepec, jazmín de la india, jazmín de palo, jazmín del Itsmo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hackelia mexicana</taxonRankValue>
+                          <commonName>pegarropa</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria superba</taxonRankValue>
+                          <commonName>amapa blanca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia volubilis</taxonRankValue>
+                          <commonName>hierba del alacrán, bejuco verde, cola de alacrán, hierba del cáncer, yerba del cáncer</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia hirsutissima</taxonRankValue>
+                          <commonName>hierba del cáncer, hierba rasposa, ortiga de hoja grande</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium angiospermum</taxonRankValue>
+                          <commonName>hierba del alacrán, alacrancillo, arete, cola de alacrán, cola de escorpión, cola de gato, cola de mico, cola de mono, colar de alacrán, hierba de chatilla, hierba de fuego, hierba del negro, hierba del sapo, rabanico, rabo de mico, uña de gato</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum discolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria exserta</taxonRankValue>
+                          <commonName>aizquitl</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium indicum</taxonRankValue>
+                          <commonName>cola de alacrán, alacrancillo, alacrán, bigotitos, cola de mico, hierba de la mula, hierba del alacrán, rabo de mico</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium fruticosum</taxonRankValue>
+                          <commonName>cola de alacrán, cola de mono, hierba de la mula, rabo de mico, toronjillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium ternatum</taxonRankValue>
+                          <commonName>hierba del alacrán, cola de alacrán, cola de gato, hierba de fuego, rabo de mico</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia glabra</taxonRankValue>
+                          <commonName>hoja del cáncer, cordoncillo, cuerillo, limoncillo, moco de pavo, palo de agua, roble blanco, zopilotillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium fallax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia inermis</taxonRankValue>
+                          <commonName>nigua, nigua hembra</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia seleriana</taxonRankValue>
+                          <commonName>coliguana, chilillo, cola de iguana, comida de iguana, zopilotillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria longiflora</taxonRankValue>
+                          <commonName>guizh-guiee-naranj</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia petiolaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium calcicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium curassavicum</taxonRankValue>
+                          <commonName>hierba de fuego, alacrancillo de playa, chile piquín, cola de alacrán, cola de escorpion, cola de gato, cola de mico, colita de alacrán, hediondilla, heliotropo, hierba del gusano, hoja de sapo, rabo de mico</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ehretia tinifolia</taxonRankValue>
+                          <commonName>im, borreguillo, camote matapescado, capulín cimarrón, cerezo, frutillo, mandimbo, manzana, manzanilla, manzanita, manzano, manzano coposo, naranjillo, palo prieto, palo verde, pingüica, pingüico, rayado, roble, sauco, toronjil, trueno, zacate espinilla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia mutabilis</taxonRankValue>
+                          <commonName>topoya, bejuco prieto, cola de alacrán, confite coyote, confite negro, confitillo negro, flor del negro, hierba de fuego, hierba del burro, hierba del cáncer, hierba del negro, hierba prieta, hierba rasposa, hoja del cáncer, lagrima de virgen, vara prieta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum pringlei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia guanacastensis</taxonRankValue>
+                          <commonName>escoba negra, sangre de toro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia bicolor</taxonRankValue>
+                          <commonName>ramo de novia</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum calycosum</taxonRankValue>
+                          <commonName>cenizo de monte</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia guerkeana</taxonRankValue>
+                          <commonName>bocote, ayacahuite, sombra de cortés</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria pringlei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium pringlei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha albida</taxonRankValue>
+                          <commonName>hierba cola de alacrán</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ehretia latifolia</taxonRankValue>
+                          <commonName>topoya, Santa Ines, capulincillo, capulín, capulín blanco, capulín cimarrón, confetillo, manzanita, palo de tuza, palo prieto, trompillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia globosa</taxonRankValue>
+                          <commonName>tele cebolla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia stellata</taxonRankValue>
+                          <commonName>amapa blanca, pájaro bobo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia tinifolia</taxonRankValue>
+                          <commonName>palo mulato</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium macrostachyum</taxonRankValue>
+                          <commonName>hierba del alacrán, cola de alacrán, hierba de fuego, hierba del negro, hoja del negro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cynoglossum amabile</taxonRankValue>
+                          <commonName>guizh-las-azxi</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium limbatum</taxonRankValue>
+                          <commonName>hierba de la muela</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium rufipilum</taxonRankValue>
+                          <commonName>hierba del cáncer</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia hartwegiana</taxonRankValue>
+                          <commonName>cola de alacrán, bejuco prieto, confite coyote, confite negro, confitillo negro, flor del negro, hierba de fuego, hierba del burro, hierba del cáncer, hierba del negro, hierba prieta, hierba rasposa, hoja del cáncer, lagrima de virgen, vara prieta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum hintoniorum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia densiflora</taxonRankValue>
+                          <commonName>hierba del cáncer, bejuco prieto, cola de alacrán, confite coyote, confite negro, confitillo negro, flor del negro, hierba de fuego, hierba del burro, hierba del negro, hierba prieta, hierba rasposa, hoja del cáncer, lagrima de virgen, vara prieta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia acutiflora</taxonRankValue>
+                          <commonName>ne´mis</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia salvadorensis</taxonRankValue>
+                          <commonName>guízh-cánzr, tamborcito</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum strictum</taxonRankValue>
+                          <commonName>puccoon, hierba de las perlas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia igualensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lasiarrhenum trinervium</taxonRankValue>
+                          <commonName>aizquitl</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia globulifera</taxonRankValue>
+                          <commonName>cirare</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum paniculatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia calycina</taxonRankValue>
+                          <commonName>hierba de fuego, hierba del negro, hoja del cáncer, hoja del negro, ojo del nego</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium foliosissimum</taxonRankValue>
+                          <commonName>llepatsol</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia capitata</taxonRankValue>
+                          <commonName>tlachichinole</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia stenoclada</taxonRankValue>
+                          <commonName>nopotapeste</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium assurgens</taxonRankValue>
+                          <commonName>cola de mono, hierba de la mula, rabo de mico, toronjillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia truncatifolia</taxonRankValue>
+                          <commonName>sasanil del cerro, zazanil de cerro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium cremnogenum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia stellifera</taxonRankValue>
+                          <commonName>nopo, nazareno, palo de nopo, posolito, roble, tintillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum calcicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium greggii</taxonRankValue>
+                          <commonName>hierba del mosco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum obovatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium sessei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum sordidum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tournefortia trichocalycina</taxonRankValue>
+                          <commonName>cola de alacrán, bejuco prieto, confite coyote, confite negro, confitillo negro, flor del negro, hierba de fuego, hierba del burro, hierba del cáncer, hierba del negro, hierba prieta, hierba rasposa, hoja del cáncer, lagrima de virgen, vara prieta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum jimulcense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ehretia anacua</taxonRankValue>
+                          <commonName>manzanita, manzanilla, manzanillo, palo chino, palo verde, raspa sombrero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria rowellii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium michoacanum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum matamorense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium wigginsii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium axillare</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium confertifolium</taxonRankValue>
+                          <commonName>romero cimarrón</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum indecorum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum berlandieri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium karwinskyi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia urticacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha angelica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bourreria rekoi</taxonRankValue>
+                          <commonName>nandimbo serrano</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nomosa rosei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium queretaroanum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum nelsonii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium pueblense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Antiphytum peninsulare</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pectocarya peninsularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum confine</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mertensia mexicana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum viride</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium convolvulaceum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha mexicana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha maritima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia colimensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha quentinensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia parvifolia</taxonRankValue>
+                          <commonName>vara prieta, San Juanito, chaparro prieto, palo prieto</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha wigginsii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia limicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Harpagonella palmeri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha foliosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia oaxacana</taxonRankValue>
+                          <commonName>lipá fuyá</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Omphalodes mexicana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Macromeria hintoniorum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha grayi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliotropium torreyi</taxonRankValue>
+                          <commonName>engorda cabra</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cryptantha echinosepala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithospermum bejariense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimophytum omphalodoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Onosmodium unicum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amsinckia orcuttii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amsinckia nesophila</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Lithospermum parksii var. rugulosum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Cryptantha cinerea var. laxa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Heliotropium curassavicum var. oculatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Hackelia pinetorum var. jonesii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Cryptantha grayi var. nesiotica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Cryptantha grayi var. cryptochaeta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Hackelia ursina var. pustulata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Ramos Rivera</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>México</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>      </contact>
+
+      <project id="SNIB-GE025-GE0251111F_Corregida-ND">
+          <title>Inventario florístico de la familia Boraginaceae en México. Fase II</title>
+          <personnel>
+    <individualName>
+<givenName>María Goreti del Carmen</givenName>          <surName>Campos Ríos</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para>En esta segunda fase del proyecto, se pretende, después  de haber registrado tres subfamilias representadas en MEXU (Cordioideae, Ehretioideae  y Heliotropioideae), incorporar a la base de datos a la subfamilia Boraginoideae, que en su conjunto representa más del 50 por ciento de las especies (163) registradas para la familia en México, no obstante su importancia florística, son las menos representadas específicamente  y estudiadas en los herbarios nacionales.   Al terminar el registro  de la colección completa  de MEXU, deberemos tener una representación aproximada del 60 por ciento  de las especies registradas para México (200).  La revisión  y registro  de las colecciones: ENCB, FCME  y UAMIZ, esperamos nos pueda aportar otro 20 por ciento para lograr al en esta segunda etapa el 80 por ciento  de las especies aproximadamente 260.</para>
+          </abstract>
+          <funding>
+              <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Plantas
+con flores, con semillas, con frutos como borrajas, heliotropos, nomeolvides, palomillas de tintes</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:42Z</dateStamp>
+      <citation>Campos Ríos M G D C, Comisión nacional para el conocimiento y uso de la biodiversidad C (2021). Inventario florístico de la familia Boraginaceae en México. Fase II. Version 1.9. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/ujhy5p accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>NA. 1887. Pittonia. 1</citation>
+      <citation>NA. 1919. Contr. Gray Herb. 59</citation>
+      <citation>NA. 1916. Contr. Gray Herb. 48</citation>
+      <citation>NA. 1916. Contr. Gray Herb. 18</citation>
+      <citation>NA. 1925. Repert. Spec. Nov. Regni Veg. 22</citation>
+      <citation>NA. 1931. Pflanzenr. 252(97)</citation>
+      <citation>NA. 1929. Repert. Spec. Nov. Regni Veg. 27</citation>
+      <citation>NA. 1917. Contr. Gray Herb. 49</citation>
+      <citation>NA. 1916. Bot. Gaz. 61</citation>
+      <citation>NA. 1844. Bull. Acad. Roy. Sci. Bruxelles. 11</citation>
+      <citation>NA. 1931. Werdenda. 1</citation>
+      <citation>NA. 1836. Index Sem. (St. Petersburg). 2</citation>
+      <citation>NA. 1874. Proc. Amer. Acad. Arts. 10</citation>
+      <citation>NA. 1754. Gen. Pl. 5</citation>
+      <citation>NA. 1888. Pl. Nov. Hisp. 1</citation>
+      <citation>NA. 1893. Naturaleza (Mexico City). 2</citation>
+      <citation>NA. 1829. Handbuch. 1</citation>
+      <citation>NA. 1763. Fam. Pl. 2</citation>
+      <citation>NA. 1837. Pl. Vasc. Gen. 1</citation>
+      <citation>NA. 1923. Contr. Gray Herb. 68</citation>
+      <citation>NA. 1875. Proc. Amer. Acad. Arts. 10</citation>
+      <citation>NA. 1846. Prodr. 10</citation>
+      <citation>NA. 1983. Southw. Naturalist. 28</citation>
+      <citation>NA. 1883. Proc. Amer. Acad. Arts. 18</citation>
+      <citation>NA. 1950. J. Arnold Arbor. 31(2)</citation>
+      <citation>NA. 1754. Gard. Dict., ed. 4.</citation>
+      <citation>NA. 1753. Sp. Pl. 1</citation>
+      <citation>NA. 1760. Enum. Syst. Pl.</citation>
+      <citation>NA. 1882. Biol. Cent. -Amer., Bot. 2</citation>
+      <citation>NA. 1948. J. Arnold Arbor. 29</citation>
+      <citation>NA. 1909. Proc. Amer. Acad. Arts. 44</citation>
+      <citation>NA. 1928. Trop. Woods. 16</citation>
+      <citation>NA. 1912. Publ. Field Mus. Nat. Hist., Bot. Ser. 2(8)</citation>
+      <citation>NA. 1915. Univ. Calif. Publ. Bot. 6</citation>
+      <citation>NA. 1924. Contr. U. S. Natl. Herb. 23</citation>
+      <citation>NA. 1956. J. Arnold Arbor. 37</citation>
+      <citation>NA. 1986. Ann. Missouri Bot. Gard. 73</citation>
+      <citation>NA. 1889. Proc. Amer. Acad. Arts. 24</citation>
+      <citation>NA. 1909. Univ. Calif. Publ. Bot. 3</citation>
+      <citation>NA. 1940. J. Arnold Arbor. 21</citation>
+      <citation>NA. 1845. Prodr. 9</citation>
+      <citation>NA. 1924. Proc. Calif. Acad. Sci. 12</citation>
+      <citation>NA. 1961. Wrightia. 2</citation>
+      <citation>NA. 1878. Syn. Fl. N. Amer. 2</citation>
+      <citation>NA. 1862. Proc. Amer. Acad. Arts. 5</citation>
+      <citation>NA. 1933. Contr. W. Bot. 18</citation>
+      <citation>NA. 1870. Proc. Amer. Acad. Arts. 8</citation>
+      <citation>NA. 1911. Univ. Calif. Publ. Bot. 4</citation>
+      <citation>NA. 1819. Syst. Veg., (ed. 16). 4</citation>
+      <citation>NA. 1841. Allg. Naturgesch. 2(2)</citation>
+      <citation>NA. 1830. Linnaea. 5</citation>
+      <citation>NA. 1844. Bull. Acad. Roy. Sci. Bruxelles. (2)</citation>
+      <citation>NA. 1759. Fl. Jamaic. (Nulo)</citation>
+      <citation>NA. 1937. J. Arnold Arbor. 18(1)</citation>
+      <citation>NA. 1861. Fl. Brit. W.I.</citation>
+      <citation>NA. 1938. Publ. Field Mus. Nat. Hist., Bot. Ser. 18</citation>
+      <citation>NA. 1904. Proc. Amer. Acad. Arts. 40</citation>
+      <citation>NA. 1806. Encycl. Méth. Bot. 7</citation>
+      <citation>NA. 1917. Contr. U. S. Natl. Herb. 18</citation>
+      <citation>NA. 1833. Linnaea. 8</citation>
+      <citation>NA. 1949. J. Arnold Arbor. 30</citation>
+      <citation>NA. 1913. Verh. Bot. Vereins Prov. Brandenburg. 55(2)</citation>
+      <citation>NA. 1858. Index Sem. (St. Petersburg).</citation>
+      <citation>NA. 1905. Bot. Jahrb. Syst. 80</citation>
+      <citation>NA. 1829. Linnaea. 4</citation>
+      <citation>NA. 1845. Bot. Voy. Sulphur.</citation>
+      <citation>NA. 1898. Proc. Amer. Acad. Arts. 33</citation>
+      <citation>NA. 1914. Beih. Bot. Centralbl. 32(2)</citation>
+      <citation>NA. 1934. Arch. Bot. Sist. 10</citation>
+      <citation>NA. 1913. Repert. Spec. Nov. Regni Veg. 12</citation>
+      <citation>NA. 1906. Bot. Jahrb. Syst. 37</citation>
+      <citation>NA. 1919. Univ. Calif. Publ. Bot. 6</citation>
+      <citation>NA. 1971. J. Arnold Arbor. 52(4)</citation>
+      <citation>NA. 1923. Proc. Biol. Soc. Wash. 36</citation>
+      <citation>NA. 1927. Contr. U. S. Natl. Herb. 23</citation>
+      <citation>NA. 1978. Sp. Pl. 1</citation>
+      <citation>NA. 1922. Univ. Calif. Publ. Bot. 10</citation>
+      <citation>NA. 1897. Proc. Amer. Acad. Arts. 33</citation>
+      <citation>NA. 1968. Wrightia. 4</citation>
+      <citation>NA. 1935. J. Arnold Arbor. 16</citation>
+      <citation>NA. 1891. Proc. Amer. Acad. Arts. 26</citation>
+      <citation>NA. 1905. Zoe. 5</citation>
+      <citation>NA. 1926. Bot. Jahrb. Syst. 60</citation>
+      <citation>NA. 1924. J. Wash. Acad. Sci. 14</citation>
+      <citation>NA. 1901. Proc. Amer. Acad. Arts. 36</citation>
+      <citation>NA. 1899. Erythea. 7</citation>
+      <citation>NA. 1891. Contr. U. S. Natl. Herb. 1</citation>
+      <citation>NA. 1796. Prodr. Stirp. Chap. Allerton.</citation>
+      <citation>NA. 1771. Mant. Pl. 2</citation>
+      <citation>NA. 1903. Proc. Amer. Acad. Arts. 39(5)</citation>
+      <citation>NA. 1907. Proc. Amer. Acad. Arts. 43</citation>
+      <citation>NA. 1952. J. Arnold Arbor. 33</citation>
+      <citation>NA. 1890. Contr. U. S. Natl. Herb. 1</citation>
+      <citation>NA. 1837. Gen. Hist. 4</citation>
+      <citation>NA. 1912. Muhlenbergia. 8</citation>
+      <citation>NA. 1892. Pittonia. 2</citation>
+      <citation>NA. 1986. Great Basin Naturalist. 46</citation>
+      <citation>NA. 1939. J. Arnold Arbor. 20</citation>
+      <citation>NA. 1918. Contr. Gray Herb. 56</citation>
+      <citation>NA. 1959. Wrightia. 2</citation>
+      <citation>NA. 1927. Ann. Missouri Bot. Gard. 14(3)</citation>
+      <citation>NA. 1925. Contr. Gray Herb. 75</citation>
+      <citation>NA. 1922. Univ. Calif. Publ. Bot. 7</citation>
+      <citation>NA. 1919. Pl. World. 74</citation>
+      <citation>NA. 1889. Pittonia. 1</citation>
+      <citation>NA. 1938. J. Arnold Arbor. 20</citation>
+      <citation>NA. 1891. Revis. Gen. Pl. 2</citation>
+      <citation>NA. 1906. Bull. Misc. Inform. Kew. 1906</citation>
+      <citation>NA. 1976. Phytologia. 33</citation>
+      <citation>NA. 1976. Phytologia. 34</citation>
+      <citation>NA. 1995. Phytologia. 79</citation>
+      <citation>NA. 1820. Commentat. Soc. Regiae Sci. Gott. Recent. 4</citation>
+      <citation>NA. 1756. Civ. Nat. Hist. Jamaica.</citation>
+      <citation>NA. 1924. Contr. Gray Herb. 70</citation>
+      <citation>NA. 1869. Contr. Bot. 2</citation>
+      <citation>NA. 1894. Proc. Amer. Acad. Arts. 29</citation>
+      <citation>NA. 1894. Fl. Mexic., ed. 2. 47</citation>
+      <citation>NA. 1839. Bot. Gaz. 18</citation>
+      <citation>NA. 1847. Index Sem. (Berlin).</citation>
+      <citation>NA. 1759. Syst. Nat. ed. 10. 2</citation>
+      <citation>NA. 1902. Trees &amp;  Shrubs. 1</citation>
+      <citation>NA. 1916. Proc. Amer. Acad. Arts. 51</citation>
+      <citation>NA. 1912. Contr. U. S. Natl. Herb. 16</citation>
+      <citation>NA. 1836. Trans. Amer. Philos. Soc. 5</citation>
+      <citation>NA. 1951. Ill. Fl. Pacific States. 3</citation>
+      <citation>NA. 1838. Oekon.-techn. Fl. Bohm. 2(1)</citation>
+      <citation>NA. 1974. Southw. Naturalist. 19</citation>
+      <citation>NA. 1876. Proc. Amer. Acad. Arts. 11</citation>
+      <citation>NA. 1876. Proc. Amer. Acad. Arts. 9</citation>
+      <citation>NA. 1768. Gard. Dict., ed. 8. (10)</citation>
+      <citation>NA. 1770. Prodr. Stirp. Gott.</citation>
+      <citation>NA. 1910. Symb. Antill. 4</citation>
+      <citation>NA. 1874. Syn. Fl. N. Amer. 2(1)</citation>
+      <citation>NA. 1857. Mem. Amer. Acad. Arts. 6</citation>
+      <citation>NA. 1935. Proc. Biol. Soc. Wash.</citation>
+      <citation>NA. 1908. Symb. Antill. 5</citation>
+      <citation>NA. 1817. Gött. Gel. Anz. 1817</citation>
+      <citation>NA. 1832. Encycl. Brittannica. 5</citation>
+      <citation>NA. 1950. Contr. Dudley Herb. 4</citation>
+      <citation>NA. 1858. Rep. U.S. Mex. Bound., Bot.</citation>
+      <citation>NA. 1859. Rep. U.S. Mex. Bound., Bot.</citation>
+      <citation>NA. 1895. Nat. Pflanzenfam. 4(3a)</citation>
+      <citation>NA. 1893. Fl. Mexic., ed. 1.</citation>
+      <citation>NA. 1839. Pl. Hartw.</citation>
+      <citation>NA. 1904. Muhlenbergia. 1</citation>
+      <citation>NA. 1847. J. Asiat. Soc. Bengal. 14</citation>
+      <citation>NA. 1762. Sp. Pl.</citation>
+      <citation>NA. 1913. Univ. Calif. Publ. Bot. 4</citation>
+      <citation>NA. 1910. Bot. Gaz. 49</citation>
+      <citation>NA. 1928. Contr. Gray Herb. 81</citation>
+      <citation>NA. 1794. Symb. Bot. 3</citation>
+      <citation>NA. 1825. Fl. Flumin.</citation>
+      <citation>NA. 1912. Symb. Antill. 7</citation>
+      <citation>NA. 1841. Index Seminum Hort. Petrop. 7</citation>
+      <citation>NA. 1888. Proc. U. S. Natl. Mus. 11</citation>
+      <citation>NA. 1885. Proc. Amer. Acad. Arts. 20</citation>
+      <citation>NA. 1794. Methodus.</citation>
+      <citation>NA. 1922. Repert. Spec. Nov. Regni Veg. 18</citation>
+      <citation>NA. 1913. Contr. U. S. Natl. Herb. 18</citation>
+      <citation>NA. 1913. Contr. U. S. Natl. Herb. 16</citation>
+      <citation>NA. 1981. Pittonia. 2</citation>
+      <citation>NA. 1994. Phytologia. 77(1)</citation>
+      <citation>NA. 1925. Arch. Jard. Bot. Rio de Janeiro. 4</citation>
+      <citation>NA. 1989. Phytologia. 66</citation>
+      <citation>NA. 1803. Fl. Bor.-Amer. 1</citation>
+      <citation>NA. 1930. Repert. Spec. Nov. Regni Veg. 28</citation>
+      <citation>NA. 1892. Proc. Amer. Acad. Arts. 27</citation>
+      <citation>NA. 1892. Metasp. Minnesota Valley.</citation>
+      <citation>NA. 1912. Field Mus. Nat. Hist., Bot. Ser. 2</citation>
+      <citation>NA. 1799. Fl. Peruv. 2</citation>
+      <citation>NA. 1899. Bot. Gaz. 27</citation>
+      <citation>NA. 2002. Sida. 20(2)</citation>
+      <citation>NA. 1952. J. Arnold Arbor. 23</citation>
+      <citation>NA. 1888. Naturaleza (Mexico City). 1</citation>
+      <citation>NA. 1888. Pittonia. 1</citation>
+      <citation>NA. 1983. Phytologia. 52</citation>
+      <citation>NA. 1832. Edinburgh New Philos. J. 13</citation>
+      <citation>NA. 1989. Madroño. 36</citation>
+      <citation>NA. 1840. Pl. Hartw.</citation>
+      <citation>NA. 1954. J. Arnold Arbor. 35(1)</citation>
+      <citation>NA. 1899. Proc. Amer. Acad. Arts. 34</citation>
+      <citation>NA. 1905. Bull. Torrey Bot. Club. 32</citation>
+      <citation>NA. 1797. Catal. Bot. 1</citation>
+      <citation>NA. 1937. Ann. Missouri Bot. Gard. 24</citation>
+      <citation>NA. 1763. Novi Comment. Acad. Sci. Imp. Petrop. 8</citation>
+      <citation>NA. 1905. Proc. Amer. Acad. Arts. 41</citation>
+      <citation>NA. 1818. Pl. Asperif. Nucif. 1</citation>
+      <citation>NA. 1818. Nov. Gen. Sp. Pl. 3</citation>
+      <citation>NA. 1890. Proc. Amer. Acad. Arts. 25</citation>
+      <citation>NA. 1988. Sida. 13</citation>
+      <citation>NA. 1995. Phytologia. 78</citation>
+      <citation>NA. 1838. Gen. Hist. 4</citation>
+      <citation>NA. 1840. Pl. Vasc. Gen. 1</citation>
+      <citation>NA. 1876. Proc. Amer. Acad. Arts. 12</citation>
+      <citation>NA. 1927. Contr. Gray Herb. 78</citation>
+      <citation>NA. 1875. Trans. Linn. Soc. London, Bot. ser. 2,. 1</citation>
+      <citation>NA. 1855. Pacific Railr. Rep. 2, Pt. 1, Bot. (Pope).</citation>
+      <citation>NA. 1788. Prodr. 4</citation>
+      <citation>NA. 1942. Contr. Univ. Michigan Herb. 7</citation>
+      <citation>NA. 1915. Repert. Spec. Nov. Regni Veg. 13</citation>
+      <citation>NA. 1960. Def. Gen. Pl. (ed. 3).</citation>
+      <citation>NA. 1913. Fl. Miami. 158</citation>
+      <citation>NA. 1976. Sida. 6(3)</citation>
+      <citation>NA. 1942. Bull. Torrey Bot. Club. 69</citation>
+      <citation>NA. 1981. Fl. Veracruz. 18</citation>
+      <citation>NA. 1847. Repert. Bot. Syst. 6</citation>
+      <citation>NA. 1969. Fieldiana Bot. 32(5)</citation>
+      <citation>NA. 1921. Repert. Spec. Nov. Regni Veg. 17</citation>
+      <citation>NA. 1841. Nomencl. Bot. Hort. 2</citation>
+      <citation>NA. 1791. Tabl. Encycl. Méth. Bot. 1</citation>
+      <citation>NA. 1803. Choix. Pl.</citation>
+      <citation>NA. 1876. Index Sem. (Berlin).</citation>
+      <citation>NA. 1883. Bull. Acad. Roy. Sci. Bruxelles. 18</citation>
+      <citation>NA. 1897. Bot. Gaz. 23</citation>
+      <citation>NA. 1816. Encycl. Suppl. 4</citation>
+      <citation>NA. 1952. Ceiba. 3</citation>
+      <citation>NA. 1851. Stirp. Surinam. Select.</citation>
+      <citation>NA. 1929. Contr. W. Bot. 15</citation>
+      <citation>NA. 1933. Bull. Soc. Bot. Genève. 24</citation>
+      <citation>NA. 1932. Contr. Arnold Arbor. 3</citation>
+      <citation>NA. 1986. Syst. Bot. 11</citation>
+      <citation>NA. 1927. Bull. Misc. Inform. Kew. 1927(3)</citation>
+      <citation>NA. 1860. Misc. Bot. 21</citation>
+      <citation>NA. 1984. Intermount. Fl. 4</citation>
+      <citation>NA. 1912. Publ. Field Columbian Mus., Bot. Ser. 2(8)</citation>
+      <citation>NA. 1881. Proc. Amer. Acad. Arts. 17</citation>
+      <citation>NA. 1836. Trans. Amer. Philos. Soc. 25</citation>
+      <citation>NA. 1885. Bull. Calif. Acad. Sci. 1(4)</citation>
+      <citation>NA. 1891. Pittonia. 2</citation>
+      <citation>NA. 1899. Pittonia. 4</citation>
+      <citation>NA. 1797. Nov. Rar. Pl. Descr. Dec. 1</citation>
+      <citation>NA. 1849. Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. 1</citation>
+      <citation>NA. 1825. Reliq. Haenk. 1</citation>
+      <citation>NA. 1797. Syst. Veg., (ed. 15).</citation>
+      <citation>NA. 1896. Pittonia. 3</citation>
+      <citation>NA. 1827. Nov. Gen. Sp. Pl. 2</citation>
+      <citation>NA. 1805. Syn. Pl. 1</citation>
+      <citation>NA. 1848. Ned. Kruidk. Arch. 1</citation>
+      <citation>NA. 1889. Bot. Gaz. 14(2)</citation>
+      <citation>NA. 1854. Kongl. Vetensk. Acad. Handl. 40</citation>
+      <citation>NA. 1854. Ill. Hort. 1</citation>
+      <citation>NA. 1853. Expl. Red River Louisiana.</citation>
+      <citation>NA. 1887. Bull. Calif. Acad. Sci. 2</citation>
+      <citation>NA. 1855. Pacific Railr. Rep. 2, Pt. 2, Bot. 2</citation>
+      <citation>NA. 1797. Nov. Rar. Pl. Descr. Dec.</citation>
+      <citation>NA. 1796. Ecológica. 1</citation>
+      <citation>NA. 1995. World Checklist of Seed Plants. 1(1)</citation>
+      <citation>NA. 1798. Nov. Rar. Pl. Descr. Dec.</citation>
+      <citation>NA. 1913. Bull. Torrey Bot. Club. 40</citation>
+      <citation>NA. 1779. Fl. Fr. 2</citation>
+      <citation>NA. 1831. Del. Sem. Hort. Hamburg. 3</citation>
+      <citation>NA. 1881. Bot. Gaz. 6</citation>
+      <citation>NA. 1932. Edinburgh New Philos. J. 13</citation>
+      <citation>ND. 1841. Index Sem. (St. Petersburg). 7</citation>
+      <citation>ND. 1925. Contr. Gray Herb. 74</citation>
+      <citation>ND. 1836. Index Sem. (St. Petersburg). 2</citation>
+      <citation>ND. 1855. Pacific Railr. Rep. 2, Pt, 2, Bot. (Pope). 2</citation>
+      <citation>NA. 1906. Proc. Biol. Soc. Wash. 19(31)</citation>
+      <citation>NA. 1828. Nova Acta Phys. -Med. Acad. Caes. Leop. -Cur. 14(2)</citation>
+      <citation>NA. 1982. Taxon. 31(2)</citation>
+      <citation>NA. 1894. Mem. Torrey Bot. Club. 5(18)</citation>
+      <citation>NA. 1903. Fl. S. E. U. S. 999</citation>
+      <citation>NA. 1886. Syn. Fl. N. Amer. (ed. 2). 2(1)</citation>
+      <citation>NA. 1964. Fl. Texas. 1</citation>
+      <citation>J. S. Miller. 1988. A revised Treatment of Boraginaceae for Panama. Ann. Missouri Bot. Gard. 75(2)</citation>
+      <citation>D. N. Gibson. 1970. Fieldiana Bot. 24(9/1-2)</citation>
+              </bibliography>
+              <physical>
+                  <objectName>SNIB-GE025-CSV.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>CSV</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/GE025/SNIB-GE025-CSV.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <physical>
+                  <objectName>SNIB-GE025-BD.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/GE025/SNIB-GE025-BD.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Gray Herbarium;GH;Harvard University;HU</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbario Jerzy Rzedowski y Graciela Calderón;ENCB;Departamento de Botánica, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional;ENCB-IPN</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbario María Agustina Batalla;FCME;Facultad de Ciencias, Universidad Nacional Autónoma de México;FC-UNAM</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium;MICH;University of Michigan;UM</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium;NY;New York Botanical Garden;NYBG</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium;MO;Missouri Botanical Garden;MOBOT</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium;TEX;Department of Integrative Biology, College of Natural Sciences, University of Texas, Austin;CNS-UT</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium;BR;Botanic Garden Meise;BR</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Herbarium of the Arnold Arboretum;A;Harvard University;HU</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Kew Herbarium;K;Royal Botanic Gardens, Kew;RBG</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>Lundell Herbarium;LL;Department of Integrative Biology, College of Natural Sciences, University of Texas, Austin;CNS-UT</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>United States National Herbarium;US;National Museum of Natural History, Smithsonian Institution;NMNH-SI</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-GE025-GE0251111F_Corregida-ND</collectionIdentifier>
+                <collectionName>University Herbarium;UC;University of California, Berkeley;UCB</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Ejemplar</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>8</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

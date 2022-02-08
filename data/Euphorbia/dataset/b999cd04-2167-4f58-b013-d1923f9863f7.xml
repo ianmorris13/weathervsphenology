@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b999cd04-2167-4f58-b013-d1923f9863f7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bwmtht</alternateIdentifier>
+    <title>Wikiplantbase #Emilia-Romagna</title>
+    <associatedParty>
+    <individualName>
+          <surName>Gianni Bedini</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Dipartimento di Biologia, Università di Pisa, via Derna 1, I-56126 Pisa, Italy</deliveryPoint>    </address>
+<phone>+39 050 2211 314</phone><electronicMailAddress>gianni.bedini@unipi.it</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>The databases stores historical and current plant occurrence records relative to Emilia-Romagna administrative region of Italy (NUTS-2 code ITH5). Source of records may be bibliographical references, herbarium specimens, or human observations. The database is associated with the Wikiplantbase project, including sister databases for Sardinia, Liguria, Sicily, Tuscany, and Italy as a whole.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Alessandro Petraglia</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Dipartimento di Scienze Chimiche, della Vita e della Sostenibilità Ambientale, Parco Area delle Scienze, 11/a, I-43124 PARMA Italy</deliveryPoint>    </address>
+<phone>+39 0521 905635</phone><electronicMailAddress>alessandro.petraglia@unipr.it</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:47Z</dateStamp>
+      <citation>Dipartimento di Biologia, Università di Pisa. Wikiplantbase #Emilia-Romagna. Occurrence dataset https://doi.org/10.15468/bwmtht accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

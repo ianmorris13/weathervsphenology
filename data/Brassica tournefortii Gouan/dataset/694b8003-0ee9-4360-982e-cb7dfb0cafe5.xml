@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="694b8003-0ee9-4360-982e-cb7dfb0cafe5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ymtyqe</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr691</alternateIdentifier>
+        <alternateIdentifier>d7ec251d-a925-3ac8-b398-bd0b3f66de31</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr691</alternateIdentifier>
+        <alternateIdentifier>694b8003-0ee9-4360-982e-cb7dfb0cafe5</alternateIdentifier>
+        <alternateIdentifier>038243e1-457c-3c94-baa2-9e353ccccc71</alternateIdentifier>
+        <alternateIdentifier>8ea7e497-9bde-3a25-8acf-dcdb92d5492e</alternateIdentifier>
+    <title>Plants of Scotia Sanctuary</title>
+    <creator>
+<organizationName>Plants of Scotia Sanctuary</organizationName><onlineUrl>http://www.australianwildlife.org/AWC-Sanctuaries/Scotia-Sanctuary.aspx</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Plants of Scotia Sanctuary</organizationName><onlineUrl>http://www.australianwildlife.org/AWC-Sanctuaries/Scotia-Sanctuary.aspx</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Photos taken during the field work for a herbarium of pressed plant specimens for Scotia Sanctuary.  A draft plant key for this data is available.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr691</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Don &amp; Betty</givenName>          <surName>Wood</surName>
+    </individualName>
+<positionName>editor</positionName><phone>02 62542128</phone><electronicMailAddress>woodbook@optusnet.com.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:06Z</dateStamp>
+      <citation>Atlas of Living Australia (2020). Plants of Scotia Sanctuary. Occurrence dataset https://doi.org/10.15468/ymtyqe accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

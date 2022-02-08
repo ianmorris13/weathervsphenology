@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3daf4702-e48a-4d1c-a94a-12f9191ffc9e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rrh8s2</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=basic</alternateIdentifier>
+    <title>FBIP: Basic data capture of botanical species collected in the Fernkloof Nature Reserve housed in the Hermanus Botanical Society Herbarium (HER)</title>
+    <creator>
+    <individualName>
+<givenName>Dianne</givenName>          <surName>Marais</surName>
+    </individualName>
+<organizationName>Hermanus Botanical Society</organizationName><positionName>Chairperson</positionName>    <address>
+<deliveryPoint>Private Bag X16</deliveryPoint><city>Hermanus</city><administrativeArea>Western Cape</administrativeArea><postalCode>7200</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0283130819</phone><electronicMailAddress>maraisdianne@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Dianne</givenName>          <surName>Marais</surName>
+    </individualName>
+<organizationName>Hermanus Botanical Society</organizationName><positionName>Chairperson</positionName>    <address>
+<deliveryPoint>Private Bag X16</deliveryPoint><city>Hermanus</city><administrativeArea>Western Cape</administrativeArea><postalCode>7200</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0283130819</phone><electronicMailAddress>maraisdianne@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mahlatse</givenName>          <surName>Kgatla</surName>
+    </individualName>
+<organizationName>SANBI</organizationName><positionName>FBIP Data Specialist</positionName>    <address>
+<deliveryPoint>2 Cussonia Avenue, Brummeria</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0184</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0128435196</phone><electronicMailAddress>m.kgatla@sanbi.org.za</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-12
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Digitising plant specimens collected in Fernkloof Nature Reserve and Vogelgat Nature Reserve</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Fynbos</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>South Africa (Western Cape - Hermanus)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>19.073</westBoundingCoordinate>
+                      <eastBoundingCoordinate>49.223</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-31.223</northBoundingCoordinate>
+                      <southBoundingCoordinate>-35.223</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1896-12-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-01-29
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Plant specimens collected in Fernkloof Nature Reserve and Vogelgat Nature Reserve</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Dianne</givenName>          <surName>Marais</surName>
+    </individualName>
+<organizationName>Hermanus Botanical Society</organizationName><positionName>Chairperson</positionName>    <address>
+<deliveryPoint>Private Bag X16</deliveryPoint><city>Hermanus</city><administrativeArea>Western Cape</administrativeArea><postalCode>7200</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0283130819</phone><electronicMailAddress>maraisdianne@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Digitizing of plant specimens collected in Fernkloof Nature Reserve and Vogelgat Nature Reserve into BRAHMS database</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>South Africa (Western Cape - Hermanus)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Digitizing of plant specimens collected in Fernkloof Nature Reserve and Vogelgat Nature Reserve into BRAHMS database</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="ADM">
+          <title>Basic data capture of botanical species collected in the Fernkloof Nature Reserve housed in the Hermanus Botanical Society Herbarium (HER)</title>
+          <personnel>
+    <individualName>
+<givenName>Dianne</givenName>          <surName>Marais</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Digitising plant specimens collected in Fernkloof Nature Reserve and Vogelgat Nature Reserve</para>
+          </abstract>
+          <funding>
+              <para>Foundational Biodiversity Information Programme</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>South Africa (Western Cape - Hermanus)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:41Z</dateStamp>
+      <citation>Marais D (2019). FBIP: Basic data capture of botanical species collected in the Fernkloof Nature Reserve housed in the Hermanus Botanical Society Herbarium (HER). South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/rrh8s2 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

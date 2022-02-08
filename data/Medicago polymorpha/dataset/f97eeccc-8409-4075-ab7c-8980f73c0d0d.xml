@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f97eeccc-8409-4075-ab7c-8980f73c0d0d"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/jntmiw</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.fr/ipt/resource.do?r=floraine</alternateIdentifier>
+        <alternateIdentifier>f97eeccc-8409-4075-ab7c-8980f73c0d0d</alternateIdentifier>
+    <title>Atlas des plantes vasculaires de Lorraine</title>
+    <creator>
+    <individualName>
+          <surName>Vernier</surName>
+    </individualName>
+<organizationName>Floraine</organizationName><positionName>Resource contact</positionName>    <address>
+<deliveryPoint>100 rue du jardin botanique</deliveryPoint><city>Villers-les-Nancy</city><postalCode>54600</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>francois.vernier@numericable.fr</electronicMailAddress><onlineUrl>http://www.floraine.net</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Pichard</surName>
+    </individualName>
+<organizationName>Floraine</organizationName><positionName>Resource contact</positionName>    <address>
+<deliveryPoint>100 rue du jardin botanique</deliveryPoint><city>Villers-les-Nancy</city><postalCode>54600</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>seligeria4@gidouille.fr</electronicMailAddress><onlineUrl>http://www.floraine.net</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2014-09-30
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Répartition des plantes vasculaires de Lorraine à partir de 1990
+Association loi 1901 recueillant les données</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>DIREN Lorraine, CG 54, IFN, ONF, PNR Lorraine</organizationName>    <address>
+<country>FRANCE</country>    </address>
+      </contact>
+      <contact>
+    <individualName>
+          <surName>Pichard</surName>
+    </individualName>
+<organizationName>Floraine</organizationName><positionName>Resource contact</positionName>    <address>
+<deliveryPoint>100 rue du jardin botanique</deliveryPoint><city>Villers-les-Nancy</city><postalCode>54600</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>seligeria4@gidouille.fr</electronicMailAddress><onlineUrl>http://www.floraine.net</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:48Z</dateStamp>
+      <citation>Vernier, Pichard (2014). Atlas des plantes vasculaires de Lorraine. Floraine. Occurrence dataset https://doi.org/10.15468/jntmiw accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

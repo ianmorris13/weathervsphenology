@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2651f9da-9999-4cd2-9f17-293a977ffe58"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xunb57</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr15867</alternateIdentifier>
+        <alternateIdentifier>2651f9da-9999-4cd2-9f17-293a977ffe58</alternateIdentifier>
+        <alternateIdentifier>676eb718-eb10-3fca-b553-61ca169e2729</alternateIdentifier>
+    <title>CNS AVH data</title>
+    <creator>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </creator>
+    <creator>
+<organizationName>Australian Tropical Herbarium</organizationName>    <address>
+<deliveryPoint>Sir Robert Norman Building (E2), James Cook University, McGregor Road</deliveryPoint><city>Smithfield</city><administrativeArea>Queensland</administrativeArea><postalCode>4878</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(07) 4232 1837</phone><electronicMailAddress>enquiry@ath.org.au</electronicMailAddress><onlineUrl>http://www.ath.org.au/</onlineUrl>    </creator>
+    <creator>
+<organizationName>Australian Tropical Herbarium</organizationName>    <address>
+<deliveryPoint>Sir Robert Norman Building (E2), James Cook University Cairns Campus, McGregor Road</deliveryPoint><city>Smithfield</city><administrativeArea>Queensland</administrativeArea><postalCode>4878</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(07 4042 1837</phone><electronicMailAddress>enquiry@ath.org.au</electronicMailAddress><onlineUrl>http://www.ath.org.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-06-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Australasian Virtual Herbarium (AVH) data from the Australian Tropical Herbarium (ATH)</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr15867</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Anne</givenName>          <surName>Fuchs</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>anne.fuchs@environment.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:00Z</dateStamp>
+      <citation>Australian Tropical Herbarium (2021). CNS AVH data. Occurrence dataset https://doi.org/10.15468/xunb57 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/avh_logo_green_transparent.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

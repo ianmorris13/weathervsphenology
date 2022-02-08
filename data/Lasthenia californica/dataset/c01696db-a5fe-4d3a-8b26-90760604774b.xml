@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c01696db-a5fe-4d3a-8b26-90760604774b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/iv6y8m</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=msc_vascular</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=msc_vascular</alternateIdentifier>
+        <alternateIdentifier>c01696db-a5fe-4d3a-8b26-90760604774b</alternateIdentifier>
+    <title>Michigan State University Herbarium Vascular Plants</title>
+    <creator>
+    <individualName>
+<givenName>L Alan</givenName>          <surName>Prather</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4695</phone><electronicMailAddress>alan@msu.edu</electronicMailAddress><onlineUrl>https://herbarium.natsci.msu.edu/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5815-2283</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>L Alan</givenName>          <surName>Prather</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4695</phone><electronicMailAddress>alan@msu.edu</electronicMailAddress><onlineUrl>https://herbarium.natsci.msu.edu/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5815-2283</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Matthew T</givenName>          <surName>Chansler</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4695</phone><electronicMailAddress>drosera.capensis@gmail.com</electronicMailAddress><onlineUrl>https://herbarium.natsci.msu.edu/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-7555-5527</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Bill</givenName>          <surName>Park</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Information Technology Coordinator</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 137A</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-325-3105</phone><electronicMailAddress>billy@plantbiology.msu.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Vascular Plant collection is the oldest in the state, containing many specimens of historical importance. Nearly one-third of the collection was amassed by Dr. W.J. Beal during his 40 year tenure here. The collection is used locally by researchers and students working on systematic, evolutionary and ecological questions. Specimens are used in a service role to provide identifications for suspected plant poisoning cases, to aid in the identification of agricultural pests and to answer questions for local botanical enthusiasts.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://herbarium.natsci.msu.edu/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Bahama Islands collections of Dr. William T. Gillis
+Mexico &amp; Borneo collections of Dr. John H. Beaman
+Michigan and Great Lakes regional floras
+North American flora collections of John A. Churchill</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Anacardiaceae collections of Dr. William T. Gillis
+Asteraceae of the United States and Mexico
+Poaceae, including the Beal wheat varieties
+Pteridophyte collections</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anacardiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pteridophyte</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Matt</givenName>          <surName>Chansler</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4696</phone><electronicMailAddress>alan@msu.edu</electronicMailAddress><onlineUrl>https://herbarium.natsci.msu.edu/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>L Alan</givenName>          <surName>Prather</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4695</phone><electronicMailAddress>alan@msu.edu</electronicMailAddress><onlineUrl>https://herbarium.natsci.msu.edu/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5815-2283</userId>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-06T23:18:30Z</dateStamp>
+      <citation identifier=" https://doi.org/10.15468/iv6y8m">Prather L A, Chansler M T (2020). Michigan State University Herbarium Vascular Plants. Version 6.3. Michigan State University Herbarium. Occurrence dataset https://doi.org/10.15468/iv6y8m accessed via GBIF.org on 2022-02-06.</citation>
+              <collection>
+                <parentCollectionIdentifier>Michigan State University Herbarium</parentCollectionIdentifier>
+                <collectionIdentifier>MSC</collectionIdentifier>
+                <collectionName>Michigan State University Herbarium Vascular Plants</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

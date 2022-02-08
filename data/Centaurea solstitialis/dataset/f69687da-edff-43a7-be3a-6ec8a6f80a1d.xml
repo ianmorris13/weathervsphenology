@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f69687da-edff-43a7-be3a-6ec8a6f80a1d"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/ezyu58</alternateIdentifier>
+        <alternateIdentifier>f69687da-edff-43a7-be3a-6ec8a6f80a1d</alternateIdentifier>
+        <alternateIdentifier>http://gbif-chile.mma.gob.cl/ipt/resource?r=planilla_510_punto</alternateIdentifier>
+    <title>Levantamiento florístico en área del Proyecto GEF Corredores Biológicos de Montaña, Zona Central de Chile</title>
+    <creator>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Flores Meza</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Equipo Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 9658 4091</phone><electronicMailAddress>sflores@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Petra</givenName>          <surName>Wallem Stein</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Jefa Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 4489 7815</phone><electronicMailAddress>pwallem@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Víctor</givenName>          <surName>Bustamante A.</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Coordinador de Proyectos</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone><electronicMailAddress>vbustamante@geobiota.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Leisy</givenName>          <surName>Amaya</surName>
+    </individualName>
+<organizationName>Ministerio del Medio Ambiente</organizationName><positionName>Administrador Nodo GBIF Chile</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+56225735894</phone><electronicMailAddress>lamaya@mma.gob.cl</electronicMailAddress><onlineUrl>http://www.mma.gob.cl</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Flores Meza</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Equipo Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 9658 4091</phone><electronicMailAddress>sflores@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Flores</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Equipo Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 9658 4091</phone><electronicMailAddress>sflores@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-03-09
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Registro florístico que alcanza las 9.050 observaciones, realizado en 506 parcelas, ubicadas en 5 comunas de la Región de Valparaíso (Cartagena, Casablanca, Olmué, Quilpué, y Santo Domingo), y 17 comunas de la Región Metropolitana de Santiago (Alhué, Calera de Tango, Curacaví, El Monte, Isla de Maipo, La Reina, Lampa, Las Condes, Lo Barnechea, María Pinto, Melipilla, Paine, Peñalolén, San Bernardo, San José de Maipo, Talagante y Til-Til).</para>
+        <para>Dicho levantamiento fue realizado por la consultora ambiental GEOBIOTA, en el marco de la consultoría “Clasificación y Caracterización de los Ecosistemas Terrestres en el Área del Proyecto GEF Corredores Biológicos de Montaña”. Para ello, dicha consultoría consideró una tipología y propuesta cartográfica de detalle a escala local(1:25.000), y entre las actividades a desarrollar consideró el muestreo de la vegetación por medio de una red de puntos en el área del proyecto.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>mediterráneo</keyword>
+              <keyword>Sudamérica</keyword>
+              <keyword>cordillera de La Costa</keyword>
+              <keyword>hotspot</keyword>
+              <keyword>zona central</keyword>
+              <keyword>flora</keyword>
+              <keyword>esclerófilo</keyword>
+              <keyword>montaña</keyword>
+              <keyword>Chile</keyword>
+              <keyword>Cono Sur</keyword>
+              <keyword>cordillera de Los Andes</keyword>
+              <keyword>Austral</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>mediterranean</keyword>
+              <keyword>South America</keyword>
+              <keyword>mountain</keyword>
+              <keyword>hotspot</keyword>
+              <keyword>sclerophyllous</keyword>
+              <keyword>Andes mountain range</keyword>
+              <keyword>Costa mountain range</keyword>
+              <keyword>flora</keyword>
+              <keyword>Chile</keyword>
+              <keyword>Southern Cone</keyword>
+              <keyword>central zone</keyword>
+              <keyword>Austral</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://gefmontana.mma.gob.cl/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Chile, desde la Región de Valparaíso hasta la Región Metropolitana.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-71.763</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-70.038</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-32.97</northBoundingCoordinate>
+                      <southBoundingCoordinate>-34.161</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-10-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-11-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reino Plantae, phylum: Magnoliophyta, Pinophyta, Polypodiophyta</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Acacia; Acaena; Acrisione; Adenopeltis; Adesmia; Adiantum; Aira; Alonsoa; Alstroemeria; Amelichloa; Amsinckia; Anagallis; Anarthrophyllum; Anisomeria; Anthemis; Anthriscus; Apium; Arachnitis; Aristeguietia; Aristolochia; Aristotelia; Arjona; Asplenium; Asteriscium; Astragalus; Avena; Azara; Azorella; Baccharis; Balbisia; Barneoudia; Beilschmiedia; Berberis; Bidens; Blechnum; Blumenbachia; Bomarea; Bowlesia; Brassica; Briza; Bromus; Buddleja; Calandrinia; Calceolaria; Calycera; Camissonia; Capsella; Cardamine; Carduus; Carex; Centaurea; Centaurium; Cerastium; Cestrum; Chaetanthera; Cheilanthes; Chenopodium; Chiropetalum; Chloraea; Chorispora; Chorizanthe; Chuquiraga; Chusquea; Cirsium; Cissus; Cistanthe; Cistus; Citronella; Clarkia; Clinopodium; Colletia; Colliguaja; Collomia; Conanthera; Conium; Convolvulus; Conyza; Cortaderia; Corynabutilon; Cotula; Crassula; Crataegus; Cristaria; Cryptantha; Cryptocarya; Cupressus; Cuscuta; Cynara; Cynoglossum; Cynosurus; Cyperus; Cystopteris; Cytisus; Dactylis; Dasyphyllum; Deschampsia; Descurainia; Deyeuxia; Dichondra; Dioscorea; Diplolepis; Distichlis; Drimys; Dysphania; Eccremocarpus; Eleocharis; Ephedra; Equisetum; Eriosyce; Erodium; Eryngium; Erythranthe; Escallonia; Eschscholzia; Eucalyptus; Eupatorium; Euphorbia; Fabiana; Facelis; Famatina; Festuca; Flourensia; Foeniculum; Frankenia; Fraxinus; Fumaria; Galega; Galium; Gamochaeta; Gardoquia; Geranium; Gilia; Gilliesia; Glandularia; Gochnatia; Guindilia; Gunnera; Gymnophyton; Haplopappus; Helenium; Helminthotheca; Holcus; Homalocarpus; Hordeum; Hypochaeris; Jarava; Jubaea; Juncus; Junellia; Kageneckia; Lactuca; Lagurus; Lamium; Lapsana; Lardizabala; Lastarriaea; Latace; Lathyrus; Lepechinia; Lepidium; Leucheria; Leucocoryne; Ligaria; Lithraea; Loasa; Lobelia; Logfia; Lolium; Lomatia; Luma; Lupinus; Lycium; Madia; Malesherbia; Malus; Margyricarpus; Marrubium; Matricaria; Maytenus; Medicago; Melica; Melosperma; Menonvillea; Microsteris; Miersia; Monnina; Montiopsis; Moscharia; Muehlenbeckia; Mulguraea; Mutisia; Myoschilos; Myostemma; Myrceugenia; Nardophyllum; Nassauvia; Nassella; Neoporteria; Nicotiana; Nothofagus; Ochetophila; Oenothera; Olea; Olsynium; Otholobium; Oxalis; Oziroë; Pachylaena; Papaver; Parablechnum; Parentucellia; Parietaria; Pasithea; Pectocarya; Perezia; Persea; Peumus; Phacelia; Phalaris; Phycella; Phyla; Physalis; Pinus; Placea; Plagiobothrys; Plantago; Pleurophora; Poa; Podanthus; Polemonium; Polygonum; Populus; Porlieria; Proustia; Prunella; Pseudognaphalium; Puya; Pyrrhocactus; Quillaja; Quinchamalium; Ranunculus; Raphanus; Rapistrum; Retanilla; Rhodophiala; Ribes; Robinia; Rosa; Rostraria; Rubus; Rumex; Ruta; Salix; Salpiglossis; Sanicula; Sarcocornia; Schinus; Schizanthus; Schoenoplectus; Scyphanthus; Senecio; Senna; Sicyos; Silene; Silybum; Sisymbrium; Sisyrinchium; Solanum; Solenomelus; Soliva; Sonchus; Sophora; Sphaeralcea; Spinoliva; Stachys; Stellaria; Symphyotrichum; Tanacetum; Taraxacum; Tessaria; Tetilla; Tetraglochin; Teucrium; Torilis; Trevoa; Trichocereus; Trichocline; Trichopetalum; Trifolium; Triptilion; Tristagma; Tristerix; Tropaeolum; Tweedia; Urospermum; Urtica; Vachellia; Valeriana; Verbascum; Veronica; Vicia; Viola; Viviania; Vulpia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Registro florístico que alcanza las 9.050 observaciones, realizado en 506 parcelas, ubicadas en 5 comunas de la Región de Valparaíso (Cartagena, Casablanca, Olmué, Quilpué, y Santo Domingo), y 17 comunas de la Región Metropolitana de Santiago (Alhué, Calera de Tango, Curacaví, El Monte, Isla de Maipo, La Reina, Lampa, Las Condes, Lo Barnechea, María Pinto, Melipilla, Paine, Peñalolén, San Bernardo, San José de Maipo, Talagante y Til-Til).
+Dicho levantamiento fue realizado por consultora ambiental GEOBIOTA, en el marco de la consultoría “Clasificación y Caracterización de los Ecosistemas Terrestres en el Área del Proyecto GEF Corredores Biológicos de Montaña”. Para ello, dicha consultoría consideró una tipología y propuesta cartográfica de detalle a escala local (1:25.000), y entre las actividades a desarrollar consideró el muestreo de la vegetación por medio de una red de puntos en el área del proyecto.
+
+Su alcance abarca Reino Plantae, phylum: Magnoliophyta, Pinophyta, Polypodiophyta</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Pierre</givenName>          <surName>Gilbert</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniero Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Díaz</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniera Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Jaime</givenName>          <surName>Donoso</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniero Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Gabriel</givenName>          <surName>Astorga</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Licenciado en Ciencias Forestales</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone><electronicMailAddress>gastorga@geobiota.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>María Teresa</givenName>          <surName>Serra</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Profesora de Biología y Ciencias Naturales</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone><electronicMailAddress>mtserra@geobiota.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Hernán</givenName>          <surName>Retamales</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniero Forestal Ph.D. Biology</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Constanza</givenName>          <surName>Aguilera</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Licenciada en Ciencias Forestales</positionName>    <address>
+<city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone><electronicMailAddress>caguilera@geobiota.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Durán</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniero Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone><electronicMailAddress>sduran@geobiota.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marcos</givenName>          <surName>Olate</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniero Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Stephanie</givenName>          <surName>Abarca</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniera Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Angie</givenName>          <surName>Abarzúa</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniera Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Millaray</givenName>          <surName>Olivares</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniera Agrónoma</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Vanezza</givenName>          <surName>Morales</surName>
+    </individualName>
+<organizationName>asesora botánica, Proyecto GEF Corredores Biológicos de Montaña</organizationName><positionName>Geógrafa UC, M.Sc. Biodiversity and Taxonomy of Plants (UoE – RBGE)</positionName>    <address>
+<city>Santiago</city><country>CHILE</country>    </address>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Pamela</givenName>          <surName>Torres</surName>
+    </individualName>
+<organizationName>GEOBIOTA</organizationName><positionName>Ingeniera Forestal</positionName>    <address>
+<deliveryPoint>Flor de Azucenas 42, Piso 3, Las Condes</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+ 56 2 2840 5350</phone>      </contact>
+      <contact>
+    <individualName>
+<givenName>Nicolás Guillermo</givenName>          <surName>Lavandero López</surName>
+    </individualName>
+<organizationName>Asesor botánico, Proyecto GEF Corredores Biológicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Biólogo, MSc Biodiversity and Taxonomy of Plants (University of Edinburgh - Royal Botanic Garden Edinburgh)</positionName>    <address>
+<city>Santiago</city><country>CHILE</country>    </address>
+<electronicMailAddress>nglavand@uc.cl</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Petra</givenName>          <surName>Wallem Stein</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Jefa Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 4489 7815</phone><electronicMailAddress>pwallem@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Flores Meza</surName>
+    </individualName>
+<organizationName>Proyecto GEF Corredores Bilógicos de Montaña/Ministerio del Medio Ambiente</organizationName><positionName>Equipo Línea Temática Biodiversidad y Servicios Ecosistémicos</positionName>    <address>
+<deliveryPoint>San Martín 73, Santiago</deliveryPoint><city>Santiago</city><country>CHILE</country>    </address>
+<phone>+569 9658 4091</phone><electronicMailAddress>sflores@mma.gob.cl</electronicMailAddress><onlineUrl>https://gefmontana.mma.gob.cl/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizó un listado florístico exhaustivo que incluyó todas las especies de plantas vasculares presentes en la parcela. En caso de especies no conocidas por el encargado del levantamiento de terreno, éstas se registraron con código único para cada especie en cada parcela, y se efectuaron recolecciones (en lo posible con flores y frutos) de cada especie para su posterior identificación. El tamaño de las parcelas de muestreo se determinó para las diferentes comunidades vegetales mediante el método del área mínima. La ubicación de las parcelas fue determinada al azar dentro del área de estudio por medio de SIG.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>5 comunas de la Región de Valparaíso (Cartagena, Casablanca, Olmué, Quilpué, y Santo Domingo), y 17 comunas de la Región Metropolitana de Santiago (Alhué, Calera de Tango, Curacaví, El Monte, Isla de Maipo, La Reina, Lampa, Las Condes, Lo Barnechea, María Pinto, Melipilla, Paine, Peñalolén, San Bernardo, San José de Maipo, Talagante y Til-Til)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó un listado florístico exhaustivo que incluyó todas las especies de plantas vasculares presentes en la parcela. En caso de especies no conocidas por el encargado del levantamiento de terreno, éstas se registraron con código único para cada especie en cada parcela, y se efectuaron recolecciones (en lo posible con flores y frutos) de cada especie para su posterior identificación. El tamaño de las parcelas de muestreo se determinó para las diferentes comunidades vegetales mediante el método del área mínima. La ubicación de las parcelas fue determinada al azar dentro del área de estudio por medio de SIG.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Una vez que la consultora GEOBIOTA finalizó el levantamiento de datos en terreno, el equipo GEF Montaña  realizó un proceso de mejoramiento de la calidad de la información, también conocido como curación de datos sobre biodiversidad, siguiendo estándares de calidad generados en conjunto con el Ministerio del Medio Ambiente.  A través de herramientas y estándares utilizados para la gestión de bases de datos, se trabajaron los  siguientes aspectos: formato Darwin Core, nombres científicos y nombres aceptados, taxonomía superior; y además se agregaron los nombres comunes de las especies, formas de vida y origen, basado en el Catálogo de las Plantas Vasculares de Chile de Rodriguez et al. (2018), y las categorías de conservación hasta el proceso 14 del Reglamento de Clasificación de Especies (RCE) del Ministerio del Medio Ambiente (MMA).
+
+En el marco de los protocolos de protección de información para especies sensibles que está gestionando el MMA, el proyecto GEF Montaña ha retenido información para 24 especies, por clasificarse como sensibles, y que cumplieron con al menos uno de los siguientes dos criterios: a) Encontrarse en alguna categoría de amenaza de conservación de acuerdo al RCE, es decir, se encuentren clasificadas como Vulnerable (VU), En Peligro (EN) o en Peligro Crítico (CR); y b) Distribuirse solo en la Región de Valparaíso, solo en la Región Metropolitana, o solo en la Región de Valparaíso y Metropolitana, es decir, en regiones del área GEF Montaña, de acuerdo al Catálogo de las Plantas Vasculares de Chile de Rodriguez et al. (2018). En el campo “informationWitheld” se identifican aquellos registros con información retenida por sensibilidad.
+
+Por último, debe mencionarse que durante los terrenos realizados por la consultora GEOBIOTA se colectaron ejemplares para potenciales muestras de herbario. Éstos fueron revisados y clasificados por M.Sc. Vanezza Morales, quien evaluó la calidad de las muestras según estándares de herbario. Los aspectos considerados en la revisión de cada muestra fueron: presentar caracteres básicos para su identificación (flores, frutos o semillas), encontrarse bien prensados, encontrarse enteros (no fragmentados) y poseer un tamaño adecuado. Luego de la revisión, las muestras que resultaron como de mediana y buena calidad, fueron montadas por la profesional, utilizando para ellos materiales libres de ácido. Resultado de ello se obtuvieron 66 ejemplares que fueron donados al Herbario de la Universidad de Concepción, incorporándose a la base de datos de información florística los códigos de herbario con que fueron almacenados y fotografías de las muestras.
+
+Posterior a la publicación de la base de datos en GBIF, en diciembre 2020 (ver &quot;modified&quot;) se corrigieron 18 nombres científicos a indicación de M.Sc. Nicolás Lavandero. El cambio se explicita en &quot;occurrenceRemarks&quot;. Los campos modificados para esas especies, fueron &quot;identifiedBy&quot;, &quot;scientificName&quot;, &quot;acceptedNameUsage&quot;, &quot;taxonomicStatus&quot;, &quot;originalNameUsage&quot;, &quot;genus&quot;, &quot;specificEpithet&quot;, &quot;infraspecificEpithet&quot;, &quot;taxonRank&quot;, &quot;scientificNameAuthorship&quot;, &quot;vernacularName&quot;, &quot;taxonRemarks&quot;, &quot;dynamicProperties&quot; y &quot;establishmentMeans&quot;.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Proyecto GEF 5135 “Protegiendo la Biodiversidad y Servicios Ecosistémicos Múltiples en Corredores Biológicos de Montaña, en el Ecosistema Mediterráneo de Chile”, conocido por su nombre corto “Proyecto GEF Corredores Biológicos de Montaña”.</title>
+          <personnel>
+    <individualName>
+<givenName>Marianne</givenName>          <surName>Katunaric Núñez</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>El Proyecto busca consolidar iniciativas público privadas que permitan la conservación de la biodiversidad y sus servicios ecosistémicos en territorios rurales  de la Región Metropolitana (30 comunas) y parte de la Región de Valparaíso (6 comunas).
+Para el logro de este objetivo, el proyecto considera la articulación de tres principales ejes estratégicos que permitirán el desarrollo sostenible del territorio: potenciando la gestión ambiental local por medio del fortalecimiento del rol de los municipios; estableciendo un sistema de monitoreo permanente de nuestros ecosistemas de montaña; y fomentando las buenas prácticas productivas mediante el perfeccionamiento de los incentivos productivos del Estado. 
+Entre los hitos previstos de desarrollo de capacidades en Gestión Ambiental Local está el desarrollo de una Planificación Ecológica a escala local del territorio; el fortalecimiento de las Unidades Ambientales Municipales; y el desarrollo de un modelo de gobernanza territorial y adaptación climática entre municipios vecinos llamados “Paisajes de Conservación”.
+Además, contempla mejorar el conocimiento de la biodiversidad regional y local, estableciendo un sistema de monitoreo permanente de esa biodiversidad, que en el futuro esté a cargo del Servicio de Biodiversidad y Áreas Protegidas (SBAP); y desarrollar capacidades municipales de gestión de la biodiversidad local, en complemento con la ciencia ciudadana.
+En el ámbito de minimizar el actual impacto negativo que tienen algunos rubros productivos sobre la biodiversidad, el proyecto considera el fomento de buenas prácticas en actividades agrícolas, ganaderas, de turismo y forestales, perfeccionando instrumentos existentes de incentivos; perfeccionando mecanismos de financiamiento existentes de subsidios; así como también integrarlos bajo una mirada a escala paisaje, declarando por primera vez en Chile, la figura Distrito de Conservación de Suelo, Bosque y Agua en un área piloto. 
+
+Método (anexo): http://gefmontana.cl/descargas/Proyecto-Aprobado-Ingles.pdf</para>
+          </abstract>
+          <funding>
+              <para>GEF (Global Environment Facility)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Cordones montañosos de la Zona Central de Chile, puntualmente en 6 comunas de la Región de Valparaíso sector cordillera de La Costa (Cartagena, Casablanca, Olmué, Quilpué, San Antonio y Santo Domingo), y 30 comunas de la Región Metropolitana sector rural y periurbano (Alhué, Buin, Calera de Tango, Colina, Curacaví, El Monte, Huechuraba, Isla De Maipo, La Florida, La Reina, Lampa, Las Condes, Lo Barnechea, Maipú, María Pinto, Melipilla, Padre Hurtado, Paine, Peñaflor, Peñalolén, Pirque, Pudahuel, Puente Alto, Quilicura, San Bernardo, San José de Maipo, San Pedro, Talagante, Til-Til y Vitacura)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>http://gefmontana.cl/descargas/Proyecto-Aprobado-Ingles.pdf</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:10Z</dateStamp>
+      <citation>Flores Meza S, Wallem Stein P, Bustamante A. V, Amaya L (2021). Levantamiento florístico en área del Proyecto GEF Corredores Biológicos de Montaña, Zona Central de Chile. Version 1.7. Ministerio del Medio Ambiente de Chile. Occurrence dataset https://doi.org/10.15468/ezyu58 accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Hoffmann, A., J. Watson &amp; A. Flores. 2015. Flora silvestre de Chile, Cuando el desierto florece, Volumen 1, Monocotiledóneas y otros taxones. Fundación Claudio Gay. Santiago, Chile.</citation>
+      <citation identifier="http://www.darwin.edu.ar/Proyectos/FloraArgentina/fa.htm">Instituto de Botánica Darwinion. s/a. Catálogo de Plantas Vasculares de Flora del Cono Sur. Disponible en: http://www.darwin.edu.ar/Proyectos/FloraArgentina/fa.htm</citation>
+      <citation>Novoa, P. 2013. Flora de la región de Valparaíso. Patrimonio y Estado de Conservación. Jardín Botánico Nacional.</citation>
+      <citation identifier="http://www.gayanabotanica.cl/pdfs/2018/1/01_Rodriguez_etal_2018.pdf">Rodriguez R., C. Marticorena, D. Alarcón, C. Baeza, L. Cavieres, V.L. Finot, N. Fuentes, A. Kiessling, M. Mihoc, A. Pauchard, E. Ruiz, P. Sanchez &amp; A. Marticorena. 2018. Catálogo de las plantas vasculares de Chile. Gayana Bot. 75(1): 1-430, 2018.</citation>
+      <citation>Tellier, S.; Marticorena, A. y Niemeyer. 2011. Flora Andina de Santiago. Santiago de Chile. 478 p.</citation>
+      <citation>Zuloaga, F. O.; Morrone, O. y M. Belgrano (eds). 2008. Catálogo de las Plantas Vasculares del Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay). Pteridophyta, Gymnospermae, Monocotyledoneae. Monograph in Systematic Botany from Missouri Botanical Garden 107(1); i-xcvi, 1-983.</citation>
+      <citation identifier="http://www.mma.gob.cl/clasificacionespecies/ ">MMA. 2018. Listado de Especie Clasificadas desde el 1° al 14° Proceso de Clasificación RCE. Disponible en: http://www.mma.gob.cl/clasificacionespecies/. Consultado el 31 de agosto de 2018.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://gbif-chile.mma.gob.cl/ipt/logo.do?r=planilla_510_punto</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Plantas del Ecosistema Mediterráneo de Chile. Herbario Universidad de Concepción</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

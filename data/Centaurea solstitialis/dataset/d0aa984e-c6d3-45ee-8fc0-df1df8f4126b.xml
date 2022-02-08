@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d0aa984e-c6d3-45ee-8fc0-df1df8f4126b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/14epds</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=trom_vascular</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=trom_vascular</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=trom_vascular</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=trom_v</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=trom_v</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=trom_v</alternateIdentifier>
+        <alternateIdentifier>d0aa984e-c6d3-45ee-8fc0-df1df8f4126b</alternateIdentifier>
+    <title>Vascular plant herbarium, UiT Tromsø Museum</title>
+    <creator>
+<organizationName>UiT The Arctic University Museum of Norway</organizationName>    <address>
+<deliveryPoint>Postboks 6050</deliveryPoint><city>Tromsø</city><postalCode>NO-9037</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>postmottak@umak.uit.no</electronicMailAddress><onlineUrl>https://en.uit.no/tmu</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>GBIF Norway</organizationName>    <address>
+<administrativeArea>Norway</administrativeArea><country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>GBIF Norway</organizationName>    <address>
+<administrativeArea>Norway</administrativeArea><country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The vascular plant herbarium at Tromsø Museum.</para>
+        <para>More than 90% of the specimens are from the Norwegian mainland, and of these ~80-85% are from Finnmark, Troms and Nordland. The vascular plant herbarium also contains valuable collections from the other Nordic countries as well as the arctic. The herbarium contains around 7000 specimens from Jan Mayen, arctic Canada, Alaska, Svalbard and Bjørnøya.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>musit-norway</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Heini Emilia</givenName>          <surName>Rämä</surName>
+    </individualName>
+<organizationName>Tromsø Museum</organizationName><positionName>Database coordinator</positionName>    <address>
+<city>Tromsø</city><country>NORWAY</country>    </address>
+<electronicMailAddress>heini.e.rama@uit.no</electronicMailAddress><onlineUrl>https://en.uit.no/ansatte/person?p_document_id=332968</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-9462-5172</userId>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:02Z</dateStamp>
+      <citation>UiT The Arctic University of Norway (2022). Vascular plant herbarium, UiT Tromsø Museum. Version 1.1734. Occurrence dataset https://doi.org/10.15468/14epds accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.gbif.no/logo.do?r=trom_vascular</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

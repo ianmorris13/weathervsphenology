@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7545db3b-b0bb-44c9-8ed2-68a49836b342"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/qvgv96</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=utiii_durrieu</alternateIdentifier>
+    <title>Herbier Durrieu (TL 109)</title>
+    <creator>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Seimandi</surName>
+    </individualName>
+<organizationName>Université Toulouse III - Paul Sabatier</organizationName><positionName>Responsable des herbiers</positionName>    <address>
+<deliveryPoint>2 rue Lamarck</deliveryPoint><city>Toulouse</city><administrativeArea>Occitanie</administrativeArea><postalCode>31400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>paul.seimandi@univ-tlse3.fr</electronicMailAddress><onlineUrl>https://www.univ-tlse3.fr/botanique</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Seimandi</surName>
+    </individualName>
+<organizationName>Université Toulouse III - Paul Sabatier</organizationName><positionName>Responsable des herbiers</positionName>    <address>
+<deliveryPoint>2 rue Lamarck</deliveryPoint><city>Toulouse</city><administrativeArea>Occitanie</administrativeArea><postalCode>31400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>paul.seimandi@univ-tlse3.fr</electronicMailAddress><onlineUrl>https://www.univ-tlse3.fr/botanique</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>43 rue Buffon Géologie CP48</deliveryPoint><city>Paris</city><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress><onlineUrl>http://www.gbif.fr</onlineUrl>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-25
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Herbier réalisé par le Pr Guy Durrieu (1931-2016) principalement en Occitanie. Quelques récoltes dans le nord de l&amp;#39;Espagne et en Algérie. Il contient 1890 planches reparties en 10 petits classeurs. Numérisé et disponible sur la plateforme Recolnat</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Hérault</keyword>
+              <keyword>Pyrénées-Atlantiques</keyword>
+              <keyword>Landes</keyword>
+              <keyword>Pyrénées</keyword>
+              <keyword>Haute-Garonne</keyword>
+              <keyword>Pyrénées-Orientales</keyword>
+              <keyword>Ariège</keyword>
+              <keyword>Aude</keyword>
+              <keyword>Tarn</keyword>
+              <keyword>Hautes-Pyrénées</keyword>
+              <keyword>Midi-Pyrénées</keyword>
+              <keyword>Algérie</keyword>
+              <keyword>Occitanie</keyword>
+              <keyword>Espagne</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://explore.recolnat.org/search/botanique/type=advanced&amp;institutioncode=TLS&amp;collectioncode=tls&amp;disposition=Plates%252520de%252520france%252520et%252520Espagne%252520-%252520Durrieu%252520G.</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Sud-Ouest de la France, nord de l&apos;Espagne, Algérie</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-10.723</westBoundingCoordinate>
+                      <eastBoundingCoordinate>12.129</eastBoundingCoordinate>
+                      <northBoundingCoordinate>46.92</northBoundingCoordinate>
+                      <southBoundingCoordinate>19.145</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1941-08-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1966-06-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Unranked</taxonRankName>
+                        <taxonRankValue>Angiospermae Lindl., 1830</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Seimandi</surName>
+    </individualName>
+<organizationName>Université Toulouse III - Paul Sabatier</organizationName><positionName>Responsable des herbiers</positionName>    <address>
+<deliveryPoint>2 rue Lamarck</deliveryPoint><city>Toulouse</city><administrativeArea>Occitanie</administrativeArea><postalCode>31400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>paul.seimandi@univ-tlse3.fr</electronicMailAddress><onlineUrl>https://www.univ-tlse3.fr/botanique</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Nathalie</givenName>          <surName>Séjalon-Delmas</surName>
+    </individualName>
+<organizationName>Université Toulouse III - Paul Sabatier</organizationName><positionName>Directrice du Service du Patrimoine</positionName>    <address>
+<deliveryPoint>2 rue Lamarck</deliveryPoint><city>Toulouse</city><administrativeArea>Occitanie</administrativeArea><postalCode>31400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>nathalie.delmas@lrsv.ups-tlse.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:40:59Z</dateStamp>
+      <citation>Seimandi P (2020). Herbier Durrieu (TL 109). Université Toulouse III - Paul Sabatier, Herbarium TL. Occurrence dataset https://doi.org/10.15468/qvgv96 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://upload.wikimedia.org/wikipedia/fr/a/a4/Logo_UT3.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

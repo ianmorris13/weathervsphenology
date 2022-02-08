@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8af571a4-135f-4ca0-acd8-16983cf6ee77"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ptip0g</alternateIdentifier>
+        <alternateIdentifier>8af571a4-135f-4ca0-acd8-16983cf6ee77</alternateIdentifier>
+        <alternateIdentifier>http://ipt.taibif.tw/resource?r=alien_flora_of_nepal_tuch</alternateIdentifier>
+    <title>alien_flora_of_nepal_tuch</title>
+    <creator>
+    <individualName>
+<givenName>Bharat Babu</givenName>          <surName>Shrestha</surName>
+    </individualName>
+<organizationName>Central Department of Botany, Tribhuvan University</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Tribhuvan University, Kirtipur</deliveryPoint><city>Kathmandu</city><administrativeArea>Bagmati</administrativeArea><postalCode>44613</postalCode><country>NEPAL</country>    </address>
+<phone>+97714331322</phone><electronicMailAddress>shresthabb@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9457-2637</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Bharat Babu</givenName>          <surName>Shrestha</surName>
+    </individualName>
+<organizationName>Central Department of Botany, Tribhuvan University</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Tribhuvan University, Kirtipur</deliveryPoint><city>Kathmandu</city><administrativeArea>Bagmati</administrativeArea><postalCode>44613</postalCode><country>NEPAL</country>    </address>
+<phone>+97714331322</phone><electronicMailAddress>shresthabb@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9457-2637</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Bharat Babu</givenName>          <surName>Shrestha</surName>
+    </individualName>
+<organizationName>Central Department of Botany, Tribhuvan University</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Tribhuvan University, Kirtipur</deliveryPoint><city>Kathmandu</city><administrativeArea>Bagmati</administrativeArea><postalCode>44613</postalCode><country>NEPAL</country>    </address>
+<phone>+97714331322</phone><electronicMailAddress>shresthabb@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9457-2637</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-05-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database contains occurrence records of the alien plants that are naturalized in Nepal based on the herbarium specimens that have been deposited at the Tribhuvan University Central Herbarium (TUCH) of the Central Department of Botany, Tribhuvan University, Nepal. The species included are invasive as well as non-invasive naturalized species. It has records of 119 alien species included in 1753 herbarium records.
+
+The digitization and publication process of this database was supported by Biodiversity Information Fund for Asia (BIFA; project no. BIFA3_25) program of Global Biodiversity Information Facility (GBIF) funded by Ministry of Environment, Government of Japan.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Nepal - which lies between India and China in Asia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>79.805</westBoundingCoordinate>
+                      <eastBoundingCoordinate>88.374</eastBoundingCoordinate>
+                      <northBoundingCoordinate>30.6</northBoundingCoordinate>
+                      <southBoundingCoordinate>26.195</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1959-05-18
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-02-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All vascular plants were identified to species level.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The database has been developed and published to fill geographic gap of the freely available occurrence data of plants and inform policy process for the conservation of biodiversity. Specifically, the database helps to meet Nepal’s commitment to make biodiversity data available as a part of Global Strategy for Plant Conservation 2011-2020 of the Convention on Biological Diversity (CBD).</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Database will be updated when needed and resources to do that is available.</para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Bharat Babu</givenName>          <surName>Shrestha</surName>
+    </individualName>
+<organizationName>Central Department of Botany, Tribhuvan University</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Tribhuvan University, Kirtipur</deliveryPoint><city>Kathmandu</city><administrativeArea>Bagmati</administrativeArea><postalCode>44613</postalCode><country>NEPAL</country>    </address>
+<phone>+97714331322</phone><electronicMailAddress>shresthabb@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9457-2637</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Using the checklist of alien flowering plants of Nepal (179 species), herbarium specimens deposited at Tribhuvan University Central Herbarium (TUCH) were checked and sorted out. Identification of the specimens were checked and verified by taxonomic experts. All the herbarium specimens of the alien plant species were photographed and related information were captured. In situation when geographic coordinates (latitude and longitude) were absent in the original records, geo-referencing was done but this was limited to only those specimens which has sufficiently detail description of the collection localities. The geographic coordinates obtained from the geo-referencing were presented up to two digit after decimal point.  
+
+Data were captured by research assistants. The raw data were checked for uniformity of the format and accepted scientific names including author citation. Entire data was managed in Darwin Core (DwC) Standard format in the template that was available in GBIF. OccurrenceID was designed by combining institution code (i.e. TUCH), district code (two letters for each district; for example KT for Kathmandu district) and bar code number with colon in between them. We considered 75 districts in Nepal (In current system the number of districts is 77 but all the herbarium collections mentioned district according to 75 district system). We mentioned ecological regions (eastern Nepal, central Nepal and western Nepal) under the heading of ‘stateProvince’ and district name under ‘county’ in the DwC format.  
+
+Before starting publication, the database was validated and inconsistencies identified during validation were fixed by checking raw data and original specimens. When data was ready, we communicated with data hosting institution which has installed Integrated Publishing Toolkit (IPT). Earlier to this, we registered the organization as data published in GBIF.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The database includes the occurrence records of the alien plants of Nepal based on the herbarium specimens that have been deposited at Tribhuvan University Central Herbarium (TUCH). The specimens were collected from different part of Nepal by researchers.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Using the checklist of alien flowering plants of Nepal (179 species), herbarium specimens deposited at Tribhuvan University Central Herbarium (TUCH) were checked and sorted out. Identification of the specimens were checked and verified by taxonomic experts. All the herbarium specimens of the alien plant species were photographed and related information were captured.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Identification of plants were confirmed by taxonomic experts of the project team. In situation when geographic coordinates (latitude and longitude) were absent in the original records, geo-referencing was done but this was limited to only those specimens which has sufficiently detail description of the collection localities. The geographic coordinates obtained from the geo-referencing were presented up to two digit after decimal point. Entire data was managed in Darwin Core Standard format.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BIFA3_025">
+          <title>Mobilizing occurrence data of alien and endemic plant species of Nepal</title>
+          <personnel>
+    <individualName>
+<givenName>Bharat Babu</givenName>          <surName>Shrestha</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-9457-2637</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mohan</givenName>          <surName>Siwakoti</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sanjeev Kumar</givenName>          <surName>Rai</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Suresh Kumar</givenName>          <surName>Ghimire</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Kalpana</givenName>          <surName>Sharma (Dhakal)</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sajita</givenName>          <surName>Dhakal</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ganesh Dutt</givenName>          <surName>Joshi</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Yagya Raj</givenName>          <surName>Paneru</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>A research project on Mobilizing occurrence data of the alien and endemic plant species of Nepal was implemented by the Central Department of Botany, Tribhuvan University (CDB TU), Kathmandu and the Department of Plant Resources (DPR), Ministry of Forest and Environment, Government of Nepal, in association with Royal Botanic Garden Edinburgh, Scotland, UK. The CDB TU is managing Tribhuvan University Central Herbarium (TUCH) and the DPR is managing National Herbarium and Plant Laboratories (KATH). Herbarium specimens that have been deposited at TUCH and KATH were digitized (photography and data capturing).</para>
+          </abstract>
+          <funding>
+              <para>The main funding for this project (BIFA3_025) came from the Biodiversity Information Fund for Asia (BIFA) program of the Global Biodiversity Information Facility (GBIF) which was funded by Ministry of Environment, Government of Japan. Co-funding came from the Central Department of Botany (Tribhuvan University), Department of Plant Resources, and Royal Botanic Garden Edinburgh (UK).</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>This work covered the entire area of Nepal which lies between India and China in Asia. The country has been divided into three ecological regions: western (west of 83 degree east latitude), central (between 83 and 86.5 degree east latitude) and eastern (east of 86.5 degree east latitude). Politically, the country has been also divided into 77 districts (previously 75 districts). During this project, we digitized herbarium specimens of the flowering plants (limited to alien and endemic plants) collected since 1925 AD.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The aim of the project was to digitize and publish occurrence data of the alien and endemic plants of Nepal based on the herbarium specimens. The project started with the preparation and validation of the checklist of the alien and endemic plant species of Nepal. We finalized the checklist of 179 alien species and 313 endemic species. Herbarium specimens of these species that have been deposited at Tribhuvan University Central Herbarium (TUCH) and National Herbarium and Plant Laboratories (KATH) were sorted out and identification confirmed with the help of taxonomic experts. During the project period, additional herbarium specimens of the alien species were also collected through co-funding. In addition, researchers and students of the Central Department of Botany, Tribhuvan University also contributed some herbarium voluntarily to the TUCH. In each herbarium specimen, barcode and institutional stamp were put. In addition, color chart and scale were put at the time of the photography of the specimens. We used camera at TUCH and scanner at KATH for capturing images of the specimens. Information associated with each specimen were entered in database using MS excel and/or MS Access and formatted according to the Darwin Core Standard.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:56Z</dateStamp>
+      <citation>Shrestha B B (2020). alien_flora_of_nepal_tuch. Version 1.1. Central Department of Botany, Tribhuvan University. Occurrence dataset https://doi.org/10.15468/ptip0g accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.taibif.tw/logo.do?r=alien_flora_of_nepal_tuch</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Tribhuvan University Central Herbarium (TUCH)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

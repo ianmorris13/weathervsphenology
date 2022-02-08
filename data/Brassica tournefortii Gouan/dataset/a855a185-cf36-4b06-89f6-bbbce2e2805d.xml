@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a855a185-cf36-4b06-89f6-bbbce2e2805d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jnetji</alternateIdentifier>
+        <alternateIdentifier>a855a185-cf36-4b06-89f6-bbbce2e2805d</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr671</alternateIdentifier>
+        <alternateIdentifier>dddb5e5c-a6b7-34e0-98cc-5aee79e51352</alternateIdentifier>
+    <title>Banded Iron Formation and Greenstone survey data</title>
+    <creator>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </creator>
+    <creator>
+<organizationName>Western Australia, Department of Biodiversity, Conservation and Attractions</organizationName>    <address>
+<deliveryPoint>17 Dick Perry Avenue</deliveryPoint><city>Perth</city><administrativeArea>Western Australia</administrativeArea><postalCode>6151</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(08) 9219 9000</phone><electronicMailAddress>enquiries@dbca.wa.gov.au</electronicMailAddress><onlineUrl>https://www.dbca.wa.gov.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The data within this broad datasource are comprised from a number of surveys undertaken over the last 14 years. Specifically:
+
+1. Data from seven ranges within the Eastern Goldfields captured during 1994-1996 (370 quadrats, 8739 records);
+2. Data from the Die Hardy, Mt Jackson, Windarling and Bungalbin ranges captured during 2005 (66 quadrats, 1898 records); and
+3. The Yilgarn Banded Iron Formation Survey from 2005-08 (1217 quadrats, 31119 records)
+
+For more information on these datasets visit the BIF theme page by clicking on Themes | Banded Iron Formations (BIF) in the main menu.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr671</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Neil</givenName>          <surName>Gibson</surName>
+    </individualName>
+<positionName>editor</positionName>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:06Z</dateStamp>
+      <citation>Western Australia, Department of Biodiversity, Conservation and Attractions (2019). Banded Iron Formation and Greenstone survey data. Occurrence dataset https://doi.org/10.15468/jnetji accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/wa-gov.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

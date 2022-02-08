@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d38d6841-de2a-4a16-b39e-495402d8592b"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/xckykf</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-8BFADCF5-0007-08E0-E053-5014A8C07AA4</alternateIdentifier>
+    <title>Observations faune et flore du Parc national des Écrins</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>n/a</surName>
+    </individualName>
+<organizationName>n/a</organizationName><positionName>n/a</positionName>    </creator>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>n/a</surName>
+    </individualName>
+<organizationName>PARC NATIONAL DES ECRINS</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>n/a</surName>
+    </individualName>
+<organizationName>PARC NATIONAL DES ECRINS</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-25
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Synthèse de toutes les données récoltées par les agents du Parc National des Écrins dans différents protocoles et programmes</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-0.047</westBoundingCoordinate>
+                      <eastBoundingCoordinate>6.915</eastBoundingCoordinate>
+                      <northBoundingCoordinate>45.2</northBoundingCoordinate>
+                      <southBoundingCoordinate>43.662</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>n/a</surName>
+    </individualName>
+<organizationName>n/a</organizationName><positionName>n/a</positionName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:40:56Z</dateStamp>
+      <citation>n/a N, Inventaire National du Patrimoine Naturel (2020). Observations faune et flore du Parc national des Écrins. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/xckykf accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7b384fce-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/kbb83z</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=mmnh_plant</alternateIdentifier>
+        <alternateIdentifier>https://www.kbif.go.kr/ipt/resource?r=mmnh_plant</alternateIdentifier>
+        <alternateIdentifier>http://www.kbif.go.kr/ipt/resource?r=mmnh_plant</alternateIdentifier>
+        <alternateIdentifier>http://data.kbif.re.kr/ipt/resource?r=mmnh_plant</alternateIdentifier>
+        <alternateIdentifier>http://data.kbif.re.kr/ipt/resource.do?r=mmnh_plant</alternateIdentifier>
+        <alternateIdentifier>7b384fce-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>11552</alternateIdentifier>
+    <title>Mongolian Plant (MMNH-PL)</title>
+    <creator>
+<organizationName>MMNH</organizationName>    <address>
+<country>KOREA_SOUTH</country>    </address>
+<onlineUrl>http://www.naris.go.kr</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Hyung-Seon</givenName>          <surName>Park</surName>
+    </individualName>
+<organizationName>KISTI</organizationName>    <address>
+<deliveryPoint>KISTI, 245 Daehak-Ro, Yuseong-Gu, Daejeon City, 305-806 Republic of Korea</deliveryPoint><city>Daejon</city><country>KOREA_SOUTH</country>    </address>
+<phone>+82-42-869-1762</phone><electronicMailAddress>seonpark@kisti.re.kr</electronicMailAddress><onlineUrl>http://kdr.kbif.re.kr</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2021-05-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Mongolia Natural History Museum Mongolian Plant Resources</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mongolia District</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>87.755</westBoundingCoordinate>
+                      <eastBoundingCoordinate>119.929</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.146</northBoundingCoordinate>
+                      <southBoundingCoordinate>41.608</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Woon-Kee</givenName>          <surName>Paek</surName>
+    </individualName>
+<organizationName>Mongolia Museum of Natural History</organizationName><positionName>Director</positionName>    <address>
+<country>KOREA_SOUTH</country>    </address>
+<electronicMailAddress>paekwk@korea.kr</electronicMailAddress><onlineUrl>http://www.naris.go.kr</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:38Z</dateStamp>
+      <citation>Mongolia Natural History Museum (2021). Mongolian Plant (MMNH-PL). Occurrence dataset https://doi.org/10.15468/kbb83z accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

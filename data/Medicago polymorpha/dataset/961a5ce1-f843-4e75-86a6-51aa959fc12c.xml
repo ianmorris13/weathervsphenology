@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="961a5ce1-f843-4e75-86a6-51aa959fc12c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/e2luor</alternateIdentifier>
+    <title>Plant</title>
+    <associatedParty>
+    <individualName>
+          <surName>Sang-Yong Kim</surName>
+    </individualName>
+<positionName>Researcher</positionName><phone>+82-31-540-1086</phone><electronicMailAddress>rosaksy@foa.go.kr</electronicMailAddress>    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Sang-Yong Kim</surName>
+    </individualName>
+<positionName>Researcher</positionName><phone>+82-31-540-1086</phone><electronicMailAddress>rosaksy@foa.go.kr</electronicMailAddress>    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>세계는 지금 생물 다양성 보전의 중요성에 대하여 새로운 인식과 변화를 맞고 있으며 인류생존을 위해서 식물의 세계를 온전하게 보전해야 한다는 절대적인 과제를 해결하기 위하여 노력하고 있습니다. 우리나라에서도 많은 수목원과 식물원에서 식물 종의 수집과 보전을 위한 활동과 연구를 지속적으로 수행하고 있으며, 식물자원의 보전을 위한 정책과 계획을 수립하고 있습니다. 
+· 산림청에서는 국가적 식물자원의 보전을 위한 많은 과제들 중에서 식물 종의 서식처에 대한 보전실태를 모니터링 하기 위한 「국가 식물자원정보 관리시스템」을 구축하고 있습니다. 
+· &amp;#34;한국의 식물자원&amp;#34;홈페이지는 「국가 식물자원정보 관리시스템」에서 구축되는 정보 중에서 일부를 일반인에게 제공하는 부분과 네트워크 구축을 위한 자료수집 체계(국가 식물자원정보 관리시스템 인트라넷) 부분으로 구분되어 국가적인 식물 보전실태 중심의 정보로 운영될 예정 입니다. 
+ 
+ 2010년까지 구축완료를 목표로 하고 있는「국가 식물자원정보 관리시스템」은 많은 자료를 제공하는 대학의 식물 표본관과 수목원, 식물원에서의 적극적인 협조에 의하여 단계별로 추진되고 있습니다. 시스템 구축이 완료되지 않은 상황이지만 전 국민이 함께 국가 식물자원 보전에 동참하고 함께 발전시키기 위하여 추진 과정과 구축내용에 대한 홈페이지를 공개 합니다. 
+ 
+ 지속적으로 구축될 정보를 이용하시면서 효율적 활용방안에 대한 의견을 기탄 없이 주시고 국립수목원 생물표본과 이병천 박사, 산림청 정보통계과 김찬회 서기관과 협의하여 주시면 성공적인 국가 식물자원정보 관리시스템이 구축될 수 있도록 최선을 다하겠습니다</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://203.250.196.222:8080/KNA/KNA_Data_Repository/collection165297/resource147673</url>
+          </online>
+      </distribution>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:10Z</dateStamp>
+      <citation>Korea National Arboretum (Korea Forest Service). Plant. Occurrence dataset https://doi.org/10.15468/e2luor accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

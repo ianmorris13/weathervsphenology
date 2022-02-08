@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="170fd706-23a1-4036-b29e-57f4b2cb7bed"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/eorftz</alternateIdentifier>
+        <alternateIdentifier>170fd706-23a1-4036-b29e-57f4b2cb7bed</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr1856</alternateIdentifier>
+        <alternateIdentifier>95bd7b7e-51e9-3d49-be79-8b2dd483af87</alternateIdentifier>
+    <title>Salinity Action Plan Flora Survey</title>
+    <creator>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Wetland flora and vegetation of the Western Australian wheatbelt M.N. Lyons, N. Gibson, G.J. Keighery and S.D. Lyons Department of Conservation and Land Management, Science Division, PO Box 51 Wanneroo, Western Australia 6946, Australia. Abstract - Eight hundred and thirteen quadrats were surveyed to sample wetland vegetation throughout the wheatbelt and adjacent south coast of Western Australia, an area of ca. 220 000 km2. Two hundred and fourteen wetlands were intensively sampled with between one and ten quadrats placed at each wetland to capture the major vegetation zonation. A further 100 quadrats were scattered through the study area to sample particular examples of wetland vegetation. Sampling spanned the full range of elevations at wetlands from inundated basins to the adjacent landforms such as lunettes. A total of 1436 taxa of vascular plants from 109 families were recorded. Naturalized taxa were 11.8% of the flora. Four hundred and twenty-eight taxa (29.7%) were categorized as restricted to wetland habitats. These included both aquatic (53 taxa) and amphibious plants (89 taxa). The wetlands of the study area represent the world centre of diversity for annual Juncaginaceae and the subfamily Salicornioideae (Chenopodiaceae). Species richness of quadrats (100 m2) ranged from 1-72 taxa, with a mean of 20.5 taxa per quadrat. Thirty-one per cent of taxa only occurred at a single quadrat (singletons) and 59.3% occurred at less than five quadrats. Eight previously unrecognized taxa were collected for the first time and the habitats and distributions of several undescribed taxa with few previous collections were clarified. Collections were made of 78 taxa listed on the Department of Conservation and Land Management&amp;#39;s priority flora list. Eight of these were gazetted as Declared Rare Flora (Wildlife Conservation Act, 1950) with two (Frankenia conferta and F. parvula) regarded as extinct prior to the current survey... Terrestrial flora and vegetation of the wheatbelt of south western Australia N. Gibson, G.J. Keighery, M.N. Lyons and A. Webb Science Division, Department of Conservation and Land Management, P.O. Box 51, Wanneroo, Western Australia 6065, Australia. Abstract -- Six hundred and eighty-two quadrats were located across the Western Australian wheatbelt and adjacent regions to cover as much of the geographical, edaphic and geomorphological variation of the terrestrial plant communities as possible. The study area covered 230,000 km2 or 70% of the South West Botanical Province, one of the world&amp;#39;s 25 biodiversity hotspots. It included all or part of the six biogeographical regions centered on the wheatbelt. The native vegetation in the study area is highly fragmented with 74% having been cleared for agriculture. Clearing has not been uniform; more extensive areas of bushland remain along the southern and western margins. A total of 2609 taxa of vascular plants in 103 families was recorded from the quadrats. The species frequency pattern followed a lognormal distribution. At a scale of 400 m2, there was little difference in species richness between woodland, mallee and shrubland formations but those on duplex soils had lower species richness than those on deep sand, laterite and granite soils. Over 60% of taxa were recorded in fewer than five quadrats. These uncommon taxa were not randomly distributed but concentrated at the periphery of the study area, particularly in the west and south. At least eight previously unrecognized taxa were collected for the first time. Further collections of 15 taxa listed as Declared Rare under the Wildlife Conservation Act, and 161 taxa on the Department of Conservation and Land Management&amp;#39;s priority flora list were made.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr1856</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Gioia</surName>
+    </individualName>
+<positionName>custodian</positionName><phone>(08) 9219 9067</phone><electronicMailAddress>Paul.Gioia@DPaW.wa.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:00Z</dateStamp>
+      <citation>Western Australia, Department of Biodiversity, Conservation and Attractions (2019). Salinity Action Plan Flora Survey. Occurrence dataset https://doi.org/10.15468/eorftz accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/wa-gov.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

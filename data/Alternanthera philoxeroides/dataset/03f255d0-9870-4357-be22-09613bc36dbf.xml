@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="03f255d0-9870-4357-be22-09613bc36dbf"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/0lfcom</alternateIdentifier>
+        <alternateIdentifier>14306</alternateIdentifier>
+    <title>Guadeloupe_Herbier</title>
+    <creator>
+    <individualName>
+<givenName>Claudie</givenName>          <surName>PAVIS</surName>
+    </individualName>
+<organizationName>INRA Antilles-Guyane</organizationName>    <address>
+<city>Petit-Bourg</city><postalCode>F-97170</postalCode><country>GUADELOUPE</country>    </address>
+<electronicMailAddress>claudie.pavis@antilles.inra.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Franciane</givenName>          <surName>Nuissier</surName>
+    </individualName>
+    <address>
+<city>Petit-Bourg</city><postalCode>F-97170</postalCode><country>GUADELOUPE</country>    </address>
+<electronicMailAddress>franciane.nuissier@inrae.fr</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2012-06-20
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Depuis les années 70, le centre INRAE de Guadeloupe a progressivement créé un herbier qui compte aujourd’hui environ 14 000 spécimens provenant des petites Antilles (principalement Guadeloupe et Martinique). Jacques Fournet, un chercheur INRAE, a coordonné la genèse de cette collection ainsi que le travail d’identification.L’herbier est référencé sous l’acronyme  GUAD par l’Index Herborarium et les échantillons sont conservés dans des chemises en carton dans une atmosphère à faible taux d’humidité. La numérisation des parts de l’herbier est en cours ainsi que la révision des informations de la base de données. Certaines données ne sont pas à jour, nous espérons pouvoir fournir les informations corrigées ainsi que l’accès au nouveau site web de cette collection pour décembre 2021</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Anne-Marie</givenName>          <surName>TOUSSAINT</surName>
+    </individualName>
+<organizationName>INRAE Antilles-Guyane</organizationName>    <address>
+<city>Petit-Bourg</city><postalCode>F-97170</postalCode><country>GUADELOUPE</country>    </address>
+<electronicMailAddress>anne-marie.toussaint@inrae.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marie</givenName>          <surName>UMBER</surName>
+    </individualName>
+<organizationName>INRAE Antilles-Guyane</organizationName>    <address>
+<city>Petit-Bourg</city><postalCode>F-97170</postalCode><country>GUADELOUPE</country>    </address>
+<electronicMailAddress>marie.umber@inrae.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:42Z</dateStamp>
+      <citation>PAVIS C, Nuissier F (2012). Guadeloupe_Herbier. INRA Antilles-Guyane. Occurrence dataset https://doi.org/10.15468/0lfcom accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1e09d985-8f58-4a34-ab86-17e55f203c8a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/9axxge</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=niek_2022</alternateIdentifier>
+    <title>niek_2022</title>
+    <creator>
+    <individualName>
+<givenName>Yongsu</givenName>          <surName>Kwon</surName>
+    </individualName>
+<organizationName>National Institute of Ecology</organizationName><positionName>Researcher</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Yongsu</givenName>          <surName>Kwon</surName>
+    </individualName>
+<organizationName>National Institute of Ecology</organizationName><positionName>Researcher</positionName>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>HyunJong</givenName>          <surName>Kim</surName>
+    </individualName>
+<electronicMailAddress>ttliu@nsmk.kr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>niek_2021</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>niek_2021</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>122.344</westBoundingCoordinate>
+                      <eastBoundingCoordinate>131.133</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.812</northBoundingCoordinate>
+                      <southBoundingCoordinate>32.547</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Yongsu</givenName>          <surName>Kwon</surName>
+    </individualName>
+<organizationName>National Institute of Ecology</organizationName><positionName>Researcher</positionName>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:33Z</dateStamp>
+      <citation>Kwon Y (2022). niek_2022. National Institute of Ecology. Occurrence dataset https://doi.org/10.15468/9axxge accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

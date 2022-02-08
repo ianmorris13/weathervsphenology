@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="188fcdd5-c16d-4f09-9f76-fed7193ce3ab"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ngj75w</alternateIdentifier>
+    <title>Wikiplantbase Sicilia</title>
+    <associatedParty>
+    <individualName>
+          <surName>Gianni Bedini</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Dipartimento di Biologia, Università di Pisa, via Derna 1, I-56126 Pisa, Italy</deliveryPoint>    </address>
+<phone>+39 050 2211 314</phone><electronicMailAddress>gianni.bedini@unipi.it</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>The databases stores historical and current plant occurrence records relative to Sicily administrative region of Italy (NUTS-2 code ITG1). Source of records may be bibliographical references, herbarium specimens, or human observations. The database is associated with the Wikiplantbase project, including sister databases for Sardinia, Liguria and Tuscany</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Gianniantonio Domina</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Department of agricultural, food and forest Sciences, University of Palermo, via Archirafi, 38, I-90123 - Palermo, Italy</deliveryPoint>    </address>
+<phone>+39 09123891209</phone><electronicMailAddress>gianniantonio.domina@unipa.it</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:06Z</dateStamp>
+      <citation>Dipartimento di Biologia, Università di Pisa. Wikiplantbase Sicilia. Occurrence dataset https://doi.org/10.15468/ngj75w accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="953c46c5-363c-4bcb-a065-86d66f7ffa77"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/nsyt4y</alternateIdentifier>
+        <alternateIdentifier>http://tun.fi/HR.428</alternateIdentifier>
+        <alternateIdentifier>953c46c5-363c-4bcb-a065-86d66f7ffa77</alternateIdentifier>
+    <title>TUR Vascular plant collections of the Turku University, Herbarium generale</title>
+      <pubDate>
+      2022-02-02
+      </pubDate>
+    <language>FINNISH</language>
+    <abstract>
+        <para>Vascular plant collections, Herbarium generale</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>World wide excluding Fennoscandia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-149.25</westBoundingCoordinate>
+                      <eastBoundingCoordinate>166.902</eastBoundingCoordinate>
+                      <northBoundingCoordinate>70.096</northBoundingCoordinate>
+                      <southBoundingCoordinate>-34.752</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1831-07-31
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-06-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Chromista</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Samuli</givenName>          <surName>Lehtonen</surName>
+    </individualName>
+<electronicMailAddress>samuli.lehtonen@utu.fi</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+          <surName>FinBIF</surName>
+    </individualName>
+<electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:55Z</dateStamp>
+      <citation>Finnish Biodiversity Information Facility (2022). TUR Vascular plant collections of the Turku University, Herbarium generale. Occurrence dataset https://doi.org/10.15468/nsyt4y accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

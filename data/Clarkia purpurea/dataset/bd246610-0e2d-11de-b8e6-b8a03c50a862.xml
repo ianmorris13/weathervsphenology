@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bd246610-0e2d-11de-b8e6-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/8kbpfk</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=ihar_seed_collection</alternateIdentifier>
+        <alternateIdentifier>bd246610-0e2d-11de-b8e6-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>8334</alternateIdentifier>
+    <title>Seed collection – dead seeds for evaluation and observation purposes</title>
+    <creator>
+    <individualName>
+<givenName>Denise Fu</givenName>          <surName>Dostatny</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>d.dostatny@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Denise Fu</givenName>          <surName>Dostatny</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>d.dostatny@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Denise Fu</givenName>          <surName>Dostatny</surName>
+    </individualName>
+<electronicMailAddress>d.dostatny@ihar.edu.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The collection includes seeds of weeds collected in agricultural fields, fallows, balks, etc., as well as crop seeds. These seeds were collected by Asst. Kulpa, the founder of this collection and also come from botanical gardens from different parts of the world, e.g. from Brussels (Belgium), Riga (Latvia), Coimbra (Portugal), Jasi and Bucharest (Romania), Strasbourg (France), Dresden, Gatersleben and Leipzig (Germany), Uppsala (Sweden), Vienna (Austria), Basil (Switzerland), Amsterdam (Netherlands), Brno (Czech Republic). Most of the material was received in the 1980&amp;#39;s and 1990&amp;#39;s.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Denise Fu</givenName>          <surName>Dostatny</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>d.dostatny@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T02:19:39Z</dateStamp>
+      <citation>Dostatny D F (2017). Seed collection – dead seeds for evaluation and observation purposes. Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute. Occurrence dataset https://doi.org/10.15468/8kbpfk accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

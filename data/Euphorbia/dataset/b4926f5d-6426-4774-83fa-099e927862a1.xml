@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b4926f5d-6426-4774-83fa-099e927862a1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pj2yrh</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=svg_vascular</alternateIdentifier>
+        <alternateIdentifier>b4926f5d-6426-4774-83fa-099e927862a1</alternateIdentifier>
+        <alternateIdentifier>12156</alternateIdentifier>
+    <title>Vascular Plants, Museum of Archaeology, University of Stavanger</title>
+    <creator>
+<organizationName>Museum of Archaeology, University of Stavanger</organizationName>    <address>
+<city>Stavanger</city><country>NORWAY</country>    </address>
+    </creator>
+    <metadataProvider>
+<organizationName>GBIF Norway</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><administrativeArea>Norway</administrativeArea><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>+4722851620</phone><electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>GBIF Norway</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><administrativeArea>Norway</administrativeArea><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>+47-22851620</phone><electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Vascular Plants, Museum of Archaeology, University of Stavanger</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>musit-norway</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Vascular plants of Rogaland County, southwestern Norway</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>2.46</westBoundingCoordinate>
+                      <eastBoundingCoordinate>11.04</eastBoundingCoordinate>
+                      <northBoundingCoordinate>64.06</northBoundingCoordinate>
+                      <southBoundingCoordinate>57.73</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Anne-Cathrine</givenName>          <surName>Scheen</surName>
+    </individualName>
+<organizationName>University of Stavanger</organizationName><positionName>Curator of Vascular Plants</positionName>    <address>
+<deliveryPoint>Peder Klows gate 30A</deliveryPoint><city>Stavanger</city><postalCode>4036</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>anne-cathrine.scheen@uis.no</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:28Z</dateStamp>
+      <citation>University of Stavanger (2022). Vascular Plants, Museum of Archaeology, University of Stavanger. Version 30.302. Occurrence dataset https://doi.org/10.15468/pj2yrh accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cc63e998-fe1b-468d-94f1-6afcf494d0e4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/y4xndh</alternateIdentifier>
+        <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=blm_nisims</alternateIdentifier>
+    <title>BLM - National Invasive Species Information Management System - Plants</title>
+    <creator>
+    <individualName>
+<givenName>John</givenName>          <surName>Reitsma</surName>
+    </individualName>
+<organizationName>Bureau of Land Management</organizationName><positionName>GIS Coordinator</positionName>    <address>
+<deliveryPoint>National Operations Center, Denver Federal Center, Building 50</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80225-0047</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>jreitsma@blm.gov</electronicMailAddress><onlineUrl>http://www.blm.gov/wo/st/en/prog/more/weeds.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>John</givenName>          <surName>Reitsma</surName>
+    </individualName>
+<organizationName>Bureau of Land Management</organizationName><positionName>GIS Coordinator</positionName>    <address>
+<deliveryPoint>National Operations Center, Denver Federal Center, Building 50</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80225-0047</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 (202) 912-7226</phone><electronicMailAddress>jreitsma@blm.gov</electronicMailAddress><onlineUrl>http://www.blm.gov/wo/st/en/prog/more/weeds.html</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2021-03-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Bureau of Land Management&amp;#39;s National Invasive Species Information Management System (NISIMS) is designed to collect field data and store it in a standard database to allow for data sharing and reporting at the local, state and national levels. At this time, the system reports and tracks weed infestations only, Future versions of the system will report and track infestations by all taxa including weeds, birds, fish, and algae. The system also reports and tracks treatments of these invasive weed species infestations on public lands.
+
+The tools are based on the use of the BLM system of Enterprise Geographic Information System (EGIS) Architecture approved nationally in 2003. It also depends on the Geospatial Services Strategic Plan approved nationally by BLM management in 2008. It is the first BLM system with seamless tools to collect scientific data in remote locations throughout all BLM lands and to feed that data regularly into national, official BLM geospatial database.
+
+Though the infestation data included here represents a snapshot of actual infestations of the individual species, it doesn&amp;#39;t represent the total infestations of the particular species. Only a fraction of the lands the BLM administers has been inventoried, and not all of that data has been brought into NISIMS.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>invasive plants</keyword>
+              <keyword>invasive species</keyword>
+              <keywordThesaurus>Biocomplexity Thesaurus</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>words as described here: http://www.blm.gov/style/medialib/blm/wo/Planning_and_Renewable_Resources/nisims.Par.31448.File.dat/NISIMS_2_Data%20Dictionary_Public.pdf</keyword>
+              <keywordThesaurus>NISIMS data dictionary</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Metadata</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>During processing of the dataset where percent cover=0, occurrence status was interpreted as &apos;absent&apos;.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.blm.gov/programs/natural-resources/weeds-and-invasives/nisims-database</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>longitude -77.19246 to -150.7504
+latitude 31.88719 to 67.3851</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-150.75</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-77.192</eastBoundingCoordinate>
+                      <northBoundingCoordinate>67.385</northBoundingCoordinate>
+                      <southBoundingCoordinate>31.887</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-12-31
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-01-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>101,203 observations of 331 unique taxa.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>John</givenName>          <surName>Reitsma</surName>
+    </individualName>
+<organizationName>Bureau of Land Management</organizationName><positionName>GIS Coordinator</positionName>    <address>
+<deliveryPoint>National Operations Center, Denver Federal Center, Building 50</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80225-0047</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 (202) 912-7226</phone><electronicMailAddress>jreitsma@blm.gov</electronicMailAddress><onlineUrl>http://www.blm.gov/wo/st/en/prog/more/weeds.html</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Annie</givenName>          <surName>Simpson</surName>
+    </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist and Information Scientist</positionName><electronicMailAddress>asimpson@usgs.gov</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>As per the user manual.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Management areas throughout the US owned by the Bureau of Land Management.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Methodology and required software are described here: http://www.blm.gov/wo/st/en/prog/more/weeds/nisims/What_Contractors_and_Partners_Need_and_How_to_Get_it.html</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The user manual describes the qa/qc steps taken by participating weed managers, here: http://www.blm.gov/style/medialib/blm/wo/Planning_and_Renewable_Resources/nisims.Par.39684.File.dat/NISIMS_2_User_Guide_Public.pdf</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Bureau of Land Management Invasive Species Information Management System</title>
+          <personnel>
+    <individualName>
+<givenName>John</givenName>          <surName>Reitsma</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>BLM</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Federally owned lands of the Bureau of Land Management</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Data is collected using BLM weed monitoring protocol</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:13Z</dateStamp>
+      <citation>Reitsma J (2021). BLM - National Invasive Species Information Management System - Plants. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/y4xndh accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://bison.usgs.gov/ipt/logo.do?r=blm_nisims</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

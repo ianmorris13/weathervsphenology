@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e257fa65-598c-4f11-b03e-dfeba1191db8"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/kasze8</alternateIdentifier>
+        <alternateIdentifier>e257fa65-598c-4f11-b03e-dfeba1191db8</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=vies_herbarium</alternateIdentifier>
+    <title>VIES herbarium - Universidade Federal do Espírito Santo - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>Valquiria</givenName>          <surName>Dutra</surName>
+    </individualName>
+<organizationName>Universidade Federal do Espírito Santo</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>DCBio/CCHN/UFES, Av. Fernando Ferrari 514, Goiabeiras</deliveryPoint><city>Vitória</city><administrativeArea>ES</administrativeArea><postalCode>29075-910</postalCode><country>BRAZIL</country>    </address>
+<phone>(27)4009-7610</phone><electronicMailAddress>valquiria.dutra@ufes.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Luciana</givenName>          <surName>Thomaz</surName>
+    </individualName>
+<organizationName>Universidade Federal do Espírito Santo</organizationName><positionName>Subcuradora</positionName>    </creator>
+    <creator>
+    <individualName>
+<givenName>Luana</givenName>          <surName>Calazans</surName>
+    </individualName>
+<organizationName>Universidade Federal do Espírito Santo</organizationName><positionName>Técnica de herbário</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Valquiria</givenName>          <surName>Dutra</surName>
+    </individualName>
+<organizationName>Universidade Federal do Espírito Santo</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>DCBio/CCHN/UFES, Av. Fernando Ferrari 514, Goiabeiras</deliveryPoint><city>Vitória</city><administrativeArea>ES</administrativeArea><postalCode>29075-910</postalCode><country>BRAZIL</country>    </address>
+<phone>(27)4009-7610</phone><electronicMailAddress>valquiria.dutra@ufes.br</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vitor</givenName>          <surName>Monteiro</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>REFLORA Felow</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Dalcin</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>Núcleo de Computação Científica</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    <role>EDITOR</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-16
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The Universidade Federal do Espírito Santo herbarium (VIES), its collection area and type specimens, as well as its contributions to the flora of the Atlantic Forest are presented here. The VIES herbarium currently has nearly 50,000 records of vascular plants, besides fungi, bryophytes and algae, collected mainly in Espirito Santo state. Every collection is computerized and available online, and more than 4,300 scanned images. There are 39 type specimens among them: 11 holotypes, five isotypes and 23 paratypes. The VIES offers support to several projects developed by students and researchers of UFES and of other institutions, and it makes material exchange with numerous herbaria.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Espírito Santo (Espírito Santo State)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-42.144</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-39.551</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-17.853</northBoundingCoordinate>
+                      <southBoundingCoordinate>-21.371</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Valquiria</givenName>          <surName>Dutra</surName>
+    </individualName>
+<organizationName>Universidade Federal do Espírito Santo</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>DCBio/CCHN/UFES, Av. Fernando Ferrari 514, Goiabeiras</deliveryPoint><city>Vitória</city><administrativeArea>ES</administrativeArea><postalCode>29075-910</postalCode><country>BRAZIL</country>    </address>
+<phone>(27)4009-7610</phone><electronicMailAddress>valquiria.dutra@ufes.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>REFLORA - coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>rafaela@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:41Z</dateStamp>
+      <citation>Dutra V, Thomaz L, Calazans L (2022). VIES herbarium - Universidade Federal do Espírito Santo - Herbário Virtual REFLORA. Version 1.256. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/kasze8 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=vies_herbarium</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

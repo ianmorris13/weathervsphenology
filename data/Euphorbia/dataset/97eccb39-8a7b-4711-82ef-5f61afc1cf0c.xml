@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="97eccb39-8a7b-4711-82ef-5f61afc1cf0c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ajv47f</alternateIdentifier>
+        <alternateIdentifier>97eccb39-8a7b-4711-82ef-5f61afc1cf0c</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1758</alternateIdentifier>
+        <alternateIdentifier>fcb69ea0-ce42-383e-adb3-28b33f1e3ef8</alternateIdentifier>
+    <title>Dr Mary Gillham Archive Project</title>
+    <creator>
+<organizationName>South East Wales Biodiversity Records Centre</organizationName>    <address>
+<deliveryPoint>15 Talbot Road, Talbot Green</deliveryPoint><city>Pontyclun</city><postalCode>CF72 8AD</postalCode>    </address>
+<phone>01443 808896</phone><electronicMailAddress>info@sewbrec.org.uk</electronicMailAddress><onlineUrl>http://www.sewbrec.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>South East Wales Biodiversity Records Centre</organizationName>    <address>
+<deliveryPoint>15 Talbot Road, Talbot Green</deliveryPoint><city>Pontyclun</city><postalCode>CF72 8AD</postalCode>    </address>
+<phone>01443 808896</phone><electronicMailAddress>info@sewbrec.org.uk</electronicMailAddress><onlineUrl>http://www.sewbrec.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-21
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The data were extracted from a paper archive collated by Dr Mary Gillham over the course of her life.
+http://www.marygillhamarchiveproject.com/</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1758</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>The data were originally collected for a wide variety of purposes, including campaigning on local conservation issues, teaching at Cardiff University, reference material for various books and other publications.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>David Slade, Senior IT &amp; Records Officer</surName>
+    </individualName>
+<electronicMailAddress>info@sewbrec.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data have been collated from a wide range of direct observation sources. Method and spatial accuracy of records vary by individual recorder.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The data has been checked with NBN Records Cleaner. The records have also been checked by the volunteers and LERC staff, so whilst the dataset is largely unverified by County Recorders, it has passed through some verification processes.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:40Z</dateStamp>
+      <citation>South East Wales Biodiversity Records Centre (2020). Dr Mary Gillham Archive Project. Occurrence dataset https://doi.org/10.15468/ajv47f accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/SEWBRC.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

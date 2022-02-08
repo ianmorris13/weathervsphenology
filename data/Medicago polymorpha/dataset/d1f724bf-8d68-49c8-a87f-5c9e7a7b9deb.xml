@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d1f724bf-8d68-49c8-a87f-5c9e7a7b9deb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/44yxfz</alternateIdentifier>
+        <alternateIdentifier>d1f724bf-8d68-49c8-a87f-5c9e7a7b9deb</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/eca/resource?r=segflorit</alternateIdentifier>
+    <title>Segetal flora of Italy</title>
+    <creator>
+    <individualName>
+<givenName>Emanuele</givenName>          <surName>Fanfarillo</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>emanuele.fanfarillo@uniroma1.it</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5742-737X</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Latini</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>latini.marta@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8576-3933</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mauro</givenName>          <surName>Iberite</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>mauro.iberite@uniroma1.it</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-2771-2935</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Giovanna</givenName>          <surName>Abbate</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Associate Professor</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>giovanna.abbate@uniroma1.it</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-2876-6345</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Latini</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>latini.marta@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8576-3933</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Emanuele</givenName>          <surName>Fanfarillo</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>emanuele.fanfarillo@uniroma1.it</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5742-737X</userId>
+    </metadataProvider>
+      <pubDate>
+      2020-07-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The concept of “weed” is very subjective, as any plant that interferes with human activities can be considered a weed. Almost exclusively annual, weeds of arable land are called “agrestals” or “segetals” and were negatively affected, in Europe, by the intensification of agriculture. In recent years, many studies highlighted the ecological and agronomic benefits of these species in agricultural systems. In climates with a cold season, segetal plants can be divided in two main groups according to their phenology, following the one of the cultivated species: taxa of winter crops, like winter wheat, and taxa of summer crops, like maize. Segetal species of winter crops are mostly native or archaeophyte in Europe, and often strong specialist of their habitat. They also include several anecophytes, “homeless weeds” that evolved in the last 10,000 years under agricultural conditions and do not have a natural habitat. Weed species are selected and evolve according to their ability to mimic crop attributes as lifecycle and ecology and, then, to survive agricultural practices. Many segetal plants are crop wild relatives and consequently a potential source of genes to improve the features of crop species. Thus, the segetal flora of winter cereal crops is particularly valuable from a conservation and evolutionary perspective.</para>
+        <para>This dataset contributed to provide the first inventory of the segetal flora of Italian winter cereal crops and allied crop types, including flax and autumn-sown legumes (Fanfarillo et al. 2020). The entire database consists of over 30,000 records, derived from different sources: phytosociological and floristic relevés, local and regional floras, single floristic notes and, subordinately, herbarium samples. Here, we publish 24,676 occurrence data deriving from 1,240 relevés.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>agriculture</keyword>
+              <keyword>winter cereals</keyword>
+              <keyword>archaeophytes</keyword>
+              <keyword>segetal flora</keyword>
+              <keyword>winter annual crops</keyword>
+              <keyword>agrestal weeds</keyword>
+              <keyword>wheat</keyword>
+              <keyword>agroecosystems</keyword>
+              <keyword>arable flora</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Italy</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>6.5</westBoundingCoordinate>
+                      <eastBoundingCoordinate>18.6</eastBoundingCoordinate>
+                      <northBoundingCoordinate>47.2</northBoundingCoordinate>
+                      <southBoundingCoordinate>35.4</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1946
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Latini</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>latini.marta@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8576-3933</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Emanuele</givenName>          <surName>Fanfarillo</surName>
+    </individualName>
+<organizationName>Sapienza University of Rome</organizationName><positionName>Research Fellow</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>emanuele.fanfarillo@uniroma1.it</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5742-737X</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The occurrence data were georeferenced and the taxonomic nomenclature was updated according to current standards available for Italy.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study aimed to create an inventory of all the vascular flora growing in Italian winter cereal crops and allied crop types. The data were collected from the whole Italian territory, in a temporal range spanning from 1946 to 2018.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The occurrence data were retrieved through extensive literature searches and intensive field samplings all across Italy.
+As regards literature, we used a habitat-based criterion for data selection, i.e. we collected only the records for taxa unambiguously reported to grow in winter cereals, flax and autumn-sown legumes.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>We excluded all the records with no information on the growing habitat or with only a generic reference to “fields” or “cultivated land”. All the records of taxa at the genus or higher level, doubtful identifications, nomenclatural ambiguities, and cultivated species were also removed.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="RM118164361D0EE4">
+          <title>Plant biodiversity in traditional agroecosystems of Italy: a floristic and ecological multi-scale analysis based on geodatabases</title>
+          <personnel>
+    <individualName>
+<givenName>Giovanna</givenName>          <surName>Abbate</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-2876-6345</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mauro</givenName>          <surName>Iberite</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-2771-2935</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Latini</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-8576-3933</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Emanuele</givenName>          <surName>Fanfarillo</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-5742-737X</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>The disappearance of traditional agroecosystems and of their related biodiversity due to changes in agriculture is receiving an increasing attention in Europe. The use of databases on plant taxonomical, distributional, ecological, and functional traits is of crucial importance in conservation actions. The need to improve monitoring and reporting activities by improving the quality of biodiversity data is underlined by the European Biodiversity Strategy; thus, big databases like EUNIS, BISE, and EASIN were born. This project aims to fulfil a global analysis of the plant biodiversity existing in traditional agroecosystems of Italy, whose knowledge is currently lacking, by means of the collection, storage, and processing of original and archival data. The proposed actions will concern: the preparation of thematic databases on segetal flora and vegetation, including the features of plant species and communities; the analysis of data at different space (national, regional, local) and time scales; the production of thematic maps on plant biodiversity and its related topics; the development of new methods to estimate the nature value of agroecosystems; the detection of bioindicator plant species for floristic richness, agricultural intensity, and environmental quality. A special attention will be given to winter arable plants and communities, currently at high risk of disappearance in Europe, and subordinately to those of olive groves. The achieved results will provide an important basis for any future research, with special regards to the definition of conservation strategies for rural European plant biodiversity.</para>
+          </abstract>
+          <funding>
+              <para>Sapienza University of Rome, Piazzale Aldo Moro 5, 00185, Rome, Italy</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:11Z</dateStamp>
+      <citation>Fanfarillo E, Latini M, Iberite M, Abbate G (2020). Segetal flora of Italy. Version 1.8. Laboratory of Systematic Botany and Floristics - Department of Environmental Biology, Sapienza University. Occurrence dataset https://doi.org/10.15468/44yxfz accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="10.1080/11263504.2020.1739164">E. Fanfarillo, M. Latini, M. Iberite, G. Bonari, G. Nicolella, L. Rosati, G. Salerno &amp; G. Abbate (2020): The segetal flora of winter cereals and allied crops in Italy: species inventory with chorological, structural and ecological features, Plant Biosystems</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

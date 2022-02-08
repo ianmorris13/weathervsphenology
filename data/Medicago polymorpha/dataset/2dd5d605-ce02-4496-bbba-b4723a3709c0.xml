@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2dd5d605-ce02-4496-bbba-b4723a3709c0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/vekrqq</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=dna_barcoding</alternateIdentifier>
+    <title>FBIP: DNA barcode reference library for plants from Addo Elephant National Park for herbivore diet  studies</title>
+    <creator>
+    <individualName>
+<givenName>Graham</givenName>          <surName>Kerley</surName>
+    </individualName>
+<organizationName>Nelson Mandela Metropolitan University</organizationName><positionName>Professor and Director of Centre for African Conservation Ecology</positionName>    <address>
+<deliveryPoint>Summerstrand Campus (South), Department of Zoology, Room 12-114c</deliveryPoint><city>Port Elizabeth</city><administrativeArea>Eastern Cape</administrativeArea><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 41 504 2308</phone><electronicMailAddress>graham.kerley@mandela.ac.za</electronicMailAddress><onlineUrl>http://ace.mandela.ac.za/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Graham</givenName>          <surName>Kerley</surName>
+    </individualName>
+<organizationName>Nelson Mandela Metropolitan University</organizationName><positionName>Professor and Director of Centre for African Conservation Ecology</positionName>    <address>
+<deliveryPoint>Summerstrand Campus (South), Department of Zoology, Room 12-114c</deliveryPoint><city>Port Elizabeth</city><administrativeArea>Eastern Cape</administrativeArea><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 41 504 2308</phone><electronicMailAddress>graham.kerley@mandela.ac.za</electronicMailAddress><onlineUrl>http://ace.mandela.ac.za/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mahlatse</givenName>          <surName>Kgatla</surName>
+    </individualName>
+<organizationName>SANBI</organizationName><positionName>FBIP Data Specialist</positionName>    <address>
+<deliveryPoint>2 Cussonia Avenue, Brummeria</deliveryPoint><city>Pretoria</city><administrativeArea>Gauteng</administrativeArea><postalCode>0184</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>0128435196</phone><electronicMailAddress>m.kgatla@sanbi.org.za</electronicMailAddress><onlineUrl>http://fbip.co.za/contact/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-28
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Identifying their diet resources is key to understanding how a high diversity of herbivore species can co-exist without competition, as well as in terms of predicting their impacts on plant species and communities. To date describing the diets of herbivores has been slow, cumbersome and probably biased. The use of DNA metabarcoding of diet samples however overcomes these limits, but is dependent on the availability of a comprehensive reference collection of DNA sequenced material for the potentially consumed plant species. To date no such reference collection exists for Subtropical Thicket in the Eastern
+Cape. This project therefore aimed to establish such a reference collection, for the plant community in the Addo Elephant National Park (AENP). The data set represents the plant voucher specimens collected from two localities, their identities, and DNA sequences. The voucher specimens have been deposited in the Ria Olivier Herbarium at NMMU.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>herbivore diet reference collection for DNA barcoding</keyword>
+              <keyword>Addo Elephant National Park</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Addo Elephant National Park, two localities: Main Camp and Colchester</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>25.703</westBoundingCoordinate>
+                      <eastBoundingCoordinate>25.917</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-33.442</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.631</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Most specimen have been identified to Genus level while others to Species and Subspecies level.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Graham</givenName>          <surName>Kerley</surName>
+    </individualName>
+<organizationName>Nelson Mandela Metropolitan University</organizationName><positionName>Professor and Director of Centre for African Conservation Ecology</positionName>    <address>
+<deliveryPoint>Summerstrand Campus (South), Department of Zoology, Room 12-114c</deliveryPoint><city>Port Elizabeth</city><administrativeArea>Eastern Cape</administrativeArea><country>SOUTH_AFRICA</country>    </address>
+<phone>+27 41 504 2308</phone><electronicMailAddress>graham.kerley@mandela.ac.za</electronicMailAddress><onlineUrl>http://ace.mandela.ac.za/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>This survey will be undertaken throughout the Addo Main Camp and Colchester Sections of the Addo Elephant National Park, this to cover 8 vegetation types that occur here. An initial literature and expert-based survey indicates that approximately 500 plant species should be sampled, these reflecting both dominant plant species, plant species of conservation significance and plants that are potentially consumed by the herbivores (the latter comprising 13 species) Sampling will comprise the collection of tissue and herbarium samples.
+Samples will be located in the field by local experts, tissues samples stored in labelled, silica-dried tubes and matched plant species will be prepared for herbarium curation in the Ria Olivier Herbarium at the Nelson Mandela Metropolitan University. This phase (plant collection, identification and curation) will be undertaken by a team of botanists and ecologists, including Profs Campbell and Kerley, Dr Landman together with postgraduate and undergraduate students. SANParks Regional Ecologist A Gaylard will also assist with this phase, together with SANParks Field Rangers (for protection of researchers). 
+
+The field work will be initiated in January 2014 (or as soon as funds are released) and will run for 12 months. In this period there will be at least three major sampling trips to cover the phenological patterns of the plant communities.
+
+The tissue samples will then be sent to France, under a BABS permit, for analysis.
+
+The DNA barcoding itself will be supported by a separate project and will be undertaken in collaboration with Dr Pierre Taberlet of the Joseph Fourier University, France. The DNA analysis will be divided into three sub-tasks: (i) DNA extraction, (ii) DNA amplification, and (iii) DNA sequencing. Sequence reads will be analysed using tools specifically designed for such analyses, including http://www.grenoble.prabi.fr/trac/OBITools. It is anticipated that these DNA analyses will require an additional 6 months.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Addo Elephant National Park, two localities: Main Camp and Colchester</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data from specimen labels / datasheets. DNA barcoding done by Prof P Taberlet of  Centre National de la Recherche Scientifique, France. Specimens vouchered in Ria Olivier Herbarium, identified by PhD student (C. Weatherall-Thomas), Prof E. Campbell. Specimens that could not be identified based on morphology were barcoded and barcodes used to obtain identifications</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="IBIP-BS13100452303">
+          <title>DNA barcode reference library for plants from Addo Elephant National Park for herbivore diet  studies</title>
+          <personnel>
+    <individualName>
+<givenName>Graham</givenName>          <surName>Kerley</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Identifying their diet resources is key to understanding how a high diversity of herbivore species can co-exist without competition, as well as in terms of predicting their impacts on plant species and communities. To date describing the diets of herbivores has been slow, cumbersome and probably biased. The use of DNA metabarcoding of diet samples however overcomes these limits, but is dependent on the availability of a comprehensive reference collection of DNA sequenced material for the potentially consumed plant species. To date no such reference collection exists for Subtropical Thicket in the Eastern
+Cape. This project therefore aimed to establish such a reference collection, for the plant community in the Addo Elephant National Park (AENP). The data set represents the plant voucher specimens collected from two localities, their identities, and DNA sequences. The voucher specimens have been deposited in the Ria Olivier Herbarium at NMMU.</para>
+          </abstract>
+          <funding>
+              <para>Foundational Biodiversity Information Programme</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Addo Elephant National Park, two localities: Main Camp and Colchester</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:35Z</dateStamp>
+      <citation>Kerley G (2019). FBIP: DNA barcode reference library for plants from Addo Elephant National Park for herbivore diet  studies. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/vekrqq accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

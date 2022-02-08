@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="869fd238-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/prftiy</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1112-101</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1112-101</alternateIdentifier>
+        <alternateIdentifier>869fd238-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>1978</alternateIdentifier>
+    <title>Plant Specimens of The Shimane Nature Museum of Mt. Sanbe</title>
+    <creator>
+    <individualName>
+<givenName>Masahito</givenName>          <surName>Inoue</surName>
+    </individualName>
+<organizationName>Shimane Nature Museum of Mt. Sanbe</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>inoue@nature-sanbe.jp</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Masahito</givenName>          <surName>Inoue</surName>
+    </individualName>
+<organizationName>Shimane Nature Museum of Mt. Sanbe</organizationName><positionName>Director</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>inoue@nature-sanbe.jp</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-12-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant specimens deposited in the Shimane Nature Museum of Mt. Sanbe, Japan.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://nature-sanbe.jp/sahimel/</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Masahito</givenName>          <surName>Inoue</surName>
+    </individualName>
+<organizationName>Shimane Nature Museum of Mt. Sanbe</organizationName><positionName>Director</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>inoue@nature-sanbe.jp</electronicMailAddress><onlineUrl>http://nature-sanbe.jp/sahimel/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:51Z</dateStamp>
+      <citation>Inoue M (2021). Plant Specimens of The Shimane Nature Museum of Mt. Sanbe. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/prftiy accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

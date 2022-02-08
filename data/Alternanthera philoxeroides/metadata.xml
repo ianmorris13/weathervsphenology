@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.6d9r8z"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0130733-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.6d9r8z</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Alternanthera philoxeroides (Mart.) Griseb.&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Colección de plantas vasculares del herbario de la Universitat de València (VAL)
+1 records from CeDoc de Biodiversitat Vegetal: BCN-Cormophyta
+1 records from Jardín Botánico de Córdoba: Herbarium COA
+1 records from Herbario de la Facultad de Farmacia de la Universidad Complutense de Madrid (MAF)
+1 records from Herbário João de Carvalho e Vasconcellos, I.S.A./U.L.
+1 records from Herbarium of Vascular Plants Collection of the University of Extremadura (Spain)
+1 records from Herbario HSS Finca La Orden-Valdesequera (CICYTEX). Junta de Extremadura
+1 records from ALA species sightings and OzAtlas
+1 records from Plants of Papua New Guinea
+1 records from Herbarium Berolinense, Berlin (B)
+1 records from MAR - Herbário do Maranhão
+1 records from Observation.org, Nature data from around the World
+1 records from NE AVH data
+1 records from Moscow University Herbarium (MW)
+1 records from MBML-Herbario - Herbário Mello Leitão
+1 records from MPM Milwaukee Public Museum Herbarium
+1 records from BOTU - Herbário Irina Delanova Gemtchújnicov
+1 records from Herbario de la Universidad Pública de Navarra, Pamplona: UPNA-H
+1 records from Herbarium Senckenbergianum (FR)
+1 records from BRBA herbarium - Universidade Federal do Oeste da Bahia - Herbário Virtual Reflora
+1 records from National vegetation diversity inventory and mapping plan
+1 records from VIT Herbarium - Vascular Plants (The Natural History Museum of Alava)
+1 records from Western Carolina University Herbarium
+1 records from Lund Botanical Museum (LD)
+1 records from Registros biológicos  en áreas protegidas obtenidos de documentos impresos
+1 records from CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+1 records from Plant Specimen from Herbarium (LBG) in China, Lushan Botanical Garden, Jiangxi and Chinese Academy of Sciences
+1 records from HST - Herbário Sérgio Tavares
+1 records from Plantas vasculares del Herbario JBN del Jardín Botánico Nacional, Chile
+1 records from ASE herbarium - Universidade Federal de Sergipe - Herbário Virtual REFLORA
+1 records from Colección del Herbario PSO de la Universidad de Nariño
+1 records from ERBG AVH data
+1 records from Sammmlung Ule Brasilien Herbarium Hamburgense HBG
+1 records from Inventaire de la flore de Gironde 2015
+1 records from EAC herbarium - Universidade Federal do Ceará - Herbário Virtual REFLORA
+1 records from University of Michigan Herbarium
+1 records from EAC - Herbário Prisco Bezerra
+1 records from Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+1 records from Herbario de la Universidad Industrial de Santander
+1 records from HUESB - Herbário da Universidade Estadual do Sudoeste da Bahia
+1 records from Royal Ontario Museum Green Plant Herbarium (TRT)
+1 records from Global Register of Introduced and Invasive Species - United States (Contiguous) V2.0
+1 records from VIES herbarium - Universidade Federal do Espírito Santo - Herbário Virtual REFLORA
+1 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Actuopalynology National Collection (BAPa)
+1 records from Herbarium specimens of Jardins botaniques and Conservatoire Botanique of Nancy (NCY)
+1 records from Sistematización del Herbario Nacional Forestal Biól Luciano Vela Gálvez
+1 records from OBI - Robert F. Hoover Herbarium, Cal Poly State University
+1 records from S herbarium - Naturhistoriska Riksmuseet - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+1 records from SJRP - Herbário de São José do Rio Preto
+1 records from Inventaire de la flore de Gironde 2016
+1 records from Plant specimens of Takatsuki Nature Museum (Aquapia Akutagawa)
+1 records from UFMT - Herbário UFMT
+1 records from University of Graz, Institute of Plant Sciences - Herbarium GZU
+1 records from Guadeloupe_Herbier
+1 records from University of British Columbia Herbarium (UBC) - Vascular Plant Collection
+1 records from UFG - Herbário da Universidade Federal de Goiás
+1 records from University of Cincinnati, Margaret H. Fulford Herbarium - Vascular Plants
+1 records from IAC - Herbário do Instituto Agronômico de Campinas
+1 records from MBML Herbarium - Museu de Biologia Mello Leitão - Herbário Virtual Reflora
+1 records from Plantas Vasculares del Uruguay (Observaciones Mai &amp; Rossado)
+1 records from CIRAD
+1 records from Herbario Nacional Colombiano (COL)
+1 records from WOLL AVH data
+1 records from HUEM herbarium - Universidade Estadual de Maringá - Herbário Virtual REFLORA
+1 records from Depuración de la colección y base de datos del Herbario CICY. Fase IV
+1 records from UPCB herbarium - Universidade Federal de Paraná - Herbário Virtual REFLORA
+1 records from Institut Menorquí d&apos;Estudis. Herbarium Generale Minoricae: HGM
+1 records from MACF - MacFadden Herbarium, California State University Fullerton
+1 records from Inventaire de la flore de Gironde 2014
+1 records from Herbarium - Instituto Nacional de Pesquisas da Amazônia (INPA)
+1 records from Oskarshamn herbarium (OHN)
+1 records from LA - University of California, Los Angeles Herbarium
+1 records from HUSC - Herbário Unisanta
+1 records from UAM Herbarium (ALA), Vascular Plant Collection (Arctos)
+1 records from Vascular Plant Specimens of Yamagata Prefectural Museum
+1 records from Plantas Vasculares del Uruguay (Observaciones González)
+1 records from Botanical Research Intitute of Texas
+1 records from Natural History Museum, Vienna - Herbarium W
+1 records from UNOP Herbarium - Universidade Estadual do Oeste do Paraná - Herbário Virtual Reflora
+2 records from Herbarium Specimens of Museum of Nature and Human Activities, Hyogo Pref., Japan
+2 records from Institut Botanic de Barcelona (IBB, CSIC-Ajuntament de Barcelona), BC-Plantae
+2 records from CVRD - Herbário da Reserva Natural Vale
+2 records from Plantas Vasculares del Uruguay (Observaciones Fagúndez-Pachón)
+2 records from R. L. McGregor Herbarium Vascular Plants Collection
+2 records from Colección de plantas vasculares de Brasil del Herbario &quot;Jaime Andrés Rodríguez&quot;. LEB-Brasil
+2 records from Colección de Herbario LP
+2 records from Royal Botanic Garden Edinburgh Herbarium (E)
+2 records from MO herbarium -  Missouri Botanical Garden - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+2 records from JPB - Herbário Lauro Pires Xavier
+2 records from SLUI - Herbário Rosa Mochel
+2 records from Arizona State University Vascular Plant Herbarium
+2 records from HPL - Herbário do Jardim Botânico Plantarum
+2 records from Earth Guardians Weekly Feed
+2 records from ECT herbarium - Embrapa Clima Temperado - Herbário Virtual REFLORA
+2 records from South Dakota State University, C. A. Taylor Herbarium
+2 records from CRI Herbarium - Universidade do Extremo Sul Catarinense - Herbário Virtual Reflora
+2 records from BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte
+2 records from Bioimages
+2 records from Marie-Victorin Herbarium (MT) - Plantes vasculaires
+2 records from Phanerogamic Botanical Collections (S)
+2 records from Database of Vascular Plants of Himalaya
+2 records from Buffalo Society of Natural Sciences Clinton Herbarium
+2 records from PRECIS
+2 records from SANT Herbarium vascular plants collection
+2 records from Herbarium Specimens of The Kagoshima University Museum (KAG)
+2 records from NMNH Material Samples (USNM)
+2 records from Phytochorologie des départements français
+2 records from SMDB - Santa Maria Departamento de Biologia
+2 records from HBRA - Herbário do Instituto de Estudos Costeiros da Universidade Federal do Pará
+2 records from Université Lyon 1
+2 records from Inventaire de la flore de Lot-et-Garonne 2014
+2 records from HO AVH data
+2 records from Rapid Assessment Program (RAP) Biodiversity Survey Database
+2 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Vascular Plants National Collection (BAv)
+2 records from ASE - Herbário da Universidade Federal de Sergipe
+2 records from Appalachian State University, I. W. Carpenter, Jr. Herbarium
+3 records from Oklahoma Vascular Plants Database Provider
+3 records from Australasian Virtual Herbarium (AVH) data from the State Herbarium of South Australia (AD)
+3 records from Alien Flora of Nepal at KATH
+3 records from Database of Native Plants in Taiwan
+3 records from HVAT - Herbário do Vale do Taquari
+3 records from Weeds in Australia
+3 records from Bernice P. Bishop Museum
+3 records from Carnet en Ligne
+3 records from CRI - Herbário Pe. Dr. Raulino Reitz
+3 records from Wikiplantbase #Italia
+3 records from JOI Herbarium - Univille\Universidade da Região de Joinville - Herbário Virtual Reflora
+3 records from UB - Herbário da Universidade de Brasília
+3 records from SysTax - Botanical Gardens
+3 records from SysTax - Herbaria
+3 records from MOSS - Herbário Dárdano de Andrade Lima
+3 records from UESC - Herbário Universidade Estadual de Santa Cruz
+3 records from JOI - Herbário Joinvillea
+3 records from Rutgers University, Chrysler Herbarium
+3 records from DNA AVH data
+3 records from CONN
+3 records from Inventaire de la flore de Lot-et-Garonne 2015
+3 records from Colección Botánica-Herbario. Museo de Ciencias Naturales y Antropológicas “Juan Cornelio Moyano” (Mendoza, Argentina)
+3 records from CESJ herbarium - Universidade Federal de Juiz de Fora UFJF - Herbário Virtual Reflora
+3 records from naturgucker
+3 records from COR herbarium - Universidade Federal de Mato Grosso do Sul / Campus Pantanal - Herbário Virtual Reflora
+3 records from EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas
+3 records from University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+4 records from Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (Plantas vasculares)
+4 records from Vascular Plants Collection of Sagamihara City Museum
+4 records from RSA - California Botanic Garden Herbarium
+4 records from MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas
+4 records from MAC herbarium - Instituto do Meio Ambiente do Estado de Alagoas - Herbário Virtual REFLORA
+4 records from Berea College, Ralph L. Thompson Herbarium
+4 records from LOB - California State University, Long Beach Herbarium
+4 records from Museu Paraense Emilio Goeldi Herbarium
+4 records from CESJ - Herbário Leopoldo Krieger
+4 records from PERTH AVH data
+4 records from FUEL - Herbário da Universidade Estadual de Londrina
+4 records from The Vascular Plant Collection at the Botanische Staatssammlung München
+5 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+5 records from Field Museum of Natural History (Botany)  Seed Plant Collection
+5 records from Plant Specimen from Herbarium (IBK) in China, Guangxi Institute of Botany, Chinese Academy of Sciences
+5 records from Endemic Species Research Institute–Herbarium
+5 records from India Biodiversity Portal publication grade dataset
+5 records from BHCB - Herbário da Universidade Federal de Minas Gerais
+5 records from Arkansas Natural Heritage Commission Herbarium
+5 records from WIKTROP - Weed Identification and Knowledge in the Tropical and Mediterranean areas
+5 records from OUPR - Herbário &quot;Professor José Badini&quot;
+5 records from PMSP herbarium - Prefeitura do Município de São Paulo - Herbário Virtual REFLORA
+5 records from FCAB - Herbário Friburguense
+5 records from HPBR - Herbário Padre Balduino Rambo
+5 records from Weeds Australia
+6 records from Vascular Plant Specimen database of Kanagawa Prefectural Museum of Natural History
+6 records from PEUFR - Herbário Professor Vasconcelos Sobrinho
+6 records from RBR herbarium - Universidade Federal Rural do Rio de Janeiro - Herbário Virtual REFLORA
+6 records from H.A. Stephens Herbarium
+6 records from Taxon occurrence data for the FungalRoot database
+6 records from Intermountain Herbarium (Vascular plants &amp; algae)
+7 records from Vascular Plant Collection of Natural History Museum and Institute, Chiba
+7 records from SD - SD Herbarium, San Diego Natural History Museum
+7 records from FLOR herbarium - Universidade Federal de Santa Catarina - Herbário Virtual REFLORA
+7 records from CEPEC - Herbário do Centro de Pesquisas do Cacau
+7 records from Eastern Kentucky University, Ronald L. Jones Herbarium
+7 records from Some Plant Specimens from PE Herbarium in China from 1900 to 1950
+7 records from FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina
+7 records from EFC - Herbário Escola de Florestas Curitiba
+7 records from Pl@ntNet observations
+7 records from Natural History Museum (London) Collection Specimens
+8 records from Ibaraki Nature Museum, Vascular Plants collection
+8 records from Pittsburg State University, Theodore M. Sperry Herbarium
+8 records from DAV - UC Davis Herbarium
+8 records from IRAI - Herbário do Parque da Ciência Newton Freire Maia
+8 records from UCR - University of California, Riverside Herbarium - Vascular Plants
+9 records from ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz
+9 records from ESA herbarium - Universidade de São Paulo - Herbário Virtual REFLORA
+9 records from CGMS herbarium - Universidade Federal de Mato Grosso do Sul - Herbário Virtual REFLORA
+9 records from HUEM - Herbário da Universidade Estadual de Maringá
+9 records from Plant Specimen from Herbarium (CDBI) in China, Chengdu Institute of Botany, Chinese Academy of Sciences
+9 records from Nomenclatura, tipificaciones y sinónimos nuevos en la familia Amaranthaceae de la Flora del Paraguay
+9 records from VIC - Herbário da Universidade Federal de Viçosa
+10 records from George Mason University, Ted R. Bradley Herbarium
+10 records from HRCB - Herbário Rioclarense
+10 records from Dataset from Herbarium of Endemic Species Research Institute, Taiwan (TAIE) 2021
+11 records from Great Eastern Ranges - Southern Highlands
+11 records from UEC - Herbário da Universidade Estadual de Campinas
+12 records from IPA - Herbário - IPA Dárdano de Andrade Lima
+12 records from SPF herbarium - Universidade de são Paulo - Herbário Virtual REFLORA
+12 records from UTEP Plants (Arctos)
+13 records from Canberra Nature Map
+13 records from UFP - Herbário UFP - Geraldo Mariz
+13 records from VIES - Herbário Central da Universidade Federal do Espírito Santo
+13 records from ALCB - Herbário Alexandre Leal Costa
+14 records from IAN herbarium - Embrapa Amazônia Oriental - Herbário Virtual REFLORA
+14 records from CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul
+14 records from International Barcode of Life project (iBOL)
+14 records from SPF - Herbário da Universidade de São Paulo
+16 records from FURB herbarium - Universidade Regional de Blumenau - Herbário Virtual REFLORA
+16 records from Vascular Plant Herbarium: Herbarium Generale
+16 records from MBM herbarium - Museu Botânico Municipal \ Curitiba - Herbário Virtual REFLORA
+17 records from HUCS - Herbário da Universidade de Caxias do Sul
+18 records from NY herbarium - The New York Botanical Garden - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+18 records from CDA - California Department of Food and Agriculture
+18 records from FURB - Herbário Dr. Roberto Miguel Klein
+18 records from CPAP - Herbário CPAP
+18 records from SP - Herbário do Estado &quot;Maria Eneyda P. Kaufmann Fidalgo&quot; - Coleção de Fanerógamas
+18 records from MBM - Herbário do Museu Botânico Municipal
+19 records from Fairchild Tropical Botanic Garden (FTG)
+20 records from BRI AVH data
+21 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+21 records from Colección de  Bruniales, Buxales, Canellales y Caryophyllales del Museo Botánico CORD - IMBIV
+21 records from K herbarium - Royal Botanic Gardens, Kew - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+21 records from US herbarium - Smithsonian Institute - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+21 records from HUEFS herbarium - Universidade Estadual de Feira de Santana - Herbário Virtual REFLORA
+22 records from alien_flora_of_nepal_tuch
+23 records from Meise Botanic Garden Herbarium (BR)
+23 records from Some Plant Specimens from KUN, IBSC, NAS  Herbarium in China from 1900 to 1950
+23 records from HUEFS - Herbario da Universidade Estadual de Feira de Santana
+23 records from MEL AVH data
+25 records from Macrophyte Lake Data
+25 records from MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul
+25 records from Geneva Herbarium – General Collection (G)
+25 records from Wikiplantbase #Toscana
+26 records from HURB - Herbário do Recôncavo da Bahia
+26 records from Carnegie Museum of Natural History Herbarium
+28 records from HAS - Herbário Alarich Rudolf Holger Schultz
+29 records from Herbário da Pontifícia Universidade Católica do Paraná - HUCP
+29 records from HUCP herbarium - Pontífica Universidade Católica do Paraná PUC - Herbário Virtual Reflora
+30 records from The digitization of plant specimens of NTU
+32 records from MISS_DC_01MAR2006
+32 records from UPCB - Herbário do Departamento de Botânica
+34 records from North Carolina State University Vascular Plant Herbarium
+36 records from Allan Herbarium (CHR)
+39 records from Plant Resources Center
+39 records from ICN - Herbário do Instituto de Ciências Naturais
+41 records from INPN - Données flore des CBN agrégées par la FCBN
+42 records from 500,000 plant Specimens from PE Herbarium in China from 1950 to 1999
+43 records from Herbarium (UNA)
+44 records from RB - Rio de Janeiro Botanical Garden Herbarium Collection
+46 records from PACA-AGP - Herbarium Anchieta
+48 records from Clemson University Herbarium
+49 records from University of Florida Herbarium (FLAS)
+49 records from CANB AVH data
+54 records from INSDC Sequences
+55 records from Auckland Museum Botany Collection
+55 records from Instituto de Botánica Darwinion
+56 records from Pl@ntNet automatically identified occurrences
+59 records from University of Tennessee Vascular Herbarium
+63 records from Freshwater Pest Plants
+67 records from P herbarium - Muséum national d’histoire naturelle, Paris - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+76 records from Harvard University Herbaria: All Records
+77 records from Freshwater Pest Plants Observations
+78 records from University of South Florida Herbarium (USF)
+78 records from NSW AVH data
+85 records from University of South Carolina, A. C. Moore Herbarium
+85 records from Naturalis Biodiversity Center (NL) - Botany
+87 records from Tropicos Specimen Data
+90 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+100 records from NMNH Extant Specimen Records (USNM, US)
+100 records from The New York Botanical Garden Herbarium (NY)
+122 records from Observations floristiques - plateforme SINP régionale SILENE   PACA
+129 records from University of North Carolina at Chapel Hill Herbarium
+136 records from LSU Shirley C. Tucker Herbarium at Louisiana State University - Vascular Plants
+205 records from Herbarium of Taiwan Forestry Research Institute
+233 records from Alien plant presence dataset from the point-radius plot surveys in 2010-2015 in Taiwan
+301 records from NSW BioNet Atlas
+365 records from Invasive Plant Atlas of the MidSouth (IPAMS)
+998 records from Victorian Biodiversity Atlas
+18810 records from USGS Nonindigenous Aquatic Species database</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:13:00Z</dateStamp>
+      <citation identifier="10.15468/dl.6d9r8z">GBIF Occurrence Download 10.15468/dl.6d9r8z</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0130733-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

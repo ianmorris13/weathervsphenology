@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c4bd0284-6f76-4af1-a638-e5f6c4594201"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3kirhx</alternateIdentifier>
+        <alternateIdentifier>c4bd0284-6f76-4af1-a638-e5f6c4594201</alternateIdentifier>
+        <alternateIdentifier>http://apm-ipt.br.fgov.be:8080/ipt-2.3.5/resource?r=akrotiribioblitzcyprus</alternateIdentifier>
+    <title>Additional data to the Akrotiri Bioblitz, Cyprus</title>
+    <creator>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Hadjikyriakou</surName>
+    </individualName>
+<organizationName>Akrotiri Environmental Education Centre</organizationName>    <address>
+<country>CYPRUS</country>    </address>
+      <userId directory="http://orcid.org/">0000-0002-6084-637X</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ian</givenName>          <surName>Winfield</surName>
+    </individualName>
+<organizationName>Centre for Ecology &amp; Hydrology</organizationName>    <address>
+<city>Wallingford</city><country>UNITED_KINGDOM</country>    </address>
+      <userId directory="http://orcid.org/">0000-0001-9296-5114</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Kaminski</surName>
+    </individualName>
+<organizationName>Nicolaus Copernicus University</organizationName>    <address>
+<city>Toruń</city><country>POLAND</country>    </address>
+      <userId directory="http://orcid.org/">0000-0001-7842-6704</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+<organizationName>Centre for Ecology and Hydrology</organizationName>    <address>
+<city>Wallingford</city><country>UNITED_KINGDOM</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><administrativeArea>--None--</administrativeArea><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress><onlineUrl>http://www.plantentuinmeise.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    </metadataProvider>
+      <pubDate>
+      2019-09-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Akrotiri Bioblitz, Cyprus (ABC) was a one-off event held as part of the Alien-CSI COST Action. It took place for 24 hours between Wednesday, February 27 and Thursday, February 28, 2019.
+Most participants collected their observations on the iNaturlist.org platform under the project Akrotiri Bioblitz, Cyprus (https://www.inaturalist.org/projects/akrotiri-bioblitz-cyprus). However, a few people collected their data on paper and transferred to spreadsheets. These are those additional data.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://osf.io/csvgz/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Akrotiri Peninsula, Cyprus</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>32.863</westBoundingCoordinate>
+                      <eastBoundingCoordinate>33.046</eastBoundingCoordinate>
+                      <northBoundingCoordinate>34.695</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.557</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2019-02-27
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-02-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Participants in the Bioblitz were not restricted to any particularly taxonomic groups.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ophisops elegans</taxonRankValue>
+                          <commonName>snake-eyed lizard</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                          <commonName>ray-finned fish</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><administrativeArea>--None--</administrativeArea><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress><onlineUrl>http://www.plantentuinmeise.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+      </contact>
+
+      <project >
+          <title>The Akrotiri Bioblitz, Cyprus (ABC)</title>
+          <personnel>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Hadjikyriakou</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-6084-637X</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ian</givenName>          <surName>Winfield</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-9296-5114</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Kaminski</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-7842-6704</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>The Akrotiri Bioblitz, Cyprus (ABC) is a one-off event held as part of the Alien-CSI COST Action. It will take place for 24 hours between Wednesday, February 27 and Thursday, February 28, 2019. The aim of the ABC is multi-fold, and both to support the outcomes of Alien-CSI and the mission of the Akrotiri Environmental &amp; Education Centre.</para>
+          </abstract>
+          <funding>
+              <para>We acknowledge the Alien-CSI COST Action (CA17122), supported by COST (European Cooperation in Science and Technology), funded by the Horizon 2020 Framework Programme of the European Union.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The Akrotiri Peninsula is an international important area for biodiversity. It is an important migration flyway between Africa and Europe. The shallow salt lake is one of the most unique and large sites of its kind in the eastern Mediterranean. Surrounding the lake are other important habitats, such as saltmarsh, dunes, undisturbed sand, limestone cliffs and juniper scrub.
+It is important for many rare species including the Eleonora&apos;s falcon (Falco eleonorae), Loggerhead (Caretta caretta) and the Green turtles (Chelonia mydas).</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The aims of the bioblitz were to improve the compositional and distributional data on the flora and fauna of the Akrotiri Peninsula and identify introduced species, particularly where these are, or will, cause damage to the native biodiversity of the area.
+Participants were asked to record as many different species as possible during the event. They were split into teams to ensure that the main habitats of the Peninsula were surveyed. More details of the event are published on the Open Science Framework (The Alien-CSI Bioblitz Team (2019, February 21). Akrotiri Bioblitz, Cyprus (ABC). Retrieved from osf.io/csvgz).
+These data published here</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:39Z</dateStamp>
+      <citation>Hadjikyriakou T, Winfield I, Kaminski D, Mountford O, Groom Q (2019). Additional data to the Akrotiri Bioblitz, Cyprus. Version 1.4. Meise Botanic Garden. Occurrence dataset https://doi.org/10.15468/3kirhx accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

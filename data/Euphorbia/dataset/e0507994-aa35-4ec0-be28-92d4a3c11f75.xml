@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e0507994-aa35-4ec0-be28-92d4a3c11f75"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ahunho</alternateIdentifier>
+    <title>A grid-based database on vascular plant distribution in the Meshchera National Park, Vladimir Oblast, Russia</title>
+    <creator>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<country>RUSSIAN_FEDERATION</country>    </address>
+    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2014-09-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset contains contain 22,600&amp;#43; records of vascular plants from the Meshchera National Park (Vladimir Oblast, Russia) and its buffer zone made by Alexey P. Seregin. The dataset is based on grid scheme with 80 squares ranging from 24.1 to 24.5 km2 (2.5 minutes lat. x 5 minutes long., WGS84). This grid scheme is coherent with a grid used for mapping of Vladimir Oblast using larger squares ranging from 94.7 to 98.2 km2 (5 minutes lat. x 10 minutes long.). In 1999–2004 (mainly in 2002), I studied 61 grid squares in the Meshchera National Park and recorded 11,721 occurrences of 683 species. In 2011–2012 (mainly in 2012), I made 1124 km of foot trips studying the flora. As a result, I visited 80 grid squares and recorded 20,034 species occurrences. Few records were extracted from relevant literature. Thereby, the presented dataset consists of 22,651 unique occurrences of 812 species. Records of the first survey confirmed in 2012 are not duplicated. The dataset was used to produce grid maps in “Vascular flora of Meshchera National Park (Vladimir Province of Russia)” (Seregin, 2004) and in its revised and enlarged edition entitled “New flora of the Meshchera National Park (Vladimir Oblast, Russia): Checklist, distribution atlas, peculiarities, and distributional changes in species over the last decade (2002–2012)” (Seregin, 2013). In the latter publication, one can find habitat details, spatial patterns within the park, distribution map, and grid frequency reported for each species as well as precise localities for the rarest species. New records include 43 species from Gus-Krustalny District, 8 species from Sobinsky District, and 4 species from Sudogodsky District (including Raduzhny Urban Okrug). Bidens connata, Senecio dubitabilis, Petunia ×atkinsiana, Monarda didyma, Prunus avium are reported for the first time for Vladimir Oblast.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>vascular plants</keyword>
+              <keyword>flora</keyword>
+              <keyword>grid mapping</keyword>
+              <keyword>grid survey</keyword>
+              <keyword>Russia</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://alliumallium.narod.ru/index/0-44</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+              <singleDateTime>
+                <calendarDate>      1999-01-09
+</calendarDate>
+              </singleDateTime>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900-01-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1999-01-09
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Moscow University Herbarium</organizationName>    <address>
+<deliveryPoint>Herbarium (MW), Faculty of Biology, Lomonosov Moscow State University</deliveryPoint><city>Moscow</city><postalCode>119991</postalCode>    </address>
+<phone>74959395021</phone><electronicMailAddress>allium@hotbox.ru</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Alexey_Seregin2</onlineUrl>      </contact>
+
+      <project >
+          <title>Grid mapping of the Meshchera National Park flora</title>
+          <personnel>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Two grid surveys were performed in decadal interval within the Meshchera National Park. These studies were based on a grid 2.5 x 5 minutes. In (1999–)2002(–2004), the first survey describing 57 grid squares was performed by me and my wife Irina Privalova (Seregina), and the resulting maps were published in the atlas (Seregin, 2004). Ten years later, the same grids and 23 supplementary ones were described (Seregin, 2013). This grid scheme is coherent with a grid used for mapping of Vladimir Oblast using larger squares (5 x 10 minutes).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:45Z</dateStamp>
+      <citation>Seregin A P (2014). A grid-based database on vascular plant distribution in the Meshchera National Park, Vladimir Oblast, Russia. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/ahunho accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

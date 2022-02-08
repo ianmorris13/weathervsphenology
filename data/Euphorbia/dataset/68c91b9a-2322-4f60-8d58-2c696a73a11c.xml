@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="68c91b9a-2322-4f60-8d58-2c696a73a11c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/yefl6d</alternateIdentifier>
+        <alternateIdentifier>68c91b9a-2322-4f60-8d58-2c696a73a11c</alternateIdentifier>
+        <alternateIdentifier>http://apm-ipt.br.fgov.be:8080/ipt-2.3.5/resource?r=livcol</alternateIdentifier>
+    <title>Living plant collection of Meise Botanic Garden</title>
+    <creator>
+    <individualName>
+          <surName>Meise Botanic Garden</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<onlineUrl>http://www.plantentuinmeise.be</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mathias</givenName>          <surName>Dillen</surName>
+    </individualName>
+    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>mathias.dillen@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-3973-1252</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mathias</givenName>          <surName>Dillen</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName>    <address>
+<postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>mathias.dillen@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-3973-1252</userId>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-09-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Botanic Garden holds a living plant collection of more than 25,000 accessions of 17,000 taxa. This material is cultivated for research, conservation and education.
+
+This dataset holds information about accessions that are cultivated at the Garden. Data presented concern the scientific name, accession number and determination of specimens currently held in the Garden.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>botanic garden</keyword>
+              <keywordThesaurus>http://rs.tdwg.org/ontology/voc/InstitutionType</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.plantentuinmeise.be/RESEARCH/COLLECTIONS/LIVING/LIVCOL/index.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Meise Botanic Garden</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>4.318</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.335</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.934</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.923</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Unranked</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Thierry</givenName>          <surName>Vanderborght</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>thierry.vanderborght@botanicgardenmeise.be</electronicMailAddress><onlineUrl>http://www.plantentuinmeise.be</onlineUrl>      </contact>
+
+      <project >
+          <title>The living collections of Meise botanic Garden</title>
+          <personnel>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Reynders</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0003-1581-6048</userId>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Kenneth</givenName>          <surName>Bauters</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Elke</givenName>          <surName>Bellefroid</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Kenny</givenName>          <surName>Stevens</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para>Botanic Garden Meise is one of the largest botanic gardens in the world. The living plant collections contribute to the botanical and horticultural research as well as to the education and conservation activities of the Garden.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Three systematic collections form the core of the living collection, the Herbetum, the Fruticetum and the Coniferetum. Nearly all hardy or &apos;half-hardy&apos; genera are represented in these collections.
+
+There are also specialist collections of species and cultivars in the genera Quercus, Rhododendron, Hydrangea, Acer and Magnolia. Other thematic collections are the medicinal plants, North American forest species and Mediterranean plants. Many plants are displayed in shrubberies and mixed borders all over the park. Rare or unusual tree species and cultivars are dispersed over the lawns and decorate the landscape dominated by indigenous trees. Other important collections are Rosa and Paeonia.
+
+Particularly well-represented plant families in the outdoor collections are Pinaceae (43% of extant species of the world), Aceraceae (42%), Betulaceae (39%), Hydrangeaceae (37%), Caprifoliaceae (33%), Cornaceae (31%), Cupressaceae (20%), Berberidaceae (16%), Ranunculaceae (14%) and Rosaceae (13%).</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:27Z</dateStamp>
+      <citation>Meise Botanic Garden, Dillen M, Groom Q (2018). Living plant collection of Meise Botanic Garden. Version 1.4. Meise Botanic Garden. Occurrence dataset https://doi.org/10.15468/yefl6d accessed via GBIF.org on 2022-02-08.</citation>
+              <livingTimePeriod>1900-2018</livingTimePeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

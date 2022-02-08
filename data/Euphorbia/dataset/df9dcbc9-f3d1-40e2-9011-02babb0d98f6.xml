@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="df9dcbc9-f3d1-40e2-9011-02babb0d98f6"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/zwfsle</alternateIdentifier>
+        <alternateIdentifier>df9dcbc9-f3d1-40e2-9011-02babb0d98f6</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=flora</alternateIdentifier>
+    <title>Flora of the Volga River basin</title>
+    <creator>
+    <individualName>
+<givenName>Stepan</givenName>          <surName>Senator</surName>
+    </individualName>
+<organizationName>Institute of Ecology of the Volga river basin of Russian Academy of Sciences</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Komzina Street</deliveryPoint><city>Togliatti</city><administrativeArea>Samarskaia oblast</administrativeArea><postalCode>445003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>stsenator@yandex.ru</electronicMailAddress><onlineUrl>http://www.ievbras.ru</onlineUrl>      <userId directory="http://www.researcherid.com/rid/">T-7097-2017</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Stepan</givenName>          <surName>Senator</surName>
+    </individualName>
+<organizationName>Institute of Ecology of the Volga river basin of Russian Academy of Sciences</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Komzina Street</deliveryPoint><city>Togliatti</city><administrativeArea>Samarskaia oblast</administrativeArea><postalCode>445003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>stsenator@yandex.ru</electronicMailAddress><onlineUrl>http://www.ievbras.ru</onlineUrl>      <userId directory="http://www.researcherid.com/rid/">T-7097-2017</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Sergei</givenName>          <surName>Saksonov</surName>
+    </individualName>
+<organizationName>Institute of Ecology of the Volga river basin of Russian Academy of Sciences</organizationName><positionName>Acting Director</positionName>    <address>
+<deliveryPoint>Komzina Street</deliveryPoint><city>Togliatti</city><administrativeArea>Samarskaia oblast</administrativeArea><postalCode>445003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>svsaxonoff@yandex.ru</electronicMailAddress><onlineUrl>http://www.ievbras.ru</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Vasjukov</surName>
+    </individualName>
+<organizationName>Institute of Ecology of the Volga river basin of Russian Academy of Sciences</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Komzina Street</deliveryPoint><city>Togliatti</city><administrativeArea>Samarskaia oblast</administrativeArea><postalCode>445003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>vvasjukov@yandex.ru</electronicMailAddress><onlineUrl>http://www.ievbras.ru</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Stepan</givenName>          <surName>Senator</surName>
+    </individualName>
+<electronicMailAddress>stsenator@yandex.ru</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-09-04
+      </pubDate>
+    <language>RUSSIAN</language>
+    <abstract>
+        <para>Data on the species diversity of vascular plants of The Middle Volga region are presented. The list of species is based on own research of the staff of the Laboratory of Problems of Phytodiversity of the Institute of Ecology of the Volga river basin of the Russian Academy of Sciences. All information is published in scientific journals or monographs. Herbarium specimens are stored in the Herbarium &amp;#34;Vascular Plants of the Volga river basin&amp;#34;(PVB), some doublets – in herbariums MW, LE, MHA, UPSU.
+Data processing was supported by a GBIF - FinBIF data mobilization grant for European Russia (Russia-02).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Samarskaia oblast</keyword>
+              <keyword>vascular plants</keyword>
+              <keyword>Ulianovskaia oblast</keyword>
+              <keyword>flora</keyword>
+              <keyword>the Middle Volga region</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Samara and Ulyanovsk regions and adjacent territories (Russian Federation)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>45.593</westBoundingCoordinate>
+                      <eastBoundingCoordinate>52.668</eastBoundingCoordinate>
+                      <northBoundingCoordinate>54.952</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.025</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All vascular plants were identified to species</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Subkingdom</taxonRankName>
+                        <taxonRankValue>Vascular plants</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Stepan</givenName>          <surName>Senator</surName>
+    </individualName>
+<organizationName>Institute of Ecology of the Volga river basin of Russian Academy of Sciences</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Komzina Street</deliveryPoint><city>Togliatti</city><administrativeArea>Samarskaia oblast</administrativeArea><postalCode>445003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>stsenator@yandex.ru</electronicMailAddress><onlineUrl>http://www.ievbras.ru</onlineUrl>      <userId directory="http://www.researcherid.com/rid/">T-7097-2017</userId>
+      </contact>
+
+      <project id="Russia-02">
+          <title>Supporting data mobilization activities in Russia west of Ural mountains</title>
+          <personnel>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:42Z</dateStamp>
+      <citation>Senator S, Saksonov S, Vasjukov V (2018). Flora of the Volga River basin. Version 1.2. Institute of Ecology of the Volga river basin of Russian Academie of Sciences. Occurrence dataset https://doi.org/10.15468/zwfsle accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

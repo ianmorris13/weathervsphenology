@@ -1,0 +1,85 @@
+
+Dataset: Jardin Botanique de Lyon
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Western Carolina University Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of New Mexico Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phanerogamic Botanical Collections (S)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Tennessee Vascular Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CONN
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Fungal Collection at the Senckenberg Museum für Naturkunde Görlitz
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MPM Milwaukee Public Museum Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Botanic Gardens, Kew - Herbarium Specimens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SJSU - Carl W. Sharsmith Herbarium, San Jose State University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Université Lyon 1
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arizona State University Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UTEP Plants (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tropicos Specimen Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SysTax - Botanical Gardens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HSC - Humboldt State University Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SDSU - San Diego State University Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CDA - California Department of Food and Agriculture
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Carnegie Museum of Natural History Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: EURISCO, The European Genetic Resources Search Catalogue
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SFV - California State University, Northridge
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LOB - California State University, Long Beach Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DAV - UC Davis Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SD - SD Herbarium, San Diego Natural History Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: OBI - Robert F. Hoover Herbarium, Cal Poly State University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UCSB - University of California Santa Barbara Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UCR - University of California, Riverside Herbarium - Vascular Plants
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LA - University of California, Los Angeles Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Harvard University Herbaria: All Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The New York Botanical Garden Herbarium (NY)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CAS Botany (BOT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RSA - California Botanic Garden Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

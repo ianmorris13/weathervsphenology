@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="490fd890-fd5e-11db-ace1-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lhktka</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=bpn_plant_obs</alternateIdentifier>
+        <alternateIdentifier>490fd890-fd5e-11db-ace1-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>1861</alternateIdentifier>
+    <title>Plant observations from Białowieża National Park</title>
+    <creator>
+    <individualName>
+<givenName>Monika</givenName>          <surName>Nędzyńska</surName>
+    </individualName>
+<organizationName>Białowieża National Park</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>mn@bpn.com.pl</electronicMailAddress><onlineUrl>http://www.bpn.com.pl/index_en.htm</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Monika</givenName>          <surName>Nędzyńska</surName>
+    </individualName>
+<organizationName>Białowieża National Park</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>mn@bpn.com.pl</electronicMailAddress><onlineUrl>http://www.bpn.com.pl/index_en.htm</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Monika</givenName>          <surName>Nędzyńska</surName>
+    </individualName>
+<electronicMailAddress>mn@bpn.com.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant observations in Białowieża Primary Forest noted by Małgorzata Karczewska.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Monika</givenName>          <surName>Nędzyńska</surName>
+    </individualName>
+<organizationName>Białowieża National Park</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>mn@bpn.com.pl</electronicMailAddress><onlineUrl>http://www.bpn.com.pl/index_en.htm</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:32Z</dateStamp>
+      <citation>Nędzyńska M (2017). Plant observations from Białowieża National Park. Białowieża National Park. Occurrence dataset https://doi.org/10.15468/lhktka accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

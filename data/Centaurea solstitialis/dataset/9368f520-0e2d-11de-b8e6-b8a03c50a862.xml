@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9368f520-0e2d-11de-b8e6-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/uwiswv</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=ihar_data_storage</alternateIdentifier>
+        <alternateIdentifier>9368f520-0e2d-11de-b8e6-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>8332</alternateIdentifier>
+    <title>Polish gene bank – passport data of plants accessions which are important in human life</title>
+    <creator>
+    <individualName>
+<givenName>Marcin</givenName>          <surName>Zaczynski</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>m.zaczynski@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marcin</givenName>          <surName>Zaczynski</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>m.zaczynski@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Marcin</givenName>          <surName>Zaczynski</surName>
+    </individualName>
+<electronicMailAddress>m.zaczynski@ihar.edu.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database contains passport data of accessions of plant seeds which are important in human life. This data are useful for breeders, scientists who wish to use material for genetic purposes. This database covers accessions passport data since 1980 until present days. All accessions are available for users (according to standard Transfer Material Agreement).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marcin</givenName>          <surName>Zaczynski</surName>
+    </individualName>
+<organizationName>Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>m.zaczynski@ihar.edu.pl</electronicMailAddress><onlineUrl>http://www.ihar.edu.pl/en/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:40:55Z</dateStamp>
+      <citation>Zaczynski M (2017). Polish gene bank – passport data of plants accessions which are important in human life. Plant Breeding and Acclimatization Institute (IHAR) - National Research Institute. Occurrence dataset https://doi.org/10.15468/uwiswv accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

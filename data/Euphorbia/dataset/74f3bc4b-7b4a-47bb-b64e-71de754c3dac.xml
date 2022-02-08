@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="74f3bc4b-7b4a-47bb-b64e-71de754c3dac"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/4oqfzj</alternateIdentifier>
+        <alternateIdentifier>74f3bc4b-7b4a-47bb-b64e-71de754c3dac</alternateIdentifier>
+        <alternateIdentifier>https://ipt.recolnat.org/resource?r=erecolnat_mars</alternateIdentifier>
+    <title>Université d&apos;Aix-Marseille</title>
+    <creator>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>VILA</surName>
+    </individualName>
+<organizationName>Université d&apos;Aix-Marseille</organizationName><positionName>Maître de conférences</positionName>    <address>
+<deliveryPoint>Case 10, Faculté des Sciences, 3 place V. Hugo</deliveryPoint><city>Marseille</city><postalCode>13003</postalCode>    </address>
+<phone>04 13 55 12 29</phone><electronicMailAddress>bruno.vila@univ-amu.fr</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9998-537X</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>VILA</surName>
+    </individualName>
+<organizationName>Université d&apos;Aix-Marseille</organizationName><positionName>Maître de conférences</positionName>    <address>
+<deliveryPoint>Case 10, Faculté des Sciences, 3 place V. Hugo</deliveryPoint><city>Marseille</city><postalCode>13003</postalCode>    </address>
+<phone>04 13 55 12 29</phone><electronicMailAddress>bruno.vila@univ-amu.fr</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9998-537X</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-12-09
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Collections de botanique de l’Université d’Aix-Marseille
+
+L’université d’Aix-Marseille dispose de collections de botanique et de zoologie constituées depuis plus de deux siècles. Ces collections sont toujours utilisées pour l’enseignement et la recherche et des collectes régulières viennent enrichir ce patrimoine. Conservées, en grandes parties au sein de laboratoires de recherche, elles sont actuellement gérées au sein du pôle transversal « Observatoires et Plateformes » du Laboratoire Population-Environnement-Développement (LPED). 
+
+Ces collections se composent :
+-	d’un herbier d’environ 300 000 échantillons,
+-	de l’ancien Musée Colonial de Marseille qui regroupe des plantes utiles à l’homme et,
+-	d’une collection de zoologie comprenant plusieurs milliers d’échantillons de vertébrés, d’invertébrés dont des gastéropodes terrestres.</para>
+        <para>1/ Les herbiers 
+Au début du 19ème siècle, avec la création à Marseille d’un Jardin botanique public, débute la constitution de « l’herbier de la Faculté des Sciences », aujourd&amp;#39;hui référencé sous le sigle MARS au sein de l’index international (Index Herbariorum). Un impressionnant réseau d’échanges se met alors en place et l’ensemble des éminents botanistes de l’époque contribua à cette réalisation. Au fil du temps, les herbiers se sont considérablement enrichis par des legs successifs.
+Ces collections reflètent d’une part l’histoire de Marseille, port ouvert sur l’extérieur, et en particulier à travers ses échanges privilégiés avec les anciens territoires français d’outre-mer, et d’autre part la compétence et le rayonnement international des naturalistes provençaux du début du 19ème siècle. 
+Aujourd’hui cette collection, renferme plusieurs herbiers prestigieux et historiques du 19ème siècle qui correspondent aux premières flores « modernes » soulignant également la grande richesse floristique des régions PACA et Corse. Parmi ceux-ci nous pouvons citer les herbiers de Castagne pour Marseille et les Bouches-du-Rhône, celui d’Ardoino pour les Alpes-Maritimes et celui de Roux pour la région PACA. Cette collection se compose aussi d’un immense Herbier Général du Monde et d’un important Herbier de France, Suisse et Belgique. Cette collection renferme également plusieurs herbiers témoignant du passé colonial de la France : Antilles, Madagascar, La Réunion, Afrique Occidentale Française….Enfin on trouve des récoltes récentes réalisées sur le pourtour méditerranéen.</para>
+        <para>Liste des principaux herbiers :
+•	Herbier Général du Monde
+•	Herbier de France, Suisse et Belgique
+•	Herbier de la région Méditerranéenne Française 
+•	Herbier de cytogénétique
+•	Herbier général de lichens
+•	Herbier général de bryophytes
+•	Herbier Castagne, Bouches-du-Rhône,
+•	Herbier H. Roux, Provence,
+•	Herbier Molinier-Tallon, Camargue,
+•	Herbier Delmas, Provence,
+•	Herbier H. Ardoino, Alpes-Maritimes,
+•	Herbier Derbez, Basses-Alpes,
+•	Herbier A. Lavagne, Provence et Alpes
+•	Herbier du Père Duss, Antilles,
+•	Herbier Perrier de la Bathie - Jumelle, Madagascar,
+•	Herbier Jacob de Cordemoy, La Réunion,
+•	Herbier Zenker, Cameroun, Gabon,
+•	Herbier Boery, Mauritanie, Mali, Soudan,
+•	Herbier Peunel et Metzger, Nouvelle Calédonie,
+•	Herbier Baudon.</para>
+        <para>2/ Le Musée Colonial de Marseille
+C&amp;#39;est à Marseille, port ouvert sur le Monde et les colonies, que sera créé le premier Institut Colonial de France, en 1893, sous l’impulsion du docteur Edouard Heckel (1843-1916). Il sera d&amp;#39;abord soutenu par le Ministère des Colonies, puis par la chambre de Commerce de Marseille qui va y créer six chaires d’enseignement colonial. Heckel développe la recherche appliquée et enrichit le Musée. Un chapitre dans ce même volume retrace l’histoire du Musée et de l’Institut colonial.
+Encore conservé en partie à l’université d’Aix-Marseille, ce Musée constitue une pièce unique présentant une large gamme d&amp;#39;échantillons, depuis le produit brut jusqu&amp;#39;aux produits finis. Il permet d’illustrer la biodiversité des plantes utiles à l’homme, mais aussi la grande diversité de leurs usages souvent millénaires. Ainsi, d&amp;#39;innombrables végétaux ont été sélectionnés et utilisés :
+-	pour l&amp;#39;alimentation (fruits, légumes, céréales, oléagineux...),
+-	comme épices et condiments,
+-	pour la pharmacopée,
+-	et pour l&amp;#39;industrie (caoutchouc, bois, fibres, parfums...).
+Contact : bruno.vila&amp;#64;univ-amu.fr</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence; Specimen; Plants; Botany; Taxonomy; Specimens; Collections; Types</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>occurrences</keyword>
+              <keyword>botanique</keyword>
+              <keyword>musées</keyword>
+              <keyword>RECOLNAT
+
+Natural history museums</keyword>
+              <keyword>réseau national des collections naturalistes</keyword>
+              <keyword>naturalist collections</keyword>
+              <keyword>géologie</keyword>
+              <keyword>botany</keyword>
+              <keyword>figured</keyword>
+              <keyword>onymophoronts</keyword>
+              <keyword>taxonomy</keyword>
+              <keyword>palaeontology</keyword>
+              <keyword>geology</keyword>
+              <keyword>data curation</keyword>
+              <keyword>ecology</keyword>
+              <keyword>museums</keyword>
+              <keyword>universities</keyword>
+              <keyword>RECOLNAT</keyword>
+              <keyword>collections</keyword>
+              <keyword>spécimens</keyword>
+              <keyword>biogéographie</keyword>
+              <keyword>numérisation</keyword>
+              <keyword>paléontologie</keyword>
+              <keyword>universités</keyword>
+              <keyword>écologie</keyword>
+              <keyword>types</keyword>
+              <keyword>mycologie</keyword>
+              <keyword>biodiversity</keyword>
+              <keyword>collecteurs</keyword>
+              <keyword>taxinomie</keyword>
+              <keyword>biogeography</keyword>
+              <keyword>naturalists</keyword>
+              <keyword>specimens</keyword>
+              <keyword>collections naturalistes</keyword>
+              <keyword>French National Network of Naturalist Collections</keyword>
+              <keyword>figuré</keyword>
+              <keyword>digitisation</keyword>
+              <keyword>Muséums d’histoire naturelle</keyword>
+              <keyword>onymophorontes</keyword>
+              <keyword>biodiversité</keyword>
+              <keyword>collectors</keyword>
+              <keyword>zoologie</keyword>
+              <keyword>naturalistes</keyword>
+              <keyword>informatisation</keyword>
+              <keyword>mycology</keyword>
+              <keyword>zoology</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>occurrences</keyword>
+              <keyword>botanique</keyword>
+              <keyword>musées</keyword>
+              <keyword>RECOLNAT
+
+Natural history museums</keyword>
+              <keyword>réseau national des collections naturalistes</keyword>
+              <keyword>naturalist collections</keyword>
+              <keyword>géologie</keyword>
+              <keyword>botany</keyword>
+              <keyword>figured</keyword>
+              <keyword>onymophoronts</keyword>
+              <keyword>taxonomy</keyword>
+              <keyword>palaeontology</keyword>
+              <keyword>geology</keyword>
+              <keyword>data curation</keyword>
+              <keyword>ecology</keyword>
+              <keyword>museums</keyword>
+              <keyword>universities</keyword>
+              <keyword>RECOLNAT</keyword>
+              <keyword>collections</keyword>
+              <keyword>spécimens</keyword>
+              <keyword>biogéographie</keyword>
+              <keyword>numérisation</keyword>
+              <keyword>paléontologie</keyword>
+              <keyword>universités</keyword>
+              <keyword>écologie</keyword>
+              <keyword>types</keyword>
+              <keyword>mycologie</keyword>
+              <keyword>biodiversity</keyword>
+              <keyword>collecteurs</keyword>
+              <keyword>taxinomie</keyword>
+              <keyword>biogeography</keyword>
+              <keyword>naturalists</keyword>
+              <keyword>specimens</keyword>
+              <keyword>collections naturalistes</keyword>
+              <keyword>French National Network of Naturalist Collections</keyword>
+              <keyword>figuré</keyword>
+              <keyword>digitisation</keyword>
+              <keyword>onymophorontes</keyword>
+              <keyword>biodiversité</keyword>
+              <keyword>collectors</keyword>
+              <keyword>SpecimenMuséums d’histoire naturelle</keyword>
+              <keyword>zoologie</keyword>
+              <keyword>naturalistes</keyword>
+              <keyword>informatisation</keyword>
+              <keyword>mycology</keyword>
+              <keyword>zoology</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.lped.fr/plateforme-collections-du-lped.html?artpage=4-8</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global coverage</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>VILA</surName>
+    </individualName>
+<organizationName>Université d&apos;Aix-Marseille</organizationName><positionName>Maître de conférences</positionName>    <address>
+<deliveryPoint>Case 10, Faculté des Sciences, 3 place V. Hugo</deliveryPoint><city>Marseille</city><postalCode>13003</postalCode>    </address>
+<phone>04 13 55 12 29</phone><electronicMailAddress>bruno.vila@univ-amu.fr</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9998-537X</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>Université Aix Marseille</title>
+          <personnel>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>VILA</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-9998-537X</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:36Z</dateStamp>
+      <citation>VILA B (2021). Université d&apos;Aix-Marseille. Version 1.2. RECOLNAT. Occurrence dataset https://doi.org/10.15468/4oqfzj accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://ipt.recolnat.org/logo.do?r=erecolnat_mars</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

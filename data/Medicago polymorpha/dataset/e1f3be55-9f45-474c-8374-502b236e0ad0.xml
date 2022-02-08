@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e1f3be55-9f45-474c-8374-502b236e0ad0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dnne4z</alternateIdentifier>
+        <alternateIdentifier>e1f3be55-9f45-474c-8374-502b236e0ad0</alternateIdentifier>
+        <alternateIdentifier>http://ipt.taibif.tw/resource?r=tw_tfri_alien_plant_survey</alternateIdentifier>
+    <title>Alien plant presence dataset from the point-radius plot surveys in 2010-2015 in Taiwan</title>
+    <creator>
+    <individualName>
+<givenName>Yu-Huang</givenName>          <surName>Wang</surName>
+    </individualName>
+<organizationName>Taiwan Biodiversity Information Facility</organizationName><positionName>Node manager</positionName>    <address>
+<city>Taipei</city>    </address>
+<phone>886-2-27872221</phone><electronicMailAddress>yuhuangwang@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Chun-Kuei</givenName>          <surName>Liao</surName>
+    </individualName>
+<organizationName>Taiwan Forestry Research Institute</organizationName><positionName>Contracted assistant researcher</positionName>    <address>
+<city>Kaohsiung</city><country>TAIWAN</country>    </address>
+<electronicMailAddress>chunkuei.liao@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Yu-Huang</givenName>          <surName>Wang</surName>
+    </individualName>
+<organizationName>Taiwan Biodiversity Information Facility</organizationName><positionName>Node manager</positionName>    <address>
+<city>Taipei</city><country>TAIWAN</country>    </address>
+<phone>886-2-27872221</phone><electronicMailAddress>yuhuangwang@gmail.com</electronicMailAddress><onlineUrl>http://taibif.tw</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2020-05-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset included 63,085 occurrence records of alien vascular plants from the field surveys of 4,879 sampling plots being conducted in 2010-2015 in Taiwan. We made sample plots with radius in 20 meters along the road systems covering Taiwan and documented the presence of all plants in the plots. The distance between two adjacent sampling points was about 2.0-2.5 kilometers. We georeferenced the center of each sampling plot by using a GPS receiver and documented the coordinate in decimal degrees of latitude and longitude with accuracy to 0.00001 as well as the altitude with accuracy to 1 meter. We documented the coordinates only when GPS signal was fixed and the error of horizontal positioning was within 5 meters. The altitude of sampling point ranged from -17 to 3,155 meters. There were 72 families with 400 species, 18 subspecies, and 9 varieties of alien plants being documented in this dataset.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Sampling event</keyword>
+              <keyword>alien plants</keyword>
+              <keyword>point-radius plots</keyword>
+              <keyword>presence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Taiwan</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>120.037</westBoundingCoordinate>
+                      <eastBoundingCoordinate>122.002</eastBoundingCoordinate>
+                      <northBoundingCoordinate>25.291</northBoundingCoordinate>
+                      <southBoundingCoordinate>21.896</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2010-02-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-07-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Vascular plants (Magnoliophyta, Pteridophyta)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                          <commonName>angiosperms</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pteridophyta</taxonRankValue>
+                          <commonName>cryptogams</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The dataset from this intensive survey was a snapshot of the distribution of alien plants in recent six years (2010-2015) in Taiwan. It could be used to model the potential distributions of these alien plants under the scenarios of climate and land use changes in the future. When the historical occurrence records of alien plants in Taiwan are available, it is also possible to combine the historical records with this dataset to estimate the expansion of the alien plants and to evaluate their invasiveness. This dataset also provided the vernacular name in Chinese for each alien plant. It may facilitate the compilation of checklist of alien plants with vernacular names in different local languages for regional and global usages.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>The metadata or associated data files will be updated as necessary.</para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Fu-Shan</givenName>          <surName>Chou</surName>
+    </individualName>
+<organizationName>Taiwan Forestry Research Institute</organizationName><positionName>Research Scientist</positionName>    <address>
+<city>Kaohsiung</city><country>TAIWAN</country>    </address>
+<electronicMailAddress>fschou@tfri.gov.tw</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Chau-Chin</givenName>          <surName>Lin</surName>
+    </individualName>
+<organizationName>Taiwan Forestry Research Institute</organizationName><positionName>Research Scientist</positionName>    <address>
+<city>Taipei</city><country>TAIWAN</country>    </address>
+<electronicMailAddress>chin@tfri.gov.tw</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sheng-Shan</givenName>          <surName>Lu</surName>
+    </individualName>
+<organizationName>Taiwan Forestry Research Institute</organizationName><positionName>Research Scientist</positionName>    <address>
+<city>Taipei</city><country>TAIWAN</country>    </address>
+<electronicMailAddress>sslu@tfri.gov.tw</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Yu-Huang</givenName>          <surName>Wang</surName>
+    </individualName>
+<organizationName>Taiwan Biodiversity Information Facility</organizationName><positionName>Node manager</positionName>    <address>
+<city>Taipei</city><postalCode>115</postalCode><country>TAIWAN</country>    </address>
+<phone>886-2-27872221</phone><electronicMailAddress>yuhuangwang@gmail.com</electronicMailAddress><onlineUrl>http://taibif.tw</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Field sampling: Sampling points were selected along road network covering Taiwan. Distance between two adjacent points along a road was within 2.0-2.5 kilometers. Sampling points were georeferenced by using a Garmin 60CX GPS receiver.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Compiling the field records: We used Microsoft Excel to create a workbook file with two worksheets to input the data of sampling plots and the presence of plants in each plot. The plot worksheet included the fields of sampling date, plot identifier, habitat, latitude, longitude, altitude, and county to document the detailed information of each plot. The presence worksheet included fields of sampling date, plot identifier, plant identifier, scientific names, and vernacular names in Chinese to document the presence information of plants in each plot.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cleaning scientific names and retrieve relevant taxonomic information: For correcting any error in spelling scientific names, adopting accepted or valid scientific names, and getting complete information on the hierarchy of taxon ranks, we check all input names against the GBIF backbone taxonomy embedded in the name matching service (http://match.taibif.tw/) developed by Taiwan Biodiversity Information Facility in a first batch and save the matching results in a CSV text file. Then, we used Notepad++, a free text editor to open this file. All matching results were copied into the occurrence worksheet aligned with the input names to check the quality of input names by using the score field from the matching results as a filter. Some names could not be found in GBIF backbone taxonomy (scored as N/A) then we matched these names against the taxonomic data from Catalog of Life embedded the TaiBIF name matching service as a send batch in the same way to check the quality and to correct the errors in these names. Finally, we got a cleaned and accepted scientific names with complete name information on the hierarchy of taxonomic ranks for each occurrence record.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Standardizing data structure: For better preservation of complete information of the dataset and better integration into the GBIF global data portal, we adopted the Darwin Core star-schema and transformed our original two data tables (plot and occurrence of plant in plot) into three tables (Event, MeasurementOrFacts, and Occurrence) by using the Darwin Core terms defined for describing sampling events, measurements conducted in the sampling events and the occurrence records from each sampling event. All three data files were saved as UTF-8 chracter encoded CSV file. Users can open these files by any free text editor, such Notepad ++ or PSPad then select and copy the content into a spreadsheet software, such as the Clibre Office Calc or Microsoft Office Excel, for further editing and reuse.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study area covered whole Taiwan island.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>We made sample plots with radius in 20 meters along road network covered Taiwan and documented the presence of alien plants in each plot.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>1) Geo-referencing sampling points: We georeferenced the center of each sampling plot by using a Garmin 60CX GPS receiver and documented the coordinate in decimal degrees of latitude and longitude with accuracy to 0.00001 as well as the altitude with accuracy to 1 meter. We documented the coordinates only when GPS signal was fixed and the error of horizontal positioning was within 5 meters. 2) Cleaning scientific names: The scientific names of all plants in the dataset were matched and corrected based on the taxonomic data from the GBIF backbone taxonomy and the Catalog of Life by using the scientific name matching service developed by Taiwan Biodiversity Information Facility (http://match.taibif.tw/). We adopted the accepted name as well as retrieved the name of higher taxonomic rank and the taxon rank identified for each input name. 3) Standardizing data structure: We adopted the terms from the vocabularies of Darwin Core Sampling-event and the extensions of MeasureOrFacts and Occurrence Core to transform the original data structure fitted into Darwin Core star-schema for better integration into GBIF global data repository.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BIFA1_1">
+          <title>Modelling the potential geographical distributions of naturalized plants in Taiwan</title>
+          <personnel>
+    <individualName>
+<givenName>Fu-Shan</givenName>          <surName>Chou</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Chau-Chin</givenName>          <surName>Lin</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sheng-Shan</givenName>          <surName>Lu</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Yu-Huang</givenName>          <surName>Wang</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Chun-Kuei</givenName>          <surName>Liao</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <abstract>
+              <para>For monitoring the current distributions and modelling the potential expansion of alien plants in Taiwan, we conducted this six-year (2010-2015) project to collect the presence data of alien plants along the road network in Taiwan. This dataset was used as an example dataset for the BIFA project “Biodiversity informatics cookbook” to demonstrate how to compile and publish a sampling event dataset.</para>
+          </abstract>
+          <funding>
+              <para>Council of Agriculture, Taiwan</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The study area covered whole Taiwan island.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Because the alien plants are easily dispersed along roads and occupy the highly disturbed habitats created by human activities, thus, we made 4,879 sample plots with radius in 20 meters along the road systems covering Taiwan and recorded the presence of all plants in the plots. The distance between two adjacent sampling points was about 2.0-2.5 kilometers.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:53Z</dateStamp>
+      <citation>Wang Y, Liao C (2020). Alien plant presence dataset from the point-radius plot surveys in 2010-2015 in Taiwan. Version 1.9. Taiwan Forestry Research Institute. Sampling event dataset https://doi.org/10.15468/dnne4z accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.taibif.tw/logo.do?r=tw_tfri_alien_plant_survey</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

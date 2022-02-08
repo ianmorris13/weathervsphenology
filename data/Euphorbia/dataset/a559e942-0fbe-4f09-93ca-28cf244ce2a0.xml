@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a559e942-0fbe-4f09-93ca-28cf244ce2a0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7x9xtx</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=coi</alternateIdentifier>
+    <title>Herbarium of University of Coimbra (COI )</title>
+    <creator>
+    <individualName>
+<givenName>Fátima</givenName>          <surName>Sales</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Coimbra</organizationName><positionName>curator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+      <userId directory="http://orcid.org/">0000-0003-2876-0610</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Joaquim</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Coimbra</organizationName><positionName>Collection manager</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+      <userId directory="http://orcid.org/">0000-0002-2160-4968</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Joaquim</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Coimbra</organizationName><positionName>Collection manager</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+      <userId directory="http://orcid.org/">0000-0002-2160-4968</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Joaquim</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Coimbra</organizationName><positionName>Collection manager</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+      <userId directory="http://orcid.org/">0000-0002-2160-4968</userId>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-04-20
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>COI has c. 800.000 specimens, organised in separate collections due to the research priorities over the years. The General collection retains the original organisation of the herbarium and is by Dalla Torre’s Genera siphonogamarum of 1900-1907 (Gen. siphon.). The organisation of the sub-Saharan African plants emphasises the connections with the British Museum and Kew following Bentham &amp;amp; Hooker’s Genera plantarum of 1862-1883 (Gen. pl.). The Portuguese plants follow Pereira Coutinho’s Flora de Portugal (2nd ed., revised by R. T. Palhinha 1939). The Cryptogams are being organised alphabetically.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>herbarium</keyword>
+              <keyword>specimens</keyword>
+              <keyword>Plants</keyword>
+              <keyword>collection</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://coicatalogue.uc.pt</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global collection of plants</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Plants identified to family, species or infraspecific level.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Eubacteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Algae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Joaquim</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>Herbarium of the University of Coimbra</organizationName><positionName>Collection manager</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+      <userId directory="http://orcid.org/">0000-0002-2160-4968</userId>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:38Z</dateStamp>
+      <citation>Sales F, Santos J (2020). Herbarium of University of Coimbra (COI ). Herbarium of University of Coimbra (COI). Occurrence dataset https://doi.org/10.15468/7x9xtx accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>http://coicatalogue.uc.pt</collectionIdentifier>
+                <collectionName>Herbário da Universidade de Coimbra</collectionName>
+              </collection>
+              <formationPeriod>1750 - current</formationPeriod>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>specimens</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>700,000</beginRange>
+                          <endRange>800,000</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

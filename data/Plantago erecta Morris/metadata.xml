@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.t52hbu"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0130284-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.t52hbu</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Plantago erecta Morris&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Herbario de la Facultad de Farmacia de la Universidad Complutense de Madrid (MAF)
+1 records from Herbario de la Universidad de Sevilla
+1 records from Auckland Museum Botany Collection
+1 records from MISS_DC_01MAR2006
+1 records from R. L. McGregor Herbarium Vascular Plants Collection
+1 records from The Vascular Plant Collection at the Herbarium Tubingense
+1 records from Muestreos y recolectas de flora endémica y casi-endémica de matorral costero y chaparral de la zona mediterránea Baja California, México
+1 records from University of Florida Herbarium (FLAS)
+1 records from SysTax - Botanical Gardens
+1 records from Sistematización del Herbario Nacional Forestal Biól Luciano Vela Gálvez
+1 records from Geneva Herbarium – General Collection (G)
+1 records from Restauración y conservación de Isla Guadalupe
+1 records from Royal BC Museum - Herbarium (V)
+1 records from LSU Shirley C. Tucker Herbarium at Louisiana State University - Vascular Plants
+2 records from United States National Plant Germplasm System Collection
+2 records from Harvard University Herbaria: All Records
+2 records from Kathryn Kalmbach Herbarium
+2 records from University of New Mexico Herbarium
+2 records from CHAS Botany Collection (Arctos)
+2 records from UCBG TAPIR Provider
+2 records from North Carolina State University Vascular Plant Herbarium
+2 records from Taxon occurrence data for the FungalRoot database
+2 records from University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+3 records from EURISCO, The European Genetic Resources Search Catalogue
+3 records from Vascular Plant Herbarium, Oslo (O) UiO
+3 records from Deaver Herbarium (Northern Arizona University)
+3 records from International Barcode of Life project (iBOL)
+3 records from University of Alberta Vascular Plant Herbarium (ALTA-VP)
+3 records from El banco de datos del Herbario HCIB en línea (Fase I): Implementación del Sistema Biótica
+3 records from University of Lethbridge Herbarium (LEA)
+3 records from Actualización de la base de datos del Herbario de la Universidad de Sonora (USON)
+4 records from Bell Museum plants
+4 records from Plant Resources Center
+4 records from INSDC Sequences
+4 records from Catálogo electrónico de especímenes depositados en el Herbario de la Universidad de Texas en Austin, Fase IV (Ejemplaresimagenes)
+4 records from Intermountain Herbarium (Vascular plants &amp; algae)
+5 records from Vascular Plant Collection - University of Washington Herbarium (WTU)
+5 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+5 records from Flora (vascular) y fauna (aves) de los Parques Nacionales del estado de Baja California: Constitución de 1857 y Sierra San Pedro Mártir (Plantas)
+5 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+5 records from The New York Botanical Garden Herbarium (NY)
+5 records from Desert Botanical Garden Herbarium
+6 records from SJSU - Carl W. Sharsmith Herbarium, San Jose State University
+7 records from Université Lyon 1
+10 records from BLM - National Landscape Monitoring Framework - Plants
+10 records from LOB - California State University, Long Beach Herbarium
+12 records from UTEP Plants (Arctos)
+14 records from Arizona State University Vascular Plant Herbarium
+14 records from Carnegie Museum of Natural History Herbarium
+15 records from SFV - California State University, Northridge
+16 records from Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (Plantas vasculares)
+17 records from Tropicos Specimen Data
+22 records from MACF - MacFadden Herbarium, California State University Fullerton
+23 records from CAS Botany (BOT)
+25 records from Vascular Plant Collection
+25 records from SDSU - San Diego State University Herbarium
+29 records from Naturalis Biodiversity Center (NL) - Botany
+33 records from CDA - California Department of Food and Agriculture
+33 records from Royal Botanic Garden Edinburgh Herbarium (E)
+33 records from LA - University of California, Los Angeles Herbarium
+38 records from PUA - Pacific Union College Hebarium
+38 records from UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+56 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+66 records from Puntos de presencia en Baja California (Botany)
+69 records from HSC - Humboldt State University Vascular Plant Herbarium
+73 records from UCSB - University of California Santa Barbara Herbarium
+107 records from OBI - Robert F. Hoover Herbarium, Cal Poly State University
+122 records from CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+130 records from NMNH Extant Specimen Records (USNM, US)
+146 records from DAV - UC Davis Herbarium
+179 records from UCR - University of California, Riverside Herbarium - Vascular Plants
+220 records from SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+275 records from SD - SD Herbarium, San Diego Natural History Museum
+499 records from RSA - California Botanic Garden Herbarium</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T01:52:50Z</dateStamp>
+      <citation identifier="10.15468/dl.t52hbu">GBIF Occurrence Download 10.15468/dl.t52hbu</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0130284-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

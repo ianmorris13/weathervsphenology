@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="dbebf070-6954-404f-af12-d61be85a99c0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qcfcxk</alternateIdentifier>
+        <alternateIdentifier>dbebf070-6954-404f-af12-d61be85a99c0</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=aband</alternateIdentifier>
+    <title>Occurrence Data of Vascular Plants from Abandoned Agricultural Fields (Moscow and Tula Regions, Russia)</title>
+    <creator>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Shovkun</surName>
+    </individualName>
+<organizationName>Pushchino State University</organizationName><positionName>Researcher</positionName>    <address>
+<city>Pushchino</city><country>RUSSIAN_FEDERATION</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Moskalenko</surName>
+    </individualName>
+<organizationName>Institute of Physicochemical and Biological Problems in Soil Science</organizationName><positionName>Researcher</positionName>    <address>
+<city>Pushchino</city><country>RUSSIAN_FEDERATION</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Larisa</givenName>          <surName>Khanina</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>head of laboratory</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>khanina.larisa@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8937-5938</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+<electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-09-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This data set is a part of the database “Vegetation relevés in temperate forest region of European Russia” (DOI: 10.15468/gohlb5) and includes 8077 vascular plant species occurrences, collected at temporal plots which are located in south of the Moscow region and Belev district of the Tula region. Here we provide only occurrence data because now Darwin Core standard doesn’t have the terminology for characteristics of vegetation layers. The full information is available via the European Vegetation Archive (EVA; http://euroveg.org/eva-database; EU-RU-014). Data was sampled in 2012-2016 on former agricultural fields which were abandoned from 1 to 25 years before the sampling.
+Data processing was supported by a GBIF - FinBIF data mobilization grant for European Russia (Russia-02).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Moscow and Tula regions</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>36</westBoundingCoordinate>
+                      <eastBoundingCoordinate>37</eastBoundingCoordinate>
+                      <northBoundingCoordinate>54</northBoundingCoordinate>
+                      <southBoundingCoordinate>53</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-07-22
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-08-02
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Glukhova</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><country>RUSSIAN_FEDERATION</country>    </address>
+      </contact>
+
+      <project id="Russia-02">
+          <title>Supporting data mobilization activities in Russia west of Ural mountains</title>
+          <personnel>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:46Z</dateStamp>
+      <citation>Shovkun M, Moskalenko S, Ivanova N, Khanina L (2018). Occurrence Data of Vascular Plants from Abandoned Agricultural Fields (Moscow and Tula Regions, Russia). Version 1.3. Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences. Occurrence dataset https://doi.org/10.15468/qcfcxk accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

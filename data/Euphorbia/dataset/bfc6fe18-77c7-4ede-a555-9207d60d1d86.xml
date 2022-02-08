@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bfc6fe18-77c7-4ede-a555-9207d60d1d86"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fyuklz</alternateIdentifier>
+        <alternateIdentifier>https://ipt.inbo.be/resource?r=planten-natuurpunt-occurrences</alternateIdentifier>
+        <alternateIdentifier>http://data.inbo.be/ipt/resource?r=planten-natuurpunt-occurrences</alternateIdentifier>
+        <alternateIdentifier>bfc6fe18-77c7-4ede-a555-9207d60d1d86</alternateIdentifier>
+    <title>Waarnemingen.be - Plant occurrences in Flanders and the Brussels Capital Region, Belgium</title>
+    <creator>
+    <individualName>
+<givenName>Roosmarijn</givenName>          <surName>Steeman</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>roosmarijn.steeman@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Wouter</givenName>          <surName>Vanreusel</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>wouter.vanreusel@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Rutger</givenName>          <surName>Barendse</surName>
+    </individualName>
+<organizationName>Plantenwerkgroep Genk</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>rutger.barendse@telenet.be</electronicMailAddress><onlineUrl>https://www.natuurpunt.be/afdelingen/plantenwerkgroep-genk</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Filip</givenName>          <surName>Verloove</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>filip.verloove@botanicgardenmeise.be</electronicMailAddress><onlineUrl>http://www.plantentuinmeise.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Nico</givenName>          <surName>Wysmantel</surName>
+    </individualName>
+    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>nico.wysmantel@telenet.be</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Walter</givenName>          <surName>Van den Bussche</surName>
+    </individualName>
+    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>walter.vdbussche@telenet.be</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Gyselinck</surName>
+    </individualName>
+    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>thomas.gyselinck@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Pieter</givenName>          <surName>Hendrickx</surName>
+    </individualName>
+<organizationName>Natuurpunt</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>pieter.hendrickx@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Arnout</givenName>          <surName>Zwaenepoel</surName>
+    </individualName>
+<organizationName>WVI</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>azwaenepoel@wvi.be</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Pierre</givenName>          <surName>Van Vooren</surName>
+    </individualName>
+    <address>
+<country>BELGIUM</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Karin</givenName>          <surName>Gielen</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>karin.gielen@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Herremans</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>marc.herremans@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Kristijn</givenName>          <surName>Swinnen</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>kristijn.swinnen@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-1910-9247</userId>
+    </creator>
+    <creator>
+<organizationName>all plant working groups and plant observers</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<onlineUrl>http://www.waarnemingen.be</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Wouter</givenName>          <surName>Vanreusel</surName>
+    </individualName>
+<organizationName>Natuurpunt</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>wouter.vanreusel@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Kristijn</givenName>          <surName>Swinnen</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>kristijn.swinnen@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-1910-9247</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-04-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Waarnemingen.be - Plant occurrences in Flanders and the Brussels Capital Region, Belgium is a species occurrence dataset published by Natuurpunt and described (v1.4) in Steeman et al. (2017, https://doi.org/10.3897/phytokeys.85.14925). The dataset contains over 2.3 million plant occurrences of almost 1,300 naturally occurring species (native, vagrant or migrant species), recorded by volunteers (citizen scientists), mainly since 2008. Together with the datasets Van Landuyt &amp;amp; Brosens (2017, http://www.gbif.org/dataset/271c444f-f8d8-4986-b748-e7367755c0c1) and Van Landuyt &amp;amp; Noé (2015, https://doi.org/10.15468/xnlbke), the dataset represents the most complete overview of indigenous plants in Flanders and the Brussels Capital Region (north Belgium). The occurrences are derived from the database http://www.waarnemingen.be, hosted at the nature conservation NGO Natuurpunt in collaboration with Stichting Natuurinformatie. Standardized information regarding the occurrence&amp;#39;s sex, reproductiveCondition, behavior, occurrenceRemarks, and samplingProtocol is included as well.</para>
+        <para>Generalized and/or withheld information: location information is generalized to 4 x 4 km² IFBL grid cells. Observer name, exact XY-coordinates, toponyms, and photographs are not included in the published dataset, but are known in the source database.</para>
+        <para>To allow anyone to use this dataset, we have released the data to the public domain under a Creative Commons Zero waiver (http://creativecommons.org/publicdomain/zero/1.0/). We would appreciate however, if you read and follow these norms for data use (http://www.natuurpunt.be/normen-voor-datagebruik) and provide a link to the original dataset (https://doi.org/10.15468/fyuklz) whenever possible. If you use these data for a scientific paper, please cite the dataset following the applicable citation norms and/or consider us for co-authorship. We are always interested to provide more information or know how you have used the data, so please contact us via the contact information provided in the metadata or natuurdata&amp;#64;natuurpunt.be.</para>
+        <para>The publication of this dataset is supported by INBO and funded by Research Foundation - Flanders (FWO) as part of the Belgian contribution to LifeWatch.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>observation.org</keyword>
+              <keyword>plants</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>observations</keyword>
+              <keyword>citizen science</keyword>
+              <keyword>waarnemingen.be</keyword>
+              <keyword>distribution</keyword>
+              <keyword>Natuurpunt</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.waarnemingen.be</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Flanders and the Brussels Capital Region. These regions are situated in the north of Belgium and cover an area of 13,522 km² and 162 km² respectively (13,684 km² in total or 45% of the Belgian territory). Flanders is largely covered by agricultural land and urban areas while the Brussels Capital Region is mainly urban. All occurrence data are generalized to Instituut voor Floristiek van België en Luxemburg (IFBL) grid cells of 4 x 4 km², with the grid codes indicated in the field verbatimCoordinates. The WGS84 centroids of these grid cells are calculated in decimalLatitude/Longitude with a coordinateUncertaintyInMeters of 2,828 meters using Wieczorek et al. (2004).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>2.53</westBoundingCoordinate>
+                      <eastBoundingCoordinate>5.94</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.51</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.67</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1850-06-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The dataset contains almost 1,300 naturally occurring vascular plant species (as well as a number of subspecies, varieties, forms, cultivars, hybrids and multispecies) recorded in Flanders and the Brussels Capital Region. This includes species that are native, vagrant or migrant. The scope includes angiosperms (flowering plants), gymnosperms, ferns and allies, but not algae, mosses and lichens. The taxonomic reference for the dataset is Heukels’ Flora of the Netherlands by Van der Meijden (2005) which follows the classification as suggested by the Angiosperm Phylogeny Group (APG II 2003).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Plants have a long history of being recorded by both amateur and professional botanists. Volunteer data from amateur botanists were always an important source of distribution data of plants. The atlas of Flanders and the Brussels Capital region (Van Landuyt et al. 2006) was based on the teamwork of many volunteer botanists, NGOs, scientific institutes and governmental organisations. Since Natuurpunt, the largest nature conservation NGO in Flanders, Belgium, launched the web portal waarnemingen.be in 2008, the number of plant observations in Flanders and the Brussels Capital Region has risen sharply. Beside IFBL-mapping and project-related observations, this database is easily used for occasional observations and can be used for monitoring (wildlife) areas. Old notebooks and reports were screened and stored in the database (Steeman et al. 2012). The team of specialized validators motivates the inexperienced observers and validates observations. Here we publish these records on a IFBL (Instituut voor Floristiek van België en Luxemburg) grid cell resolution of 4 × 4 km².</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Herremans</surName>
+    </individualName>
+<organizationName>Natuurpunt Studie</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>marc.herremans@natuurpunt.be</electronicMailAddress><onlineUrl>http://www.natuurpunt.be</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Not provided.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>See geographic coverage.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Most observations (species, date, location, observer) were recorded by volunteers (citizen scientists). The dataset also includes historical records and datasets imported in waarnemingen.be. The majority of the data are presence-only data (absence data are not included in this dataset).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Recorded data are constantly verified by species group specialists (including professional botanists) taking collection specimens, the observer’s species knowledge, added photographs and known species list of locations into account. The validation procedure from www.waarnemingen.be consists of an interactive procedure in which observers can be asked for additional information by a team of validators, after which the validator manually adds a validation status. Records that are not manually validated are additionally checked by an automated validation procedure that takes into account the number of manually validated observations within a specified date and distance range. 10% of the observations in this dataset are supported by photographs on www.waarnemingen.be. The validation status is indicated in the field identificationVerificationStatus, the link to the original record in references.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:52Z</dateStamp>
+      <citation identifier="https://doi.org/10.15468/fyuklz">Steeman R, Vanreusel W, Barendse R, Verloove F, Wysmantel N, Van den Bussche W, Gyselinck T, Hendrickx P, Zwaenepoel A, Van Vooren P, Desmet P, Gielen K, Herremans M, Swinnen K (2021). Waarnemingen.be - Plant occurrences in Flanders and the Brussels Capital Region, Belgium. Version 1.8. Natuurpunt. Occurrence dataset https://doi.org/10.15468/fyuklz accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Steeman R, Vanreusel W, Barendse R, Verloove F, Wysmantel N, Van den Bussche W, Gyselinck T, Hendrickx P, Zwaenepoel A, Van Vooren P, Jacobs S, Desmet P, Gielen K, Herremans M, Swinnen K (2017) Waarnemingen.be – Plant occurrences in Flanders and the Brussels Capital Region, Belgium. PhytoKeys 85: 1-10. https://doi.org/10.3897/phytokeys.85.14925</citation>
+      <citation>APG II (2003) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II. Botanical Journal of the Linnean Society 141: 399–436. https://doi.org/10.1046/j.1095-8339.2003.t01-1-00158.x</citation>
+      <citation>Steeman R, Vervoort L, Lambrechts J (2012) Actualisatie Provinciale Prioritaire plantensoorten en aanzet voor de ‘hotspotkaart van de bedreigde plantensoorten in Vlaams-Brabant’. Rapport Natuurpunt Studie 10: 1–51.</citation>
+      <citation>Van der Meijden R (2005) Heukels’ Flora van Nederland, 23th print, Wolters Noordhoff.</citation>
+      <citation>Van Landuyt W, Noé N (2015) Belgian IFBL Flora Checklists (1939–1971). Belgium Biodiversity Platform. Dataset/Occurrence. https://doi.org/10.15468/xnlbke</citation>
+      <citation>Van Landuyt W, Brosens D (2017) Florabank1 – A grid-based database on vascular plant distribution in the northern part of Belgium (Flanders and the Brussels Capital region). Version 45.6. Research Institute for Nature and Forest (INBO). Dataset/Occurrence. http://www.gbif.org/dataset/271c444f-f8d8-4986-b748-e7367755c0c1 Data paper: https://doi.org/10.3897/phytokeys.12.2849</citation>
+      <citation>Van Landuyt W, Hoste I, Vanhecke L, Van den Bremt P, Vercruysse W, De Beer D (2006) Atlas van de Flora van Vlaanderen en het Brussels Gewest. Instituut voor Natuur- en Bosonderzoek: Brussel: Belgium.</citation>
+      <citation>Wieczorek J, Guo QG, Hijmans RJ (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18: 745–767. https://doi.org/10.1080/13658810412331280211</citation>
+              </bibliography>
+              <resourceLogoUrl>https://ipt.inbo.be/logo.do?r=planten-natuurpunt-occurrences</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="940821c0-3269-11df-855a-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xnlbke</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversity.be/resource?r=ifbl</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversity.be/resource.do?r=ifbl</alternateIdentifier>
+        <alternateIdentifier>940821c0-3269-11df-855a-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>10969</alternateIdentifier>
+    <title>Belgian IFBL Flora Checklists (1939-1971)</title>
+    <creator>
+    <individualName>
+<givenName>Wouter</givenName>          <surName>Van Landuyt</surName>
+    </individualName>
+<organizationName>Instituut voor natuur- en bosonderzoek</organizationName><positionName>Scientific Editor</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><postalCode>1050</postalCode><country>BELGIUM</country>    </address>
+<phone>+32 (0)2 525.02.96</phone><electronicMailAddress>wouter.vanlanduyt@inbo.be</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nicolas</givenName>          <surName>Noe</surName>
+    </individualName>
+<organizationName>Belgian Biodiversity Platform</organizationName><positionName>IT Expert</positionName>    <address>
+<deliveryPoint>Avenue Louise 231</deliveryPoint><city>Brussels</city><postalCode>1050</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>n.noe@biodiversity.be</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nicolas</givenName>          <surName>Noe</surName>
+    </individualName>
+<organizationName>Belgian Biodiversity Platform</organizationName><positionName>IT Expert</positionName>    <address>
+<deliveryPoint>Avenue Louise 231</deliveryPoint><city>Brussels</city><postalCode>1050</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>n.noe@biodiversity.be</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-03-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The data in IFBL 1, 2 &amp;amp; 3 covers all of the IFBL 1 km² flora checklists sampled between 1939 and 1971. About 10000 original lists corresponding with some 1 200 000 data representative of the former distribution of vascular plant species in Belgium, were digitised. The IFBL data is integrated in existing national and regional flora databases and will contribute to the realisation of regional Flora Atlases. The analysis of the digitised data will improve the possibilities to compare floral data over successive periods and will be of help in developing a strategy for reducing the costs and the length of new flora monitoring and mapping projects in the future.
+The Atlas of the Flora (Pteridophytes – Spermatophytes) of Belgium and Luxemburg (Van Rompaey &amp;amp; Delvosalle 1972) was the result of the first national flora mapping project (1939- 1971). Unfortunately, the data used to build it were only digitised at a synthetic level (units of 16 km²). To be able to investigate the changes in the flora between the first mapping period and the second (1972 up to now) in all its aspects, especially in relation to environmental factors (climatic, pollution, land use…), the original data was digitized, i.e. the field records on the flora (flora checklists) made within 1km² IFBL squares.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://projects.biodiversity.be/ifbl</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Belgium</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>2.46</westBoundingCoordinate>
+                      <eastBoundingCoordinate>6.47</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.51</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.46</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1939-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1971-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Vascular plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophytes</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Wouter</givenName>          <surName>Van Landuyt</surName>
+    </individualName>
+<organizationName>Instituut voor natuur- en bosonderzoek</organizationName><positionName>Scientific Editor</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><postalCode>1050</postalCode><country>BELGIUM</country>    </address>
+<phone>+32 (0)2 525.02.96</phone><electronicMailAddress>wouter.vanlanduyt@inbo.be</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:50Z</dateStamp>
+      <citation>Van Landuyt W, Noe N (2018). Belgian IFBL Flora Checklists (1939-1971). Meise Botanic Garden. Occurrence dataset https://doi.org/10.15468/xnlbke accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

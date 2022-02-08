@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f2c7dd7a-9199-498f-a0c1-7fb711598b51"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7atjzn</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=herbariosacaglia</alternateIdentifier>
+    <title>Herbario de Plantas Vasculares del Museo Municipal de Ciencias Naturales &apos;Lorenzo Scaglia&apos;  MMPEAAH</title>
+    <creator>
+    <individualName>
+<givenName>Jennifer</givenName>          <surName>Saya</surName>
+    </individualName>
+<organizationName>Museo Municipal de Ciencias Naturales Lorenzo Scaglia</organizationName><positionName>Bibliotecaria</positionName>    <address>
+<deliveryPoint>Libertad 3099</deliveryPoint><city>Mar del Plata</city><administrativeArea>Buenos Aires</administrativeArea><postalCode>7600</postalCode><country>ARGENTINA</country>    </address>
+<phone>02234738791</phone><electronicMailAddress>jenny.saya@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>María Gabriela</givenName>          <surName>Pujol</surName>
+    </individualName>
+<organizationName>Museo Municipal de Ciencias Naturales Lorenzo Scaglia</organizationName><positionName>Curador/ investigador</positionName>    <address>
+<deliveryPoint>Libertad 3099</deliveryPoint><city>Mar del Plata</city><administrativeArea>Buenos Aires</administrativeArea><postalCode>7600</postalCode><country>ARGENTINA</country>    </address>
+<phone>02234738791</phone><electronicMailAddress>mgpujol@hotmail.com</electronicMailAddress><onlineUrl>http://www.mardelplata.gob.ar</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jennifer</givenName>          <surName>Saya</surName>
+    </individualName>
+<electronicMailAddress>jenny.saya@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-08-16
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Esta colección cuenta con una variedad de plantas vasculares extraídas de la Reserva Natural del Puerto de la ciudad de Mar del Plata (Buenos Aires, Argentina) durante los años 2001-2002. Se encuentran depositadas en el Herbario del Museo Municipal de Ciencias Naturales “Lorenzo Scaglia”.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Herbario</keyword>
+              <keyword>Taxonomía</keyword>
+              <keyword>Reserva Natural</keyword>
+              <keyword>Mar del Plata</keyword>
+              <keywordThesaurus>Taxonomía http://vocabularios.caicyt.gov.ar/mmpeaah/</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La reserva se encuentra ubicada en el puerto de la ciudad de Mar del Plata, Buenos Aires. Argentina</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-38.055</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-38.055</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-57.543</northBoundingCoordinate>
+                      <southBoundingCoordinate>-57.543</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2001
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2002
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>María Gabriela</givenName>          <surName>Pujol</surName>
+    </individualName>
+<organizationName>Museo Municipal de Ciencias Naturales Lorenzo Scaglia</organizationName><positionName>Curador/Investigador</positionName>    <address>
+<deliveryPoint>Libertad 3099</deliveryPoint><city>Mar del Plata</city><administrativeArea>Buenos Aires</administrativeArea><postalCode>7600</postalCode><country>ARGENTINA</country>    </address>
+<phone>02234738791</phone><electronicMailAddress>mgpujol@hotmail.com</electronicMailAddress><onlineUrl>http://www.mardelplata.gob.ar</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:46Z</dateStamp>
+      <citation>Saya J, Pujol M G (2017). Herbario de Plantas Vasculares del Museo Municipal de Ciencias Naturales &apos;Lorenzo Scaglia&apos;  MMPEAAH. Museo Municipal de Ciencias Naturales &quot;Lorenzo Scaglia&quot;. Occurrence dataset https://doi.org/10.15468/7atjzn accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.mincyt.gob.ar/logo.do?r=herbariosacaglia</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>MMPEAAH</parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Colección de Plantas Vasculares de la Reserva Natural del Puerto de Mar del Plata</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

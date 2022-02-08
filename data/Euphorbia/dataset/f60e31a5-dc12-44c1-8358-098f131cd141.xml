@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f60e31a5-dc12-44c1-8358-098f131cd141"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rsvnif</alternateIdentifier>
+        <alternateIdentifier>f60e31a5-dc12-44c1-8358-098f131cd141</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr656</alternateIdentifier>
+        <alternateIdentifier>198ce12e-2c9e-347a-a9bc-cdfa3af085be</alternateIdentifier>
+    <title>Welsh BSBI data (ex-VPDB dataset) at hectad resolution</title>
+    <creator>
+<organizationName>Botanical Society of Britain &amp; Ireland</organizationName>    <address>
+<deliveryPoint>57 Walton Road,</deliveryPoint><city>Shirehampton</city><administrativeArea>Bristol,</administrativeArea><postalCode>BS11 9TA.</postalCode>    </address>
+<electronicMailAddress>enquiries@bsbi.org</electronicMailAddress><onlineUrl>http://bsbi.org/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Botanical Society of Britain &amp; Ireland</organizationName>    <address>
+<deliveryPoint>57 Walton Road,</deliveryPoint><city>Shirehampton</city><administrativeArea>Bristol,</administrativeArea><postalCode>BS11 9TA.</postalCode>    </address>
+<electronicMailAddress>enquiries@bsbi.org</electronicMailAddress><onlineUrl>http://bsbi.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-08
+      </pubDate>
+    <language>ENGLISH</language>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr656</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Tom</givenName>          <surName>Humphrey</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>tom.humphrey@bsbi.org</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:29Z</dateStamp>
+      <citation>Botanical Society of Britain &amp; Ireland (2018). Welsh BSBI data (ex-VPDB dataset) at hectad resolution. Occurrence dataset https://doi.org/10.15468/rsvnif accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BSBIstackedcolour.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

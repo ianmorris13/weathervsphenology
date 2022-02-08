@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7b634023-7bd3-4d64-806a-90f5c0465750"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/kaq5ol</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=svalbard</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=svalbard</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=svalbard</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=svalbard</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=svalbard</alternateIdentifier>
+        <alternateIdentifier>7b634023-7bd3-4d64-806a-90f5c0465750</alternateIdentifier>
+        <alternateIdentifier>14377</alternateIdentifier>
+    <title>svalbardflora.no</title>
+    <creator>
+<organizationName>Svalbardflora.no</organizationName>    <address>
+<country>NORWAY</country>    </address>
+<onlineUrl>http://www.svalbardflora.no</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>GBIF Norway</organizationName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2019-12-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Observations, svalbardflora.no</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.svalbardflora.no</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Svalbard</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>7</westBoundingCoordinate>
+                      <eastBoundingCoordinate>30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>81</northBoundingCoordinate>
+                      <southBoundingCoordinate>76</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+<organizationName>GBIF Norway</organizationName><electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>      </contact>
+      <contact>
+<organizationName>GBIF Norway</organizationName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:38Z</dateStamp>
+      <citation>University of Oslo (2019). svalbardflora.no. Version 1.188. Occurrence dataset https://doi.org/10.15468/kaq5ol accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

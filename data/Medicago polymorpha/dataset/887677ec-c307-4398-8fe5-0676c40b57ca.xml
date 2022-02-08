@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="887677ec-c307-4398-8fe5-0676c40b57ca"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/daaflf</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=sda_flora</alternateIdentifier>
+        <alternateIdentifier>887677ec-c307-4398-8fe5-0676c40b57ca</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=sda_flora</alternateIdentifier>
+    <title>Flora de los Parques Ecológicos Distritales Humedales de Bogotá D.C.</title>
+    <creator>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Medellin</surName>
+    </individualName>
+<organizationName>Secretaria Distrital de Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>dimarmedellinz@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Edgar Andres</givenName>          <surName>Espitia Villarraga</surName>
+    </individualName>
+<organizationName>Secretaria Distrital de Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>andresespitia1993@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Sandy</givenName>          <surName>Arroyo</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Coordinadora grupo monitoreo de biodiversidad</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sandy.arroyo@ambientebogota.gov.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Edgar Andres</givenName>          <surName>Espitia Villarraga</surName>
+    </individualName>
+<organizationName>Secretaria Distrital de Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>andresespitia1993@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Yeny Rocio</givenName>          <surName>López Perilla</surName>
+    </individualName>
+<organizationName>Secretaria Distrital de Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>yrocio.lopez@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Adriana Lucia</givenName>          <surName>Santa Méndez</surName>
+    </individualName>
+<organizationName>Secretaria Distrital de Ambiente</organizationName><positionName>Directora de Gestión Ambiental</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>adriana.santa@ambientebogota.gov.co</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jimmy</givenName>          <surName>García Beltrán</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Subdirector de Ecosistemas y Ruralidad</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jimmy.beltran@ambientebogota.gov.co</electronicMailAddress>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Wendy Francy</givenName>          <surName>López Meneses</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Coordinadora Monitoreo en Biodiversidad</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>wendyfrancy@gmail.com</electronicMailAddress>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Oscar Yandy</givenName>          <surName>Romero Goyeneche</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Apoyo a la coordinación de monitoreo</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>oyromerog@gmail.com</electronicMailAddress>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sandy</givenName>          <surName>Arroyo</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Coordinadora Monitoreo en Biodiversidad</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sandy.arroyo@ambientebogota.gov.co</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Yeny Rocio</givenName>          <surName>López Perilla</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>yrocio.lopez@gmail.com</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-21
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>En este recurso, el grupo de monitoreo en biodiversidad de la Secretaría Distrital de Ambiente –SDA, adscrito a la Subdirección de Ecosistemas y Ruralidad, presenta un consolidado de los registros biológicos de flora, producto del monitoreo de biodiversidad realizado a los Parques Ecológicos Distritales de Humedal (PEDH) durante el mes de Noviembre de 2016 a Diciembre de 2016 y durante el mes de septiembre de 2017 a noviembre de 2017. En este se incluye información del grupo biológico, localizados en los 12 Humedales (PEDH) declarados en el Distrito Capital. Dentro de los resultados obtenidos se tiene para el grupo de flora un registro total de 180 especies vegetales en todos los PEDH del Distrito.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Vaca</keyword>
+              <keyword>Santa María del Lago</keyword>
+              <keyword>Burro</keyword>
+              <keyword>Torca-Guaymaral</keyword>
+              <keyword>flora</keyword>
+              <keyword>Humedal Salitre</keyword>
+              <keyword>Distrito</keyword>
+              <keyword>Córdoba</keyword>
+              <keyword>Juan Amarillo</keyword>
+              <keyword>Jaboque</keyword>
+              <keyword>Conejera</keyword>
+              <keyword>Techo</keyword>
+              <keyword>Humedales de Bogotá</keyword>
+              <keyword>Capellanía</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Parques Ecológicos Distritales de Humedales - Jaboque, Torca-Guaymaral, La Vaca, Capellanía, La Conejera, Techo, Córdoba, El Burro, Juan Amarillo, Tunjo, Tibanica, Santa María del Lago.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.229</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.02</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.813</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.479</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-11-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-12-06
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-09-13
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-11-04
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Todas las plantas vasculares se identificaron a clase</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Monocotyledoneae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Eudicotyledoneae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gymnospermae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Asparagales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Todas las plantas vasculares se identificaron a orden</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Commelinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Alismatales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Poales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Typhaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malpighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Solanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cucurbitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Polypodiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Brassicales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malvales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Arecales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Magnoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asparagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Dipsicales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Juglandales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Salviniales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Araucariales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sapindales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cupressales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Saxifragales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Zingiberales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Escalloniales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piperales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ranunculales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Oxalidales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Dipsacales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Laurales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Aquifoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Chloranthales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Todas las plantas vasculares se identificaron a familias</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pontederiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Typhaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phytolaccaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Betulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Solanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cucurbitaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dennstaedtiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Brassicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Passifloraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Onagraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tropaeolaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malvaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Moraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Clusiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Arecaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Urticaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrtaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Magnoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bignoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asparagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Adoxaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apocynaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrsinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juglandaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salviniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oleaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araucariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anacardiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cupressaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crassulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Musaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Verbenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cannaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lythraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Escalloniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Piperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapindaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Meliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podocarpaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Convolvulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrocharitaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Papaveraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Balsaminaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polemoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pittosporaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oxalidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Melastomataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Commelinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lauraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orobanchaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Elaeocarpaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Altingiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bromeliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aquifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tarachodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phyllanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chloranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rutaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Edgar Andres</givenName>          <surName>Espitia Villarraga</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>andresespitia1993@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Medellin</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>dimarmedellinz@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sandy</givenName>          <surName>Arroyo</surName>
+    </individualName>
+<organizationName>Secretaria Distrital Ambiente</organizationName><positionName>Coordinadora grupo monitoreo de biodiversidad</positionName>    <address>
+<deliveryPoint>Av. Caracas No 54-38</deliveryPoint><city>Bogotá D.C.</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sandy.arroyo@ambientebogota.gov.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>El grupo de monitoreo en biodiversidad adscrito a la Secretaria Distrital de Ambiente, fijo los puntos y transectos de muestreo sistemáticamente en los 15 humedales del distrito teniendo en cuenta el área de cada uno, así como las condiciones topográficas y coberturas vegetales presentes. La jornada de campo se realizo entre las 7:00 y 8:30 am hasta las 12 de medio día. En cada humedal se hizo registro de especies vegetales representativas de tipo herbáceo, arbustivo y arbóreo.
+Los transectos establecidos entre los puntos de monitoreo presentan una longitud y ancho variable dependiendo de la cobertura y diversidad vegetal presente. Este método puede ser sensible a sesgos en función de la experiencia y calidad al momento de identificar las plantas mientras se camina, lo cual es un reto para las habilidades del observador.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los PEDH cubren un total de 725,01 ha de la EEP de Bogotá y cada uno cuenta con la siguiente área legal declarada: 
+1. PEDH Tibaníca: (28.8 ha) 
+2. PEDH La Vaca: (7.98 ha)
+3. PEDH El Burro: (18.84 ha)                               
+4. PEDH Techo: (11.67 ha)
+5. PEDH Capellanía: (27 ha)	 
+6. PEDH Santa María del Lago: (10.86 ha)
+7. PEDH Córdoba: (40.51 ha)
+8. PEDH Jaboque: (148 ha)
+9. PEDH Juan Amarillo: (222.76 ha)
+10. PEDH La Conejera: (58.89 ha)
+11. PEDH Torca-Guaymaral: (79.93 ha)
+12. PEDH El Salitre: (2.8 ha)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El método de transectos lineales, es de los protocolos más comunes para hacer este tipo de registros. Este método sugiere identificar la vegetación a aproximadamente 10 metros a lado y lado del transecto y con una longitud de 100 m aproximadamente</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La calidad de la información se garantiza por parte de los especialistas de flora terrestre acuática.
+
+Ajuste de vocabularios controlados en:
+Elementos geográficos: stateProvince y county;</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Registros Biológicos para el Desarrollo de Acciones de Evaluación, Seguimiento y Monitoreo en los Elementos Priorizados de la Estructura Ecológica Principal del Distrito Capital</title>
+          <personnel>
+    <individualName>
+<givenName>Wendy Francy</givenName>          <surName>López Meneses</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sandy</givenName>          <surName>Arroyo</surName>
+    </individualName>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Edgar Andres</givenName>          <surName>Espitia Villarraga</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Medellin</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Yeny Rocio</givenName>          <surName>López Perilla</surName>
+    </individualName>
+    <role>PUBLISHER</role>
+          </personnel>
+          <abstract>
+              <para>En este recurso, el grupo de monitoreo en biodiversidad de la Secretaría Distrital de Ambiente –SDA, adscrito a la Subdirección de Ecosistemas y Ruralidad, presenta un consolidado de los registros biológicos de flora, producto del monitoreo de biodiversidad realizado a los Parques Ecológicos Distritales de Humedal (PEDH) durante el mes de Noviembre de 2016 a Diciembre de 2016 y durante el mes de septiembre de 2017 a octubre de 2017. En este se incluye información del grupo biológico, localizados en los 12 Humedales (PEDH) declarados en el Distrito Capital. Dentro de los resultados obtenidos se tiene para el grupo de flora un registro total de 180 especies vegetales en todos los PEDH del Distrito.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El distrito capital abarca un marco ecosistémico que se extiende desde los páramos de Sumapaz, en los valles aluviales del rio Bogotá, en este ámbito se ubican los humedales, bajo tres tipologías: humedales de Paramo, de ladera, y planicie. La morfología de este altiplano tiene como frontera por el oriente con los cerros de Monserrate (3.152 m.s.n.m.) y Guadalupe (3.260 msnm) que determinan en gran parte las características hídricas de esta área. El drenaje natural de estos cerros en su vertiente occidental, se desarrolla a través de una gran cantidad de quebradas que se convierten en los afluentes de los principales ríos de la ciudad: Torca, Salitre, Fucha y Tunjuelo. En general los cuerpos hídricos que discurren por los cerros orientales tienen un importante gradiente de altura desde más de los 3.200 m.s.n.m. alcanzar los 2.540 m.s.n.m. en la zona baja de la ciudad de Bogotá. El área de estudio comprendió los humedales de planicie, los cuales se ubican en el distrito capital que en su totalidad suman 15 PEDH. 
+El sistema hidrográfico de Bogotá está formado por las cuencas de los ríos Salitre o Juan Amarillo, Fucha y Tunjuelo, las cuales drenan el agua de más del 90 % del área urbanizada actual. Deben tenerse en cuenta las cuencas de Torca, La Conejera, El Jaboque y el Tintal. 
+El río Bogotá recorre el Distrito Capital en su cuenca media a lo largo del costado occidental de su área urbana, y ésta cuenca está conformada por múltiples cauces y canales de drenaje, provenientes de los cerros orientales. En esta cuenca media se identifican las siguientes subcuencas en el perímetro urbano de Bogotá: los ríos Torca, Salitre, Fucha y Tunjuelo.
+Hacen parte de la cuenca del Salitre, las quebradas Delicias, La Vieja, La Chorrera, Cataluña, La Canadá, Luce, Moraji, Chico, Los Cerros, Los Rosales, entre otras. También hacen parte de ella los humedales Jaboque, Santa María del Lago, Córdoba y Juan Amarillo o Tibabuyes.
+La cuenca del río Fucha dada su conformación y longitud, se subdivide en tres sectores, cuenca alta la cual corresponde a la parte montañosa, cuenca media que inicia a la entrada del río al perímetro urbano de la ciudad de Bogotá hasta la avenida Boyacá y la cuenca baja desde la avenida Boyacá hasta su desembocadura en el Río Bogotá. Está localizada en el sector centro-sur del Distrito Capital, y drena las aguas de oriente a occidente para finalmente entregarlas al rio Bogotá.
+Hacen parte de esta cuenca los canales San Blas, Los Comuneros, Albina, Río Seco y las quebradas Finca, San José, La Pena, Los Laches, San Cristóbal, San Francisco, Santa Isabel, Honda, entre otras. Como ecosistemas asociados se encuentran los humedales de Techo, El Burro, La Vaca y Capellanía.
+El río Tunjuelo nace a partir de la confluencia de los ríos Chisacá, Mugroso y Curubital en las estribaciones del Páramo del Sumapaz, las cuales convergen al Embalse La Regadera a 2.900 msnm de altitud que tiene la capacidad de contener un volumen de agua de 4 millones de m3
+El sistema pluvial del río Tunjuelo lo constituyen las quebradas Chigüaza, Limas, Yomasa, El Triángulo, El Zuque, Santa Librada, Juan Rey, La Pichosa, Moralvia, Nueva Delhi, Gaviotas, Zanjón de la Estrella y Trompeta; canales como San Carlos, San Vicente I y II; el sistema de amortiguación de crecientes (cuencas altas rural y urbana hasta San Benito) y la presa de Cantarrana. Como ecosistemas asociados se encuentra el humedal, Tibaníca, y los humedales Tunjo e Isla declarado recientemente.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:45Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/daaflf">Medellin D, Espitia Villarraga E A, Arroyo S, López Perilla Y R (2022). Flora de los Parques Ecológicos Distritales Humedales de Bogotá D.C.. Version 1.5. Secretaría Distrital de Ambiente. Occurrence dataset https://doi.org/10.15472/daaflf accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Madriñán Santiago, 1964- Flora ilustrada del Páramo de Chingaza: guía de campo de plantas comunes. Ed. 2. Santiago Madriñán. Bogotá: Universidad de Los Andes, Ediciones Uniandes, 2010. 64 p, 27 X 12 cm</citation>
+      <citation>Secretaría Distrital de Ambiente-SDA. Documento Técnico De Soporte-Evaluación de la Viabilidad para la declaratoria de un área protegida en el sector de Arborizadora Alta –Ciudad Bolívar Bogotá DC. 2013</citation>
+      <citation>Manual de Silvicultura Urbana para Bogotá. Resolución No. 043 del 13 de febrero de 2004, artículo 1° Jardín Botánico de Bogotá José Celestino Mutis.</citation>
+      <citation>Briceño, R. Parque ecológico Entrenubes de Bogotá: ¿un espacio público para el mejoramiento de la calidad de vida de los habitantes del sur de la ciudad? Universidad Piloto de Colombia. 2011.</citation>
+      <citation>Secretaría Distrital de Ambiente-SDA. Plan de Manejo Ambiental del Parque Ecológico Distrital Humedal Tibanica. Bogotá DC. 2009</citation>
+      <citation>Ruíz T. F.L., Otero G. J., Ramírez A. D.P., Trespalacios G. O.L.  2008.  Biodiversidad y conectividad ecológica en la localidad de Suba. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.  Bogotá, D.C. Colombia 52p.</citation>
+      <citation>IavH - INSTITUTO DE INVESTIGACIÓN DE RECURSOS BIOLÓGICOS “ALEXANDER VON HUMBOLDT”. Diseño E Implementación De Un Sistema De Indicadores De La Biodiversidad Dentro De La Jurisdicción De La Car E Identificación De Especies Potenciales Como Objeto De Conservación. Informe final de resultados. Corporación Autónoma Regional de Cundinamarca–CAR. 2005.</citation>
+      <citation>DAMA. 2006. Política de Humedales del Distrito Capital. Primera Edición. Bogotá D.C. – Colombia.</citation>
+      <citation>Estupiñan, L. &amp; Cabrera, L. 2008 Los alrededores: Todo un ambiente en en la U.D.C.A. Revista U.D.C.A Actualidad &amp; Divulgación Científica 11 (2). Pg: 3-9.</citation>
+      <citation>Moreno, V., García, J., Villalba, J. 2002. Descripción General de los Humedales de Bogotá. Sociedad Geográfica de Colombia – Academia de Ciencias Geográficas. Bogotá. Pg: 28.</citation>
+      <citation>Rangel, O. 2003. El Antiguo Lago de la Sabana de Bogotá, su vegetación y flora en el tiempo. En: Empresa Acueducto y Alcantarillado de Bogotá &amp; Conservación Internacional Colombia (Eds.) Los Humedales de Bogotá y la Sabana. Acueducto de Bogotá. Bogotá, D.C. Pg: 53-70.</citation>
+      <citation>Van der Hammen, T. 1998. Plan Ambiental de la Cuenca Alta del Río Bogotá, Análisis y Orientaciones para el Ordenamiento Territorial. Corporación Autónoma Regional de Cundinamarca, CAR. Bogotá, D.C. Pg: 142.</citation>
+      <citation>Van der Hammen, T. 2003. Los humedales de la sabana: Origen, evolución, degradación y restauración. En: GUARNIZO A. y B. CALVACHI. Los humedales de Bogotá y la sabana. Acueducto de Bogotá y Conservación Internacional. Colombia.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sda.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

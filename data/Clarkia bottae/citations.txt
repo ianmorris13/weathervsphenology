@@ -1,0 +1,43 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Danet F, recolnat (2021). Jardin Botanique de Lyon. Version 1.5. RECOLNAT. Occurrence dataset https://doi.org/10.15468/yagaln accessed via GBIF.org on 2022-02-08.
+Western Carolina University Herbarium (2022). Western Carolina University Herbarium. Occurrence dataset https://doi.org/10.15468/sk26v2 accessed via GBIF.org on 2022-02-08.
+MNHN, Chagnoux S (2022). Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU)). Version 71.245. Herbarium of Université de Montpellier 2, Institut de Botanique. Occurrence dataset https://doi.org/10.15468/gyvkrn accessed via GBIF.org on 2022-02-08.
+University of New Mexico Herbarium (UNM) (2022). University of New Mexico Herbarium. Occurrence dataset https://doi.org/10.15468/dlvoyt accessed via GBIF.org on 2022-02-08.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2021). INSDC Sequences. Version 1.8. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/sbmztx accessed via GBIF.org on 2022-02-08.
+Telenius A, Shah M (2020). Phanerogamic Botanical Collections (S). GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/yo3mmu accessed via GBIF.org on 2022-02-08.
+University of Tennessee Herbarium (2022). University of Tennessee Vascular Herbarium. Occurrence dataset https://doi.org/10.15468/ok8qvz accessed via GBIF.org on 2022-02-08.
+Capers R (2014). CONN. University of Connecticut. Occurrence dataset https://doi.org/10.15468/w35jmd accessed via GBIF.org on 2022-02-08.
+Kenneth S. Norris Center for Natural History (2022). UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz. Occurrence dataset https://doi.org/10.15468/uavt0t accessed via GBIF.org on 2022-02-08.
+Staatliche Naturwissenschaftliche Sammlungen Bayerns. The Fungal Collection at the Senckenberg Museum für Naturkunde Görlitz. Occurrence dataset https://doi.org/10.15468/fhmwzv accessed via GBIF.org on 2022-02-08.
+Tyrrell C (2020). MPM Milwaukee Public Museum Herbarium. Milwaukee Public Museum. Occurrence dataset https://doi.org/10.15468/sclgzd accessed via GBIF.org on 2022-02-08.
+Royal Botanic Gardens, Kew (2021). Royal Botanic Gardens, Kew - Herbarium Specimens. Occurrence dataset https://doi.org/10.15468/ly60bx accessed via GBIF.org on 2022-02-08.
+The International Barcode of Life Consortium (2022). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2022-02-08.
+San Jose State University (2022). SJSU - Carl W. Sharsmith Herbarium, San Jose State University. Occurrence dataset https://doi.org/10.15468/t3a60p accessed via GBIF.org on 2022-02-08.
+Thiébaut M (2022). Université Lyon 1. RECOLNAT. Occurrence dataset https://doi.org/10.15468/7m584w accessed via GBIF.org on 2022-02-08.
+University of Colorado Museum of Natural History (2022). University of Colorado Museum of Natural History Herbarium Vascular Plant Collection. Occurrence dataset https://doi.org/10.15468/wyofjv accessed via GBIF.org on 2022-02-08.
+Arizona State University Biocollections (2022). Arizona State University Vascular Plant Herbarium. Occurrence dataset https://doi.org/10.15468/a2o8vy accessed via GBIF.org on 2022-02-08.
+Mayfield-Meyer T, Zhuang V (2022). UTEP Plants (Arctos). Version 5.61. University of Texas at El Paso Biodiversity Collections. Occurrence dataset https://doi.org/10.15468/yhb6ky accessed via GBIF.org on 2022-02-08.
+Solomon J, Stimmel H (2021). Tropicos Specimen Data. Missouri Botanical Garden. Occurrence dataset https://doi.org/10.15468/hja69f accessed via GBIF.org on 2022-02-08.
+SysTax. SysTax - Botanical Gardens. Occurrence dataset https://doi.org/10.15468/wem0v1 accessed via GBIF.org on 2022-02-08.
+Humboldt State University (2022). HSC - Humboldt State University Vascular Plant Herbarium. Occurrence dataset https://doi.org/10.15468/qguk7r accessed via GBIF.org on 2022-02-08.
+San Diego State University Herbarium (SDSU) (2022). SDSU - San Diego State University Herbarium. Occurrence dataset https://doi.org/10.15468/8sx2ag accessed via GBIF.org on 2022-02-08.
+Chico State Herbarium (2022). CHSC - CSU Chico, Chico State Herbarium - Vascular Plants. Occurrence dataset https://doi.org/10.15468/ckxw7v accessed via GBIF.org on 2022-02-08.
+California Department of Food and Agriculture (CDA) (2022). CDA - California Department of Food and Agriculture. Occurrence dataset https://doi.org/10.15468/phc373 accessed via GBIF.org on 2022-02-08.
+Carnegie Museums (2022). Carnegie Museum of Natural History Herbarium. Occurrence dataset https://doi.org/10.15468/d51v1f accessed via GBIF.org on 2022-02-08.
+Bijmoer R, Scherrenberg M, Creuwels J (2022). Naturalis Biodiversity Center (NL) - Botany. Naturalis Biodiversity Center. Occurrence dataset https://doi.org/10.15468/ib5ypt accessed via GBIF.org on 2022-02-08.
+Bioversity International. EURISCO, The European Genetic Resources Search Catalogue. Occurrence dataset https://doi.org/10.15468/a3lnmd accessed via GBIF.org on 2022-02-08.
+Biological Collections, California State University Northridge (2022). SFV - California State University, Northridge. Occurrence dataset https://doi.org/10.15468/nrcdx7 accessed via GBIF.org on 2022-02-08.
+California State University, Long Beach (2022). LOB - California State University, Long Beach Herbarium. Occurrence dataset https://doi.org/10.15468/3y25yl accessed via GBIF.org on 2022-02-08.
+University of California, Davis (2022). DAV - UC Davis Herbarium. Occurrence dataset https://doi.org/10.15468/on4axg accessed via GBIF.org on 2022-02-08.
+San Diego Natural History Museum (2022). SD - SD Herbarium, San Diego Natural History Museum. Occurrence dataset https://doi.org/10.15468/lneqwn accessed via GBIF.org on 2022-02-08.
+MNHN, Chagnoux S (2022). The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris). Version 69.246. MNHN - Museum national d'Histoire naturelle. Occurrence dataset https://doi.org/10.15468/nc6rxy accessed via GBIF.org on 2022-02-08.
+California Polytechnic State University, San Luis Obispo (2022). OBI - Robert F. Hoover Herbarium, Cal Poly State University. Occurrence dataset https://doi.org/10.15468/mypdjd accessed via GBIF.org on 2022-02-08.
+Cheadle Center for Biodiversity and Ecological Restoration (2022). UCSB - University of California Santa Barbara Herbarium. Occurrence dataset https://doi.org/10.15468/qpxmw0 accessed via GBIF.org on 2022-02-08.
+University of California Riverside (2022). UCR - University of California, Riverside Herbarium - Vascular Plants. Occurrence dataset https://doi.org/10.15468/ai1kou accessed via GBIF.org on 2022-02-08.
+UCLA Herbarium (2022). LA - University of California, Los Angeles Herbarium. Occurrence dataset https://doi.org/10.15468/33k42a accessed via GBIF.org on 2022-02-08.
+Orrell T, Informatics Office (2021). NMNH Extant Specimen Records (USNM, US). Version 1.49. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2022-02-08.
+Kennedy J (2022). Harvard University Herbaria: All Records. Harvard University Herbaria. Occurrence dataset https://doi.org/10.15468/o3pvnh accessed via GBIF.org on 2022-02-08.
+Ramirez J, Watson K, Thiers B, McMillin L (2022). The New York Botanical Garden Herbarium (NY). Version 1.43. The New York Botanical Garden. Occurrence dataset https://doi.org/10.15468/6e8nje accessed via GBIF.org on 2022-02-08.
+Magnaghi E, Fong J (2022). CAS Botany (BOT). Version 157.321. California Academy of Sciences. Occurrence dataset https://doi.org/10.15468/7gudyo accessed via GBIF.org on 2022-02-08.
+Santa Barbara Botanic Garden (2022). SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden. Occurrence dataset https://doi.org/10.15468/adb2bb accessed via GBIF.org on 2022-02-08.
+Rancho Santa Ana Botanic Garden (2022). RSA - California Botanic Garden Herbarium. Occurrence dataset https://doi.org/10.15468/0yosx9 accessed via GBIF.org on 2022-02-08.

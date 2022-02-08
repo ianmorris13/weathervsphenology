@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cc5e1e3d-0850-4cde-a282-656657752e13"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/mpp02q</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=uis-002</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=uis-002</alternateIdentifier>
+        <alternateIdentifier>10.15468/l8jiim</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=uis-002</alternateIdentifier>
+        <alternateIdentifier>cc5e1e3d-0850-4cde-a282-656657752e13</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=uis-002</alternateIdentifier>
+    <title>Herbario de la Universidad Industrial de Santander</title>
+    <creator>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Castaño</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Profesor, Director Herbario UIS</positionName>    <address>
+<deliveryPoint>Cra 27 Cll 9</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57-7-6344000-1233</phone><electronicMailAddress>acastano@uis.edu.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Castaño</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Profesor, Director Herbario UIS</positionName>    <address>
+<deliveryPoint>Cra 27 Cll 9</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57-7-6344000-1233</phone><electronicMailAddress>acastano@uis.edu.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Castaño</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Profesor, Director Herbario UIS</positionName>    <address>
+<deliveryPoint>Cra 27 Cll 9</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57-7-6344000-1233</phone><electronicMailAddress>acastano@uis.edu.co</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Martha Patricia</givenName>          <surName>Ramírez Pinilla</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Docente</positionName>    <address>
+<deliveryPoint>Cra 27 Cll 9</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57-7-6344000-2354</phone><electronicMailAddress>mpramir@uis.edu.co</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-01
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El herbario es una colección biológica compuesta por especímenes de plantas prensadas y deshidratadas, clasificadas siguiendo un sistema de jerarquías taxonómicas. Adscrito al Museo de Historia Natural y a la Escuela de Biología de la Universidad Industrial de Santander, el herbario (identificado bajo el acrónimo UIS), fue institucionalizado en el año de 1978, por iniciativa del botánico Enrique Rentería. El herbario apoya y se fundamenta en las actividades académicas e investigativas en el área de botánica de la Escuela de Biología. El herbario UIS está enfocado en el estudio de la flora del departamento de Santander y cuenta con aproximadamente 20000 especímenes y 3500 especies catalogadas, principalmente de plantas vasculares.</para>
+        <para>La colección está dividida en tres partes: 1. Colección general, 2. Antoteca (colección de flores en líquido) y 3. Carpoteca (colección de frutos y semillas). 
+El director del Herbario, profesor del área de botánica de la Escuela de Biología, se ocupa de coordinar las actividades de curaduría y digitalización de la colección, así como de las consultas, visitas y préstamos. Adicionalmente, el herbario ofrece los servicios de secado, consulta, identificación, y depósito de especímenes. Tanto los usuarios internos (comunidad universitaria) como externos deben acogerse a lo consignado en el protocolo de la colección.</para>
+        <para>Este recurso contiene la información de 20.265 registros, pertenecientes a los reinos Plantae (20.242) y Chromista (23). Comprende 20 clases, 100 ordenes, 336 familias,  1.658 géneros y 4.229 especies. Con un 61% clasificado a nivel de especie, 28 % a género, 10% a familia  y 1% a otras categorías. Los especímenes ha sido colectados desde 1945 hasta 2018 en el territorio nacional (20.120) y en otros países por medio de intercambios (141).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>Flora</keyword>
+              <keyword>Plantas</keyword>
+              <keyword>Trópicos</keyword>
+              <keywordThesaurus>http://www.cabi.org/cabthesaurus/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los registros biológicos provienen de Colombia, principalmente, y de donaciones o canjes que provienen de Perú(71), Venezuela(66), Indonesia(2), Guatemala(1) y Panamá(1). Dentro de Colombia, hay especímenes de 27 departamentos, siendo los mejor representados Santander, Amazonas y Norte de Santander. De los 221 municipios con registros en la colección, los más comunes corresponden a los colectados en el área metropolitana de Bucaramanga (Bucaramanga, Tona, Piedecuesta y Floridablanca), seguidos por otros municipios de Santander.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-90.801</westBoundingCoordinate>
+                      <eastBoundingCoordinate>123.017</eastBoundingCoordinate>
+                      <northBoundingCoordinate>14.107</northBoundingCoordinate>
+                      <southBoundingCoordinate>-10.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1945-12-16
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El 90% de los registros corresponden a Angiospermas. Los órdenes mejor representados son Gentianales, Malpighiales, Lamiales y Asterales. Las 10 familias más abundantes en este recurso sonn: Asteraceae(1.436), Fabaceae(1.266), Rubiaceae(1.251), Melastomataceae(1.022), Malvaceae(635), Solanaceae(583), Euphorbiaceae(575), Arecaceae(464), Piperaceae(461), Orchidaceae(409). Los 10 géneros mejor representados son: Miconia(439), Solanum(338), Piper(317), Psychotria(261), Palicourea(206), Passiflora(156), Epidendrum(128), Clusia(125), Peperomia(125), Tibouchina(120).
+
+
+
+Además de la colección de referencia, el herbario cuenta con 25 especímenes tipo, una colección en líquido (antoteca) y un centro de documentación, sistematizados en un 97%. La colección se encuentra determinada taxonómicamente en un 90% al nivel de familia, 76% al nivel de género y 52% al nivel de especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Briopsidophyceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Bryopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Cycadopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>includeeditEquisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Filicopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Florideophyceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gnetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Marattiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pteridopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Rhodophyceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Selaginellopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Sphagnopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Ulvophyceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Adicionalmente la colección cuenta con 23 registros pertenecientes al reino Chromista, todos clasificados a nivel de especie. Comprende 6 familias y 12 géneros.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Phaeophyceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Castaño</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Profesor, Director Herbario UIS</positionName>    <address>
+<deliveryPoint>Cra 27 Cll 9</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57-7-6344000-1233</phone><electronicMailAddress>acastano@uis.edu.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los especímenes del Herbario UIS se han obtenido bien sea mediante inventarios de la vegetación, de manera aleatoria o usando métodos sistemáticos (parcelas, transectos).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se recolectan muestras vegetales que en lo posible incluyan órganos sexuales. Las muestras se procesan siguiendo los protocolos convencionales para herborización de material vegetal para inclusión como excicatas de herbario.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El proceso en campo incluye el prensado en papel periódico y su preservación en alcohol al 70%, así como la fijación de órganos usando soluciones como el FAA (Formol, Alcohol, Ácido acético).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez en el herbario, las muestras destinadas a la colección general son sometidas a una deshidratación en horno, determinación taxonómica, montaje e inclusión-catalogación. Los órganos fijados son almacenados en una nevera a 4 C.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cabe resaltar que los métodos anteriormente descritos varían de acuerdo al grupo taxonómico (i.e. briofitos, cactus).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La información asociada a los especímenes es consignada en una base de datos en formato Darwin Core.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los registros del Herbario UIS provienen principalmente del departamento de Santander. Sin embargo, la colección contiene registros de los departamentos de Cesar, Norte de Santander, Boyacá, Meta, Magdalena, Arauca, Antioquia, Casanare, La Guajira y Valle del Cauca.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El material depositado en el Herbario UIS proviene de la recolección realizada por: 1,  estudiantes y profesores de la Escuela de Biología de la Universidad Industrial de Santander; 2, investigadores y profesionales que participan en proyectos de investigación realizados en diferentes regiones y 3, el canje y la donación de especímenes con otros Herbarios. Se recolectan muestras vegetales que en lo posible incluyan órganos sexuales. Las muestras se procesan siguiendo los protocolos convencionales para herborización de material vegetal para inclusión como excicatas de herbario. El proceso incluye su preservación en campo en alcohol al 70%, deshidratación en horno, montaje e inclusión-catalogación.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Con el fin de depurar la identidad taxonómica de cada espécimen, se llevan a cabo actualizaciones periódicas por el personal asociado al herbario, así como por investigadores visitantes. Para mejorar la calidad de la información consignada en la base de datos del Herbario UIS, continuamente se realiza una actualización de la misma, con la ayuda de catálogos y bases de datos especializadas. Adicionalmente, la información geográfica que contienen las etiquetas, se ha venido actualizando por diferentes técnicas de georeferenciación. Así, para los registros que no presentan información geográfica, se ha realizado la búsqueda de las coordenadas a través de las localidades asociadas usando herramientas SIG. La calidad de los datos en la base de datos en formato DarwinCore es evaluada y editada usando OpenRefine. La concordancia de las coordenadas obtenidas por georreferenciación con los datos de localidad y la concordancia de los datos de localidad y la base de datos del DIVIPOLA se evalúan con código en R que desarrollamos para tal fin (R Development Team).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Herbario de la Universidad Industrial de Santander</title>
+          <personnel>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Castaño</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Universidad Industrial de Santander</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:41Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/mpp02q">Castaño F (2020). Herbario de la Universidad Industrial de Santander. Version 3.6. Universidad Industrial de Santander. Occurrence dataset https://doi.org/10.15472/mpp02q accessed via GBIF.org on 2022-02-08.</citation>
+              <physical>
+                  <objectName>Página web del Herbario</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Página web</formatName>
+                            <formatVersion>1</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://biologia.uis.edu.co/museo/coleccion_herbario.html</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uis.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>UIS-H</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 30</collectionIdentifier>
+                <collectionName>Herbario de la Universidad Industrial de Santander</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Excicado</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>30,000</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

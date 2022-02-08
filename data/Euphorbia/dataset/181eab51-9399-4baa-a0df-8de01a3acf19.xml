@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="181eab51-9399-4baa-a0df-8de01a3acf19"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/imsrtd</alternateIdentifier>
+        <alternateIdentifier>http://tun.fi/HR.175</alternateIdentifier>
+        <alternateIdentifier>181eab51-9399-4baa-a0df-8de01a3acf19</alternateIdentifier>
+    <title>National Finnish butterfly monitoring scheme (NAFI) (NAFI)</title>
+      <pubDate>
+      2022-02-04
+      </pubDate>
+    <language>FINNISH</language>
+    <abstract>
+        <para>Butterfly monitoring scheme organized by South Karelia Allergy and Environment Institute and [Suomen Perhostutkijain Seura]</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Finland</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>15.049</westBoundingCoordinate>
+                      <eastBoundingCoordinate>31.583</eastBoundingCoordinate>
+                      <northBoundingCoordinate>70.136</northBoundingCoordinate>
+                      <southBoundingCoordinate>37.707</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1951-06-21
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2029-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Protozoa</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Kimmo</givenName>          <surName>Saarinen</surName>
+    </individualName>
+<electronicMailAddress>kimmo.saarinen@allergia.fi</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+          <surName>FinBIF</surName>
+    </individualName>
+<electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:25Z</dateStamp>
+      <citation>Finnish Biodiversity Information Facility (2022). National Finnish butterfly monitoring scheme (NAFI) (NAFI). Occurrence dataset https://doi.org/10.15468/imsrtd accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

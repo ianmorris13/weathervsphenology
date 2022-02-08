@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3c2fb76f-ed3f-40dc-bb40-21adbbd857d5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sm4ety</alternateIdentifier>
+        <alternateIdentifier>3c2fb76f-ed3f-40dc-bb40-21adbbd857d5</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr814</alternateIdentifier>
+        <alternateIdentifier>16080a4b-35e6-3815-8039-07f42562d2a1</alternateIdentifier>
+    <title>Isle of Wight Notable Species</title>
+    <creator>
+<organizationName>Isle of Wight Local Records Centre</organizationName>    <address>
+<deliveryPoint>Isle of Wight Council</deliveryPoint><city>Newport</city><administrativeArea>Isle of Wight</administrativeArea><postalCode>PO30 2QS</postalCode>    </address>
+<onlineUrl>http://www.wildonwight.co.uk/lrc/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Isle of Wight Local Records Centre</organizationName>    <address>
+<deliveryPoint>Isle of Wight Council</deliveryPoint><city>Newport</city><administrativeArea>Isle of Wight</administrativeArea><postalCode>PO30 2QS</postalCode>    </address>
+<onlineUrl>http://www.wildonwight.co.uk/lrc/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains records of species which are designated as nationally  rare,  locally significant or protected by various legislation.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr814</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The dataset covers the Isle of Wight. The records are largely ad-hoc and coverage is incomplete. The records in this dataset were provided with four or six figure grid-references but some of these grid references refer the approximate central location of sites and hence may not represent the actual location of the species occurrence.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.648</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.08</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.753</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.943</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1800-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-09-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Many of the records were collected by amateur naturalists and local recording groups and hence the purpose of data capture will vary from one record to the next. Others were collected by professional ecologists to inform applications for development, or the monitoring of wildlife sites.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Anne Marston</surName>
+    </individualName>
+<electronicMailAddress>lrc@iow.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Most of the records were collected by amateur naturalists and local recording groups and hence the purpose of data capture will vary from one record to the next. Others were collected by professional ecologists to inform applications for development, or the monitoring of wildlife sites.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are validated by local experts. A significant proportion of the records originate from professional surveys, but may records are ad-hoc observations. The dataset has been checked using the NBN Record Cleaner.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:03Z</dateStamp>
+      <citation>Isle of Wight Local Records Centre (2017). Isle of Wight Notable Species. Occurrence dataset https://doi.org/10.15468/sm4ety accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

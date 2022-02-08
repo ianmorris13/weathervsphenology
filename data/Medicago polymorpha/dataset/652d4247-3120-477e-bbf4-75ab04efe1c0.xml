@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="652d4247-3120-477e-bbf4-75ab04efe1c0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pe0q96</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1024-103</alternateIdentifier>
+        <alternateIdentifier>652d4247-3120-477e-bbf4-75ab04efe1c0</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1024-103</alternateIdentifier>
+    <title>Vascular Plant Specimens of Yamagata Prefectural Museum</title>
+    <creator>
+    <individualName>
+<givenName>Shin-ichi</givenName>          <surName>Kawakami</surName>
+    </individualName>
+<organizationName>Yamagata Prefectural Museum</organizationName><positionName>Contract worker</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>shkawak@yahoo.co.jp</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Shin</givenName>          <surName>Yamaguchi</surName>
+    </individualName>
+<organizationName>Yamagata Prefectural Museum</organizationName><positionName>Researcher</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>yamaguchishi@pref.yamagata.jp</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-11-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Vascular Plant specimens deposited at Yamagata Prefectural Museum (YAMA)</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://english.yamagata-museum.jp/</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Shin</givenName>          <surName>Yamaguchi</surName>
+    </individualName>
+<organizationName>Yamagata Prefectural Museum</organizationName><positionName>Researcher</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>yamaguchishi@pref.yamagata.jp</electronicMailAddress><onlineUrl>http://english.yamagata-museum.jp/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:57Z</dateStamp>
+      <citation>Kawakami S, Yamaguchi S (2021). Vascular Plant Specimens of Yamagata Prefectural Museum. Version 1.4. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/pe0q96 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

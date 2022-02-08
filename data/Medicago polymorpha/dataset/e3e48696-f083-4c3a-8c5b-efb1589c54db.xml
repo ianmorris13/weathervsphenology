@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e3e48696-f083-4c3a-8c5b-efb1589c54db"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rtxjkt</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr702</alternateIdentifier>
+        <alternateIdentifier>f11e610e-491b-3603-995d-d9e95d6b3480</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr702</alternateIdentifier>
+        <alternateIdentifier>e3e48696-f083-4c3a-8c5b-efb1589c54db</alternateIdentifier>
+        <alternateIdentifier>ef384893-4cd1-32f8-b92a-60ef589df8b3</alternateIdentifier>
+        <alternateIdentifier>e68dc57e-0c5b-3154-b40f-c75b62e9e33b</alternateIdentifier>
+    <title>Atlas of Life in the Coastal Wilderness</title>
+    <creator>
+<organizationName>NatureMapr</organizationName><electronicMailAddress>aaron@at3.am</electronicMailAddress><onlineUrl>http://naturemapr.org/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureMapr</organizationName><electronicMailAddress>aaron@at3.am</electronicMailAddress><onlineUrl>http://naturemapr.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Atlas of Life in the Coastal Wilderness (ALCW) is an ongoing citizen-science project. It was originally the initiative of a small group of dedicated people who, in 2011, recognised the biological importance of the far south coastal region of NSW. They sought to encourage the documentation of the area?s biodiversity, building a community-based resource and network of contributors.ALCW has grown to involve hundreds of people, numerous organisations, and a wide variety of projects and initiatives. It is a volunteer, non-profit organisation now recognised as a Registered Environmental Organisation.ALCW OBJECTIVES* To foster understanding and stewardship of the world we live in by encouraging community involvement in real scientific endeavour * To encourage lifelong learning in and about nature for all ages and abilities, including the general public, our indigenous community, the young and the very young, disadvantaged and disabled* To use developing technology and develop multiple tools, training and activities to build capacity within our community to undertake and understand the results of scientific research* Through engagement and understanding, encourage a greater sense of appreciation and stewardship of our local environment* To undertake a range of surveys over time and in multiple locations including but not limited to: observing biodiversity, identifying invasive species and noting the impact of environmental change on habitat and species * Over the long-term, to create a rich and broad database of validated biodiversity data which will be a valuable  resource for scientists, naturalists, educators and community into the future* To work with the scientific community in achieving the objects of the association and encourage scientists and naturalists to share their knowledge with the community* To liaise with government and non-government agencies and organisations, build co-operative arrangements and work with others to achieve the objects of the association.* To be politically neutral* To undertake such other activities that are incidental to, and supportive of, the above objects.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr702</url>
+          </online>
+      </distribution>
+      <contact>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:33Z</dateStamp>
+      <citation>NatureMapr (2021). Atlas of Life in the Coastal Wilderness. Occurrence dataset https://doi.org/10.15468/rtxjkt accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/logo+with+text.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

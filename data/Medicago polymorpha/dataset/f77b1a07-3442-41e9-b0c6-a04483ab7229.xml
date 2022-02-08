@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f77b1a07-3442-41e9-b0c6-a04483ab7229"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pghr6g</alternateIdentifier>
+        <alternateIdentifier>f77b1a07-3442-41e9-b0c6-a04483ab7229</alternateIdentifier>
+        <alternateIdentifier>http://ipt.pensoft.net/resource?r=im_pr_eco</alternateIdentifier>
+    <title>Species biodiversity transnational geo-database - IMPRECO Project</title>
+    <creator>
+    <individualName>
+<givenName>Francesco</givenName>          <surName>Zangaro</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>francescozangaro1@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Gabriele</givenName>          <surName>Marini</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>gabriele.marini@alice.it</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Valeria</givenName>          <surName>Specchia</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>valeria.specchia@unisalento.it</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Matteo</givenName>          <surName>De Luca</surName>
+    </individualName>
+<organizationName>Nature Reserve of Isonzo Rivermouth</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>teto8@libero.it</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Francesca</givenName>          <surName>Visintin</surName>
+    </individualName>
+<organizationName>Friuli Innovazione Research and Technology Transfer Centre</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>francesca.visintin@eframe.it</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Giovanna</givenName>          <surName>Bullo</surName>
+    </individualName>
+<organizationName>Veneto Agricoltura</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>giovanna.bullo@venetoagricoltura.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jacopo</givenName>          <surName>Richard</surName>
+    </individualName>
+<organizationName>Veneto Agricoltura</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>jacopo.richard@venetoagricoltura.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Nataša</givenName>          <surName>Šalaja</surName>
+    </individualName>
+<organizationName>DOPPS-BirdLife Slovenia</organizationName><positionName>Researcher</positionName>    <address>
+<country>SLOVENIA</country>    </address>
+<electronicMailAddress>natasa.salaja@dopps.si</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Bia</givenName>          <surName>Rakar</surName>
+    </individualName>
+<organizationName>DOPPS-BirdLife Slovenia</organizationName><positionName>Researcher</positionName>    <address>
+<country>SLOVENIA</country>    </address>
+<electronicMailAddress>bia.rakar@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Bojana</givenName>          <surName>Lipej</surName>
+    </individualName>
+<organizationName>DOPPS-BirdLife Slovenia</organizationName><positionName>Researcher</positionName>    <address>
+<country>SLOVENIA</country>    </address>
+<electronicMailAddress>bojana.lipej@dopps.si</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jelena</givenName>          <surName>Kurtović Mrčelić</surName>
+    </individualName>
+<organizationName>Public Institution for the Management of Protected Areas in the County of Split and Dalmatia “Sea and Karst”</organizationName><positionName>Researcher</positionName>    <address>
+<country>CROATIA</country>    </address>
+<electronicMailAddress>jelena.kurtovic@moreikrs.hr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Gvido</givenName>          <surName>Piasevoli</surName>
+    </individualName>
+<organizationName>Public Institution for the Management of Protected Areas in the County of Split and Dalmatia “Sea and Karst”</organizationName><positionName>Researcher</positionName>    <address>
+<country>CROATIA</country>    </address>
+<electronicMailAddress>gvido.piasevoli@moreikrs.hr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ante</givenName>          <surName>Žuljević</surName>
+    </individualName>
+<organizationName>Institute of Oceanography and Fisheries</organizationName><positionName>Researcher</positionName>    <address>
+<country>CROATIA</country>    </address>
+<electronicMailAddress>zuljevic@izor.hr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Nada</givenName>          <surName>Zaimi</surName>
+    </individualName>
+<organizationName>Albanian Development Fund</organizationName><positionName>Researcher</positionName>    <address>
+<country>ALBANIA</country>    </address>
+<electronicMailAddress>nzaimi@albaniadf.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Djana</givenName>          <surName>Bejko</surName>
+    </individualName>
+<organizationName>Albanian Development Fund</organizationName><positionName>Researcher</positionName>    <address>
+<country>ALBANIA</country>    </address>
+<electronicMailAddress>djana.bejko@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Abdulla</givenName>          <surName>Diku</surName>
+    </individualName>
+<organizationName>Albanian Development Fund</organizationName><positionName>Researcher</positionName>    <address>
+<country>ALBANIA</country>    </address>
+<electronicMailAddress>adiku@hotmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Aliki</givenName>          <surName>Karousou</surName>
+    </individualName>
+<organizationName>Region of Crete, Directorate of Environment and Spatial Planning</organizationName><positionName>Researcher</positionName>    <address>
+<country>GREECE</country>    </address>
+<electronicMailAddress>akarousou@crete.gov.gr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Eleni</givenName>          <surName>Hatziyanni</surName>
+    </individualName>
+<organizationName>Region of Crete, Directorate of Environment and Spatial Planning</organizationName><positionName>Researcher</positionName>    <address>
+<country>GREECE</country>    </address>
+<electronicMailAddress>elhatziyanni@crete.gov.gr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Massimiliano</givenName>          <surName>Pinat</surName>
+    </individualName>
+<organizationName>Institute for Marine Biological Resources and Biotechnology of the National Research Council (CNR-IRBIM)</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>massimiliano.pinat@irbim.cnr.it</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Maurizio</givenName>          <surName>Pinna</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>maurizio.pinna@unisalento.it</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Francesco</givenName>          <surName>Zangaro</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>francescozangaro1@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-08-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Transnational biodiversity geo-database of the Protected Areas in the Adriatic-Ionian Macro-Region - IMPRECO Project.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Adriatic-Ionian Macro-Region</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>10.986</westBoundingCoordinate>
+                      <eastBoundingCoordinate>26.895</eastBoundingCoordinate>
+                      <northBoundingCoordinate>47.22</northBoundingCoordinate>
+                      <southBoundingCoordinate>33.924</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021-01-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maurizio</givenName>          <surName>Pinna</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>maurizio.pinna@unisalento.it</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Valeria</givenName>          <surName>Specchia</surName>
+    </individualName>
+<organizationName>University of Salento</organizationName><positionName>Researcher</positionName>    <address>
+<country>ITALY</country>    </address>
+<electronicMailAddress>valeria.specchia@unisalento.it</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data for each country and pilot project area was divided according to NATURE 2000 Directives’ species included in the Standard Data Form, listed under Birds Directive and Habitats Directive; NATURE 2000 Directives’ species included in the Standard Data Form listed under Other Interesting Species; species listed in NATURA 2000 Directives, but missing in the Standard Data Forms; and species that are not protected. Shkodra Lake and Buna Delta species, in contrast to the other Protected Areas’ species, are protected on a national level through the institution of a protection plan named &quot;Emerald Network&quot;. Pakleni Otoci Islands species were also considered protected according tothe Croatian Regulation on strictly protected species (OJ 80/2013, 73/2016), a national level protection plan for Croatian species.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The biodiversity data were initially compiled by counting the species of the NATURA 2000 Directives by taxonomic group and habitat for each protected area. Subsequently, the observed species protected by the Habitats Directive, but missing in the standard data forms, were considered. Eventually, unprotected species observed through personal observations or found in previous checklists were included.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Adriatic-Ionian Macro-Region</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The main bulk of data collection was conducted using the most recent NATURA 2000 Standard Data Forms. Nevertheless, because biodiversity is not limited only to protected species and habitats, data collection was improved by incorporating data from species checklists of local biomonitoring programmes; scientific literature retrieved from multiple databases related to cross-disciplinary research, which allow an in-depth exploration of specialised sub-fields within certain academic or scientific disciplines, such as Web of Science (http://www.webofknowledge.com), Science Direct (http://www.sciencedirect.com) and Google Scholar (http://scholar.google.com), by adding the keywords &quot;biodiversity, species, ecosystems, ecosystem services, threatens, alien species&quot; to the name of the Protected Areas; personal observations and observations shared through the citizen science communications and interviews; historical maps; and data obtained through new field analyses.
+
+The resulting data were organised to collect all information on species protected through the NATURA 2000 directives (Birds Directive 2009/147/EC and Habitats Directive 92/43/EEC), species protected through the Croatian Regulation on strictly protected species (OJ 80/2013, 73/2016), species protected through the Emerald Network and species that are not protected. The biodiversity templates were based on the following entries: taxonID; occurrenceID; scientificName; kingdom; phylum; class; order; family; genus; taxonRank; country; countryCode; locality; VerbatimCoordinateSystem; verbatimLatitude; verbatimLongitude; habitat; organismRemarks; establishmentMeans; bibliographicCitation; basisOfRecord, according to the Darwin Core format.
+
+Species were listed, based on the principal taxonomic groups: Plants, Invertebrates, Birds, Fish, Algae, Mammals, Reptiles, Amphibians and Lichens and matched with the most commonly used habitats. At the same time, the presence of invasive alien species with reference to the European Alien Species Information Network – EASIN Web Site, was included. The name of the species was reviewed using international databases, such as WORMS, Avibase, AlgaeBase,  and IUCN.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="ImPrEco">
+          <title>Common strategies and best practices to IMprove the transnational PRotection of ECOsystem integrity and services</title>
+          <personnel>
+    <individualName>
+<givenName>Francesco</givenName>          <surName>Zangaro</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Gabriele</givenName>          <surName>Marini</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Valeria</givenName>          <surName>Specchia</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Matteo</givenName>          <surName>De Luca</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Francesca</givenName>          <surName>Visintin</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Giovanna</givenName>          <surName>Bullo</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jacopo</givenName>          <surName>Richard</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nataša</givenName>          <surName>Šalaja</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Bia</givenName>          <surName>Rakar</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Bojana</givenName>          <surName>Lipej</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jelena</givenName>          <surName>Kurtović Mrčelić</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Gvido</givenName>          <surName>Piasevoli</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ante</givenName>          <surName>Žuljević</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nada</givenName>          <surName>Zaimi</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Djana</givenName>          <surName>Bejko</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Abdulla</givenName>          <surName>Diku</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Aliki</givenName>          <surName>Karousou</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Eleni</givenName>          <surName>Hatziyanni</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Massimiliano</givenName>          <surName>Pinat</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Maurizio</givenName>          <surName>Pinna</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Territorial cooperation project.</para>
+          </abstract>
+          <funding>
+              <para>INTERREG VB ADRION 2014-2020 Programme, Priority Axis 2 “Sustainable Region”.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Foce dell’Isonzo Nature Reserve, Bosco Nordio Integral Reserve, Aquatina di Frigole, Škocjanski zatok Nature Reserve, Pakleni Islands, Shkodra Lake and Buna Delta, North-eastern Peninsula of Crete.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:34Z</dateStamp>
+      <citation>Zangaro F, Marini G, Specchia V, De Luca M, Visintin F, Bullo G, Richard J, Šalaja N, Rakar B, Lipej B, Kurtović Mrčelić J, Piasevoli G, Žuljević A, Zaimi N, Bejko D, Diku A, Karousou A, Hatziyanni E, Pinat M, Pinna M (2021). Species biodiversity transnational geo-database - IMPRECO Project. Version 1.4. Biodiversity Data Journal. Occurrence dataset https://doi.org/10.15468/pghr6g accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

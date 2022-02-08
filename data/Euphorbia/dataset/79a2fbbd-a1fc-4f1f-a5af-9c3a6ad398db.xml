@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="79a2fbbd-a1fc-4f1f-a5af-9c3a6ad398db"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/wnvxba</alternateIdentifier>
+        <alternateIdentifier>79a2fbbd-a1fc-4f1f-a5af-9c3a6ad398db</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=urb_fl_cu</alternateIdentifier>
+    <title>Urban floras of Central Urals</title>
+    <creator>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>professor</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>engeneer</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Pavel</givenName>          <surName>Kondratkov</surName>
+    </individualName>
+<organizationName>Department of biology and fundamental medicine; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>assistant</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>pavel.kondratkov@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-5455</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>professor</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>engeneer</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Pavel</givenName>          <surName>Kondratkov</surName>
+    </individualName>
+<organizationName>Department of biology and fundamental medicine; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>assistant</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>pavel.kondratkov@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-5455</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-03-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data on the species diversity of urban flora in the Yekaterinburg, Kamensk-Uralsky, Krasnoufimsk and Turinsk (Central Urals, Sverdlovsk region) are presented. Currently, the process of urbanization is rapidly going on around the world. It has a character that is growing in time and space. Studying the flora of urbanized territories is one of the most important aspects of biological research. Employees of the Department of Biodiversity and Bioecology of the Institute of Natural Sciences and Mathematics of the Ural Federal University named after the first President of Russia B. N. Yeltsin compiled the list of species based on the results of their own research. Herbarium samples are stored in the herbarium of the Ural Federal University (UFU).
+
+In fact, the type of this dataset should be Checklist. But Checklist type does not allow to add data on establishment means. So we decided to use Occurence type.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Taxon</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Checklist</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.ievbras.ru/download/diss/Dissertation_TretyakovaAS.pdf</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>In the following paragraphs, we provide for a brief geographical description of four Central-Ural cities where the research was conducted. In the dataset, the location of each city is represented by a polygon in WKT format.
+
+Yekaterinburg (60°35´ east longitude; 56°50´ north latitude; an altitude of 245 m above sea level) is on the border of the eastern foothills and the spine part of the Urals. Yekaterinburg was founded in 1723. It area is about 490 km2 and the population is about 1 million 430 thousand people. The basis of its economy is heavy engineering, metallurgy, chemical industry and food industries. It is one of the largest transport and logistics hubs in the country – the Trans-Siberian Railway and 6 federal highways pass through the city.
+The city is situated in the subzone of the southern taiga. The city is surrounded 15 forest parks by pine and pine-birch forests. It area is about 175 km2. The city is located along the rivers Iset and Patrushikha. The Iset River divides the city into two almost equal parts: the northeastern part with a hilly relief (Uktus mountains) and the southwestern part is lower and flat. There are lakes Shartash, Zdokhnya, Karasye etc. in the city. The green spaces (parks, squares, boulevards) occupy about 25 km2.  The part of residential zone is about 95 %.
+
+Kamensk-Uralsky (61°56´ east longitude; 56°24´ north latitude; an altitude of 117 m above sea level) is on the border of the eastern foothills of the Urals and the West Siberian Plain. Kamensk-Uralsky was founded in 1702. It area is about 144 km2, and the population is about 170 thousand people (as of 2015). The basis of its economy is ferrous and non-ferrous metallurgy.
+Kamensk-Uralsky is situated in the subzone of the northern forest-steppe. The city is surrounded by steppe birch, aspen-birch, pine and pine-birch forests, steppe meadows and meadow steppes.
+The city is located along the rivers Iset and Kamenka. The river valleys, 50–60 meters deeps, cut through a series of low ridges made up of sedimentary, igneous, metamorphic rocks and expose coastal rocks (outliers). Forests are concentrated along the rivers banks and occupy about 25 km2 (17 % of the city’s territory). The part of residential zone is about 83 %.
+
+Krasnoufimsk (57°46´ east longitude; 56°37´ north latitude; an altitude of 265 m above sea level) is on the border of the western foothills of the Urals and the East European Plain. Krasnoufimsk was founded in 1736. Its area is about 48 km2, and the population is about 40 thousand people. The base of economics is the food, timber and woodworking industries, metalworking. Krasnoufimsk is situated in the northern forest-steppe subzone. The city is surrounded by steppe birch, pine forests and forb meadows, meadow and petrophytic steppes. 
+Agricultural land, forests and water bodies occupy about 55 % of the city&apos;s territory. The part of residential zone is 22 km2 or 46 %. The Ufa River divides Krasnoufimsk into 2 parts: the right bank with the Atamanskaya, Berezovaya, Sosnovaya, Yurtovskaya, Divya hills, and the left bank is lower and flat. The Sarga River flows in the central part of the city, Lake Kriulinskoye is located in the southeastern part of the city, and Butki in the western part of the city.
+
+Turinsk (63°42´ east longitude; 58°02´ north latitude; an altitude of 97 meters above sea level) is on the West Siberian Plain. It was founded in 1600. Turinsk area is about 28 km2, and population is about 18 thousand people. The base of economics is woodworking industry complex. Turinsk is located on the right bank of the river Tura. Turinsk is situated in the subzone of the southern taiga. The city surrounded by pine grass-shrub and grass forests.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>57.77</westBoundingCoordinate>
+                      <eastBoundingCoordinate>63.69</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.05</northBoundingCoordinate>
+                      <southBoundingCoordinate>56.41</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The checklist of Yekaterinburg includes 965 species of higher vascular plants.
+The checklist of Kamensk-Uralsky includes 733 species of higher vascular plants.
+The checklist of Krasnoufimsk includes 598 species of higher vascular plants.
+The checklist of Turinsk includes 287 species of higher vascular plants.
+Total: 1072 species.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>professor</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>engeneer</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Pavel</givenName>          <surName>Kondratkov</surName>
+    </individualName>
+<organizationName>Department of biology and fundamental medicine; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>assistant</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Yekaterinburg</city><administrativeArea>Sverlovsk Oblast</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>pavel.kondratkov@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-5455</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The dataset field names were chosen according to Darwin Core and include the following: “occurrenceID”, “taxonID”, “scientificName” “taxonRank”, “kingdom”, “family”, “establishmentMeans”, “country”, “countryCode”, “stateProvince”, “county”, “municipality”, “footprintWKT”, “footprintSRS”, “eventDate”, “basisOfRecord”, “recordedBy”, “language”.
+In order to publish our dataset on the GBIF network, we adjusted our records to the Darwin Core specifications (Wieczorek et al. 2012 ).
+Georeferencing was carried out using GPS. All coordinates were converted into WGS84 datum.
+In preparing the list, materials of our own research were used. Latin names are given in accordance with the The Plant List (TPL: [site]. URL: http://www.theplantlist.org/).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset includes information of 1072 species of vascular plants growing in Yekaterinburg, Kamensk-Uralsky, Krasnoufimsk and Turinsk. In this work the urban flora means was regarded as the flora of the urban development zone with adjacent areas of forest parks or city green zones. The route network covered all the main types of habitats (forest parks, ponds, roadsides of railways and highways, industrial enterpriseszones, solid waste landfills, artificial green spaces, lawns, courtyards, etc.). Based on data from the field studies, which were supplemented by the data of the Herbariums of the Institute of Plant and Animal Ecology of the Ural Branch of the Russian Academy of Sciences (SVER), Ural Federal University (UFU), Kurgan State University, a compiled list of urban flora in the Central Urals has been compiled.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Native and alien groups of species were distinguished in the urban flora. Among the native group of species, we distinguished indigenous and apophytic plant fractions. The indigenous plant fraction included species confined to natural communities and avoiding anthropogenic habitats. The apophyte plant fraction included anthropotolerant immigrants from the native flora, which entered secondary anthropogenically transformed habitats and successfully developed in there. The assignment of plants to the selected fractions groups was based on the species distribution analysis in natural and anthropogenic habitats in the urban territory.
+The alien group of species included all species unintentionally introduced into the city territory, as well as decorative species, for which the presence of seed or vegetative propagules was revealed, or plants were found outside their cultivation sites. Alien species by the time of carrying were divided by the time of carrying into archaeophytes plant fraction and neophytes plant fraction. Archaeophytes were the alien species that appeared in the Central Urals before the arrival of the Russian population before 1600. Neophytes appeared in the Central Urals after this date event. From this moment, the anthropogenic impact on the vegetation began to intensify: cities were appearing establishing in the Central Urals, trade, agriculture, industry were developing, the population was growing, etc.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Materials were collected and treated by the specialists in Komarov Botanical Garden, Botanical Garden of the Ural Branch of RAS, Ural Federal University</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:33Z</dateStamp>
+      <citation>Tretyakova A, Grudanov N, Kondratkov P (2021). Urban floras of Central Urals. Version 1.2. Federal State Autonomous Educational Institution of Higher Education «Ural Federal University named after the first President of Russia B.N.Yeltsin». Occurrence dataset https://doi.org/10.15468/wnvxba accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://urfu.ru/fileadmin/_processed_/d/d/csm_logo1_d783972efb.png</resourceLogoUrl>
+              <formationPeriod>2000 – 2016</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

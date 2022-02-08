@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="69d34c60-554c-4db3-82fb-fb091ebd7eff"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/lpsqot</alternateIdentifier>
+        <alternateIdentifier>14989</alternateIdentifier>
+    <title>Colección preservada Jardín Botánico de la Patagonia Extraandina</title>
+    <creator>
+    <individualName>
+<givenName>Ana María</givenName>          <surName>Beeskow</surName>
+    </individualName>
+<organizationName>Centro Nacional Patagónico- CONICET</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Bvrd.Brown 2915</deliveryPoint><city>Puerto Madryn</city><administrativeArea>Chubut</administrativeArea><postalCode>9120</postalCode><country>ARGENTINA</country>    </address>
+<phone>(54) 0280 4451024</phone><electronicMailAddress>beeskow@cenpat.edu.ar</electronicMailAddress><onlineUrl>http://www.cenpat-conicet.gov.ar</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Verónica Nidia</givenName>          <surName>Duro</surName>
+    </individualName>
+<organizationName>Centro Nacional Patagónico- CONICET</organizationName><positionName>Técnico de Colección</positionName>    <address>
+<deliveryPoint>Bvrd.Brown 2915</deliveryPoint><city>Puerto Madryn</city><administrativeArea>Chubut</administrativeArea><postalCode>9120</postalCode><country>ARGENTINA</country>    </address>
+<phone>54 280 4451024</phone><electronicMailAddress>duro@cenpat.edu.ar</electronicMailAddress><onlineUrl>http://www.cenpat-conicet.gov.ar</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ana María</givenName>          <surName>Beeskow</surName>
+    </individualName>
+<organizationName>Centro Nacional Patagónico-CONICET</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Bvrd. Brown 2915</deliveryPoint><city>Puerto Madryn</city><administrativeArea>Chubut</administrativeArea><postalCode>9120</postalCode><country>ARGENTINA</country>    </address>
+<phone>(54) 0280 4451024</phone><electronicMailAddress>beeskow@cenpat.edu.ar</electronicMailAddress><onlineUrl>http://www.cenpat-conicet.gov.ar</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2013-05-07
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Jardín Botánico de la Patagonia Extraandina (JBPE)es depositario de una colección constituida por material vegetal preservado representativo de la flora vascular de la porción árida y semiárida de la región patagónica. La colección contiene material proveniente, principalmente, de las actividades de recolección en el marco del proyecto de Conservación de la Flora patagónica extraandina.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Plantas vasculares</keyword>
+              <keyword>Flora regional</keyword>
+              <keyword>Argentina</keyword>
+              <keywordThesaurus>Argentina, Flora regional,  Plantas vasculares</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Sector norte de la Patagonia Extraandina argentina</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-71</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-38</northBoundingCoordinate>
+                      <southBoundingCoordinate>-47</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1974-10-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1974-10-09
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Flora Fanaerogámica-</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                          <commonName>Plantas con flores</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Ana Maria</givenName>          <surName>Beeskow</surName>
+    </individualName>
+<organizationName>Centro Nacional Patagonico-CONICET</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Bvrd.Brown 2915</deliveryPoint><city>Puerto Madryn</city><administrativeArea>Chubut</administrativeArea><postalCode>9120</postalCode><country>ARGENTINA</country>    </address>
+<phone>(54) 0280 4451024</phone><electronicMailAddress>beeskow@cenpat.edu.ar</electronicMailAddress><onlineUrl>http://www.cenpat-conicet.gov.ar</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>l</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La colección contiene material vegetal proveniente principalmente de la region centro norte,este y costera de la provincia de Chubut, Itsmo Ameghino y Peninsula Valdès; transecta extraandina al sur de la provincia de Rio Negro y transecta extraandina al norte de la provincia de Santa Cruz.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Mediante el empleo de imágenes satelitales, y de acuerdo a la escala de trabajo, se definen unidades de paisaje en el área de interés. En cada unidad se identifican los rasgos fisiográficos principales que la conforman y se demarcan potenciales sitios de recolección teniendo en cuenta los diferentes ambientes y el acceso a los mismos. Una vez en el campo, en cada sitio de colecta se registra en una planilla el número de sitio, la fecha, localización geográfica, datos de gps, el o los recolectores del material. Se registra también  una lista de las especies que definen la estructura de la comunidad vegetal y se asientan algunas características del suelo superficial y del relieve general. Las muestras de plantas obtenidas se colocan en bolsas de papel o alternativamente de nylon y se transportan en una bolsa mayor que contiene el número del sitio. Finalizada la jornada de  recolección se procede a herborizar el material acondicionando cada muestra entre hojas de diarios separada por cartones y luego  prensadas. Simultáneamente se va llenando una planilla  para cada muestra vegetal recolectada, con la información del sitio correspondiente e información adicional referida a características  morfológicas de la planta. Si el material vegetal tiene contenido de humedad considerable, durante las campaña de recolección, se cambian en varias oportunidades los diarios que lo contienen para evitar la formación de hongos.
+Una vez en el laboratorio, nuevamente se revisan las prensas y  se cambian, en los casos que corresponde, los papeles donde están acondicionadas las muestras. Cierto material a veces necesita ser colocado  en el freezer para eliminar los posibles insectos asociados. Finalmente el material se lleva a gabinetes ventilados donde quedaran depositados  hasta que se proceda a su determinación sistemática. 
+La identificación sistemática se lleva a cabo utilizando  Bibliografia especializada  (Flora Patagónica, Darwiniana,  Proflora, Diccionario Botánico, Boletin de la SAB, publicaciones ilustradas de la flora regional, versión digital Flora de la República Argentina)</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>l</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:01Z</dateStamp>
+      <citation>Beeskow A M, Duro V N (2013). Colección preservada Jardín Botánico de la Patagonia Extraandina. CCT CONICET-CENPAT Centro Científico Tecnológico. Occurrence dataset https://doi.org/10.15468/lpsqot accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier>cnp</parentCollectionIdentifier>
+                <collectionIdentifier>cnp-jbpe</collectionIdentifier>
+                <collectionName>Colección preservada Jardín Botánico de la Patagonia Extraandina</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bd13138d-0173-4994-9893-2acbaa4683e7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hdldql</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1007-103</alternateIdentifier>
+        <alternateIdentifier>bd13138d-0173-4994-9893-2acbaa4683e7</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1007-103</alternateIdentifier>
+    <title>Plant specimens of Bihoro Museum</title>
+    <creator>
+<organizationName>Bihoro Museum</organizationName>    <address>
+<country>JAPAN</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Yoshiyasu</givenName>          <surName>Machida</surName>
+    </individualName>
+<organizationName>Bihoro Museum</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>museum@town.bihoro.hokkaido.jp</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-07-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant specimens deposited in Bihoro Museum</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.town.bihoro.hokkaido.jp/bunya/museum/</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Yoshiyasu</givenName>          <surName>Machida</surName>
+    </individualName>
+<organizationName>Bihoro Museum</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>museum@town.bihoro.hokkaido.jp</electronicMailAddress><onlineUrl>http://www.town.bihoro.hokkaido.jp/bunya/museum/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:31Z</dateStamp>
+      <citation>National Museum of Nature and Science, Japan (2021). Plant specimens of Bihoro Museum. Version 1.4. Occurrence dataset https://doi.org/10.15468/hdldql accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

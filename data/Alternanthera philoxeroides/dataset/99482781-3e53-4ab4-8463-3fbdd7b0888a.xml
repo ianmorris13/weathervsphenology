@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="99482781-3e53-4ab4-8463-3fbdd7b0888a"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/sptcl6</alternateIdentifier>
+        <alternateIdentifier>99482781-3e53-4ab4-8463-3fbdd7b0888a</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=brba</alternateIdentifier>
+    <title>BRBA herbarium - Universidade Federal do Oeste da Bahia - Herbário Virtual Reflora</title>
+    <creator>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Rando</surName>
+    </individualName>
+<organizationName>Universidade Federal do Oeste da Bahia</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Professor José Seabra Lemos, 316</deliveryPoint><city>Barreiras</city><administrativeArea>BA</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>juliana.rando@ufob.edu.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Rando</surName>
+    </individualName>
+<organizationName>Universidade Federal do Oeste da Bahia</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Professor José Seabra Lemos, 316</deliveryPoint><city>Barreiras</city><administrativeArea>BA</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>juliana.rando@ufob.edu.br</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-01-15
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário BRBA foi fundado em 2007, neste período tendo as siglas ICADS como código oficial, vinculado ao Instituto de Ciências Ambientais e Desenvolvimento Sustentável (ICADS) que pertencia à Universidade Federal da Bahia (UFBA). A partir de 2013 quando o campus passou a ser Universidade Federal do Oeste da Bahia (Lei 12.825/2013) o herbário mudou de sigla, herbário BRBA, vinculado então à nova Universidade Federal do Oeste da Bahia. Desde sua fundação, o herbário tem atuado na formação direta de vários profissionais na área Ambiental, nas áreas de Botânica, Anatomia Vegetal, Ecologia, Etnobotânica e Fitoquímica servindo como base para os principais estudos do curso de graduação em Ciências Biológicas e Química (existentes desde 2007) e principalmente ao curso de Pós-graduação em Ciências Ambientais da instituição (existente desde 2010). Após tornar-se uma nova instituição federal, a universidade abriu também novos cursos de graduação que atualmente também vêm utilizando o herbário como base em estudos científicos, como os cursos de Agronomia e de Farmácia (existentes desde 2014). Atualmente, o herbário conta com cerca de 7.000 espécimes com rotatividade moderada de recebimento de materiais provenientes de pesquisa e aulas didáticas dentro da própria instituição, assim como materiais recebidos por meio de permuta e empréstimos de outras instituições. As principais instituições de constante parceria são a Universidade Estadual da Bahia em Barreiras (UNEB/Barreiras), onde também há um curso de Agronomia e de Ciências Biológicas; da Universidade Federal do Recôncavo da Bahia (UFRB, herbário HUFRB); Universidade Estadual de Feira de Santana (UEFS, herbário HUEFS) e do Instituto de Pesquisas do Jardim Botânico do Rio de Janeiro (JBRJ, herbário RB). A localização geográfica do herbário também é muito favorável ao crescimento constante da coleção, o herbário BRBA está localizado em área de cerrado com transição para a Caatinga. Há diversas áreas de coletas próximas, principalmente remanescentes de áreas de cerrado e de caatinga, sendo também a única coleção representativa de toda região Oeste da Bahia.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Prioriza o oeste da Bahia onde há predomínio de vegetação de cerrado e algumas áreas de caatinga.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-47.197</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-40.034</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-8.451</northBoundingCoordinate>
+                      <southBoundingCoordinate>-15.327</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Rando</surName>
+    </individualName>
+<organizationName>Universidade Federal do Oeste da Bahia</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Professor José Seabra Lemos, 316</deliveryPoint><city>Barreiras</city><administrativeArea>BA</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>juliana.rando@ufob.edu.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>REFLORA - coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>reflora@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:40Z</dateStamp>
+      <citation>Rando J, Lanna J (2022). BRBA herbarium - Universidade Federal do Oeste da Bahia - Herbário Virtual Reflora. Version 1.80. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/sptcl6 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bras%C3%A3o_da_UFOB.png/1200px-Bras%C3%A3o_da_UFOB.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c4ab57b5-b2f5-477f-b3fb-b42092074054"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/jxutdq</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=pamp-vascular-plants_ribera-occidental-navarra-spain_phd-project-garde</alternateIdentifier>
+        <alternateIdentifier>c4ab57b5-b2f5-477f-b3fb-b42092074054</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=pamp-vascular-plants_ribera-occidental-navarra-spain_phd-project-garde</alternateIdentifier>
+    <title>PAMP-tracheo: Vascular plants in Ribera Occidental de Navarra (Spain). PhD project, L. Garde</title>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>María Luisa</givenName>          <surName>López</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Emeritous Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mllopez@unav.es</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Lourdes</givenName>          <surName>Garde</surName>
+    </individualName>
+<organizationName>IES Padre Moret - Irubide</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>C/ Lumbier 2</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31015</postalCode><country>SPAIN</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Lourdes</givenName>          <surName>Garde</surName>
+    </individualName>
+<organizationName>IES Padre Moret - Irubide</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>C/ Lumbier 2</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31015</postalCode><country>SPAIN</country>    </address>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>María Luisa</givenName>          <surName>López</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Professor Emeritous</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mllopez@unav.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Leticia</givenName>          <surName>Romeo</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone>    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>This dataset provides information about 3496 preserved specimens of vascular plants from 1289 species and subspecies and 97 families. The specimens were collected in the PhD project of Garde (1990), project that includes her undergraduate thesis (Garde 1981), that assessed the vascular flora of Ribera Occidental de Navarra (NE Iberian Peninsula, Spain). An inventory was conducted based on fieldwork and taxa were identified. From them, 58 were mentioned as new records for the province of Navarra at the moment of the study.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>herbarium</keyword>
+              <keyword>northern Spain</keyword>
+              <keyword>flora</keyword>
+              <keyword>tracheophyta</keyword>
+              <keyword>Navarra</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The origin of the PAMP Herbarium dates back to the arrival at the University of Navarra by Professor T.M. Losa España in 1964. One year later M.L. López Fernández began her doctoral thesis, maintaining her contributions to the herbarium uninterruptedly for several decades. Most of the material deposited in the herbarium comes from collections made by researchers from the Department of Environmental Biology (formerly Department of Botany) of the University of Navarra, as a result of theses and dissertations generally carried out in the territory of the Autonomous Community of Navarra (Spain). The herbarium store c. 100 000 sheets with dried specimens. The digitisation of the specimens has been done through the HERBAR v3.7.1 software (Pando et al., 1994-2010) and was supported by the Spanish Government (CGL2007-30978-E, CGL2009-08507-E and CGL2011-15056-E).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Ribera Occidental de Navarra region (NE Iberian Peninsula, Spain) was selected to perform this PhD project, covering about 1300 km2. It is a region located in the SW of the province of Navarra (Spain), in the river Ebro basin. Its geographic coordinates vary from 42º40’N (Puente la Reina) to 42º13’N (Milagro), and from 2º25’W (Logroño) to 1º40’W (Olite).
+Country: Spain. Province: Navarra (N Spain). Region: Ribera Occidental de Navarra (SW Navarra).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.4</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.641</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.72</northBoundingCoordinate>
+                      <southBoundingCoordinate>42.239</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1980-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1989-05-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Out of a total of 3496 specimens, 3296 were identified to species or subspecies level. They belong to 959 species or subspecies and 95 families of vascular plants.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>vascular plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                          <commonName>horsetails</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                          <commonName>monocots</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                          <commonName>dicotyledons</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                          <commonName>conifers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                          <commonName>modern ferns</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Selection and collection of specimens in the field</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Specimens were dried and pressed for conservation using standard protocols. Vouchers were deposited in the herbarium of the University of Navarra.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identification to species or subspecies level using morphological characters. Identification was performed between 1982 and 1990 by L. Garde and M.L. López using Flora europaea (Tutin et al. 1964-1980) and Flora iberica (Castroviejo et al. 1986-1990, volumes 1 and 2).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Numbering and digitization of vouchers. From 2012 to date, each specimen was labelled, with a unique collection number, and digitized, using HERBAR software (v3.7.1 Pando et al. 1994-2010).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Nomenclature was updated using Flora iberica (Castroviejo 1986-2010).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Names of municipalities, localities and place names were updated according to Toponimia Oficial de Navarra (http://toponimianavarra.tracasa.es/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Localities were georeferenced using x- and y- UTM coordinates. Uncertainty was also assigned.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Coordinates, characters and format of dates were checked for possible mistakes using Darwin test software (v3.3, Ortega-Maqueda &amp; Pando 2008). This software also allowed the data to fulfil the Darwin Core Standard (Wieczorek et al. 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Metadata were documented and the dataset was published in the GBIF data portal using the Integrated Publishing Toolkit (IPT v2.3.5) of GBIF.es (http://ipt.gbif.es/).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The specimens were collected in Ribera Occidental de Navarra (northern Spain), a region of 1300 km2 located in the basin of the Ebro river.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Intensive field studies were made during the 1980-1989 growing seasons when specimens were collected in their characteristic habitats. A comprehensive floristic list for the region was compiled.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>PhD project L. Garde: “Estudio de la Flora Vascular y su distribución en la Ribera Occidental de Navarra”</title>
+          <personnel>
+    <individualName>
+<givenName>Lourdes</givenName>          <surName>Garde Navarro</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María Luisa</givenName>          <surName>López Fernández</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas Lecumberri</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Leticia</givenName>          <surName>Romeo Orradre</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez Gastón</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>The vascular flora of Ribera Occidental de Navarra (NE Iberian Peninsula, Spain) was assessed and distribution maps of the species were built and analyzed.</para>
+          </abstract>
+          <funding>
+              <para>Digitization and georeferencing of the herbarium specimens have been supported through the project: “Informatización y adecuación a la red GBIF de colecciones de plantas vasculares depositadas en el herbario de la Universidad de Navarra-PAMP. Fase II”. Reference: CGL2011-15056-E. Ministerio de Economía y Competitividad. Gobierno de España. Principal investigator: Ricardo Ibáñez.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:28Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/jxutdq">Ibáñez R, Imas M, López M L, Garde L (2018). PAMP-tracheo: Vascular plants in Ribera Occidental de Navarra (Spain). PhD project, L. Garde. Version 2.6. University of Navarra – Department of Environmental Biology. Occurrence dataset https://doi.org/10.15470/jxutdq accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="http://www.floraiberica.es/index.php">Castroviejo S (coord.) (1986–2010): Flora iberica. Plantas vasculares de la Península Ibérica y Baleares. Real Jardín Botánico (CSIC), Madrid.</citation>
+      <citation>Garde L (1990): Estudio de la Flora Vascular y su distribución en la Ribera Occidental de Navarra. Tesis Doctoral. Universidad de Navarra.</citation>
+      <citation identifier="http://www.gbif.es/Darwin_test/Darwin_test.php">Ortega-Maqueda I, Pando F (2008): DARWIN TEST (3.3): Una aplicación para la validación y el chequeo de los datos en formato Darwin Core 1.2, Darwin Core 1.4 o Darwin Core Archive. Unidad de Coordinación de GBIF.ES, CSIC, Ministerio de Economía y Competitividad, España.</citation>
+      <citation identifier="http://www.gbif.es/herbar/herbar.php">Pando F et al. (1994–2010): HERBAR (3.7): Una aplicación de bases de datos para gestión de herbarios. Unidad de Coordinación de GBIF.ES, CSIC, Ministerio de Ciencia e Innovación, España.</citation>
+      <citation>Tutin TG, Heywood VH, Burges NA, Moore DM,Valentine DH, Walters SM &amp; Webb DA (eds.) (1964-1980): Flora Europaea, Vols. 1-5, Cambridge UniversityPress, Cambridge.</citation>
+      <citation identifier="https://doi.org/10.1371/journal.pone.0029715">Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D (2012): Darwin Core: An evolving community-developed biodiversity data standard. PLoS ONE 7(1): e29715.</citation>
+      <citation>Garde L (1981): Estudio de la flora vascular del término municipal de Marcilla. Tesis de Licenciatura. Universidad de Navarra.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt.gbif.es/logo.do?r=pamp-vascular-plants_ribera-occidental-navarra-spain_phd-project-garde</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Herbario PAMP: colección GARDE</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="1">3,496</jgtiUnits>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
