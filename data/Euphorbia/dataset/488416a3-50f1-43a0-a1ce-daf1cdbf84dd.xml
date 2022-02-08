@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="488416a3-50f1-43a0-a1ce-daf1cdbf84dd"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/owig1t</alternateIdentifier>
+        <alternateIdentifier>b1053670-bfce-421a-9d29-7a401cc66790</alternateIdentifier>
+        <alternateIdentifier>https://doi.org/10.5281/zenodo.3380323</alternateIdentifier>
+    <title>Herbarium Universitatis Daugavpiliensis</title>
+    <creator>
+    <individualName>
+<givenName>Gunta</givenName>          <surName>Evarte-Bundere</surName>
+    </individualName>
+<organizationName>Daugavpils University</organizationName>    <address>
+<country>LATVIA</country>    </address>
+<electronicMailAddress>gunta.evarte@biology.lv</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Peteris</givenName>          <surName>Evarts-Bunders</surName>
+    </individualName>
+<organizationName>Daugavpils University</organizationName>    <address>
+<country>LATVIA</country>    </address>
+<electronicMailAddress>peteris.evarts@biology.lv</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Dana</givenName>          <surName>Krasnopolska</surName>
+    </individualName>
+<organizationName>Daugavpils University</organizationName>    <address>
+<country>LATVIA</country>    </address>
+<electronicMailAddress>dana.krasnopolska@biology.lv</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Inita</givenName>          <surName>Svilane</surName>
+    </individualName>
+<organizationName>Daugavpils University</organizationName>    <address>
+<country>LATVIA</country>    </address>
+<electronicMailAddress>inita.svilane@biology.lv</electronicMailAddress>    </creator>
+    <language>en</language>
+    <abstract>
+        <para>Research field of Department of Biosystematics (Institute of Life Sciences and Technology, Daugavpils University) includes fundamental and applied researches in the spheres of coleopterology, biosystematics, behaviour ecology, parasitology, nanobiotechnologies, molecular biology and genetics, aquaculture, botany etc. In the sphere of biological diversity Daugavpils University maintains and supplements internationally significant herbarium collection (78 000 herbarium sheets), which is registered in the international index of herbariums Index Herbariorum (acronym DAU).
+
+Taxonomic Coverage: Vascular plants of Latvia; water macrophytes (including Charophyta) of Latvia, allochtonous vascular plants of Latvia; vascular plants of Baltics andEastern Europe
+
+Geography: Latvia, Baltics, Eastern Europe
+
+Number of Specimens - 104600
+
+Algae: Num. of Specimens - 640, Num. Databased - 640
+Bryophytes: Num. of Specimens - 3000, Num. Databased - 0
+Fungi/Lichens: Num. of Specimens - 20000, Num. Databased - 0
+Pteridophytes: Num. of Specimens - 1500 , Num. Databased - 1500
+Seed Plants: Num. of Specimens - 78000, Num. Databased - 50000
+
+Incorporated Herbaria
+SKR (Latvian Research Institute of Agriculture). Fully incorporated in DAU in 2017. Worldwide herbarium of plant diseses coollected by famous mycologist J. Smarods (20 000 specimens)
+
+Important Collectors
+E. Ozolina, K. Starcs, J. Smarods, U. Suško</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:50Z</dateStamp>
+      <citation>Evarte-Bundere G, Evarts-Bunders P, Krasnopolska D, Svilane I. Herbarium Universitatis Daugavpiliensis. Daugavpils University. Occurrence dataset https://doi.org/10.15468/owig1t accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a58ff47c-b609-49c7-982a-7f0194b13472"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bmbeyq</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1132-110</alternateIdentifier>
+        <alternateIdentifier>a58ff47c-b609-49c7-982a-7f0194b13472</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1132-110</alternateIdentifier>
+    <title>Spermatophytes collection of Okinawa Prefectural Museum &amp; Art Museum</title>
+    <creator>
+    <individualName>
+<givenName>Jinya</givenName>          <surName>Yamazaki</surName>
+    </individualName>
+<organizationName>Okinawa Prefectural Museum &amp; Art Museum</organizationName><positionName>Chief curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>jin8yamazaki@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jinya</givenName>          <surName>Yamazaki</surName>
+    </individualName>
+<organizationName>Okinawa Prefectural Museum &amp; Art Museum</organizationName><positionName>Chief curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>jin8yamazaki@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-03-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Spermatophytes collection deposited in Okinawa Prefectural Museum &amp;amp; Art Museum</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Jinya</givenName>          <surName>Yamazaki</surName>
+    </individualName>
+<organizationName>Okinawa Prefectural Museum &amp; Art Museum</organizationName><positionName>Chief curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>jin8yamazaki@gmail.com</electronicMailAddress><onlineUrl>http://www.museums.pref.okinawa.jp/english/index.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:30Z</dateStamp>
+      <citation>Yamazaki J (2020). Spermatophytes collection of Okinawa Prefectural Museum &amp; Art Museum. Version 1.2. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/bmbeyq accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5d731f48-7303-458d-9558-838e60a9010a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/lcgplj</alternateIdentifier>
+        <alternateIdentifier>14545</alternateIdentifier>
+    <title>Colección Plantas Vasculares - Herbario del Departamento de Biología, Bioquímica y Farmacia de la Universidad Nacional del Sur</title>
+    <creator>
+    <individualName>
+<givenName>Melina Lorena</givenName>          <surName>Calfuan</surName>
+    </individualName>
+<organizationName>Universidad Nacional del Sur</organizationName>    <address>
+<deliveryPoint>San Juan 670</deliveryPoint><city>Bahía Blanca</city><administrativeArea>Buenos Aires</administrativeArea><postalCode>8000</postalCode><country>ARGENTINA</country>    </address>
+<phone>54-291-4595101 (2438)</phone><electronicMailAddress>mcalfuan@uns.edu.ar</electronicMailAddress><onlineUrl>http://NA</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NA</organizationName>    </metadataProvider>
+      <pubDate>
+      2012-09-20
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La colección se compone de ejemplares de herbario de plantas vasculares principalmente de la región centro y sur de la República Argentina, encontrándse también material de Bolivia, Brasil, Chile, Paraguay, Uruguay y Estados Unidos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Vasculares</keyword>
+              <keyword>Plantas</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>NA</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.48</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-48.87</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-16.97</northBoundingCoordinate>
+                      <southBoundingCoordinate>-53.54</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-09-20
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-09-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Tracheophyta</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>NA</taxonRankValue>
+                          <commonName>NA</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Carlos B.</givenName>          <surName>Villamil</surName>
+    </individualName>
+<organizationName>Universidad Nacional del Sur</organizationName>    <address>
+<deliveryPoint>San Juan 670</deliveryPoint><city>Bahía Blanca</city><administrativeArea>Buenos Aires</administrativeArea><postalCode>8000</postalCode><country>ARGENTINA</country>    </address>
+<phone>54-291-4595101 (2438)</phone><electronicMailAddress>cbvillam@gmail.com</electronicMailAddress><onlineUrl>http://NA</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:04Z</dateStamp>
+      <citation>Calfuan M L (2012). Colección Plantas Vasculares - Herbario del Departamento de Biología, Bioquímica y Farmacia de la Universidad Nacional del Sur. Ministerio de Ciencia, Tecnología e Innovación Productiva. Occurrence dataset https://doi.org/10.15468/lcgplj accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>NA</citation>
+      <citation>NA</citation>
+      <citation>NA</citation>
+      <citation>NA</citation>
+      <citation>NA</citation>
+              </bibliography>
+              <physical>
+                  <objectName></objectName>
+                  <characterEncoding></characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName></formatName>
+                            <formatVersion>1.0</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.gbif.es</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>http://www.gbif.es/logo.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not defined</parentCollectionIdentifier>
+                <collectionIdentifier>NA</collectionIdentifier>
+                <collectionName>Not defined</collectionName>
+              </collection>
+              <formationPeriod>-31</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+              <livingTimePeriod>Not defined</livingTimePeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

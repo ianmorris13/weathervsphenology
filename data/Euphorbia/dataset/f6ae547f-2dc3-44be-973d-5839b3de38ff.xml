@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f6ae547f-2dc3-44be-973d-5839b3de38ff"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rp3vme</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=cherkasyplants1</alternateIdentifier>
+    <title>Species of plants and fungi in the middle part of the Hirskyi Tikych river basin</title>
+    <creator>
+    <individualName>
+<givenName>Oleksandr</givenName>          <surName>Bubela</surName>
+    </individualName>
+<organizationName>Ukrainian Nature Conservation Group</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>makitpa@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Liubov</givenName>          <surName>Ilminska</surName>
+    </individualName>
+<organizationName>Ukrainian Nature Conservation Group</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oleksandr</givenName>          <surName>Bubela</surName>
+    </individualName>
+<organizationName>Ukrainian Nature Conservation Group</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>makitpa@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Marushchak</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<phone>+380964882670</phone><electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2021-12-24
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset includes finds of plant and fungi species in the middle part of the Hirskyi Tikych river basin.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Fungi</keyword>
+              <keyword>biodiversity</keyword>
+              <keyword>fungi</keyword>
+              <keyword>plants</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Ukraine</keyword>
+              <keyword>flora</keyword>
+              <keyword>Cherkasy region</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Dataset includes findings from Sinyukha river basin and its tributaries situated within Cherkasy region of Ukraine.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>29.586</westBoundingCoordinate>
+                      <eastBoundingCoordinate>32.871</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.258</northBoundingCoordinate>
+                      <southBoundingCoordinate>48.444</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+              <singleDateTime>
+                <calendarDate>      2021
+</calendarDate>
+              </singleDateTime>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Dataset includes findings of plants and fungi.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oleksandr</givenName>          <surName>Bubela</surName>
+    </individualName>
+<organizationName>Ukrainian Nature Conservation Group</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>makitpa@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Undertaking the field expedition.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Species photo and video documentations.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Species identification.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferencing.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The research was conducted in 2021. We surveyed the area of the Sinyukha river basin from the village of Vorone (Uman district, Cherkasy region) to the village of Shaulikha (Zvenyhorod district, Cherkasy region), as well as the valleys of its tributaries - the rivers Konela, Kishchenykha, Kititsa and Mokshyboloto.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>When the locality of the plant species was detected, the point was photographed and geolocated using a GPS navigator.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The authors are fully responsible for the quality of data provided within the dataset.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:36Z</dateStamp>
+      <citation>Bubela O, Ilminska L (2021). Species of plants and fungi in the middle part of the Hirskyi Tikych river basin. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/rp3vme accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

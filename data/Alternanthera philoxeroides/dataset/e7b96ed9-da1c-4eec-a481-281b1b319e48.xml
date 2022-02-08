@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e7b96ed9-da1c-4eec-a481-281b1b319e48"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/vse5f3</alternateIdentifier>
+        <alternateIdentifier>e7b96ed9-da1c-4eec-a481-281b1b319e48</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=furb_herbarium</alternateIdentifier>
+    <title>FURB herbarium - Universidade Regional de Blumenau - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>Andre Luis de</givenName>          <surName>Gasper</surName>
+    </individualName>
+<organizationName>Universidade Regional de Blumenau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Antonio da Veiga, Nº140 - Bairro: Victor Konder</deliveryPoint><city>Blumenau</city><administrativeArea>SC</administrativeArea><postalCode>89030-903</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(47)-3321-0654</phone><electronicMailAddress>algasper@furb.br</electronicMailAddress><onlineUrl>http://www.furb.br/herbario</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andre Luis de</givenName>          <surName>Gasper</surName>
+    </individualName>
+<organizationName>Universidade Regional de Blumenau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Antonio da Veiga, Nº140 - Bairro: Victor Konder</deliveryPoint><city>Blumenau</city><administrativeArea>SC</administrativeArea><postalCode>89030-903</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(47)-3321-0654</phone><electronicMailAddress>algasper@furb.br</electronicMailAddress><onlineUrl>http://www.furb.br/herbario</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vitor</givenName>          <surName>Monteiro</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>REFLORA Felow</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Dalcin</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>Núcleo de Computação Científica</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    <role>EDITOR</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-15
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário da FURB foi criado em 1990 e denominado Dr. Roberto Miguel Klein em homenagem ao botânico e ecólogo, professor da nossa Universidade, que estudou a flora de Santa Catarina, caracterizando sua ecologia e vegetação. Tem como objetivo abrigar coleções e estimular estudos sobre a biodiversidade da flora especialmente aquela do Parque Nacional da Serra do Itajaí, do Vale do Itajaí e de Santa Catarina.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Floresta Atlântica Subtropical</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-55.415</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-48.208</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-22.715</northBoundingCoordinate>
+                      <southBoundingCoordinate>-30.031</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andre Luis de</givenName>          <surName>Gasper</surName>
+    </individualName>
+<organizationName>Universidade Regional de Blumenau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Antonio da Veiga, Nº140 - Bairro: Victor Konder</deliveryPoint><city>Blumenau</city><administrativeArea>SC</administrativeArea><postalCode>89030-903</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(47)-3321-0654</phone><electronicMailAddress>algasper@furb.br</electronicMailAddress><onlineUrl>http://www.furb.br/herbario</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Reflora coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>rafaela@jbrj.gov.br</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Step description</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>We make a database check using many web tools, to avoid duplicates entrance, coordinate mistake and names spelling. We also look for barcode and photo mistakes using Exsicatae toold from INCT.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:55Z</dateStamp>
+      <citation>Gasper A L D (2022). FURB herbarium - Universidade Regional de Blumenau - Herbário Virtual REFLORA. Version 1.258. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/vse5f3 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=furb_herbarium</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

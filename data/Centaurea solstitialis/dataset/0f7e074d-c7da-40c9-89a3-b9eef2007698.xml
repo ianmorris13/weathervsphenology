@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0f7e074d-c7da-40c9-89a3-b9eef2007698"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1pz5lw</alternateIdentifier>
+    <title>New records in vascular plants alien to Kyrgyzstan</title>
+    <creator>
+    <individualName>
+<givenName>Alexander</givenName>          <surName>Sennikov</surName>
+    </individualName>
+<organizationName>University of Helsinki</organizationName><positionName>Dr</positionName>    <address>
+<city>Helsinki</city><country>FINLAND</country>    </address>
+<electronicMailAddress>alexander.sennikov@helsinki.fi</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alexander</givenName>          <surName>Sennikov</surName>
+    </individualName>
+<organizationName>University of Helsinki</organizationName><positionName>Dr</positionName>    <address>
+<city>Helsinki</city><country>FINLAND</country>    </address>
+<electronicMailAddress>alexander.sennikov@helsinki.fi</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2014-04-28
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A series of brief notes on distribution of vascular plants alien to Kyrgyzstan is presented. A further expansion of Anthemis ruthenica (Asteraceae), Crambe orientalis (Brassicaceae) and Salvia aethiopis (Lamiaceae) in northern and northwestern Kyrgyzstan is recorded. The first record of Chenopodium vulvaria (Amaranthaceae) from the northern side of Kyrgyz Range is confirmed, and the species was found for the second time in Alay Range. The ephemerous occurrence of Hirschfeldia incana (Brassicaceae) in Central Asia is recorded for the first time from Fergana Range. Tragus racemosus (Poaceae) is first recorded from the Chüy Depression as an ephemerous alien. Arrhenatherum elatius, escaped from cultivation and locally established, is new to the country. The second record of established occurrence of Centaurea solstitialis (Asteraceae) and an ephemerous occurrence of Glaucium corniculatum (Papaveraceae) are presented. Complete information is collected about the occurrence of every mentioned species in Kyrgyzstan.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Alexander</givenName>          <surName>Sennikov</surName>
+    </individualName>
+<organizationName>University of Helsinki</organizationName><positionName>Dr</positionName>    <address>
+<city>Helsinki</city><country>FINLAND</country>    </address>
+<electronicMailAddress>alexander.sennikov@helsinki.fi</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:03Z</dateStamp>
+      <citation identifier="Citation Identifier">Sennikov A (2014). New records in vascular plants alien to Kyrgyzstan. Biodiversity Data Journal. Checklist dataset https://doi.org/10.15468/1pz5lw accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

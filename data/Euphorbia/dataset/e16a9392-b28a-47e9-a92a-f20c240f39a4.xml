@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e16a9392-b28a-47e9-a92a-f20c240f39a4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/zj4oby</alternateIdentifier>
+        <alternateIdentifier>e16a9392-b28a-47e9-a92a-f20c240f39a4</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=udomlya</alternateIdentifier>
+    <title>A grid-based database on vascular plant distribution in Udomlya District of Tver Oblast, Russia</title>
+    <creator>
+    <individualName>
+<givenName>Liudmila A.</givenName>          <surName>Abramova</surName>
+    </individualName>
+<organizationName>Moscow High School #1543</organizationName><positionName>Teacher</positionName>    <address>
+<city>Moscow</city><country>RUSSIAN_FEDERATION</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Polina A.</givenName>          <surName>Volkova</surName>
+    </individualName>
+<organizationName>Papanin institute for Biology of inland waters RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<city>Borok</city><administrativeArea>Yaroslavl Oblast</administrativeArea><postalCode>152742</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>polina.an.volkova@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Polina A.</givenName>          <surName>Volkova</surName>
+    </individualName>
+<organizationName>Papanin institute for Biology of inland waters RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<city>Borok</city><administrativeArea>Yaroslavl Oblast</administrativeArea><postalCode>152742</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>polina.an.volkova@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2018-12-12
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset contains more then 31,000 unique occurrences of 786 vascular plant species from Udomlya district of Tver Oblast (Russia). They are based on field studies, performed on basis of the “Lake Moldino” biological station of Moscow High School # 1543 in 2007–2016 by numerous teachers and students (principal investigators Liudmila A. Abramova and Polina A. Volkova). Georeferences are based on 105 squares 5 km × 5 km (occurrences are placed in the grid square centroids). Several squares were investigated twice; results of both surveys are given separately, so some records are duplicated (if a species was recorded during both surveys of one square). The analysis of the dataset has been published by Volkova et al. (2016; 2018).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Udomlya District of Tver Oblast (Russia) in its administrative borders. The area is briefly described in Volkova et al. (2016).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>34.31</westBoundingCoordinate>
+                      <eastBoundingCoordinate>36.002</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.309</northBoundingCoordinate>
+                      <southBoundingCoordinate>57.48</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2007-06-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-06-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Vascular plants. 100% records are identified at species level.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Polina A.</givenName>          <surName>Volkova</surName>
+    </individualName>
+<organizationName>Papanin institute for Biology of inland waters RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<city>Borok</city><administrativeArea>Yaroslavl Oblast</administrativeArea><postalCode>152742</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>polina.an.volkova@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Common practice of regular floristic grid recording, described in details in Volkova et al. (2016).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>In 2007–2016, grid mapping of vascular plant flora of Udomlya district (Tver Oblast, Russia) was performed. This project used a grid with 105 squares (25 square km each), of which 99 were surveyed.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Study of flora begins with the preparation of routes using satellite images. They should link areas of potential interest. Plants that are difficult to identify in field are collected in herbarium and deposited in MW. Track is permanently controlled by GPS.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>During the field trip we are recording species in printed spreadsheets with most widely distributed species. This helps us to record common species without occasional misses.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:43Z</dateStamp>
+      <citation>Abramova L A, Volkova P A (2018). A grid-based database on vascular plant distribution in Udomlya District of Tver Oblast, Russia. Version 1.1. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/zj4oby accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Volkova P.A., Abramova L.A., Grigoryan M.Yu., Ivanova M.O., Sekretova E.K., Tikhomirov N.P. Influence of anthropogenic disturbance on the number and composition of plant species in sparsely populated areas: a case study of Udomlya district (Tver region, European Russia) // Evolutionary Ecology Research. 2016. Vol. 17. P. 699-712.</citation>
+      <citation>Volkova P.A., Ivanova M.O., Abramova L.A. One for all: can individual plant species indicate the overall number of plant species? // Evolutionary Ecology Research. 2018. Vol. 19. P. 209-213.</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

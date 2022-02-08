@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a1bac6a0-65d1-4bb0-a533-3ca5d185c0b7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/6auk2b</alternateIdentifier>
+        <alternateIdentifier>https://ipt.isa.ulisboa.pt/ipt_isa/resource?r=floristic_study_orchards</alternateIdentifier>
+    <title>Floristic Study in Orchards - Mafra and Torres Vedras, Portugal</title>
+    <creator>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+<organizationName>Instituto Superior de Agronomia</organizationName><positionName>Técnica Superior, Investigadora</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Felisbela</givenName>          <surName>Santos</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Afonso</surName>
+    </individualName>
+<organizationName>PORBIOTA</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>beatrizcardosoafonso@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-3784-8024</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-12-07
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>This dataset consists of a floristic study in apple and pear orchards, with the aim of knowing the distribution and importance of the weed flora and its correlation with the surrounding soil-climatic and phyto-technical factors, in Mafra and Torres Vedras, Portugal.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>samplingEvent</keyword>
+              <keyword>occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Orchards</keyword>
+              <keyword>weed vegetation</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The sample events are in mainland Portugal, in the municipalities of Mafra and Torres Vedras.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-9.357</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-9.177</eastBoundingCoordinate>
+                      <northBoundingCoordinate>39.146</northBoundingCoordinate>
+                      <southBoundingCoordinate>38.995</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1980-10-28
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1980-12-02
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>This dataset includes 636 records referring to specimens of 39 different families, 113 genera and 151 species/subspecies, in 24 event sites.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+<organizationName>Instituto Superior de Agronomia</organizationName><positionName>Técnica Superior, Investigadora</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Felisbela</givenName>          <surName>Santos</surName>
+    </individualName>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The data was transferred to digital format.
+In the events table, the locations were georeferenced through GeoLocate (WGS84). 
+After obtaining all the coordinates, the remaining fields of the location were extracted using the Location Extractor application. The entire event table was placed in DwC format.
+In the case of the occurrences table, after digitizing the data, the csv was run through the Species Extractor application, to update the scientific names and fill in the remaining fields. 
+The matchType field was revised and the taxonomicStatus column was added where typos or scientific name updates were indicated.
+All mandatory columns were added, and the respective data filled.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The geographic scope of this study focuses on the central area of mainland Portugal, in the municipalities of Mafra and Torres Vedras.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Two sampling methods were used simultaneously:
+1 - The one adopted by G. Barralis, from the Laboratoire de Malherbologie in Dijon defined by its scales - coefficient of abundance and scale of phenological states.
+2 - The one defined by Braun-Blanquet (School of Zurich-Montpellier), defined by its scales - abundance/covered scale and sociability scale.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All initial data was inserted in a specific relational database built specifically for the project, which implemented several quality control methods. In the preparation of the dataset for GBIF publication, data consistency was verified using cluster algorithms using OpenRefine.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Floristic study in orchards – Mafra and Torres Vedras</title>
+          <personnel>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Afonso</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0003-3784-8024</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>This dataset consists of a floristic study in apple and pear orchards, with the aim of knowing the distribution and importance of the weed flora and its correlation with the surrounding soil-climatic and phyto-technical factors, in Mafra and Torres Vedras.</para>
+          </abstract>
+          <funding>
+              <para>The preparation of this resource for publication through GBIF was supported by Project PORBIOTA—Portuguese E-Infrastructure for Information and Research on Biodiversity (POCI-01-0145-FEDER-022127), under the Operational Thematic Program for Competitiveness and Internationalization (POCI), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (FEDER) and FCT.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:45Z</dateStamp>
+      <citation>de Carvalho e Vasconcelos M T, Santos F, Afonso B (2021). Floristic Study in Orchards - Mafra and Torres Vedras, Portugal. Instituto Superior de Agronomia / Universidade de Lisboa. Sampling event dataset https://doi.org/10.15468/6auk2b accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://www.isa.ulisboa.pt/files/logo_green.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

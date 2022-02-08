@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8df9af24-1fbd-4699-a545-9a2867ff25fe"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jzwfql</alternateIdentifier>
+        <alternateIdentifier>8df9af24-1fbd-4699-a545-9a2867ff25fe</alternateIdentifier>
+        <alternateIdentifier>http://danbif.au.dk/ipt/resource?r=atlas_flora_danica</alternateIdentifier>
+    <title>Atlas Flora Danica</title>
+    <creator>
+    <individualName>
+<givenName>Conny</givenName>          <surName>Bruun Asmussen Lange</surName>
+    </individualName>
+<organizationName>Dept. of Plant and Environmental Sciences, University of Copenhagen</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Thorvaldsensvej 40</deliveryPoint><city>Frederiksberg C</city><postalCode>DK- 1871</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>con@plen.ku.dk</electronicMailAddress><onlineUrl>http://plen.ku.dk/english/employees/?pure=en/persons/31138</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jakob</givenName>          <surName>Hermann</surName>
+    </individualName>
+<organizationName>Botanical Society of Denmark</organizationName>    <address>
+<deliveryPoint>Sølvgade 83</deliveryPoint><city>Copenhagen K</city><postalCode>DK-1307</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>jh@112c.dk</electronicMailAddress><onlineUrl>http://botaniskforening.dk/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Conny</givenName>          <surName>Bruun Asmussen Lange</surName>
+    </individualName>
+<organizationName>Dept. of Plant and Environmental Sciences, University of Copenhagen</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Thorvaldsensvej 40</deliveryPoint><city>Frederiksberg C</city><postalCode>DK- 1871</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>con@plen.ku.dk</electronicMailAddress><onlineUrl>http://plen.ku.dk/english/employees/?pure=en/persons/31138</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Isabel</givenName>          <surName>Calabuig</surName>
+    </individualName>
+<organizationName>DanBIF - Danish Biodiversity Information Facility</organizationName><positionName>Node manager, Data curator</positionName>    <address>
+<city>Copenhagen</city><country>DENMARK</country>    </address>
+<electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress><onlineUrl>http://danbif.dk/</onlineUrl>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-11-22
+      </pubDate>
+    <language>DANISH</language>
+    <abstract>
+        <para>Atlas Flora Danica maps the wild Danish flora. Data collection took place from 1992 through 2012, and the voluntary monitoring work was carried out by members of the Danish Botanical Society. For this project, Denmark was divided into 2228 squares of 5 × 5 km. In all investigated squares, all plant species were recorded, with exact location. About every other square were surveyed and thereby obtaining good coverage of the whole country. The project gratefully received sponsoring from the Aage V. Jensen Nature Foundation. Atlas Flora Danica&amp;#39;s purpose is to: 1) Show the Danish plant species’ current distribution and regional frequency, including decline or spread of species. Causes of these changes are discussed. 2) Examine the current status of red-listed, protected and rare plant species. 3) Publicize the Danish flora and the importance of protecting the plants and their habitats. Resource homepage: http://atlasfloradanica.dk/</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Atlas</keyword>
+              <keyword>Flora</keyword>
+              <keyword>Denmark</keyword>
+              <keyword>Plants</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://atlasfloradanica.dk/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Denmark</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>7.18</westBoundingCoordinate>
+                      <eastBoundingCoordinate>15.93</eastBoundingCoordinate>
+                      <northBoundingCoordinate>57.98</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.45</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1992-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ACORALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ALISMATALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>APIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>AQUIFOLIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ARECALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ASPARAGALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ASTERALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>BORAGINALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>BRASSICALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>BUXALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CARYOPHYLLALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CELASTRALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CERATOPHYLLALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>COMMELINALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CORNALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CROSSOSOMATALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CUCURBITALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>CUPRESSALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>DIOSCOREALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>DIPSACALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>EQUISETALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ERICALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>FABALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>FAGALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>GARRYALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>GENTIANALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>GERANIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>GINKGOALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>GUNNERALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>HYMENOPHYLLALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ISOËTALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>LAMIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>LAURALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>LILIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>LYCOPODIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>MAGNOLIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>MALPIGHIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>MALVALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>MYRTALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>NYMPHAEALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>OPHIOGLOSSALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>OSMUNDALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>OXALIDALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>PINALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>PIPERALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>POALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>POLYPODIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>PROTEALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>RANUNCULALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ROSALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SALVINIALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SANTALALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SAPINDALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SAXIFRAGALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SELAGINELLALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>SOLANALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>VITALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ZINGIBERALES</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>ZYGOPHYLLALES</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>biannually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Conny</givenName>          <surName>Bruun Asmussen Lange</surName>
+    </individualName>
+<organizationName>Dept. of Plant and Environmental Sciences, University of Copenhagen</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>Thorvaldsensvej 40</deliveryPoint><city>Frederiksberg C</city><postalCode>DK- 1871</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>con@plen.ku.dk</electronicMailAddress><onlineUrl>http://plen.ku.dk/english/employees/?pure=en/persons/31138</onlineUrl>      </contact>
+
+      <project >
+          <title>Atlas Flora Danica</title>
+          <personnel>
+    <individualName>
+<givenName>Per</givenName>          <surName>Hartvig</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Per</givenName>          <surName>Hartvig</surName>
+    </individualName>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Vestergaard</surName>
+    </individualName>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Conny</givenName>          <surName>Bruun Asmussen Lange</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jakob</givenName>          <surName>Hermann</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para>This dataset has been created from the data collected for the three-volume book &quot;Atlas Flora Danica&quot;. Data collectied through the work of members of the Danish Botanical Society. Project coordinator: Per Hartvig Book editors: Per Hartvig and Peter Vestergaard.</para>
+          </abstract>
+          <funding>
+              <para>The Aage V. Jensen Nature Foundation
+The Danish Botanical Society</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>All of Denmark</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Surveyed in 5X5km squares.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:51Z</dateStamp>
+      <citation>Bruun Asmussen Lange C, Hermann J (2016). Atlas Flora Danica. Version 1.1. Botanical Society of Denmark. Occurrence dataset https://doi.org/10.15468/jzwfql accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="ISBN 978-87-02-15299-9">Hartvig, P. (2015). Atlas Flora Danica. Gyldendal, Copenhagen, Denmark</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

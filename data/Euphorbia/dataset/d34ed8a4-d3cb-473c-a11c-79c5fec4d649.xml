@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d34ed8a4-d3cb-473c-a11c-79c5fec4d649"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/w8gru5</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=o_vxl</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=o_vxl</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=o_vxl</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=o_vxl</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=o_vxl</alternateIdentifier>
+        <alternateIdentifier>d34ed8a4-d3cb-473c-a11c-79c5fec4d649</alternateIdentifier>
+        <alternateIdentifier>1079</alternateIdentifier>
+    <title>Vascular Plants, Field notes, Oslo (O)</title>
+    <creator>
+<organizationName>Natural History Museum, University of Oslo</organizationName>    <address>
+<country>NORWAY</country>    </address>
+    </creator>
+    <metadataProvider>
+<organizationName>GBIF Norway</organizationName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>http://www.gbif.no</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Christian</givenName>          <surName>Svindseth</surName>
+    </individualName>
+<electronicMailAddress>christian.svindseth@nhm.uio.no</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Vascular Plants, Field notes from Norway</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Norway</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0</westBoundingCoordinate>
+                      <eastBoundingCoordinate>36</eastBoundingCoordinate>
+                      <northBoundingCoordinate>72</northBoundingCoordinate>
+                      <southBoundingCoordinate>56</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oddvar</givenName>          <surName>Pedersen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Senior engineer</positionName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><postalCode>0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>oddvar.pedersen@nhm.uio.no</electronicMailAddress><onlineUrl>https://www.nhm.uio.no/english/about/organization/research-collections/people/odpeders/index.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:42Z</dateStamp>
+      <citation>University of Oslo (2019). Vascular Plants, Field notes, Oslo (O). Version 1.186. Occurrence dataset https://doi.org/10.15468/w8gru5 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

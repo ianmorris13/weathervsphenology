@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8642acf1-68f2-42b2-8ce3-97798e383cb2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/2yyu7i</alternateIdentifier>
+        <alternateIdentifier>8642acf1-68f2-42b2-8ce3-97798e383cb2</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr13282</alternateIdentifier>
+        <alternateIdentifier>1fedb0cf-2da1-376a-a697-31e8c33c8a2d</alternateIdentifier>
+    <title>melu_avh</title>
+    <creator>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </creator>
+    <creator>
+<organizationName>The University of Melbourne Herbarium</organizationName>    <address>
+<deliveryPoint>School of BioSciences, The University of Melbourne</deliveryPoint><city>Melbourne</city><administrativeArea>Victoria</administrativeArea><postalCode>3010</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(03) 8344 5040</phone><electronicMailAddress>biosciences-herbarium@lists.unimelb.edu.au</electronicMailAddress><onlineUrl>https://herbarium.unimelb.edu.au</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-10-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The University of Melbourne Herbarium (MELU) is the largest university herbarium in Australia comprising an estimated 150,000 specimens including approximately 200 type specimens. The collection includes approximately 85,000 vascular plants, 40,000 algae, 20,000 mosses/liverworts/hornworts, 3,500 lichens, and 3,000 fungi. 
+
+Comprehensive collections include the G.A.M. Scott (Bryophyte) Collection, Breidahl Moss Collection, Harry J. Swart (Fungi) Collection, G. Beaton (Fungi) Collection, Walter Zimmer Collection, Bogong High Plains Collection, Mt Buffalo Collection, Rupp Collection, Ex-Burnley Horticultural College Collection, and Ex-Victorian School of Forestry Herbarium. Some international specimens in the collection, include material from Macquarie Island (algae) and UK and New Zealand (bryophytes).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr13282</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+<positionName>Mailing List</positionName><electronicMailAddress>biosciences-herbarium@lists.unimelb.edu.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:49Z</dateStamp>
+      <citation>The University of Melbourne (2021). melu_avh. Occurrence dataset https://doi.org/10.15468/2yyu7i accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/avh_logo_green_transparent.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

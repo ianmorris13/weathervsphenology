@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="23a73082-f8a1-4f47-8088-07c12b7fadf3"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/yuiofk</alternateIdentifier>
+        <alternateIdentifier>23a73082-f8a1-4f47-8088-07c12b7fadf3</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-5a02df4e-138e-4975-b6e7-79de0918f19b</alternateIdentifier>
+    <title>Inventaire de la flore du PNRLG 2018 (Landes)</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>NR</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-01
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Inventaires de la flore réalisés par le CBN Sud-Atlantique en 2018 sur les communes landaises du PNRLG.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.041</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.249</eastBoundingCoordinate>
+                      <northBoundingCoordinate>44.719</northBoundingCoordinate>
+                      <southBoundingCoordinate>44.01</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>NR</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:49Z</dateStamp>
+      <citation>NR N, Inventaire National du Patrimoine Naturel (2020). Inventaire de la flore du PNRLG 2018 (Landes). Version 1.1. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/yuiofk accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

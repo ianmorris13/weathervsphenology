@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ddc02a7f-f5f1-4477-a23a-bc430a919d96"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dt7vzu</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1083-102</alternateIdentifier>
+        <alternateIdentifier>ddc02a7f-f5f1-4477-a23a-bc430a919d96</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1083-102</alternateIdentifier>
+    <title>Vascular plant specimens of Nagano Environmental Conservation Research Institute, Nagano Prefecture</title>
+    <creator>
+    <individualName>
+<givenName>Yuko</givenName>          <surName>Ishida</surName>
+    </individualName>
+<organizationName>Nagano Environmental Conservation Research Institute, Nagano Prefecture</organizationName><positionName>Researcher</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>ishida-yuko-r@pref.nagano.lg.jp</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Yuko</givenName>          <surName>Ishida</surName>
+    </individualName>
+<organizationName>Nagano Environmental Conservation Research Institute, Nagano Prefecture</organizationName><positionName>Researcher</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>ishida-yuko-r@pref.nagano.lg.jp</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-12-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Vascular plant specimens deposited in Nagano Environmental Conservation Research Institute, Nagano Prefecture</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Yuko</givenName>          <surName>Ishida</surName>
+    </individualName>
+<organizationName>Nagano Environmental Conservation Research Institute, Nagano Prefecture</organizationName><positionName>Researcher</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>ishida-yuko-r@pref.nagano.lg.jp</electronicMailAddress><onlineUrl>http://www.pref.nagano.lg.jp/kanken/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:59Z</dateStamp>
+      <citation>Ishida Y (2021). Vascular plant specimens of Nagano Environmental Conservation Research Institute, Nagano Prefecture. Version 1.5. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/dt7vzu accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="29d56be4-2b76-4a05-887d-633a3c6a9a83"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sdyzw5</alternateIdentifier>
+        <alternateIdentifier>http://ipt.taibif.tw/resource?r=tai</alternateIdentifier>
+        <alternateIdentifier>51947020-98a2-11de-b4da-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>http://taibif.tw/ipt/resource.do?r=tai</alternateIdentifier>
+        <alternateIdentifier>29d56be4-2b76-4a05-887d-633a3c6a9a83</alternateIdentifier>
+        <alternateIdentifier>d2e12080-f1ca-11dd-b2d4-b8a03c50a862</alternateIdentifier>
+    <title>The digitization of plant specimens of NTU</title>
+    <creator>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>College of Life Science, National Taiwan University</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kun-Chi</givenName>          <surName>Lai</surName>
+    </individualName>
+<organizationName>Biodiversity Research Center, Academia Sinica</organizationName><positionName>Research Assistant</positionName>    <address>
+<deliveryPoint>128 Sec 2, Academia Rd., Nangang Dist.</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+<electronicMailAddress>east0122@gate.sinica.edu.tw</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Kun-Chi</givenName>          <surName>Lai</surName>
+    </individualName>
+<electronicMailAddress>east0122@gate.sinica.edu.tw</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-05-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Established in 1929, the Herbarium of the Institute of Ecology and Evolutionary Biology at the National Taiwan University (NTU) is now over seventy years old, with a collection of over 260,000 specimens. Among its collection, specimens of Taiwan’s indigenous plants are the most numerous, representing at least 95% of species of vascular plants in Taiwan. In order to better utilize and manage the items in the NTU Herbarium (TAI), most of the specimens in the collection and the labels of each specimen have all undergone digitization, and have been incorporated into the Herbarium’s website for the sake of sustainable preservation and for purposes of academic research, as well as both specialized and general education. The digitization work is funded by Taiwan e-Learning and Digital Archives Program (TELDAP).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keyword>Plant</keyword>
+              <keyword>Taiwan</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>TELDAP</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://tai2.ntu.edu.tw/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Taiwan</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>118.32</westBoundingCoordinate>
+                      <eastBoundingCoordinate>123.91</eastBoundingCoordinate>
+                      <northBoundingCoordinate>26.3</northBoundingCoordinate>
+                      <southBoundingCoordinate>21.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1895
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>College of Life Science, National Taiwan University</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:57Z</dateStamp>
+      <citation>Hsieh C, Lai K (2020). The digitization of plant specimens of NTU. Version 5.2. TELDAP. Occurrence dataset https://doi.org/10.15468/sdyzw5 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

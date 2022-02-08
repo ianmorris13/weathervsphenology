@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3b64407b-12fd-406e-a996-4a87994fcfc9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1uvzxh</alternateIdentifier>
+        <alternateIdentifier>https://cch2.org/portal/collections/misc/collprofiles.php?collid=36</alternateIdentifier>
+        <alternateIdentifier>http://cch2.org/portal/collections/misc/collprofiles.php?collid=36</alternateIdentifier>
+    <title>MACF - MacFadden Herbarium, California State University Fullerton</title>
+    <creator>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Joshua Der</surName>
+    </individualName>
+<electronicMailAddress>jder@fullerton.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>MacFadden Herbarium is operated by the Department of Biological Science at Cal State Fullerton and houses over 30, 000 vascular plant specimens. The herbarium is named for botanist Fay A. MacFadden, who sold her extensive collection of plants to the university just prior to her death in 1964. The collection is used as research and teaching tools by our faculty, staff, students, and other researchers.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>MACF - MacFadden Herbarium, California State University Fullerton</organizationName><phone>(714) 278-3614</phone><electronicMailAddress>jder@fullerton.edu</electronicMailAddress><onlineUrl>http://www.fullerton.edu/biology/facilities/herbarium/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T01:52:48Z</dateStamp>
+      <citation>California State University, Fullerton (2022). MACF - MacFadden Herbarium, California State University Fullerton. Occurrence dataset https://doi.org/10.15468/1uvzxh accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4747636a-d019-4f30-a0c2-c930b864ad7e"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/u6ypjm</alternateIdentifier>
+    <title>Herbarium areqvipense (HUSA)</title>
+    <creator>
+    <individualName>
+<givenName>Aurelio</givenName>          <surName>Sanabria</surName>
+    </individualName>
+<organizationName>INBio / IABIN SSTN</organizationName><positionName>IPT Administrator</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Aurelio</givenName>          <surName>Sanabria</surName>
+    </individualName>
+<organizationName>INBio / IABIN SSTN</organizationName><positionName>IPT Administrator</positionName>    </metadataProvider>
+      <pubDate>
+      2011-07-19
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Universidad Nacional de San Agustín - Perú</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Aurelio</givenName>          <surName>Sanabria</surName>
+    </individualName>
+<organizationName>INBio / IABIN SSTN</organizationName><positionName>IPT Administrator</positionName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:47Z</dateStamp>
+      <citation>Sanabria A (2011). Herbarium areqvipense (HUSA). Universidad Nacional de San Agustín (Herbarium Areqvipense HUSA). Occurrence dataset https://doi.org/10.15468/u6ypjm accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

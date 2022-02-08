@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="65bdd8e3-a27b-4b88-998d-dfb27d528206"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fyxnsd</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=flora_korean_peninsula</alternateIdentifier>
+        <alternateIdentifier>https://www.kbif.go.kr/ipt/resource?r=flora_korean_peninsula</alternateIdentifier>
+        <alternateIdentifier>65bdd8e3-a27b-4b88-998d-dfb27d528206</alternateIdentifier>
+        <alternateIdentifier>http://www.kbif.go.kr/ipt/resource?r=flora_korean_peninsula</alternateIdentifier>
+    <title>Flora of the Korean Peninsula</title>
+    <creator>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>1 Gwanak-ro</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>08826</postalCode><country>KOREA_SOUTH</country>    </address>
+<electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Hui</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>Mokpo National University</organizationName><positionName>Professor</positionName><electronicMailAddress>huikim@mokpo.ac.kr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>Seoul National University</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>SinRim9-Dong San56-1</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>151-921</postalCode><country>KOREA_SOUTH</country>    </address>
+<electronicMailAddress>quercus@plaza.snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Background 
+The digitization of historical collections aims to increase global access to scientific artifacts, especially those from currently inaccessible areas. Historical collections from North Korea deposited at foreign herbaria play a fundamental role in biodiversity transformation patterns. However, the biodiversity pattern distribution in this region remains poorly understood given the severe gaps in available geographic species distribution records. Access to a dominant proportion of primary biodiversity data remains difficult for the broader scientific and environmental community. The digitization of foreign collectors’ botanical collections of around 60,000 specimens from the Korean Peninsula before World War II is ongoing. In this paper, we aim to fill this gap by developing the first comprehensive, open-access database of biodiversity records for the Korean Peninsula. This paper provides a quantitative and general description of the specimens that Urbain Jean Faurie, Emile Joseph Taquet, and Ernest Henry Wilson kept in several herbaria. 
+
+New information
+An open-access database of biodiversity records provides a simple guide to georeferencing historical collections. The first dataset described E. H. Wilson’s collection of woody plants in the Korean Peninsula preserved at the Harvard University Herbaria (A). This includes 1,087 records collected from 1917 to 1918. The other collections contained specimens by E. J. Taquet (4,727 specimens from Quelpaert, 1907–1914) and U. J. Faurie (3,659 specimens from North Korea and Quelpaert, 1901, 1906, and 1907). For each specimen, we recorded the species name, locality indication, collection date, collector, ecology, and revision label. This dataset contained more than 9,400 specimens, with 22 % of vascular plants from North Korea and 66% from Quelpaert (Jeju) island. In these collections, we included some images that correspond to the specimens in this dataset.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>endonym</keyword>
+              <keyword>U. J. Faurie</keyword>
+              <keyword>Quelpaert</keyword>
+              <keyword>herbarium collection</keyword>
+              <keyword>E. J. Taquet</keyword>
+              <keyword>georeferencing</keyword>
+              <keyword>exonym</keyword>
+              <keyword>Korea</keyword>
+              <keyword>E. H. Wilson</keyword>
+              <keywordThesaurus>endonym, exonym, herbarium collection, georeferencing, Korea, Quelpaert, E. J. Taquet, U. J. Faurie, E. H. Wilson</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Korean peninsula is located in Northeast Asia, between China and Japan. To the northwest, the Amnok River separates Korea from Liaoning province in Northern China and to the northeast, the Duman River separates Korea from Jirin province in Northern China and Far Eastern Russia. Excluding the islands, the peninsula area covers about 220,847 km2. The eastern and northern parts of the peninsula are characterized by the high mountains. The highest point of the Korean peninsula is located at Mount Paektu (2,744 m, 41°59N 128°04E), stands on the border with China (Fig. 2). The Sothern area of the peninsula begins at the island Marado (33°06N 126°16E))  at the south of Jeju island  and stretch in a eastward direction to the islets Dokdo (37°14N 131°52E ).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>121</westBoundingCoordinate>
+                      <eastBoundingCoordinate>132</eastBoundingCoordinate>
+                      <northBoundingCoordinate>43.5</northBoundingCoordinate>
+                      <southBoundingCoordinate>32</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The majority of specimens belong to class Magnoliopsida (6,314 specimens) and Liliopsida (2,198) followed by Filicopsida (765), Lycopodiopsida (33), Equisetopsida (4), Coniferophyta (144), and Psilopsida (1). Our dataset represents 165 families (Fig. 3), of which 16.8% and 11.4% of the specimens belong to the monocot family (Poaceae and Cyperaceae) and the dicot family (Rosaceae and Asteraceae), respectively, followed by Fabaceae (3.9%), Ranunculaceae (3.1%), Apiaceae (2.5%), Dryopteridaceae (2.5%), Polygonaceae (2.3%), Lamiaceae (2.2%), Liliaceae (2.2%), Caprifoliaceae (2.1%), and Fagaceae (1.9%). It further includes 755 genera, with the significant ones being Carex (543), Quercus (151), Persicaria (147), Dryopteris (133), Rubus (116), Prunus (107), Euonymus (100), Salix (91), Acer (91), Viola (86), Thelypteris (80), Vicia (79), Clematis (78), Aster (77), Viburnum (77), Lonicera (77), Ranunculus (73), Lespedeza (70), Fimbristylis (66), Cyperus (63), Elaeagnus (59), Athyrium (56), Adenophora (55), and Setaria (54).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>1 Gwanak-ro</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>08826</postalCode><country>KOREA_SOUTH</country>    </address>
+<electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>We generated the Darwin Core Archive to incorporate the metadata in this file and published the data on the GBIF using the Integrated Publishing Toolkit.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Since 1945, the Korean Peninsula has been divided into what are now two countries: North Korea (Democratic People’s Republic of Korea) and South Korea (Republic of Korea). In terms of botanical importance, its notable islands include Jeju Island (Jejudo) and Ulleung Island (Ulleungdo). Korea’s vascular flora includes 4,831 taxa (Chang et al. 2014) constituting a relevant portion of Eastern Asian flora. There are also plants from three principal biogeographic regions (Chang et al. 2017): (a) the Amur flora, characterized by cold temperate forests and shrubs; (b) the Northern China flora, characterized by deciduous temperate forests; and (c) the China–Japan–Korea (CJK) flora, characterized by warm temperate forests with evergreen forest taxa.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>E. H. Wilson collected 1,200 plant records representing 51 families that he identified with Alfred Rehder (Briggs 1993). These data describe a specimen dataset of Korean Peninsula woody plants preserved at the Harvard University Herbaria (A). E. H. Wilson visited Korea twice: first in 1917 to Oo-rong-do Island (Ulleung or Degelet Island), Quelpaert Island, Mt. Chiri-san, Pingyang, Keijyo (Seoul), Koryo, Northeastern Korea, and Mt. Konggo-san and second in 1918, which many books and articles on the collector have not well documented (Kim et al. 2010). Meanwhile, Fr. U. J. Faurie made three extended collecting trips to Korea: the central region in 1901, the central and southern regions in 1906, and Quelpaert Island in 1907 (Hayata 1916, Kakuta 1992, Chang et al. 2004). Fr. E. Taquet, who stayed on Quelpaert Island as a Catholic missionary from 1902 to 1915 (Chang et al. 2015), made extensive collections of vascular plants from the island (Jeju) from 1907 to 1914.  This project includes specimens conserved in European, American, and Japanese herbaria, which this paper identified via the following abbreviations proposed by Index Herbariorum (Thiers 2019): (1) E for the Edinburgh Botanical Garden, (2) P for the Paris Museum Herbarium, (3) LE for the Komarov Botanic Garden, (4) A for the Harvard University Herbaria, (5) KYO for the Kyoto University Herbarium, (6) TI for the University of Tokyo Herbarium, and (7) SNUA for the T.B. Lee Herbarium at Seoul National University, and (8) B for Botanischer Garten und Botanisches Museum Berlin, and (9) BM for the Natural History Museum, and (10) G for Conservatoire et Jardin botaniques de la Ville de Genève, (11) GH for Harvard University Gray Herbarium, and (12) K for the Royal Botanic Gardens Kew, and (13) MAK for the Makino herbarium atTokyo Metropolitan University, and (14) PCU for Muséum National d&apos;Histoire Naturelle at Paris, and (15) TNS for National Museum of Nature and Science at Tsukuba, and (16) US for Smithsonian Institution.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Both Faurie and Taquet did not number their collections chronologically based on their collections. They seem to have sorted the collections by genera, and they assigned numbers to the taxonomic bundles of dried plants. Some of the collection data, such as locality, date, or collection number, were missing. The first set of specimens was at E or P except for some families. Duplicate specimens were widely distributed and could be found at BM, TI, KYO, A, LE, and B. Faurie’s collection of several thousand herbarium specimens were deposited in Paris, with duplicates at the University of Kyoto, the British Museum, Kew, and elsewhere (Kitagawa 1979, Koidzumi 1936).
+
+Georeferencing: A wide range of historically used toponyms in Korea have Chinese-character origins and can therefore be written the same way (Choo 2016, Tanabe and Watanabe 2014). As a result of 36 years of Japanese colonial occupation, Korean place names used for plant collections have become a toponymic enigma. In many Asian countries, Japanese exonyms are names of places in the Japanese language that differ from those given in their dominant language. Japanese botanists or field guides often transliterated these toponyms into the Japanese pronunciation. This has produced many unresolved botanical exonyms, which have been only found in herbarium labels. These Japanese terms for some place names are now a mystery either because they are quite different from endonyms or because of some other obscure etymology. We have prepared a multilingual gazetteer to resolve the inconsistencies, uncertainties, and confusion surrounding botanical exonyms in the Korean Peninsula that foreign explorers and botanical collectors in Korea have used over the past 120 years (Table 1, Chang et al. 2015).After the identification of place names, the next step is providing a precise coordination to a biological collection. We always aimed for accurate georeferencing for location coordinates, but sometimes this was not possible because of insufficient information in the place names. Thus, in these situations, we used higher geographic area coordinates, such as counties or cities. To minimize errors, enhance data consistency, and maintain integrity throughout the georeferencing process, we modified a procedure adopted by the Chinese type collection project (Fig. 1, Lohonya et al. 2020).Using the BRAHMS system, we set up a database of herbarium records. We compared the geographic queries with the label information for each specimen to resolve geographic information. We detected and corrected two types of errors: typographical errors and erroneously identified records. After updating the database with recent publications and cleaning the data, we obtained the collection that corresponds to this dataset by consulting the database again.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BIFA3_14">
+          <title>Data mining of historical herbarium specimens of Vascular plants from the Korean peninsula</title>
+          <personnel>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Institutions outside of the Korean peninsula hold much of the historical, legacy biodiversity information on the region. With nearly 140,000 specimens including the data on specimens stored at foreign herbaria, there is a comprehensive chronological, historical, taxonomic, and geographic coverage of Korean plants including those from inaccessible areas, such as North Korea. Despite an abundance of biodiversity information in collections, there is a pressing need to make this data accessible and integrated sufficiently to foster query-based inquiries to assist with regional conservation priorities.
+
+This project will thus mobilize existing biodiversity information and knowledge within the Korean Peninsula using the BRAHMS database. Using the advantages of BRAHMS, the project will be able to query foreign herbaria historical records, generate specimen georeferenced data, and produce photo images about the North and South Korean vascular plants which will published through GBIF.org.
+
+Through these goals the project will address the biodiversity information imbalance between South and North Korea and reduce the knowledge gap surrounding the diversity and distribution of vascular plants.</para>
+          </abstract>
+          <funding>
+              <para>Funded by Ministry of the Environment, Government of Japan</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>As part of the first phase of the project, a dataset of 15,000 SNUA specimens has been compiled. To enable usability, this dataset set will go through the process of validation and data cleaning, including a retrospective georeferencing, until March 2019. Other datasets are under preparation and a selection of photographs are currently presented on the institute´s website.
+
+The project has also participated in the collective work about historical collections by undertaking visits and obtaining additional photographs about Faurie/Taquet collections. Labelling species names and collection numbers for each photograph taken has been completed.
+
+To promote the project, the project team presented in September 2018, during the International Symposium of Mapping Asia Plants, Institute of Botany, Chinese Academy of Sciences, on the subject “Data cleaning process in historical collections -Old labels give clue for new science. Case of the Korean peninsula and Northeastern China”.
+
+The project also aims to produce three data papers for submission into journals in early 2019.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:40Z</dateStamp>
+      <citation>Chang C S, Kim H (2021). Flora of the Korean Peninsula. Version 1.24. TB Lee Herbarium. Occurrence dataset https://doi.org/10.15468/fyxnsd accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Briggs RW (1993) The Great Plant Collectors ‘Chinese’ Wilson : A life of Ernest H. Wilson, 1876-1930. The Royal Botanic Gardens, Kew and Edinburgh, London.</citation>
+      <citation identifier="https://doi.org/10.15468/nc6rxy accessed via GBIF.org on 2020-12-29.">Chagnoux S (2020) The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris). Version 69.192. MNHN - Museum national d&apos;Histoire naturelle. Occurrence dataset</citation>
+      <citation>Chang CS, Choi BH, Kim H, Lee JY (2004) Reexamination on foreign collectors` sites and exploration routes in Korea -with respect to U. Faurie-. Korean Journal of Plant Taxonomy
+34(2): 87-96 (in Korean).</citation>
+      <citation>Chang CS, Kim H, Chang KS (2014) Provisional checklist of vascular plants for the Korea Peninsula Flora (KPF). Design Post, Paju.</citation>
+      <citation>Chang CS, Kim H, Chang KS (2015) Botanical gazetteer for Korean Peninsula Flora (KPF). Design Post, Paju.</citation>
+      <citation>Chang CS, Kim H, Son SW, Kim YS (2017) The Red List of vascular plants in Korea updated 2018. Korea National Arboretum of Korea Forest Service and Korean Plant Specialist group, Pocheon.</citation>
+      <citation identifier="https://doi.org/10.34158/ONOMA.51/2016/2">Choo S (2016) The use of Hanja (Chinese characters) in Korean toponyms: Practices and issues. Onoma. Journal of the International Council of Onomastic Sciences 51: 13-24.</citation>
+      <citation identifier="https://doi.org/10.1002/fedr.19080051516">Christ H (1908) Filices coreanae novae. Feddes repertorium 5: 284-285.</citation>
+      <citation identifier="https://doi.org/10.12651/JSR.2018.7.1.073">Grabovskaya-Borodina, AE, Illarionova ID, Jang HD, Lee BY, Suh MH, Park JM (2018) A considerable review on type specimens of Korean vascular plants in the Herbarium of the Komarov Botanical Institute (LE) Addition. Journal of Species Research 7(1): 73-79.</citation>
+      <citation identifier="https://doi.org/10.15281/jplantres1887.30.267">Hayata B (1916) Père Urbain Faurie. The botanical magazine, Tokyo 30(356): 267-273.</citation>
+      <citation identifier="https://doi.org/10.18942/bunruichiri.KJ00001078965">Kakuta M (1992) Abbé Urbain Faurie and an itinerary calendar of his plant hunting. Acta Phytotaxonomica et Geobotanica 43(1): 59-74 (in Japanese).</citation>
+      <citation>Kim H, Chang KS, Chang CS (2010) E. H. Wilson’s Expedition to Korea from 1917 to 1919: Resolving Place Names of His Collections. Journal of Japanese Botany 85(2): 99–117.</citation>
+      <citation identifier="https://doi.org/10.18942/bunruichiri.KJ00001078315">Kitagawa N (1979) Literature on Urbain Faurie. Acta Phytotaxonomica et Geobotanica 30(1-3): 93-98 (in Japanese).</citation>
+      <citation identifier="https://doi.org/10.18942/bunruichiri.KJ00002992862">Koidzumi G (1936) A historical sketch of herbal and botanical investigations on the flora of Nippon. Acta Phytotaxonomica et Geobotanica 5(1): 1-26 (in Japanese).</citation>
+      <citation identifier="https://doi.org/10.18942/bunruichiri.KJ00002992581">Koidzumi G (1943) A brief history of the laboratory of systematic botany (Prof. G. Koidzumi), the botanical Institute of, Faculty of Science, Kyoto Imperial University. Acta Phytotaxonomica et Geobotanica 13: 309-313 (in Japanese).</citation>
+      <citation>Lèveillè H (1907) Decades plantarum novarum I. Repertorium Specierum Novarum Regni Vegetabilis 4:225-334.</citation>
+      <citation>Lèveillè H (1908a) Carices novae coreanae. Repertorium Specierum Novarum Regni Vegetabilis 5: 239-241.</citation>
+      <citation>Lèveillè H (1908b) Decades plantarum novarum IV/V. Repertorium Specierum Novarum Regni Vegetabilis 5:8-12.</citation>
+      <citation>Lèveillè H (1908c) Decades plantarum novarum VII. Repertorium Specierum Novarum Regni Vegetabilis 5:194-195</citation>
+      <citation>Lèveillè H (1908d) Decades plantarum novarum VIII-X. Repertorium Specierum Novarum Regni Vegetabilis 5:279-284.</citation>
+      <citation>Lèveillè H (1909) Decades plantarum novarum XX, XXI. Repertorium Specierum Novarum Regni Vegetabilis 7:197-200.</citation>
+      <citation>Lèveillè H (1910a) Decades plantarum novarum XXXIII. Repertorium Specierum Novarum Regni Vegetabilis 8:258-259.</citation>
+      <citation>Lèveillè H (1910b) Decades plantarum novarum XXXIV-XXXVII. Repertorium Specierum Novarum Regni Vegetabilis 8:280-286.</citation>
+      <citation>Lèveillè H (1910c) Decades plantarum novarum XXXIX. Repertorium Specierum Novarum Regni Vegetabilis 8:401-402.</citation>
+      <citation identifier="https://doi.org/10.3897/BDJ.8.e50503">Lohonya K, Livermore L, Penn MG (2020). Georeferencing the Natural History Museum&apos;s Chinese type collection: of plateaus, pagodas and plants. Biodiversity Data Journal, 8 : e50503.</citation>
+      <citation>Nakai T (1909) Flora Koreana I. The journal of the College of Science, Imperial University of Tokyo, Japan 26: 1-304.</citation>
+      <citation>Nakai T (1911) Flora Koreana II. The journal of the College of Science, Imperial University of Tokyo, Japan 31: 1-573.</citation>
+      <citation identifier="https://doi.org/10.15468/ly60bx accessed via GBIF.org on 2020-12-29.">Royal Botanic Gardens, Kew (2020) Royal Botanic Gardens, Kew - Herbarium Specimens. Occurrence dataset</citation>
+      <citation identifier="https://doi.org/10.13133/1125-5218.15163">Tanabe H, Watanabe K (2013) Standardisation of Place Names in Countries Influenced by the Chinese Writing System. Semestrale di studi e ricerche di geografia 25(2): 115-122.</citation>
+      <citation identifier="https://CRAN.R-project.org/package=treemap. Accessed on: 2020-12-29.">Tennekes M (2017) treemap: Treemap Visualization. R package version 2.4-2.</citation>
+      <citation identifier="http://sweetgum.nybg.org/ih.  Accessed on: 2020-12-29.">Thiers B (2019). Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden’s Virtual Herbarium.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://www.kbif.go.kr/ipt/logo.do?r=flora_korean_peninsula</resourceLogoUrl>
+              <livingTimePeriod>1901 through 1919</livingTimePeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

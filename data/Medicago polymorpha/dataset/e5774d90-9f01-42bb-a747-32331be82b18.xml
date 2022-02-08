@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e5774d90-9f01-42bb-a747-32331be82b18"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/r9azth</alternateIdentifier>
+    <title>African Plants - a photo guide</title>
+    <associatedParty>
+    <individualName>
+          <surName>SGN Data Center</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Senckenberg, Senckenberganlage 25, D-60325 Frankfurt am Main, Germany</deliveryPoint>    </address>
+<electronicMailAddress>sgn-datacenter@senckenberg.de</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>Photographic records of African plants</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Marco Schmidt, Stefan Dressler</surName>
+    </individualName>
+<electronicMailAddress>westafricanplants@senckenberg.de</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:33Z</dateStamp>
+      <citation>Senckenberg (2020). African Plants - a photo guide. Occurrence dataset https://doi.org/10.15468/r9azth accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://www.westafricanplants.senckenberg.de/images/chrome/APmap.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="83d36270-e4ac-11de-ad5c-e0ddf866799d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/krxi00</alternateIdentifier>
+        <alternateIdentifier>2406</alternateIdentifier>
+    <title>Botanic Garden of the Finnish Museum of Natural History</title>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Botanic Garden is part of the Finnish Museum of Natural History, which is a national natural-history collection. The Botanic Garden&amp;#39;s work is based on its scientific plant collection in which the plant accessions are of known origin and thoroughly documented to serve research, teaching and education.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>Leif Schulman</surName>
+    </individualName>
+<electronicMailAddress>leif.schulman@helsinki.fi</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:21Z</dateStamp>
+      <citation>Finnish Museum of Natural History. Botanic Garden of the Finnish Museum of Natural History. Occurrence dataset https://doi.org/10.15468/krxi00 accessed via GBIF.org on 2022-02-08.</citation>
+              <physical>
+                  <objectName>GBIF Occurrence Download</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0012257-180131172636756.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

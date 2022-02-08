@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="78d38015-7cb8-425a-a328-cac5634f480e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/35rwhv</alternateIdentifier>
+        <alternateIdentifier>78d38015-7cb8-425a-a328-cac5634f480e</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=12-floras</alternateIdentifier>
+    <title>Twelve local floras of European Russia</title>
+    <creator>
+    <individualName>
+<givenName>Alexey</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Dr. Sci.</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+7 (926) 369-9935</phone><electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress><onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alexey</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Dr. Sci.</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+7 (926) 369-9935</phone><electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress><onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Dr. Sci.</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+7 (926) 369-9935</phone><electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress><onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-08-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Twelve local floras of European Russia studied and documented in 2001-2019 by Alexey P. Seregin: Ustya (Arkhangelsk Oblast), Zaseki (Tula Oblast), Polibino (Lipetsk Oblast), Khrenovoye (Voronezh Oblast), Troyeruchitsa (Tver Oblast), Man-Pupu-Ner (Komi Republic), Middle Lyaga (Komi Republic), Utrish (Krasnodar Krai), Yasnaya Polyana (Tula Oblast), Bogolyubovsky Lug (Vladimir Oblast), Tsaritsyno (City of Moscow), Patakino (Vladimir Oblast).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>European Russia: Arkhangelsk Oblast, Tula Oblast, Lipetsk Oblast, Voronezh Oblast, Tver Oblast, Komi Republic, Krasnodar Krai, Vladimir Oblast, City of Moscow.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>37</westBoundingCoordinate>
+                      <eastBoundingCoordinate>60</eastBoundingCoordinate>
+                      <northBoundingCoordinate>64</northBoundingCoordinate>
+                      <southBoundingCoordinate>44</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1960-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021-08-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>This is a GBIF version of twelve checklists either published as papers in local periodicals in Russian or never published. Published within &quot;Biota of Russia&quot; collection.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alexey</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Dr. Sci.</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+7 (926) 369-9935</phone><electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress><onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:36Z</dateStamp>
+      <citation>Seregin A (2021). Twelve local floras of European Russia. Version 1.4. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/35rwhv accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Seregin, A.P. and Goryainova, I.N. (2003): Flora sosudistykh rasteniy [Vascular flora]. In: Flora i fauna sredney taygi Arkhangel’skoy oblasti (mezhdurech’e Ust’i i Kokshen’gi) [Flora and fauna of middle taiga of Arkhangelsk Province (watershed surface of the Ust’ya and the Kokshen’ga Rivers)] (Moscow: Geograficheskiy fakul’tet MGU), 11–41 (in Russian).</citation>
+      <citation>Seregin, A.P. (2011): Local floras of the Moscow State University zonal practice: 1. Zaseki (Tula Oblast); 2. Polibino (Lipetsk Oblast). Fitoraznoobrazie Vostochnoy Evropy 9, 149–177 (in Russian, with English abstract).</citation>
+      <citation>Seregin, A.P. (2015): Local floras of the Moscow State University zonal practice: 3. Khrenovskoy Bor (Voronezh Region); 4 &amp; 5. Additions to the floras of Zaseki (Tula Region) and Polibino (Lipetsk Region). Fitoraznoobrazie Vostochnoy Evropy 9 (2), 42–73 (in Russian, with English abstract).</citation>
+      <citation identifier="doi: 10.24411/2072-8816-2020-10061">Seregin, A.P. (2020): Flora of the Troyeruchitsa State Reserve (Tver Oblast, Russia). Fitoraznoobrazie Vostochnoy Evropy 14 (1), 4–31 (in Russian, with English abstract).</citation>
+      <citation>Seregin, A.P. (2014): Floristic records from Man-Pupu-Nyor Range and adjacent paths (Pechora-Ilych Reserve, Republic of Komi, Russia). Fitoraznoobrazie Vostochnoy Evropy 8 (2), 97–105 (in Russian, with English abstract).</citation>
+      <citation>Suslova, E.G., Kozhin, M.N. and Seregin, A.P. (2015): Spisok sosudistykh rasteniy poluostrova Abrau (ot pos. Sukko do Yuzhnoy Ozereyevki) [A list of vascular plants of Abrau Peninsula (from Sukko to Yuzhnaya Ozereyevka)]. In: Leontyena, O.A. et al. Letnyaya praktika po biogeografii na Zapadnom Kavkaze [Summer field practice on biogeography in Western Caucasus] (Moscow: Geograficheskiy fakul’tet MGU), 112–209 (in Russian).</citation>
+      <citation identifier="doi: 10.13140/RG.2.1.2271.4326">Seregin, A.P. (2010). A report on geobotanical survey of the historical landscape complex Bogolyubobvsky Meadow - Church of the Intercession on the Nerl (July-August 2010).</citation>
+      <citation identifier="doi: 10.13140/RG.2.1.2664.6481">Seregin, A.P. (2013). A report on botanical (floristic) survey of the Patakinskaya Grove Nature Sanctuary (Kameshkovsky District, Vladimir Oblast, Russia).</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2c5cd152-a902-415a-916f-4e65b32343c5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dvc7wm</alternateIdentifier>
+    <title>WIKTROP - Weed Identification and Knowledge in the Tropical and Mediterranean areas</title>
+    <associatedParty>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Vattakaven</surName>
+    </individualName>
+<phone>+919591757157</phone><electronicMailAddress>thomas.vee@gmail.com</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Prabhakar</givenName>          <surName>Rajagopal</surName>
+    </individualName>
+<phone>+919449825650</phone><electronicMailAddress>prabha.prabhakar@gmail.com</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>WIKTROP is a geographical extension of WIKWIO portal to tropical and mediterranean areas around the world. It aims to strengthen science and technology orientation to achieving food security by enhancing agricultural productivity in the tropical and mediterranean areas.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://portal.wiktrop.org</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Le bourgeois</surName>
+    </individualName>
+<electronicMailAddress>thomas.le_bourgeois@cirad.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:52Z</dateStamp>
+      <citation>UMR AMAP. WIKTROP - Weed Identification and Knowledge in the Tropical and Mediterranean areas. Occurrence dataset https://doi.org/10.15468/dvc7wm accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

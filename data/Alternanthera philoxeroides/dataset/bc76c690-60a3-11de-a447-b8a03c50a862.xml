@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bc76c690-60a3-11de-a447-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/zbmpzt</alternateIdentifier>
+        <alternateIdentifier>https://ipt.taibif.tw/resource?r=esri</alternateIdentifier>
+        <alternateIdentifier>http://taibif.tw/ipt/resource.do?r=esri</alternateIdentifier>
+        <alternateIdentifier>bc76c690-60a3-11de-a447-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>8416</alternateIdentifier>
+    <title>Endemic Species Research Institute–Herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Chiuan-Yu</givenName>          <surName>Li</surName>
+    </individualName>
+<organizationName>Endemic Species Research Institute</organizationName><positionName>Assistant Research Fellow</positionName>    <address>
+<deliveryPoint>No. 1, Ming-shen East Road</deliveryPoint><city>Chichi Township, Nantou County</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+<phone>049-2761331</phone><electronicMailAddress>snoopy@tesri.gov.tw</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Chiuan-Yu</givenName>          <surName>Li</surName>
+    </individualName>
+<organizationName>Endemic Species Research Institute</organizationName><positionName>Assistant Research Fellow</positionName>    <address>
+<deliveryPoint>No. 1, Ming-shen East Road</deliveryPoint><city>Chichi Township, Nantou County</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+<phone>049-2761331</phone><electronicMailAddress>snoopy@tesri.gov.tw</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Chiuan-Yu</givenName>          <surName>Li</surName>
+    </individualName>
+<organizationName>Endemic Species Research Institute</organizationName><positionName>Assistant Research Fellow</positionName>    <address>
+<deliveryPoint>No. 1, Ming-shen East Road</deliveryPoint><city>Chichi Township, Nantou County</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-07-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset has been updated to &amp;#34;Dataset from Herbarium of Endemic Species Research Institute, Taiwan (TAIE) 2021&amp;#34;(https://www.gbif.org/zh-tw/dataset/19c3400b-b7bb-425f-b8c5-f222648b86b2)</para>
+        <para>In order to conserve and research Taiwan&amp;#39;s existing endemic plant and animal species as well as to promote ecology education, Taiwan government established the Endemic Species Research Institute (ESRI) in July 1992. The ESRI herbarium so far has collected 30,592 vascular plant specimens from locations all over Taiwan. Plant specimens are important for the studies of species habitat, distribution, ecological environment and taxonomic classification. ESRI herbarium also regularly exchanges specimens with a number of domestic and foreign herbaria to broaden its collection.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keyword>Taiwan</keyword>
+              <keyword>Vascular plant</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>TELDAP</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The dataset has been updated to &quot;Dataset from Herbarium of Endemic Species Research Institute, Taiwan (TAIE) 2021&quot;(https://www.gbif.org/zh-tw/dataset/19c3400b-b7bb-425f-b8c5-f222648b86b2)</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.taibif.tw/zh/institution/TESRI1/page</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>taiwan</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>118.67</westBoundingCoordinate>
+                      <eastBoundingCoordinate>123.2</eastBoundingCoordinate>
+                      <northBoundingCoordinate>26.3</northBoundingCoordinate>
+                      <southBoundingCoordinate>20.77</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1992
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Vascular plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Polypodiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cyperales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Jungermanniales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Urticales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Chiuan-Yu</givenName>          <surName>Li</surName>
+    </individualName>
+<organizationName>Endemic Species Research Institute</organizationName><positionName>Assistant Research Fellow</positionName>    <address>
+<deliveryPoint>No. 1, Ming-shen East Road</deliveryPoint><city>Chichi Township, Nantou County</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+<phone>049-2761331</phone><electronicMailAddress>snoopy@tesri.gov.tw</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:51Z</dateStamp>
+      <citation>Li C (2021). Endemic Species Research Institute–Herbarium. TELDAP. Metadata dataset https://doi.org/10.15468/zbmpzt accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

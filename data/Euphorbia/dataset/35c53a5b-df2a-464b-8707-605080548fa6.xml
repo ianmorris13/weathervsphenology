@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="35c53a5b-df2a-464b-8707-605080548fa6"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15470/gitswi</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=maia_floraforestal</alternateIdentifier>
+        <alternateIdentifier>35c53a5b-df2a-464b-8707-605080548fa6</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=maia_floraforestal</alternateIdentifier>
+    <title>Herbario MAIA, colección Flora Forestal del INIA-CIFOR</title>
+    <creator>
+    <individualName>
+<givenName>Ana Carmen</givenName>          <surName>de la Cruz Calleja</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Conservadora</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913476740</phone><electronicMailAddress>calleja@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Juan F.</givenName>          <surName>Tazón Ponce</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Fotógrafo</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ángeles</givenName>          <surName>Tirado Torralvo</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Técnica</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913471475</phone><electronicMailAddress>torralvo@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Pardos Mínguez</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913473990</phone><electronicMailAddress>pardos@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ana Carmen</givenName>          <surName>de la Cruz Calleja</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Conservadora</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913476740</phone><electronicMailAddress>calleja@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2021-12-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Esta colección de cerca de 6000 pliegos corresponde a plantas relacionadas con el ámbito forestal. Destacan las plantas recolectadas en los pastizales de nuestros bosques, principalmente Leguminosas y Gramíneas, seguidas de Labiadas y Compuestas. Han sido recogidas mayoritariamente entre las décadas de los cuarenta y sesenta.
+En la década de los cuarenta destacan los botánicos Carlos Vicioso y Manuel Martín Bolaños, así como José Borja, Pio Font Quer y Pedro Palao Ferrer. En la década de los sesenta destacan las aportaciones realizadas por Pedro Montserrat.
+Muchas de las especies proceden de Andalucía (Huelva, Jaén, Cádiz,…), Madrid, Cuenca, Cáceres, Baleares,… pero el resto están muy distribuidas a lo largo de la geografía de España.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://wwwsp.inia.es/Investigacion/centros/CIFOR/enlint/Paginas/Herbdig.aspx</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Ibero-Macaronésico</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-18.33</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.326</eastBoundingCoordinate>
+                      <northBoundingCoordinate>43.844</northBoundingCoordinate>
+                      <southBoundingCoordinate>27.322</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1914-05-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2004-04-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue></taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue></taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ana Carmen</givenName>          <surName>de la Cruz Calleja</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Gestión y publicación de datos MAIA en GBIF</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913476740</phone><electronicMailAddress>calleja@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Pardos Mínguez</surName>
+    </individualName>
+<organizationName>INIA-CIFOR</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cª Coruña km 7.5</deliveryPoint><city>Madrid</city><administrativeArea>Madrid</administrativeArea><postalCode>28040</postalCode><country>SPAIN</country>    </address>
+<phone>+34913473990</phone><electronicMailAddress>pardos@inia.es</electronicMailAddress><onlineUrl>http://www.inia.es/IniaPortal/verPresentacion.action</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:25Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/gitswi">de la Cruz Calleja A C, Tazón Ponce J F, Tirado Torralvo Á, Pardos Mínguez M (2021). Herbario MAIA, colección Flora Forestal del INIA-CIFOR. Version 1.5. INIA-Centro de Investigación Forestal (CIFOR). Occurrence dataset https://doi.org/10.15470/gitswi accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

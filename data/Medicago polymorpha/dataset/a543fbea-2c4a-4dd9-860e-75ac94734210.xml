@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a543fbea-2c4a-4dd9-860e-75ac94734210"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/u2p2s3</alternateIdentifier>
+        <alternateIdentifier>https://ipt.isa.ulisboa.pt/ipt_isa/resource?r=floristic_study_beira</alternateIdentifier>
+        <alternateIdentifier>https://ipt.isa.ulisboa.pt/ipt_isa/manage/metadata-additional.do?r=floristic_study_beira</alternateIdentifier>
+    <title>Floristic Study in Orchards - Beira Interior, Portugal</title>
+    <creator>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+<organizationName>Instituto Superior de Agronomia</organizationName><positionName>Técnica Superior, Investigadora</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>M. Nazaré</givenName>          <surName>Filipe</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>J. Elísio</givenName>          <surName>Cardoso</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Afonso</surName>
+    </individualName>
+<organizationName>PORBIOTA</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>beatrizcardosoafonso@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-3784-8024</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-12-07
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>This dataset consists of a floristic study in apple and pear orchards, with the aim of knowing the distribution and importance of the weed flora and its correlation with the surrounding soil-climatic and phyto-technical factors, in Beira Interior, Portugal.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>samplingEvent</keyword>
+              <keyword>occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Orchards</keyword>
+              <keyword>weed vegetation</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The sample events are in mainland Portugal, in the region of Beira Interior.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.747</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-6.963</eastBoundingCoordinate>
+                      <northBoundingCoordinate>40.945</northBoundingCoordinate>
+                      <southBoundingCoordinate>39.805</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1980-04-14
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1980-10-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>This dataset includes 1321 records referring to specimens of 46 different families, 148 genera and 257 species/subspecies, in 39 event sites.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+<organizationName>Instituto Superior de Agronomia</organizationName><positionName>Técnica Superior, Investigadora</positionName>    <address>
+<deliveryPoint>Instituto Superior de Agronomia, Tapada da Ajuda</deliveryPoint><city>Lisbon</city><postalCode>1349-017</postalCode><country>PORTUGAL</country>    </address>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>M. Nazaré</givenName>          <surName>Filipe</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>J. Elísio</givenName>          <surName>Cardoso</surName>
+    </individualName>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The data was transferred to digital format.
+In the events table, the locations were georeferenced through GeoLocate (WGS84). 
+After obtaining all the coordinates, the remaining fields of the location were extracted using the Location Extractor application. The entire event table was placed in DwC format.
+In the case of the occurrences table, after digitizing the data, the csv was run through the Species Extractor application, to update the scientific names and fill in the remaining fields. 
+The matchType field was revised and the taxonRemarks column was added where typos or scientific name updates were indicated.
+All mandatory columns were added, and the respective data filled.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The geographic scope of this study focuses on the central area of mainland Portugal, in the region of Beira Interior.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Two sampling methods were used simultaneously:
+1 - The one adopted by G. Barralis, from the Laboratoire de Malherbologie in Dijon defined by its scales - coefficient of abundance and scale of phenological states.
+2 - The one defined by Braun-Blanquet (School of Zurich-Montpellier), defined by its scales - abundance/covered scale and sociability scale.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All initial data was inserted in a specific relational database built specifically for the project, which implemented several quality control methods. In the preparation of the dataset for GBIF publication, data consistency was verified using cluster algorithms using OpenRefine.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Floristic study in orchards – Beira Interior</title>
+          <personnel>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>de Carvalho e Vasconcelos</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>This dataset consists of a floristic study in apple and pear orchards, with the aim of knowing the distribution and importance of the weed flora and its correlation with the surrounding soil-climatic and phyto-technical factors, in Beira Interior.</para>
+          </abstract>
+          <funding>
+              <para>The preparation of this resource for publication through GBIF was supported by Project PORBIOTA—Portuguese E-Infrastructure for Information and Research on Biodiversity (POCI-01-0145-FEDER-022127), under the Operational Thematic Program for Competitiveness and Internationalization (POCI), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (FEDER) and FCT.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:50Z</dateStamp>
+      <citation>de Carvalho e Vasconcelos M T, Filipe M N, Cardoso J E, Afonso B (2021). Floristic Study in Orchards - Beira Interior, Portugal. Instituto Superior de Agronomia / Universidade de Lisboa. Sampling event dataset https://doi.org/10.15468/u2p2s3 accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Vasconcelos, T, Filipe, MN, Cardoso, JE. 1981. Estudo florístico em pomares de macieiras e pereiras na regiao da Beira Interior. CBAA, ISA e Dir. Reg. Agricultura do Ribatejo e Oeste, Lisboa, 39 pp.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www.isa.ulisboa.pt/files/logo_green.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

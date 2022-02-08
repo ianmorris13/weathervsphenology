@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6902be25-fe92-4519-a80b-a000b4b1348d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xyqng3</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=ranunculaceae_vor</alternateIdentifier>
+        <alternateIdentifier>6902be25-fe92-4519-a80b-a000b4b1348d</alternateIdentifier>
+    <title>The MAGNOLIOPSIDA of Herbarium named after prof. B.M. Kozo-Polyansky VSU</title>
+    <creator>
+    <individualName>
+<givenName>Anna</givenName>          <surName>Bedenko</surName>
+    </individualName>
+<organizationName>Voronezh state university</organizationName><positionName>herbarium manager</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>annabedenk@mail.ru</electronicMailAddress><onlineUrl>http://vsu.ru/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Agafonov</surName>
+    </individualName>
+<organizationName>Voronezh state university, Department of Botany and Mycology</organizationName><positionName>Director of the Chair</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>agaphonov@mail.ru</electronicMailAddress><onlineUrl>http://www.bio.vsu.ru/bim/glavnaja.html</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Tanya</givenName>          <surName>Chernyshova</surName>
+    </individualName>
+<organizationName>Voronezh state university, Department of Botany and Mycology</organizationName><positionName>Lead Biologist</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>chernyshova_tanya_88@mail.ru</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Anna</givenName>          <surName>Bedenko</surName>
+    </individualName>
+<organizationName>Voronezh state university</organizationName><positionName>herbarium manager</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>annabedenk@mail.ru</electronicMailAddress><onlineUrl>http://vsu.ru/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2022-01-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Information on plants to the Magnoliopsida stored in the Herbarium is presented Herbarium of them prof. B.M. Kozo-Polyansky Voronezh state university (VOR). These herbarium specimens have been collected over the past 100 years in the Voronezh region and adjacent regions. Data obtained from herbarium labels. Information about each sample is tied to the geographic coordinates of a nearby location. A digital image of the sample is attached to the recording.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://herbarium.bio.vsu.ru/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens of the Magnoliopsida presented in the VOR herbarium were collected in most of the Voronezh region. In addition, data collected from the European part are presented.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>29.18</westBoundingCoordinate>
+                      <eastBoundingCoordinate>48.516</eastBoundingCoordinate>
+                      <northBoundingCoordinate>62.268</northBoundingCoordinate>
+                      <southBoundingCoordinate>45.089</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1920
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Information on plants to the Magnoliopsida stored in the Herbarium is presented Herbarium of them prof. B.M. Kozo-Polyansky Voronezh state university (VOR). These herbarium specimens have been collected over the past 100 years in the Voronezh region and adjacent regions. Data obtained from herbarium labels. Information about each sample is tied to the geographic coordinates of a nearby location. A digital image of the sample is attached to the recording.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranunculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The collection is gradually growing and is opened to prospective users such as taxonomists interested in work with a Magnoliopsida in the region and other research areas. We support practices of actual visits for work with the collection and remote access to the database and photographs. You are kindly welcome to visit the herbarium herbarium VOR.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>The database of VOR Magnoliopsida is developed using Herbarium collection database v1.0 (available at http://herbarium.bio.vsu.ru/) hosted on the server of the Data Processing Center of Voronezh State University. The online database has open access for search and database management.</para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Agafonov</surName>
+    </individualName>
+<organizationName>Voronezh state university, Department of Botany and Mycology</organizationName><positionName>Director of the Chair</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>agaphonov@mail.ru</electronicMailAddress><onlineUrl>http://www.bio.vsu.ru/bim/glavnaja.html</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Anna</givenName>          <surName>Bedenko</surName>
+    </individualName>
+<organizationName>Voronezh state university</organizationName><positionName>herbarium manager</positionName>    <address>
+<deliveryPoint>1 Universitetskaya pl.</deliveryPoint><city>Voronezh</city><administrativeArea>Voronezh region</administrativeArea><postalCode>394018</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>7 (473) 2208-837</phone><electronicMailAddress>annabedenk@mail.ru</electronicMailAddress><onlineUrl>http://vsu.ru/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>collection the plant</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>identification of the plant to the species</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>drying the sample</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>mounting the specimen on the herbarium</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>digitizing a herbarium specimen using a Fujitsu ScanSnap SV600 scanner</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>entering the sample into the database http://herbarium.bio.vsu.ru/</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>decoding of the herbarium label in the database http://herbarium.bio.vsu.ru/</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The presented database contains data on 5140 collection objects of the Magnoliopsida.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The collection of samples is carried out by direct extraction from nature, followed by drying and mounting on a herbarium leaf. Samples are scanned using a Fujitsu ScanSnap scanner</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Approximately 30-40% of collection copies were cited in a number of publications: articles in journals, scientific collections, monographs, regional Red Data Books and the Cadastre of Vascular Plants of the Voronezh Region. База данных коллекции доступна по адресу http://herbarium.bio.vsu.ru/</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:50Z</dateStamp>
+      <citation>Bedenko A, Agafonov V, Chernyshova T (2022). The MAGNOLIOPSIDA of Herbarium named after prof. B.M. Kozo-Polyansky VSU. Version 1.20. Voronezh State University. Occurrence dataset https://doi.org/10.15468/xyqng3 accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier>VOR</parentCollectionIdentifier>
+                <collectionIdentifier>VOR</collectionIdentifier>
+                <collectionName>Voronezh state university Herbarium of them prof. B.M. Kozo-Polyansky (VOR)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

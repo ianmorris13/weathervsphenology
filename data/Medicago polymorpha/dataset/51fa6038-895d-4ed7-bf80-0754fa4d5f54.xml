@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="51fa6038-895d-4ed7-bf80-0754fa4d5f54"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/0vcvsq</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=flora_of_the_korean_peninsula_phase_ii</alternateIdentifier>
+        <alternateIdentifier>51fa6038-895d-4ed7-bf80-0754fa4d5f54</alternateIdentifier>
+        <alternateIdentifier>https://www.kbif.go.kr/ipt/resource?r=flora_of_the_korean_peninsula_phase_ii</alternateIdentifier>
+    <title>Flora of the Korean Peninsula Phase II</title>
+    <creator>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>SinRim9-Dong San56-1, Seoul National University</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>151-921</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-02-880-4770</phone><electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>SinRim9-Dong San56-1, Seoul National University</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>151-921</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-02-880-4770</phone><electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>SinRim9-Dong San56-1, Seoul National University</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>151-921</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-02-880-4770</phone><electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Total dataset contains about 20,000 herbarium specimens, which were collected by several different collectors (V.L. Komarov, T. Nakai, J. Ohwi, G. Koidzumi, S. Kitamura, S. Okamoto, T. Saito) from the Korean peninsula in early 1900.  We have actively databased those historical collections in 2019 with the BIFA project.  All of specimens are deposited at diverse foreign herbaria and corresponds to several independent collections.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Korea is located on the Korean Peninsula in North-East Asia. To the northwest, the Amnok River (Yalu River) separates Korea from China and to the northeast, the Duman River (Tumen River) separates Korea from China and Russia. The Yellow Sea is to the west, the East China Sea and Korea Strait is to the south, and the East Sea is to the east. Notable islands include Jeju Island (Jejudo), Ulleung Island (Ulleungdo), and Dok-do.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>124</westBoundingCoordinate>
+                      <eastBoundingCoordinate>132</eastBoundingCoordinate>
+                      <northBoundingCoordinate>43.5</northBoundingCoordinate>
+                      <southBoundingCoordinate>32</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+<organizationName>TB Lee herbarium</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>SinRim9-Dong San56-1, Seoul National University</deliveryPoint><city>Kwanak-Gu</city><administrativeArea>Seoul</administrativeArea><postalCode>151-921</postalCode><country>KOREA_SOUTH</country>    </address>
+<phone>+82-02-880-4770</phone><electronicMailAddress>quercus@snu.ac.kr</electronicMailAddress><onlineUrl>http://hosting03.snu.ac.kr/~quercus1/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id="BIFA4_015">
+          <title>Data mining of historical herbarium specimens of Vascular plants from the Korean peninsula Phase II</title>
+          <personnel>
+    <individualName>
+<givenName>Chin S.</givenName>          <surName>Chang</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Institutions outside of the Korean peninsula hold much of the historical, legacy biodiversity information on the region. With nearly 140,000 specimens including the data on specimens stored at foreign herbaria, there is a comprehensive chronological, historical, taxonomic, and geographic coverage of Korean plants including those from inaccessible areas, such as North Korea. Despite an abundance of biodiversity information in collections, there is a pressing need to make this data accessible and integrated sufficiently to foster query-based inquiries to assist with regional conservation priorities.</para>
+          </abstract>
+          <funding>
+              <para>Funded by Ministry of the Environment, Government of Japan</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>As part of the first phase of the project, a dataset of 15,000 SNUA specimens has been compiled. To enable usability, this dataset set will go through the process of validation and data cleaning, including a retrospective georeferencing, until March 2019. Other datasets are under preparation and a selection of photographs are currently presented on the institute´s website.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:50Z</dateStamp>
+      <citation>Chang C S (2021). Flora of the Korean Peninsula Phase II. Version 1.6. TB Lee Herbarium. Occurrence dataset https://doi.org/10.15468/0vcvsq accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://www.kbif.go.kr/ipt/logo.do?r=flora_korean_peninsula</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

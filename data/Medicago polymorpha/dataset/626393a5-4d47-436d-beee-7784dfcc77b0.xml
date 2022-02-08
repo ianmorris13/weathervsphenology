@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="626393a5-4d47-436d-beee-7784dfcc77b0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/fn44k6</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=pamp-tracheo-napal-ri</alternateIdentifier>
+    <title>PAMP-tracheo: Vascular plants in the research project on long-term vegetation sampling in Napal (Navarra, Spain)</title>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-01-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>This dataset provides information about 312 preserved specimens from 126 species and subspecies and 31 families of vascular plants. The specimens were collected from 2006 to 2021 in 12 permanent plots located in Napal (Navarra, northern Spain).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Napal</keyword>
+              <keyword>herbarium</keyword>
+              <keyword>vascular plants</keyword>
+              <keyword>northern Spain</keyword>
+              <keyword>flora</keyword>
+              <keyword>Navarra</keyword>
+              <keyword>permanent plots</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The origin of the PAMP Herbarium dates back to the arrival at the University of Navarra by Professor T.M. Losa España in 1964. One year later M.L. López Fernández began her doctoral thesis, maintaining her contributions to the herbarium uninterruptedly for several decades. Most of the material deposited in the herbarium comes from collections made by researchers from the Department of Environmental Biology (formerly Department of Botany) of the University of Navarra, as a result of theses and dissertations generally carried out in the territory of the Autonomous Community of Navarra (Spain). The herbarium store c. 100 000 sheets with dried specimens. The digitisation of the specimens is done through the Elysia v2.0 software (Pando et al.) and was partially supported by the Spanish Government (CGL2007-30978-E, CGL2009-08507-E and CGL2011-15056-E).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens were collected in the Nature 2000 Special Area of Conservation of Sierra de Ugarra, near the village of Napal (Navarra, northern Spain). The site studied covers an area of 5500 m2.
+Country: Spain. Province: Navarra. Municipality: Romanzado.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.234</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.221</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.734</northBoundingCoordinate>
+                      <southBoundingCoordinate>42.724</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2006-07-03
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021-07-03
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Out of a total of 312 specimens, 308 were identified to species or subspecies level. They belong to 126 species or subspecies and 31 families of vascular plants.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>vascular plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                          <commonName>monocots</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                          <commonName>dicotyledons</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Plant collection. Plant vouchers were selected and collected in the field.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identification to species or subspecies level. Identification was performed between 2006 and 2021 by R. Ibáñez according to Flora iberica (Castroviejo 1986-2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plant conservation. Specimens were dried and pressed for conservation using standard protocols. Vouchers were deposited in the herbarium of the University of Navarra (PAMP).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Numbering and digitization of vouchers. From 2006 to date, each specimen was labelled, with a unique collection number, and digitized, using Elysia software (v2.0 Pando et al.).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Species identification. Identification of herbarium specimens was done using Flora iberica (Castroviejo 1986-2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Names of municipalities, localities and place names were standardized according to Toponimia Oficial de Navarra (http://toponimianavarra.tracasa.es/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferencing. Localities were georeferenced using UTM coordinates. Datum and uncertainty were also assigned.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Internet exportation. Data were exported from the Elysia database under a Darwin Core format (Wieczorek et al. 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data checking and validation. Coordinates, characters and format of dates were checked for possible mistakes using Darwin test software (v3.4 Pando et al.). This software allowed validating data in the Darwin Core format.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Metadata were documented and the dataset was published in the GBIF data portal using the Integrated Publishing Toolkit (IPT v2.5.2) of GBIF.es (http://ipt.gbif.es/).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The specimens were collected in an experimental area of 5500 m2 located in the Nature 2000 Special Area of Conservation of Sierra de Ugarra, near the village of Napal (municipality of Romanzado). Samples were collected between the years 2006 and 2021, on a yearly basis.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All vascular plants present in each plot were identified. Plant specimens were collected for appropriate identification and voucher.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Long-term vegetation sampling in Napal (Navarra, Spain)</title>
+          <personnel>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <abstract>
+              <para>The vascular flora was surveyed in a long-term vegetation sampling protocol based on 12 permanent plots located in Napal (Navarra, northern Spain). An inventory was conducted based on fieldwork and taxa were identified. The complete dataset was contributed to the LOTVS (LOng-Term Vegetation Sampling) database (https://lotvs.csic.es/) .</para>
+          </abstract>
+          <funding>
+              <para>This research was funded by Fundación Caja Navarra (Programa “Tú Eliges, Tú Decides”, ref. 10833) and University of Navarra (projects “Biodiversity Data Analytics and Environmental Quality” and “Red de Observatorios de la Biodiversidad de Navarra (ROBIN)”).</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The area studied is located in the north of Navarra (northern Spain), 35 km east of Pamplona, in the Nature 2000 Special Area of Conservation of Sierra de Ugarra, near the village of Napal (municipality of Romanzado). Altitude is 810 m.a.s.l. Soils are developed over Eocenic marls, on 5º-15º slopes facing South. Climate is Mediterranean, characterized by dry summers and cold winters: 3ºC in the coldest month (January) to 20ºC in the warmest (August), with an annual mean of 11ºC, and mean annual precipitation is 900 mm. The site is located in the boundary between the Eurosiberian and Mediterranean biogeographic regions and vegetation is dominated by evergreen oak forest (Quercus rotundifolia). Traditional management consisted in extensive sheep grazing. Dominant species in the community are Brachypodium retusum (grass), Aphyllanthes monspeliensis (monocot) and Dorycnium pentaphyllum (dwarf small shrub). Other common species are Carex flacca (sedge), Genista scorpius and Thymus vulgaris (dwarf small shrubs).</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>In 2003, an experimental area of 5500 m2 was fenced, shrubs were removed and twelve macro-plots of 15 x 5 m were located inside the area: six macro-plots were fertilized and the other six were used as control ones. Fertilization consisted in manual application of sewage sludge to the soil surface, with 375 kg per plot. A plot of 1 x 1 m was placed and permanently marked in the center of each macro-plot to accurately assess vegetation changes over time. The 1x1 m permanent plots were divided into 100 10x10 cm subplots to measure species frequency (as a measure of species abundance) by counting the number of subplots in which the species was present (presence was recorded if shoots overlapped with the sampling subplot). From 2004 to 2021, all vascular plant species were measured annually, at the end of June (Gazol et al. 2016).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:45Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/fn44k6">Ibáñez R, Imas M (2022). PAMP-tracheo: Vascular plants in the research project on long-term vegetation sampling in Napal (Navarra, Spain). University of Navarra – Department of Environmental Biology. Occurrence dataset https://doi.org/10.15470/fn44k6 accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="URI: http://hdl.handle.net/10261/131558">Castroviejo S (coord.) (1986-2021): Flora iberica. Vols. 1-21. Real Jardín Botánico, CSIC. Madrid.</citation>
+      <citation identifier="https://doi.org/10.1111/jvs.12409">Gazol A, Uria-Diez J, Elustondo D, Garrigó J, Ibáñez R (2016): Fertilization triggers 11 yr of changes in community assembly in Mediterranean grassland. Journal of Vegetation Science, 27(4), 728–738.</citation>
+      <citation identifier="URI: https://www.gbif.es/software/darwin-test/">Pando F., Lujano M., Cezón K. Darwin Test (3.4): una aplicación para la validación y chequeo de los datos en formato Darwin Core (consulta: 17/12/2021). GBIF.ES. Real Jardín Botánico (CSIC). Ministerio de Ciencia e Innovación.</citation>
+      <citation identifier="URI: https://www.gbif.es/software/elysia/">Pando F, Lujano M, Cezón K: Elysia (2.0): una aplicación para la gestión completa de colecciones biológicas (consulta: 30/11/2021). GBIF.ES - CSIC. Ministerio de Ciencia e Innovación.</citation>
+      <citation identifier="https://doi.org/10.1371/journal.pone.0029715">Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D (2012): Darwin Core: An evolving community-developed biodiversity data standard. PLoS ONE 7(1): e29715.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://ipt.gbif.es/logo.do?r=pamp-tracheo-napal-ri</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>PAMP: TRACHEO</parentCollectionIdentifier>
+                <collectionIdentifier>PAMP: TRACHEO_NAPAL_RI</collectionIdentifier>
+                <collectionName>PAMP-tracheo: Plantas vasculares del proyecto de investigación sobre seguimiento a largo plazo de la vegetación en Napal (España)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="1">312</jgtiUnits>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

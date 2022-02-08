@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bd3933fb-607e-491b-9009-9c08d608d04b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/pxktos</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=pamp-tracheo-ddn145-rimv</alternateIdentifier>
+    <title>PAMP-tracheo: Vascular plants in the research project on dark diversity of plant communities in the centre-east of Navarra (Spain)</title>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mercedes</givenName>          <surName>Valerio</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mvalerio.1@alumni.unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-3945-5187</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>mimas@unav.es</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-01-17
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset provides information about 1517 preserved specimens from 491 species and subspecies and 72 families of vascular plants. The specimens were collected from 2019 to 2021 in 96 plots located in the centre-east of Navarra (northern Spain).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>herbarium</keyword>
+              <keyword>vascular plants</keyword>
+              <keyword>northern Spain</keyword>
+              <keyword>flora</keyword>
+              <keyword>dark diversity</keyword>
+              <keyword>Navarra</keyword>
+              <keyword>permanent plots</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The origin of the PAMP Herbarium dates back to the arrival at the University of Navarra by Professor T.M. Losa España in 1964. One year later M.L. López Fernández began her doctoral thesis, maintaining her contributions to the herbarium uninterruptedly for several decades. Most of the material deposited in the herbarium comes from collections made by researchers from the Department of Environmental Biology (formerly Department of Botany) of the University of Navarra, as a result of theses and dissertations generally carried out in the territory of the Autonomous Community of Navarra (Spain). The herbarium store c. 100 000 sheets with dried specimens. The digitisation of the specimens is done through the Elysia v2.0 software (Pando et al.) and was partially supported by the Spanish Government (CGL2007-30978-E, CGL2009-08507-E and CGL2011-15056-E).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens were collected in the centre-east of Navarra (northern Spain). The site studied covers an area of 314 km2, defined by a circle of 10 km radius.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.325</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.097</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.795</northBoundingCoordinate>
+                      <southBoundingCoordinate>42.619</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2019-05-20
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021-06-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Out of a total of 1517 specimens, all were identified to species or subspecies level. They belong to 491 species or subspecies and 72 families of vascular plants.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>vascular plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                          <commonName>horsetails</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                          <commonName>monocots</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                          <commonName>dicotyledons</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                          <commonName>conifers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                          <commonName>modern ferns</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+<organizationName>University of Navarra</organizationName><positionName>Associate Professor</positionName>    <address>
+<deliveryPoint>C/ Irunlarrea 1</deliveryPoint><city>Pamplona</city><administrativeArea>Navarra</administrativeArea><postalCode>E-31008</postalCode><country>SPAIN</country>    </address>
+<phone>+34948425600</phone><electronicMailAddress>ribanez@unav.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Plant collection. Plant vouchers were selected and collected in the field.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identification to species or subspecies level. Identification was performed between 2019 and 2021 by R. Ibáñez according to Flora iberica (Castroviejo 1986-2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plant conservation. Specimens were dried and pressed for conservation using standard protocols. Vouchers were deposited in the herbarium of the University of Navarra (PAMP).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Numbering and digitization of vouchers. From 2019 to date, each specimen was labelled, with a unique collection number, and digitized, using Elysia software (v2.0 Pando et al.).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Species identification. Identification of herbarium specimens was done using Flora iberica (Castroviejo 1986-2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Names of municipalities, localities and place names were standardized according to Toponimia Oficial de Navarra (http://toponimianavarra.tracasa.es/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferencing. Localities were georeferenced using geographic coordinates. Datum and uncertainty were also assigned.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Internet exportation. Data were exported from the Elysia database under a Darwin Core format (Wieczorek et al. 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data checking and validation. Coordinates, characters and format of dates were checked for possible mistakes using Darwin test software (v3.4  Pando et al.). This software allowed validating data in the Darwin Core format.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Metadata were documented and the dataset was published in the GBIF data portal using the Integrated Publishing Toolkit (IPT v2.5.2) of GBIF.es (http://ipt.gbif.es/).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The specimens were collected in an area of 314 km2, defined by a circle of 10 km radius, centred in the municipality of Romanzado (centre-east Navarra, Spain). Samples were collected between the years 2019 and 2021, on a yearly basis.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All vascular plants present in each plot were identified. Plant specimens were collected for appropriate identification and voucher.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="-">
+          <title>Exploring the dark diversity of plant communities in the centre-east of Navarra (Spain)</title>
+          <personnel>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ibáñez</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-1772-4473</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mercedes</givenName>          <surName>Valerio</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0003-3945-5187</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María</givenName>          <surName>Imas</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <abstract>
+              <para>The dark diversity of plant communities was explored in the centre-east of the Navarra region (northern Spain). An inventory was conducted based on fieldwork and taxa were identified. The complete dataset was contributed to the DarkDivNet research network which aims to explore the dark diversity of plant communities at a global scale (https://macroecology.ut.ee/en/darkdivnet/).</para>
+          </abstract>
+          <funding>
+              <para>This research was funded by University of Navarra (project “Red de Observatorios de la Biodiversidad de Navarra (ROBIN)”). Mercedes Valerio was supported by a predoctoral grant of Departamento de Educación, Gobierno de Navarra (“Ayudas predoctorales para la realización de programas de doctorado de interés para Navarra; Plan de Formación y de I+D 2018”).</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The area studied is located in the centre-east Navarra (northern Spain) and is centred in the municipality of Romanzado. Altitude ranges from 441 to 1228 m.a.s.l. The bedrock is mainly composed of limestones, marls, flysch, sandstones and clays (Cenozoic). Climate is Mediterranean, characterized by dry summers and cold winters. Mean annual temperature ranges from 9.4 to 19.9ºC, and mean annual precipitation ranges from 695 to 886 mm. The site is located in the boundary between the Eurosiberian and Mediterranean biogeographic regions and vegetation is dominated by evergreen oak forest (Quercus rotundifolia), downy oak forest (Q. pubescens) and European beech forest (Fagus sylvatica). Traditional management consisted in extensive sheep and cattle grazing although grazing cessation is general throughout the region.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>In 2019 and 2020, 90 co-occurrence plots of 10 x 10 m were studied, as well as 6 permanent plots of the same size. Co-occurrence plots were randomly selected from an area of 10 km radius around the centre of the study area (defined as the midpoint of the permanent sites), including relatively undisturbed natural or semi-natural vegetation of any kind, with plots located in different habitats. Permanent plots were selected in three habitat types relatively frequent in the study area. Each of these three typical target habitats were sampled by pairs of permanent sites (localities) each one under different anthropogenic disturbance conditions (relatively natural vs. disturbed). Species cover was estimated in each plot for all vascular plants present. Plots were studied in spring season.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:46Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/pxktos">Ibáñez R, Valerio M, Imas M (2022). PAMP-tracheo: Vascular plants in the research project on dark diversity of plant communities in the centre-east of Navarra (Spain). University of Navarra – Department of Environmental Biology. Occurrence dataset https://doi.org/10.15470/pxktos accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="URI: http://hdl.handle.net/10261/131558">Castroviejo S (coord.) (1986-2021): Flora iberica. Vols. 1-21. Real Jardín Botánico, CSIC. Madrid.</citation>
+      <citation identifier="URI: https://www.gbif.es/software/darwin-test/">Pando F., Lujano M., Cezón K. Darwin Test (3.4): una aplicación para la validación y chequeo de los datos en formato Darwin Core (consulta: 17/12/2021). GBIF.ES. Real Jardín Botánico (CSIC). Ministerio de Ciencia e Innovación.</citation>
+      <citation identifier="URI: https://www.gbif.es/software/elysia/">Pando F, Lujano M, Cezón K: Elysia (2.0): una aplicación para la gestión completa de colecciones biológicas (consulta: 30/11/2021). GBIF.ES - CSIC. Ministerio de Ciencia e Innovación.</citation>
+      <citation identifier="https://doi.org/10.1371/journal.pone.0029715">Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D (2012): Darwin Core: An evolving community-developed biodiversity data standard. PLoS ONE 7(1): e29715.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://ipt.gbif.es/logo.do?r=pamp-tracheo-ddn145-rimv</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>PAMP: TRACHEO</parentCollectionIdentifier>
+                <collectionIdentifier>PAMP: TRACHEO_DarkDivNet_D145_RIMV</collectionIdentifier>
+                <collectionName>PAMP-tracheo: Plantas vasculares del proyecto de investigación sobre diversidad oculta de comunidades vegetales en el centro-este de Navarra (España)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="1">1,517</jgtiUnits>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

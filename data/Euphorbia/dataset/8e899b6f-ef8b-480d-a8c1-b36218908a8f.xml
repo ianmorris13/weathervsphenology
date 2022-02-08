@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8e899b6f-ef8b-480d-a8c1-b36218908a8f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7hrsvh</alternateIdentifier>
+        <alternateIdentifier>https://kbif.naris.go.kr/ipt/resource?r=2019_biodiversity_cooperation_investigation</alternateIdentifier>
+        <alternateIdentifier>8e899b6f-ef8b-480d-a8c1-b36218908a8f</alternateIdentifier>
+        <alternateIdentifier>https://www.kbif.go.kr/ipt/resource?r=2019_biodiversity_cooperation_investigation</alternateIdentifier>
+    <title>2019_biodiversity_cooperation_investigation</title>
+    <creator>
+    <individualName>
+<givenName>JunHee</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>NSMK</organizationName><positionName>Researcher</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>JunHee</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>NSMK</organizationName><positionName>Researcher</positionName><electronicMailAddress>kjh891209@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>JunHee</givenName>          <surName>Kim</surName>
+    </individualName>
+<electronicMailAddress>kjh891209@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>2019_biodiversity_cooperation_investigation</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>JunHee</givenName>          <surName>Kim</surName>
+    </individualName>
+<organizationName>NSMK</organizationName><positionName>Researcher</positionName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:21Z</dateStamp>
+      <citation>Kim J (2021). 2019_biodiversity_cooperation_investigation. Version 1.2. National Science Museum of Korea. Occurrence dataset https://doi.org/10.15468/7hrsvh accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

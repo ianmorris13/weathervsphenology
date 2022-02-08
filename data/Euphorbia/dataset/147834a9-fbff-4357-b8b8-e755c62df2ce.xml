@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="147834a9-fbff-4357-b8b8-e755c62df2ce"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/eogcjy</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-4A9DDA1F-B98A-3E13-E053-2614A8C02B7C</alternateIdentifier>
+        <alternateIdentifier>147834a9-fbff-4357-b8b8-e755c62df2ce</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=4A9DDA1F-B98A-3E13-E053-2614A8C02B7C</alternateIdentifier>
+    <title>Données faune, flore et fonge du Conservatoire des espaces naturels de Picardie</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>MEUNIER Francis</surName>
+    </individualName>
+<organizationName>CONSERVATOIRE D ESPACES NATURELS DE PICARDIE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>f.meunier@conservatoirepicardie.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>TESTUD Gratien</surName>
+    </individualName>
+<organizationName>CONSERVATOIRE D ESPACES NATURELS DE PICARDIE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>g.testud@conservatoirepicardie.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>TESTUD Gratien</surName>
+    </individualName>
+<organizationName>CONSERVATOIRE D ESPACES NATURELS DE PICARDIE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>g.testud@conservatoirepicardie.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>MEUNIER Francis</surName>
+    </individualName>
+<organizationName>CONSERVATOIRE D ESPACES NATURELS DE PICARDIE</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>f.meunier@conservatoirepicardie.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-12
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Jeu de données naturalistes (faune flore fonge) concernant des observations couvrant la période 1980-2016. Les protocoles de collecte de ces données sont variés (opportunistes ou standardisés) et ne sont pas actuellement associés aux données.
+La majeure partie de ces données a été collectée sur les sites d&amp;#39;intervention du Conservatoire des espaces naturels de Picardie, dans le cadre des activités courantes du Conservatoire (réalisation de plans de gestion, suivis d’espèces indicatrices, etc.).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.331</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.386</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.363</northBoundingCoordinate>
+                      <southBoundingCoordinate>48.837</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>ROBERT Solène</surName>
+    </individualName>
+<organizationName>UNITE MIXTE DE SERVICE 2006 PATRIMOINE NATUREL</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>sinp-data@mnhn.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:40Z</dateStamp>
+      <citation>MEUNIER Francis N, TESTUD Gratien N, Inventaire National du Patrimoine Naturel (2019). Données faune, flore et fonge du Conservatoire des espaces naturels de Picardie. Version 1.1. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/eogcjy accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

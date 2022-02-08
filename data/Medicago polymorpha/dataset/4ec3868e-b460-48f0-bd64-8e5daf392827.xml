@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4ec3868e-b460-48f0-bd64-8e5daf392827"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ntvxgr</alternateIdentifier>
+        <alternateIdentifier>4ec3868e-b460-48f0-bd64-8e5daf392827</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1150</alternateIdentifier>
+        <alternateIdentifier>4a41f320-9527-30e0-8274-c5e87b58af92</alternateIdentifier>
+        <alternateIdentifier>11892</alternateIdentifier>
+    <title>Hertfordshire Flora Survey Records 1987-2005</title>
+    <creator>
+<organizationName>Hertfordshire Natural History Society Flora Group</organizationName><onlineUrl>http://www.hnhs.org/herts-flora-group/home</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Hertfordshire Natural History Society Flora Group</organizationName><onlineUrl>http://www.hnhs.org/herts-flora-group/home</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset was compiled under the aegis of the Hertfordshire Flora Survey between 1987 and 2005, forming the basis for the Flora of Hertfordshire by Trevor J. James, published by the Hertfordshire Natural History Society in December 2009.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1150</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The bulk of the records of common species were collected at the tetrad level, with uncommon species etc. recorded to usually a 4- or 6-figure Ordnance Survey grid reference. The data were collected from 491 of the 508 complete or part tetrads that fall within Vice-county 20 Hertfordshire and parts of neighbouring vice-counties that are, or have been since 1900, parts of the administrative County.   The only tetrads that have not supplied at least some records are small areas on the fringes of the survey area.  Coverage of the County is considered to be fairly even, except for a few tetrads (less than 2% of the total) in the south-west and centre, which were slightly under-recorded.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-0.768</westBoundingCoordinate>
+                      <eastBoundingCoordinate>0.252</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.089</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.638</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1980-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2007-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The data were compiled to enable the production of a new assessment of the vascular plant flora of Hertfordshire, including assessing changes since a similar survey was carried out in the 1960s (J.G.Dony, Flora of Hertfordshire (1967)).  The data were used to produce a new Flora of Hertfordshire (2009), as well as to form the basis for a Hertfordshire Vascular Plant Red Data List.  Summary (10km) data from the Survey were also supplied to the New atlas of the British &amp; Irish flora, published by the BSBI in 2002.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Trevor</givenName>          <surName>James</surName>
+    </individualName>
+<electronicMailAddress>trevorjjames@btinternet.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records collated in this dataset comprise a) unlocalised tetrad occurrence records made largely between 1987-1999, with some further tetrad survey data to 2005; b) high resolution site/location survey data for less common species made during the Flora Survey; c) collated records concerning less common species from the Hertfordshire Biological Records Centre/Herts &amp; Middx Wildlife Trust Habitat Survey and Wildlife Site surveys, made available to the Hertfordshire Flora Survey between 1996 and 2005; d) miscellaneous records from third party individuals and organisations compiled during the period of the survey; e) focused surveys of some critical taxonomic groups, especially of Rubus, Hieracium and Rosa. &lt;br&gt;&lt;/br&gt;
+ All data were compiled and assessed by the Botanical Society of the British Isles &amp; Herts NHS Recorder for higher plants in Hertfordshire, and entered into a Recorder database, held by the County Recorder.  Specimens of critical taxa were collected and examined where necessary by BSBI taxonomic referees.  Herbarium voucher specimens are to be deposited in the Hertfordshire County Herbarium, held by North Hertfordshire Museums Service at Hitchin, Hertfordshire, from which the Flora Survey was initially instigated.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Confidence in the data is considered to be very high.  All records have been checked by the BSBI/Herts NHS County Recorder in the process of compilation.  The computerised data were validated personally by the Recorder subsequent to computerisation, and also following subsequent transfers to updated versions of the Recorder database.  Critical taxa have been validated by national/regional experts designated by the BSBI.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:45Z</dateStamp>
+      <citation>Hertfordshire Natural History Society Flora Group (2017). Hertfordshire Flora Survey Records 1987-2005. Occurrence dataset https://doi.org/10.15468/ntvxgr accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

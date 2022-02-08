@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5c1308de-3e3b-4ce6-81fa-f45950801fd0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jh6usj</alternateIdentifier>
+        <alternateIdentifier>5c1308de-3e3b-4ce6-81fa-f45950801fd0</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/bifa/resource?r=vascular_plants_danniye_lebanon_2019</alternateIdentifier>
+    <title>Vascular plants of the Valleys of Hell, Danniye-Akkar, Lebanon, 2019</title>
+    <creator>
+    <individualName>
+<givenName>Hicham</givenName>          <surName>El Zein</surName>
+    </individualName>
+<organizationName>Wadi ez-Zouhour</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mkalles</deliveryPoint><city>Beirut</city><administrativeArea>Lebanon</administrativeArea><country>LEBANON</country>    </address>
+<electronicMailAddress>hichamelzzein@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Hicham</givenName>          <surName>El Zein</surName>
+    </individualName>
+<organizationName>Wadi ez-Zouhour</organizationName><positionName>Researcher</positionName>    <address>
+<country>LEBANON</country>    </address>
+<electronicMailAddress>hichamelzzein@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Hicham</givenName>          <surName>El Zein</surName>
+    </individualName>
+    <address>
+<country>LEBANON</country>    </address>
+<electronicMailAddress>hichamelzzein@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Mobilizing plant species occurrences and sampling-event data from Northern Lebanon
+
+The dataset was created during the project &amp;#34;Distribution and Red List Assessment of the restricted range endemic Jacobaea mouterdei&amp;#34; funded by Mohammed Bin Zayed Conservation Fund (project number 180519099:https://www.speciesconservation.org/case-studies-projects/mouterdes-ragwort/19099). The botanical data on vascular plants were collected during the years 2018 and 2019 in the regions of Akkar and Danniye in the North of Lebanon with focus on Jacobaea mouterdei, range-restricted species endemic to these regions. Most of the fieldwork was carried out in the Valleys of Hell (Wadi Jhannam).
+
+The mountain areas of Akkar and Danniye shelter among the most preserved natural habitats in the country, but also the less studied. The mobilization of data with GBIF addresses this significant gap in biological data. Moreover, recent human activities and projects have been seriously threatening natural habitats and there is an urge to act for the conservation of these areas, the first step being to know exactly what species are present there.
+
+This first dataset allowed the collection of previously unseen observations for the regions of Akkar and Danniye. The specific richness and rate of endemism were beyond expectations in the Valleys of Hell. The data collected about the occurrence of Jacobaea mouterdei were used to map the distribution of the species. However an important area remains unexplored and the exploration continues.
+
+Thanks to the financial support of GBIF, the data collected during this project were entered of spreadsheet, properly cleaned, controlled and published online to be here freely available to all on this website.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Lebanon</keyword>
+              <keyword>2019</keyword>
+              <keyword>Wadi Jahannam</keyword>
+              <keyword>vascular plants</keyword>
+              <keyword>Akkar</keyword>
+              <keyword>endemic</keyword>
+              <keyword>Danniye</keyword>
+              <keyword>Jacobaea mouterdei</keyword>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>The information related to first part of the project funded by funded by the Mohamed bin Zayed Species Conservation Fund (project number 180519099) are available on the page of this website: https://www.speciesconservation.org/case-studies-projects/mouterdes-ragwort/19099
+The report of the project and the information related to the Red List assessment of the target species, Jacobaea mouterdei, are published there.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mountainous areas in the governorates of Akkar and Danniye in the North district of Lebanon</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>36.054</westBoundingCoordinate>
+                      <eastBoundingCoordinate>36.236</eastBoundingCoordinate>
+                      <northBoundingCoordinate>34.493</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.382</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-06-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-12-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All vascular plants were identified to species level.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophytes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The dataset was created to study the vegetation of the natural habitats of the understudied regions of Danniye and Akkar. The richness of the flora and the rate of endemism in these regions are underrated whereas the state of conservation of the natural habitats, comparatively to other regions of Mount Lebanon, should classify them as areas of priority for the preservation of nature.
+
+This study constitutes the prerequisite to the implementation of conservation actions such as the creation of a protected area in the Valley of Hell.
+There has been a call from some locals to document the vegetation of their region and it richness. The dataset will be used to advocate the preservation of nature in these marginalized regions.
+
+Less than the half (29 km²) of the considered area of study (70 km²) has been explored during the project due to the underestimation of time needed to carry out the fieldwork. Further explorations are essential to provide a complete description and estimation of the biological value of the Valleys of Hell.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>As soon as a future fund gives the opportunity, the remaining unexplored part of the site of study will be visited and this dataset will be amended.</para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Hicham</givenName>          <surName>El Zein</surName>
+    </individualName>
+<organizationName>Wadi ez-Zouhour</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mkalles</deliveryPoint><city>Beirut</city><administrativeArea>Metn</administrativeArea><country>LEBANON</country>    </address>
+<phone>+96171153979</phone><electronicMailAddress>hichamelzzein@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>-Each week or two weeks between April to October, the fieldwork was planned accordingly to the maturity of the vegetation and the altitude of the sites: areas of lower altitudes were visited earlier.
+
+-Each day, a distance varying from 5 to 10 km was explored across the mountains in different types of habitat and the vegetation was sampled in different quadrats along the way.
+
+-Collected observations were entered on spreadsheet and data was cleaned from duplicates before publication.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study was carried out in the districts of Danniye and Akkar in the Valleys of Hell in which flow streams that are tributaries to the Nahr el-Bared river.
+Between June 2018 and October 2019, extensive fieldwork was carried out in the Valleys of Hell in the districts of Danniye and Akkar to survey the flora. In total, 42 days were spent in the valleys during 16 different trips. Each of the trip lasted 3 to 6 days.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Using a method of circular quadrats of 5 meters of radius, the vegetation was sampled in 198 plots carried out in different types of habitats at different altitudes. The chosen sampled habitats were considered as presenting homogenous vegetation patterns. The coverage in percentage was calculated for each species within each plot. The geographic coordinates for every plot was registered.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>-Regional floras were used as reference for species identification: flora of Lebanon and Syria (Mouterde 1984), Syria (Post 1932), Turkey (Davis et al. 1965) and Europe (Tutin et al. 1972). 
+
+-Familial classification and synonyms were updated in accordance with the information sourced from the International Plant Names Index (INPI 2020) and the World Checklist of Selected Plant Families (WCSP 2020).
+
+-Photos of each species were taken to verify and confirm the identifications.
+
+-A few specimens were collected, pressed and dried and given to the Post Herbarium in Beirut (BEI).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BIFA4_053">
+          <title>Mobilizing plant species occurrences and sampling-event data from Northern Lebanon</title>
+          <personnel>
+    <individualName>
+<givenName>Hicham</givenName>          <surName>El Zein</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>With focus on Jacobaea mouterdei, endemic to the regions of Akkar and Danniye in the North of Lebanon, this project will mobilize and publish the results of a project (funded by the Mohamed bin Zayed Species Conservation Fund (project number 180519099)), designed to survey and collect botanical data about the occurrence of this range-restricted plant and to assess its vulnerability.</para>
+          </abstract>
+          <funding>
+              <para>The project was initially funded by Mohamed bin Zayed Species Conservation Fund (project number 180519099).</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The Valleys of Hell are included within the districts of Danniye and Akkar in northern Lebanon. They represent typical preserved mosaic of natural habitats of the Levant mountains with a high rate of endemism.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The data collection will also target all other plant species occurring in the different sampled habitat types. Therefore, the study will improve the knowledge on the flora of these regions by adding qualitative and quantitative data on the occurrences and ecology of plant species. The project allows the publication of a dataset on vascular plant species of the regions of Akkar and Danniye, which will also be accompanied by the publication of a data paper.
+
+As with all data published to GBIF, the dataset will be free and open and will allow further ecological analyses including population ecology, characterization of habitat types and the understanding of species association in the different plant communities. These results will also serve as scientific arguments to urgently advocate and implement conservation actions to preserve the unique natural patrimony of these regions.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:37Z</dateStamp>
+      <citation>El Zein H (2020). Vascular plants of the Valleys of Hell, Danniye-Akkar, Lebanon, 2019. Version 1.7. Wadi ez-Zouhour. Sampling event dataset https://doi.org/10.15468/jh6usj accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>HELB</collectionIdentifier>
+                <collectionName>Vascular plants of Lebanon collected by Hicham El Zein</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

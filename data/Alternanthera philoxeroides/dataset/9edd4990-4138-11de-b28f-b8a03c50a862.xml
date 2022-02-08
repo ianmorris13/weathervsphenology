@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9edd4990-4138-11de-b28f-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pxiabm</alternateIdentifier>
+        <alternateIdentifier>http://taibif.tw/ipt/resource.do?r=nvdimp</alternateIdentifier>
+        <alternateIdentifier>9edd4990-4138-11de-b28f-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>8374</alternateIdentifier>
+    <title>National vegetation diversity inventory and mapping plan</title>
+    <creator>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>Institute of Ecology and Evolutionary Biology, NTU</organizationName><positionName>Professor (Retired)</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>Institute of Ecology and Evolutionary Biology, NTU</organizationName><positionName>Professor (Retired)</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>Institute of Ecology and Evolutionary Biology, NTU</organizationName><positionName>Professor (Retired)</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2014-03-25
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Funded by Forestry Bureau, Council of Agriculture, the database contains 1979 -2003 survey information of the vegetation in Taiwan.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.taibif.tw/en/institution/PLANTAE/page</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Taiwan</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>119.38</westBoundingCoordinate>
+                      <eastBoundingCoordinate>122.59</eastBoundingCoordinate>
+                      <northBoundingCoordinate>25.75</northBoundingCoordinate>
+                      <southBoundingCoordinate>21.42</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1979
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2003
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Chang-Fu</givenName>          <surName>Hsieh</surName>
+    </individualName>
+<organizationName>Institute of Ecology and Evolutionary Biology, NTU</organizationName><positionName>Professor (Retired)</positionName>    <address>
+<deliveryPoint>No. 1, Sec. 4, Roosevelt Road</deliveryPoint><city>Taipei</city><administrativeArea>TAIWAN</administrativeArea><country>TAIWAN</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:40Z</dateStamp>
+      <citation>Hsieh C (2014). National vegetation diversity inventory and mapping plan. Taiwan Biodiversity Information Facility (TaiBIF). Occurrence dataset https://doi.org/10.15468/pxiabm accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

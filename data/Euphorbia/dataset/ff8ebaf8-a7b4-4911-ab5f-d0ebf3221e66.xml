@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ff8ebaf8-a7b4-4911-ab5f-d0ebf3221e66"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rh8s6n</alternateIdentifier>
+        <alternateIdentifier>ff8ebaf8-a7b4-4911-ab5f-d0ebf3221e66</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=rare_vascular_plants_transbaikalia</alternateIdentifier>
+    <title>Rare vascular plant species of Transbaikalia (Republic of Buryatia and Zabaikalsky Kray), Russia</title>
+    <creator>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Junior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>79503811663</phone><electronicMailAddress>blenysik@mail.ru</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Anastasiia</givenName>          <surName>Dugarova</surName>
+    </individualName>
+<organizationName>Buryat State University</organizationName><positionName>Master Student</positionName>    <address>
+<deliveryPoint>Smolina str., 24 a</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670000</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>79833340669</phone><electronicMailAddress>anastasia.dugarova@yandex.ru</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Occurences of vascular plant species included in the Red Data Book of Republic of Buryatia (2013) and Red Data Book of Zabaikalsky Kray (2017), Russia. Dataset contains 2920 distribution records of 271 rare vascular plants and provides the latest distribution records of rare vascular plants. It is important information for Transbaikalia region and present results for previously poorly studied areas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Zabaikalsky Kray</keyword>
+              <keyword>species distribution</keyword>
+              <keyword>rare species</keyword>
+              <keyword>plant conservation</keyword>
+              <keyword>Red Data Book</keyword>
+              <keyword>Republic of Buryatia</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Transbaikalia represents a large region of the Southern Siberia consisting of numerous mountain ranges within the upper basins of the three large rivers, the Amur (Pacific Ocean basin), the Yenisei and the Lena (Arctic Ocean basin). This region belongs to Republic of Buryatia and Zabaikalsy Kray of Russia. The study area is located within 49°22’ and 58°30’ of the northern latitude and 98°60’ and 121°95’ of the eastern longitude. The major part of Transbaikalia territory is covered by forests, however, the steppe vegetation is an inherent component in its southern parts. Steppes are broadly represented within the steppe and forest-steppe mountain belts, as well as in the vast plains of the southeastern part of studied territory.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>99.141</westBoundingCoordinate>
+                      <eastBoundingCoordinate>124.453</eastBoundingCoordinate>
+                      <northBoundingCoordinate>60.283</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.382</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Junior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>79503811663</phone><electronicMailAddress>blenysik@mail.ru</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1. Compilation of rare species distribution records from sattelite navigators and field survey for Republic of Buryatia.
+2. Geo-referencing of herbaria specimens for Republic of Buryatia.
+3. Digitalization of species distribution maps of Zabaikalsky Kray was performed in QGIS from the Red data Book. 
+4. Merging all distribution records to one dataset.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>All occurences of rare vascular plant species are actual to 2013, where this information for studied Red Data Books have been prepared.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Some part of distribution records of the rare plants of Buryatia registered by satellite navigators and field surveys, other data geo-referenced from herbarium specimens. Distribution records were imported to GIS software to create species distribution maps for Red Data Book of Republic of Buryatia (2013). Preliminary analysis of distribution of rare plants of Buryatia earlier has been presented (Sandanov, 2016). 
+Digitalization of species distribution maps of Zabaikalsky region was performed in QGIS software by means of georeferencing tool. Source raster maps were georeferenced by snapping control points to destination vector shapefile, which in our case was the border of Zabaikalsky region. Control points linked raster maps to destination shapefile which resulted in transformation of the maps according to spatial projection of destination features (WGS 1984). Subsequently, species distribution locations were digitized from each map. Coordinates of each location were calculated in attribute table.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All distribution records have been manually checked during different steps of dataset processing. Some points were analyzed by means of satellite imagery.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="121030900138-8">
+          <title>Biota of terrestial ecosystems of Baikal region: composition, structure, eco-geographic patterns</title>
+          <personnel>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>The project carries out studies in different disciplines: flora and plant taxonomy, plant biology and population ecology, vegetation of Baikal region, fauna and ecology of insects, ecology and geography of vertebrates.</para>
+          </abstract>
+          <funding>
+              <para>Russian Federal Budget</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Baikal Region</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:33Z</dateStamp>
+      <citation>Sandanov D, Brianskaia E, Dugarova A (2022). Rare vascular plant species of Transbaikalia (Republic of Buryatia and Zabaikalsky Kray), Russia. Version 1.9. Institute of General and Experimental Biology of SB RAS. Occurrence dataset https://doi.org/10.15468/rh8s6n accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Red Data Book of Republic of Buryatia: Rare and endangered species of animals, plants, and fungi. Ulan-Ude: Buryat Scientific Center Publishing House, 2013. 688 p. [In Russian].</citation>
+      <citation>Red Data Book of Zabaikalsky region. Plants. Novosibirsk: OOO Dom mira, 2017. 384 p. [In Russian].</citation>
+      <citation>Sandanov D.V. 2016. GIS-analysis of rare vascular plants distribution on the territory of Buryatia. Uchenye zapiski Zabaykal&apos;skogo gosudarstvennogo universiteta 11: 38–45. [In Russian].</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

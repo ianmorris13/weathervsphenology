@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c45ad8ca-a406-4430-8c61-f5afbe29e3b4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/6zdzvc</alternateIdentifier>
+        <alternateIdentifier>https://cch2.org/portal/collections/misc/collprofiles.php?collid=40</alternateIdentifier>
+    <title>SFSU - Vascular Plants of the Harry D. Thiers Herbarium at San Francisco State University</title>
+    <creator>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Jason T. Cantley</surName>
+    </individualName>
+<electronicMailAddress>cantley@sfsu.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Harry D. Thiers Herbarium at San Francisco State University maintains over 220,000 specimens. Its primary research focus is mycological, but there are roughly 27,000 vascular plant specimens. Special vascular plant collections of SFSU include the California Floristic Province including a particularly large and taxonomically robust collection of Arctostaphylos (Ericaceae).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>SFSU - Vascular Plants of the Harry D. Thiers Herbarium at San Francisco State University</organizationName><electronicMailAddress>cantley@sfsu.edu</electronicMailAddress><onlineUrl>http://biology.sfsu.edu/people/jason-cantley</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:11:09Z</dateStamp>
+      <citation>Harry D. Thiers Herbarium (SFSU) (2022). SFSU - Vascular Plants of the Harry D. Thiers Herbarium at San Francisco State University. Occurrence dataset https://doi.org/10.15468/6zdzvc accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

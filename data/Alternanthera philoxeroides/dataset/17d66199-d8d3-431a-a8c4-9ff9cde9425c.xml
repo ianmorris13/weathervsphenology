@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="17d66199-d8d3-431a-a8c4-9ff9cde9425c"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/p5xp5g</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/lac/resource?r=plantas_patriciamai</alternateIdentifier>
+    <title>Plantas Vasculares del Uruguay (Observaciones Mai &amp; Rossado)</title>
+    <creator>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Mai</surName>
+    </individualName>
+<organizationName>Centro Universitario Regional del Este (CURE), Universidad de la República</organizationName><positionName>Asistente</positionName>    <address>
+<city>Maldonado</city><administrativeArea>Maldonado</administrativeArea><country>URUGUAY</country>    </address>
+<electronicMailAddress>patimaimo@gmail.com</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Patricia_Mai_Morente</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-0311-2131</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Andrés</givenName>          <surName>Rossado</surName>
+    </individualName>
+<organizationName>Facultad de Ciencias, Universidad de la República</organizationName><positionName>Asistente</positionName>    <address>
+<city>Montevideo</city><administrativeArea>Montevideo</administrativeArea><country>URUGUAY</country>    </address>
+<electronicMailAddress>arossado@fcien.edu.uy</electronicMailAddress>      <userId directory="https://orcid.org/">0000-0001-9325-3055</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinadora y Data Manager</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>https://flograttarola.com/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Mai</surName>
+    </individualName>
+<organizationName>Centro Universitario Regional del Este (CURE), Universidad de la República</organizationName><positionName>Asistente</positionName>    <address>
+<city>Maldonado</city><administrativeArea>Maldonado</administrativeArea><country>URUGUAY</country>    </address>
+<electronicMailAddress>patimaimo@gmail.com</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Patricia_Mai_Morente</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-0311-2131</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinadora y Data Manager</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>https://flograttarola.com/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinadora y Data Manager</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>https://flograttarola.com/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Mai</surName>
+    </individualName>
+<organizationName>Centro Universitario Regional del Este (CURE), Universidad de la República</organizationName><positionName>Profesora Agregada</positionName>    <address>
+<city>Maldonado</city><administrativeArea>Maldonado</administrativeArea><country>URUGUAY</country>    </address>
+<electronicMailAddress>patimaimo@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-0311-2131</userId>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Andrés</givenName>          <surName>Rossado</surName>
+    </individualName>
+<organizationName>Facultad de Ciencias, Universidad de la República</organizationName><positionName>Asistente</positionName>    <address>
+<city>Montevideo</city><administrativeArea>Montevideo</administrativeArea><country>URUGUAY</country>    </address>
+      <userId directory="https://orcid.org/">0000-0001-9325-3055</userId>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-13
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Este conjunto de datos contiene registros primarios de especies de plantas vasculares documentadas por Patricia Mai y Andrés Rossado en Uruguay. Incluye 524 observaciones de 125 especies, realizadas entre 2009 y 2018, en 15 departamentos de Uruguay. Estos datos forman parte de la base de datos de plantas vasculares de Biodiversidata, el Consorcio de Datos de Biodiversidad del Uruguay.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Pampean Province</keyword>
+              <keyword>Uruguay</keyword>
+              <keyword>Vascular Plants</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://biodiversidata.org/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La cobertura geográfica incluye 48 localidades en 15 departamentos del Uruguay.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-58.426</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-53.538</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-30.943</northBoundingCoordinate>
+                      <southBoundingCoordinate>-34.903</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2009-03-06
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-12-04
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registraron un total de 125 especies de plantas vasculares (122 nativas), distribuidas en 51 familias y 91 géneros.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinadora y Data Manager</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>https://flograttarola.com/</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Mai</surName>
+    </individualName>
+<organizationName>Centro Universitario Regional del Este (CURE), Universidad de la República</organizationName><positionName>Profesora Adjunta</positionName>    <address>
+<city>Maldonado</city><administrativeArea>Maldonado</administrativeArea><country>URUGUAY</country>    </address>
+<electronicMailAddress>patimaimo@gmail.com</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Patricia_Mai_Morente</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-0311-2131</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Verificación de errores ortográficos de nombres científicos usando los paquetes de R &apos;taxize&apos; (Chamberlain et al. 2020) y &apos;WorldFlora&apos; (Kindt 2020). Para verificar los nombres primero contrastamos la lista de especies con la referencia taxonómica de World Flora Online (WFO) (http://www.worldfloraonline.org/), si la especie o su sinónimo sugeridos por WFO fuera aceptado según Zuloaga et al. (2019) en Darwinion (http://www.darwin.edu.ar), conservamos el nombre y el ‘taxonID’ de WFO, de lo contrario, utilizamos el nombre de Darwinion y buscamos una ‘taxonID’ en Tropicos (https://www.tropicos.org/). El nombre original de la especie se mantuvo bajo el término ‘previousIdentifications’. La lista final de nombres científicos fue verificada por los expertos en plantas de Biodiversidata.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Determinación de rangos taxonómicos superiores (Reino, Filo, Clase, Orden, Familia y Género), inclusión del término de rango infraespecífico y la autoridad taxonómica para los nombres científicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Incorporación del término ‘establishmentMeans’ categorizando a las especies en nativas o introducidas según Andrade et al. (2018).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Verificación de valores atípicos o inexactos en la localización geográfica. Incorporación de los campos de incertidumbre y precisión para los valores de latitud y longitud proporcionados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Estandarización del estado/provincia geográfica a través de la base de datos del GeoNames Gazetteer utilizando el paquete R &apos;geonames&apos; (Rowlingson 2019). Inclusión de términos estándares para los rangos geográficos más altos que el nivel de localidad (continente y país).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El conjunto de datos reúne observaciones hechas en 48 localidades distribuidos en los departamentos de Río Negro, Montevideo, Rocha, Rivera, Tacuarembó, Cerro Largo, Treinta y Tres, Lavalleja, Maldonado, Soriano, Salto, Flores, Colonia y San José, en el período entre marzo de 2009 y diciembre de 2018.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El conjunto de datos reúne observaciones hechas en diversos muestreos por Patricia Mai y Andrés Rossado.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se chequearon errores en los nombres científicos, localización geográfica y fechas de muestreo. Se agregaron datos sobre la autoría de los nombres científicos y se completaron los rangos taxonómicos desde Reino hasta el rango infraespecífico, se incluyó el término ‘taxonRank’ con información sobre el nivel de detalle de cada taxón. Se asignó a cada registro el nivel administrativo de Departamento y se incorporaron datos sobre la incertidumbre y precisión de la localización geográfica. El código de R utilizado para la limpieza de datos está disponible en nuestro repositorio de GitHub (https://github.com/bienflorencia/rBiodiversidata).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="Biodiversidata_Plants">
+          <title>Diversidad de especies de plantas vasculares en Uruguay</title>
+          <personnel>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Biodiversidata, el Consorcio de Datos de Biodiversidad del Uruguay (https://biodiversidata.org/) tiene como objetivo reunir una base de datos primarios en constante crecimiento de la diversidad de especies del Uruguay y ponerla a disposición de manera abierta y accesible. En una primera etapa el trabajo se orientó a los datos de vertebrados (Grattarola et al. 2019). La segunda etapa de este proyecto está enfocada en la recolección de datos de plantas vasculares. Estos datos se publicarán en un data paper y posteriormente serán utilizados para responder una serie de preguntas científicas relativas a los patrones de distribución de las plantas en Uruguay. Las principales preguntas de investigación que estamos abordando son: i) ¿Dónde se encuentran los hotspots de biodiversidad en Uruguay? A nivel general y en los principales grupos de biodiversidad; ii) ¿Puede esta evidencia ser útil para redirigir las estrategias de conservación actuales?</para>
+          </abstract>
+          <funding>
+              <para>El proyecto Biodiversidata es coordinado por Florencia Grattarola con una beca de doctorado de la Agencia Nacional de Investigación e Innovación (ANII) – Grant POS_EXT_2016_1_136663.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Abarca registros de presencia de especies en todo el territorio nacional.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Los datos de observaciones proporcionados por las/os integrantes de Biodiversidata fueron estandarizados e integrados a la base de datos del grupo de las plantas vasculares de Biodiversidata. El producto final consiste en una base de datos que incluye además datos extraídos de bibliografía y datos obtenidos a partir de bases de datos online. La base de datos general contiene tanto registros realizados durante el monitoreo de grupos específicos como registros de eventos de muestreo no sistemáticos. Los registros consisten principalmente en observaciones humanas y en algunos casos se colectaron especímenes que están preservados en colecciones de Uruguay.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:43Z</dateStamp>
+      <citation>Mai P, Rossado A, Grattarola F (2020). Plantas Vasculares del Uruguay (Observaciones Mai &amp; Rossado). Biodiversidata. Occurrence dataset https://doi.org/10.15468/p5xp5g accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="https://doi.org/10.1093/botlinnean/boy063 ">Andrade BO, Marchesi E, Burkart S, Setubal RB, Lezama F, Perelman S, Schneider AA, Trevisan R, Overbeck GE, Boldrini II (2018) Vascular plant species richness and distribution in the Río de la Plata grasslands. Botanical Journal of the Linnean Society 188: 6.</citation>
+      <citation identifier="https://cran.r-project.org/web/packages/taxize ">Chamberlain S, Szoecs E, Foster Z, Arendsee Z, Boettiger C, Ram K, Bartomeus I, Baumgartner J, O&apos;Donnell J, Oksanen J, Tzovaras BG, Marchand P, Tran V, Salmon M, Li G, Grenié M (2020) taxize: Taxonomic information from around the web. R package version 0.9.92.</citation>
+      <citation identifier="https://doi.org/10.3897/BDJ.7.e36226 ">Grattarola F, Botto G, da Rosa I, Gobel N, González EM, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco JA, Naya DE, Rodales AL, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7.</citation>
+      <citation identifier="https://doi.org/10.15560/9.4.763">Guido A, Souza M, Zaldúa N, Mai P, Piñeiro V, Machín E, Mourelle D, Lenzi J (2013) Floristic composition of Isla de las Gaviotas, Río de la Plata estuary, Uruguay. Check List 9(4): 763-770.</citation>
+      <citation identifier="https://doi.org/10.1101/2020.02.02.930719">Kindt R (2020) WorldFlora: An R package for exact and fuzzy matching of plant names against the World Flora Online Taxonomic Backbone data. bioRxiv.</citation>
+      <citation identifier="https://hdl.handle.net/20.500.12008/4055">Mai P (2014) Flora epífita vascular de Uruguay con énfasis en helechos (Polypodiofitas). Tesis Magíster en Ciencias Biológicas – Botánica. Universidad de la República (Uruguay). Facultad de Ciencias - PEDECIBA. Montevideo, Uruguay.</citation>
+      <citation identifier="http://dx.doi.org/10.11646/phytotaxa.244.2.2">Mai P, Rossado A, Bonifacino J, Waechter JL (2016). Taxonomic revision of Peperomia (Piperaceae) from Uruguay. Phytotaxa, 244(2), 125–144.</citation>
+      <citation identifier="https://doi.org/10.1590/0102-33062019abb0059">Mai P, Rossado A, Bonifacino JM, Waechter JL (2019) Catalogue of the vascular epiphytic flora of Uruguay. Acta Botanica Brasilica, 33(4), 683-708.</citation>
+      <citation identifier="https://doi.org/10.1002/ecy.2541">Ramos FN, Mortara SR, Monalisa‐Francisco N, Elias JPC, Neto LM, Freitas L, Kersten R, Amorim AM, Matos FB, Nunes‐Freitas AF, et al. (2019) ATLANTIC EPIPHYTES: a data set of vascular and non‐vascular epiphyte plants and lichens from the Atlantic Forest. Ecology 100(2):e02541.</citation>
+      <citation identifier="https://cran.r-project.org/web/packages/geonames">Rowlingson B (2019) Interface to the &quot;Geonames&quot; Spatial Query Web Service. R package version 0.999.</citation>
+      <citation identifier="https://doi.org/10.14522/darwiniana.2019.72.861">Zuloaga FO, Belgrano MJ, Zanotti CA (2019) Actualización del Catálogo de las Plantas Vasculares del Cono Sur. Darwiniana, nueva serie 7: 70.</citation>
+              </bibliography>
+              <collection>
+                <parentCollectionIdentifier>MVJB</parentCollectionIdentifier>
+                <collectionIdentifier>MVJB</collectionIdentifier>
+                <collectionName>Museo y Jardín Botánico Prof. Atilio Lombardo</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

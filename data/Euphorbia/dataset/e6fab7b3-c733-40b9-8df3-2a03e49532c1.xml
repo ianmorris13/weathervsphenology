@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e6fab7b3-c733-40b9-8df3-2a03e49532c1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/0fxsox</alternateIdentifier>
+    <title>Flora von Deutschland (Phanerogamen)</title>
+    <associatedParty>
+    <individualName>
+          <surName>Rudolf May</surName>
+    </individualName>
+    <address>
+<deliveryPoint>BfN, Konstantinstr. 110, D-53179 Bonn</deliveryPoint>    </address>
+<phone>+49-228-84911441</phone><electronicMailAddress>rudolf.may@bfn.de</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>Verbreitung der Farn- und Bluetenpflanzen in Deutschland, Vorkommensnachweise aggregiert auf Quadranten der Topographischen Karte 1 : 25000 (TK25 &amp;#61; MTB), sowie in Zeitperioden , &amp;lt;1950 - 1980&amp;gt;,</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.floraweb.de</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>Rudolf May</surName>
+    </individualName>
+    <address>
+<deliveryPoint>BfN, Konstantinstr. 110, D-53179 Bonn</deliveryPoint>    </address>
+<phone>+49-228-84911441</phone><electronicMailAddress>rudolf.may@bfn.de</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:53Z</dateStamp>
+      <citation>Bundesamt für Naturschutz / Netzwerk Phytodiversität Deutschland. Flora von Deutschland (Phanerogamen). Occurrence dataset https://doi.org/10.15468/0fxsox accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://www.bfn.de/fileadmin/global/templates/images/logo_bfn.gif</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

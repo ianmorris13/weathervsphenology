@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="27b4ff4b-29c3-4017-9c48-3750861392f7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/63vxjd</alternateIdentifier>
+        <alternateIdentifier>https://sernecportal.org/portal/collections/misc/collprofiles.php?collid=206</alternateIdentifier>
+        <alternateIdentifier>http://sernecportal.org/portal/collections/misc/collprofiles.php?collid=206</alternateIdentifier>
+    <title>University of North Carolina at Chapel Hill Herbarium</title>
+    <creator>
+<organizationName>SERNEC</organizationName><electronicMailAddress>herrick.brown@gmail.com</electronicMailAddress><onlineUrl>https://sernecportal.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>SERNEC</organizationName><electronicMailAddress>herrick.brown@gmail.com</electronicMailAddress><onlineUrl>https://sernecportal.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Carol Ann McCormick</surName>
+    </individualName>
+<electronicMailAddress>mccormick@unc.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The University of North Carolina at Chapel Hill Herbarium (NCU) is a department within the North Carolina Botanical Garden of the University of North Carolina at Chapel Hill. The vascular plant collection is world-wide in scope with focus on the native flora of the southeastern United States. NCU also curates plant fossils, fungi, lichens, bryophytes, &amp;amp; macroalgae. NCU is open to the public &amp;amp; welcomes researchers; contact Curator to reserve on-campus parking permit. STATEMENT ON OFFENSIVE CONTENT ON SPECIMEN LABELS: Collection records at NCU may contain language that reflects historical place or taxon names in an original form that is no longer acceptable or appropriate in an inclusive environment. Because NCU preserves data in their original form to retain authenticity and facilitate research, we have chosen to facilitate conversations and are committed to address the problem of racial, derogatory and demeaning language that may be found in our database. Insensitive or offensive language is not condoned by NCU. We recognize the land and sovereignty of Native and Indigenous nations in Chapel Hill, in North Carolina, in North America, and across the world. The North Carolina Botanical Garden and the North Carolina Botanical Garden Foundation acknowledge that the story told about the history of the land we steward has been incomplete. Before the Morgans and Masons, these lands were home to multiple tribes and the ancestors of the Occaneechi Band of the Saponi Nation, who persist locally to this day. We recognize that at least one of the adjacent lands we steward, Mason Farm Biological Reserve, was first cleared, cultivated, and worked by Native Americans and later by African enslaved people. We invite you to reflect on our individual &amp;amp; community roles in knowing important &amp;amp; untold stories about the land we each steward.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>University of North Carolina at Chapel Hill Herbarium</organizationName><phone>[1] 919 962 6931</phone><electronicMailAddress>mccormick@unc.edu</electronicMailAddress><onlineUrl>https://ncbg.unc.edu/research/unc-herbarium/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:08Z</dateStamp>
+      <citation>University of North Carolina at Chapel Hill Herbarium (NCU) (2022). University of North Carolina at Chapel Hill Herbarium. Occurrence dataset https://doi.org/10.15468/63vxjd accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

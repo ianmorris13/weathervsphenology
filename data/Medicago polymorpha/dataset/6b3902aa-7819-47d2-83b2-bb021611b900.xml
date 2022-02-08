@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6b3902aa-7819-47d2-83b2-bb021611b900"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/r4wyck</alternateIdentifier>
+        <alternateIdentifier>6b3902aa-7819-47d2-83b2-bb021611b900</alternateIdentifier>
+        <alternateIdentifier>http://ipt.brc.ac.uk/ipt/resource?r=uksba_cyprus_2015_17</alternateIdentifier>
+    <title>UKSBA Cyprus - Quadrats 2015-2017</title>
+    <creator>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Jodey M.</givenName>          <surName>Peyton</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>joyt@ceh.ac.uk</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marilena</givenName>          <surName>Onete</surName>
+    </individualName>
+<organizationName>Institutul de Biologie Bucuresti al Academiei Romane</organizationName><positionName>Researcher</positionName>    <address>
+<city>Bucharest</city><country>ROMANIA</country>    </address>
+<electronicMailAddress>marilena.onete@gmail.com</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">YrGZdIoAAAAJ&amp;hl=ro</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>J. Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Fellow</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>om@ceh.ac.uk</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Quadrats recorded in the UK Soverign Base Areas of Cyprus under two COST Action (TD1209) Short-Term Scientific Missions. Quadrats focused on stands of non-native species, particularly Acacia saligna and Eucalyptus spp.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>forest</keyword>
+              <keyword>Cyprus</keyword>
+              <keyword>plants</keyword>
+              <keyword>eucalyptus</keyword>
+              <keyword>releves</keyword>
+              <keyword>acacia</keyword>
+              <keyword>community</keyword>
+              <keyword>trees</keyword>
+              <keyword>Samplingevent</keyword>
+              <keyword>non-native species</keyword>
+              <keyword>quadrats</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Spatial data relating to stands of the woody non-natives surveyed here are also available at https://catalogue.ceh.ac.uk/documents/7c84e06d-bb1a-4aac-b1d7-33c11310d8a0
+Spatially targeted notes on communities and other features of the areas surveyed are also available within that dataset.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.ris-ky.info/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>UK Sovereign Base Areas of Akrotiri and Dhekelia on Cyprus</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>32.747</westBoundingCoordinate>
+                      <eastBoundingCoordinate>33.89</eastBoundingCoordinate>
+                      <northBoundingCoordinate>35.079</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.552</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-10-19
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-03-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Cataloguing the novel communities created by the planting and spread of non-native species in Cyprus.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Static resource.</para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>See http://nora.nerc.ac.uk/id/eprint/512985/ and http://nora.nerc.ac.uk/id/eprint/516601/. Spatial data were downloaded from tablet computers using ArcPad 10.2, quadrat data were entered from paper forms. All data were checked using GIS software and manual quality checks of location and taxonomy subsequent to data entry.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>UK Sovereign Base Areas in Cyprus (Akrotiri &amp; Dhekelia)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Haphazardly located quadrats in and around stands of non-native species. GPS locations were taken using field computers with integrated GPS using ArcPad 10.2. Some quadrats initially surveyed in 2015 were resurveyed in 2017, these are prefixed &apos;17&apos; in their eventID identifiers. See also http://nora.nerc.ac.uk/id/eprint/512985/ and http://nora.nerc.ac.uk/id/eprint/516601/.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Four experienced botanists worked together initially to harmonise identifications. R. Meikle&apos;s Flora of Cyprus (1977, 1985) was frequently referred to to check identifications. Genus-level or other ways of indicating uncertainty (e.g. the use of cf.) were used and are included in this dataset using the appropriate Darwin Core fields.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="2af94099-7bc6-43d4-bca7-1d731b9d32f6">
+          <title>Non-native species quadrats made in the UK Sovereign Base Areas of Cyprus, 2015-17</title>
+          <personnel>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Peyton</givenName>          <surName>J.P.</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-8313-6194</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marilena</givenName>          <surName>Onete</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">YrGZdIoAAAAJ&amp;hl=ro</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>J. Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>Quadrats were haphazardly located throughout the area of interest. Primarily this was the non-native forest of Eucalyptus, Acacia and Casuarina north of the Akrotiri Salt Lake, although other habitats with non-natives were also surveyed in the south of the peninsula and within the Dhekelia SBA. See http://nora.nerc.ac.uk/id/eprint/516601/ and http://nora.nerc.ac.uk/id/eprint/512985/ for further detail.</para>
+          </abstract>
+          <funding>
+              <para>COST Action TD1209 (data collection); Darwin Plus 088 (data analysis and publishing)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>UK Sovereign Base Areas of Cyprus</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>See http://nora.nerc.ac.uk/id/eprint/516601/ and http://nora.nerc.ac.uk/id/eprint/512985/ for detail.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:48Z</dateStamp>
+      <citation>Pescott O L, Peyton J M, Onete M, Mountford J O (2020). UKSBA Cyprus - Quadrats 2015-2017. Version 1.5. Biological Records Centre. Sampling event dataset https://doi.org/10.15468/r4wyck accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="http://nora.nerc.ac.uk/id/eprint/512985/">Peyton, Jodey; Mountford, Owen. 2015 COST Action short term scientific mission – Lake Akrotiri, Cyprus. Wallingford, NERC/Centre for Ecology &amp; Hydrology, 23pp.</citation>
+      <citation identifier="http://nora.nerc.ac.uk/id/eprint/516601/">Peyton, Jodey; Pescott, Oliver; Mountford, Owen; Onete, Marilena; Martinou, Kelly. 2017 COST Action short term scientific mission – Alien plant species in Overseas Territories in Cyprus, 5th-18th March 2017. Wallingford, NERC/Centre for Ecology &amp; Hydrology, 10pp.</citation>
+      <citation identifier="DOI:10.1007/978-3-319-74986-0_9">Pescott, O.L., Harris, S.E., Peyton, J.M., Onete, M., Martinou, A.F., &amp; Mountford, J.O. (2018). The forest on the peninsula: Impacts, uses and perceptions of a colonial legacy in Cyprus. In: Histories of Bioinvasions in Mediterranean-type regions A.I. Quieroz and S. Pooley (eds), pp. 195-217. Springer, Cham.</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

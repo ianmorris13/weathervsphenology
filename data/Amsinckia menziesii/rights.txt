@@ -1,0 +1,349 @@
+
+Dataset: Auckland Museum Botany Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Willing at Herbarium Berolinense, Berlin (B)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: United States National Plant Germplasm System Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SER Site-based Surveys
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbarium of Umeå University (UME)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Field Museum of Natural History (Botany)  Seed Plant Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Löydös Open Finnish Observation Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MISS_DC_01MAR2006
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Species recordings from the Danish National portal Arter.dk
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Botany Division, Yale Peabody Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dr Mary Gillham Archive Project
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular Herbarium, NMBU
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pittsburg State University, Theodore M. Sperry Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Manitoba Herbarium (WIN) - Vascular Plant Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Hatikka.fi observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Seed collection – dead seeds for evaluation and observation purposes
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank (verified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbier du Québec (QUE) - Collection de plantes vasculaires
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Michigan Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: PlutoF platform reference-based occurrences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Sheffield and Rotherham Wildlife Trust - Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Kenai National Wildlife Refuge, Alaska (KNWR) Plant specimens (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Ontario Museum Green Plant Herbarium (TRT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: North Merseyside Local Species Data (DEFRA Grant 23169)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Vermont, Pringle Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Merseyside BioBank (unverified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Brock University Herbarium (BU)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Rutgers University, Chrysler Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SANT Herbarium vascular plants collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Tennessee Vascular Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Depuración de la colección y base de datos del Herbario CICY. Fase IV
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: El banco de datos del Herbario HCIB en línea (Fase I): Implementación del Sistema Biótica
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NEON Biorepository Terrestrial Plant Collection (Herbarium Vouchers)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tallinn Botanic Garden
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Hertfordshire Flora Survey Records 1987-2005
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CONN
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: H.A. Stephens Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Lethbridge Herbarium (LEA)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Global Register of Introduced and Invasive Species - Alaska, United States
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Observations.be - Non-native species occurrences in Wallonia, Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: North Carolina State University Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The AAU Herbarium Database
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbarium Senckenbergianum Görlitz (GLM)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MPM Milwaukee Public Museum Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bell Museum plants
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MHA Herbarium: collections of vascular plants
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Michigan State University Herbarium Vascular Plants
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cumbria Non Native Invasive Species
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of New Mexico Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Agnes Marion Ayre Herbarium (NFLD)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Sistematización del Herbario Nacional Forestal Biól Luciano Vela Gálvez
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Montana State University Billings
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Geneva Herbarium – General Collection (G)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CANB AVH data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular Plant Herbarium: Herbarium Generale
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plant collection Natuurmuseum Brabant, Tilburg
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Inventario florístico de la familia Boraginaceae en México. Fase II
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Victorian Biodiversity Atlas
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Local floras of Russia: a compilative dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: All taxa records for Leicestershire and Rutland
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Botanical Collections of the Åbo Akademi (TUR-A)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bernice P. Bishop Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Plant Resources Center
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Nijmegen Natural History Museum (NL) - Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bruce Bennett Herbarium (BABY)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SJSU - Carl W. Sharsmith Herbarium, San Jose State University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of North Carolina at Chapel Hill Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RECORD Vascular Plant Data
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: HUCS - Herbário da Universidade de Caxias do Sul
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: EURISCO, The European Genetic Resources Search Catalogue
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Moscow University Herbarium (MW)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FBIP: Great Escarpment Biodiversity Research Programme data mobilisation
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: GRBGT: Southern Cape Herbarium Specimen Collections (1882-2008)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbarium Senckenbergianum (FR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum Rotterdam - Specimens
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of South Carolina, A. C. Moore Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vascular plant herbarium TRH, NTNU University Museum
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NBIS Records to December 2016
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Weber State University Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MBM - Herbário do Museu Botânico Municipal
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Université Lyon 1
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Kathryn Kalmbach Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of South Florida Herbarium (USF)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SFV - California State University, Northridge
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: TUR Vascular plant collections of the Turku University, Herbarium generale
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbier Louis-Marie (QFA) - Collection de plantes vasculaires
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Oskarshamn herbarium (OHN)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CSUSB - California State University San Bernardino
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Botany (UPS)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Welsh BSBI data (ex-VPDB dataset) at hectad resolution
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MEL AVH data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: PUA - Pacific Union College Hebarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Pl@ntNet observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: R. L. McGregor Herbarium Vascular Plants Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Carnegie Museum of Natural History Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: PRECIS
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (Plantas vasculares)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Kastikka Floristic Archives (Kastikka Ark)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian Museum of Nature Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Shropshire Ecological Data Network database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Species Observation Service
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LOB - California State University, Long Beach Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Flora of Worcestershire
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phytochorologie des départements français
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Pl@ntNet automatically identified occurrences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Danish Environmental Portal, species and habitats-database "Danmarks Miljøportals Naturdatabase"
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INPN - Données flore des CBN agrégées par la FCBN
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Deaver Herbarium (Northern Arizona University)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UTEP Plants (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HSC - Humboldt State University Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LERN Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LA - University of California, Los Angeles Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SDSU - San Diego State University Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UCSB - University of California Santa Barbara Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Desert Botanical Garden Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FSC - Fresno State Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BODATSA: Botanical Collections
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FLORIVON
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular Plant Herbarium, Oslo (O) UiO
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: National Trust Species Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Flora von Deutschland (Phanerogamen)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observations du Conservatoire botanique national du Bassin parisien.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAM Herbarium (ALA), Vascular Plant Collection (Arctos)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tropicos Specimen Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Intermountain Herbarium (Vascular plants & algae)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CDA - California Department of Food and Agriculture
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CAS Botany (BOT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Puntos de presencia en Baja California (Botany)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phanerogamic Botanical Collections (S)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Botanic Garden Edinburgh Herbarium (E)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dutch Vegetation Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lund Botanical Museum (LD)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Royal BC Museum - Herbarium (V)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of British Columbia Herbarium (UBC) - Vascular Plant Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Meise Botanic Garden Herbarium (BR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Florabank1 - A grid-based database on vascular plant distribution in the northern part of Belgium (Flanders and the Brussels Capital region)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vascular plant records verified via iRecord
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DAV - UC Davis Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vascular Plant Collection - University of Washington Herbarium (WTU)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: OBI - Robert F. Hoover Herbarium, Cal Poly State University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Scottish SNH-funded BSBI records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Arizona State University Vascular Plant Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular Plant Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UCR - University of California, Riverside Herbarium - Vascular Plants
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SD - SD Herbarium, San Diego Natural History Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Harvard University Herbaria: All Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The New York Botanical Garden Herbarium (NY)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Artportalen (Swedish Species Observation System)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RSA - California Botanic Garden Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Waarnemingen.be - Non-native plant occurrences in Flanders and the Brussels Capital Region, Belgium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Other BSBI Scottish data up to 2015
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Suffolk Biodiversity Information Service (SBIS) Dataset
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Atlas Flora Danica
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BSBI data from several English counties, up to 2015
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7fe3eb5c-42bd-49d7-a30b-82c353ef6575"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/gi6aum</alternateIdentifier>
+        <alternateIdentifier>http://flora-on.pt:8080/ipt/resource?r=flora-on</alternateIdentifier>
+        <alternateIdentifier>7fe3eb5c-42bd-49d7-a30b-82c353ef6575</alternateIdentifier>
+        <alternateIdentifier>http://flora-on.pt:8080/ipt/resource.do?r=flora-on</alternateIdentifier>
+    <title>Flora-On: occurrence data of the flora of mainland Portugal</title>
+    <creator>
+    <individualName>
+<givenName>André</givenName>          <surName>Carapeto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Member of the Board</positionName>    <address>
+<deliveryPoint>Travessa do Jardim, nº3, A-dos-Potes</deliveryPoint><city>Alverca do Ribatejo</city><postalCode>2615-018</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>carapeto@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Porto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Chairman of the Board of Directors</positionName>    <address>
+<deliveryPoint>Travessa do Jardim, nº3, A-dos-Potes</deliveryPoint><city>Alverca do Ribatejo</city><postalCode>2615-018</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>mpbertolo@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Porto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Ventura Araújo</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Clamote</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>João</givenName>          <surName>Lourenço</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ana Júlia</givenName>          <surName>Pereira</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>João</givenName>          <surName>Domingues Almeida</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David T.</givenName>          <surName>Holyoak</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Pereira</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Estevão</givenName>          <surName>Portela-Pereira</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexandre</givenName>          <surName>Silva</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Aguiar</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Monteiro-Henriques</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Cristina</givenName>          <surName>Tauleigne Gomes</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Silveira</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Udo</givenName>          <surName>Schwarzer</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rute</givenName>          <surName>Caraça</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Chozas</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Canha</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Filipe</givenName>          <surName>Covelo</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Marabuto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>João</givenName>          <surName>Farminhão</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sílvia</givenName>          <surName>Ribeiro</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Cardoso</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Peixoto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Nuno</givenName>          <surName>Guiomar</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>José Manuel</givenName>          <surName>Rosa-Pinto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Valter</givenName>          <surName>Jacinto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Horst</givenName>          <surName>Engels</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Vasco</givenName>          <surName>Silva</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Associate Member</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Adelaide</givenName>          <surName>Clemente</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Cristina</givenName>          <surName>Silva</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborator</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Other collaborators of Flora-On.pt</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Collaborators</positionName>    <address>
+<country>PORTUGAL</country>    </address>
+<onlineUrl>http://flora-on.pt/equipa.php</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2016-02-19
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>This dataset results from the data gathered in the platform Flora-On ( http://www.flora-on.pt/ ), which contains observation records of vascular plants within mainland Portugal, made by an array of collaborators. Observations are uploaded directly by collaborators, who are either experienced botanists/naturalists, or occasional collaborators. In this latter case, the observations are first validated by the Editorial Board before publication. The Editorial Board is committed to ensure that only the most rigorous data is published, and it does not release observations whose uncertainty is judged to be high.
+Flora-On was created by and is kept up exclusively through the voluntary work of associate members of Sociedade Portuguesa de Botânica (Botanical Society of Portugal), its maintenance costs being supported only by the membership fees of the associates.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Vascular plants</keyword>
+              <keyword>Portugal</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.flora-on.pt/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Portugal mainland</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-9.62</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-6.16</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42.17</northBoundingCoordinate>
+                      <southBoundingCoordinate>36.72</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1995-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-02-09
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All observations are identified at least to species level, or an inferior rank when possible.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Porto</surName>
+    </individualName>
+<organizationName>Sociedade Portuguesa de Botânica</organizationName><positionName>Chairman of the Board of Directors</positionName>    <address>
+<deliveryPoint>Travessa do Jardim, nº3, A-dos-Potes</deliveryPoint><city>Alverca do Ribatejo</city><postalCode>2615-018</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>mpbertolo@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>GPS coordinates are recorded by the collaborators (if possible), and plants identified at least to species level</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Record data is uploaded to Flora-On.pt by the collaborators, either using a webmapping interface or uploading a record table</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Coordinates are generalized to the UTM 10x10 km grid and are made publicly available for download in both the species factsheets and as a WFS service:
+http://www.flora-on.pt/wfs</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This dataset includes observations falling within mainland Portugal, most of which are posterior to the date the platform Flora-On was made available online (25/Feb/2012), although there is an important volume of data starting from the 1990 decade.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>A large portion of the records corresponds to non-exhaustive observations of collaborators, but there is also an important part of it that was originated from exhaustive field sampling campaigns. Plants are identified at least to species level either in the field or in the lab, and phenological state is recorded if in bloom. In general, no specimens are collected.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Taxon nomenclature is fully controlled with a reference list, allowing neither spelling errors nor outdated synonyms. The reference checklist includes only the currently accepted names, which correspond to an updated version of the &quot;Checklist da Flora de Portugal (Continental, Açores e Madeira)&quot; ( http://ipt.gbif.pt/ipt/resource.do?r=alfa_checklist_florapt )
+Exact GPS coordinates are stored in Flora-On.pt whenever possible, but are generalized to the UTM 10x10 km grid in this dataset.
+The responsibility of species identification rests with the collaborators, most of which have expertise in plant identification. Additionally, the Editorial Board of Flora-On is committed to ensure a high reliability of uploaded data, hence checking regularly for unlikely or doubtful occurrence records, and asking collaborators to provide pictures, descriptions or specimens whenever needed. The Editorial Board estimates at least 95% of the records to be correctly identified under the most up-to-date nomenclature.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Flora-On, Interactive Flora of Portugal</title>
+          <personnel>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>Porto</surName>
+    </individualName>
+    <role>PROGRAMMER</role>
+          </personnel>
+          <abstract>
+              <para>The project that underlies this dataset (Flora-On) was born as an attempt to concentrate and make easily and publicly available chorological, ecological, morphological and photographical information about the entire vascular flora of Portugal. It is fed constantly with new occurrence data from many active collaborators ( http://flora-on.pt/equipa.php ), who upload their weekly field observations to the database. Other scientific and technical projects have also contributed with data from their sampling campaigns.</para>
+          </abstract>
+          <funding>
+              <para>The project receives no funding from any sources, and is entirely built and maintained with volunteer work; however, some externally funded projects have contributed with data to this project. Maintenance costs of the web server are covered by the membership fees of the associates of Sociedade Portuguesa de Botânica (Botanical Society of Portugal).</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The area of mainland Portugal is about 89 015 km2 and it is situated in the Mediterranean biogeographic region. The largest part of the territory falls in the mediterranean macrobioclimate and a small area in the north fits in the temperate macrobioclimate. Orography is mostly gentle in the southern part and rugged in the northern part, where the highest peak is located (1991 m above sea level).</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The project aims to provide users the most up-to-date data on Portuguese flora, through a set of interactive tools to visualize, query and explore the data.
+Highlights include: 1) a Bioclimatic Explorer, which allows projecting species occurrences (or occurrences of a compound query) in a climatic space ( http://www.flora-on.pt/#b ); 2) an interactive multiple-way identification key ( http://www.flora-on.pt/#z ); 3) an innovative WebGIS, allowing to overlay distribution layers not only for individual species but also richness-graduated layers made from compound queries ( http://www.flora-on.pt/#w ); 4) an all-in-one search box, linked to the previous tools, which allows to search species by a vast array of keywords related to habitat, morphology, flowering date, altitudinal range, location, climatic preferences and names; and 5) a Web Feature Service, which serves always up-to-date distribution maps ( http://www.flora-on.pt/wfs ).
+
+The project has currently occurrence data spread over the whole country, but intensively sampled areas are still limited to the more coastal regions and a few spots in the interior. On average, 50000 new occurrences are uploaded into Flora-On each year. This dataset will thus be updated on a regular basis.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:01Z</dateStamp>
+      <citation>Carapeto A, Porto M (2016). Flora-On: occurrence data of the flora of mainland Portugal. Version 4.1. Sociedade Portuguesa de Botânica. Occurrence dataset https://doi.org/10.15468/gi6aum accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://flora-on.pt:8080/ipt/logo.do?r=flora-on</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>c9d06ad2-6369-47dd-9372-ade1a5055096</collectionIdentifier>
+                <collectionName>Flora-On: Interactive Flora of Portugal</collectionName>
+              </collection>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

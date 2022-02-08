@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="249ec6d9-ce13-4096-baf5-42130fc3d0b1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pui83d</alternateIdentifier>
+        <alternateIdentifier>http://www.gbifchina.org:8080/gbifcas/resource.do?r=cdbi_data</alternateIdentifier>
+        <alternateIdentifier>249ec6d9-ce13-4096-baf5-42130fc3d0b1</alternateIdentifier>
+    <title>Plant Specimen from Herbarium (CDBI) in China, Chengdu Institute of Botany, Chinese Academy of Sciences</title>
+    <creator>
+    <individualName>
+<givenName>Xingfen</givenName>          <surName>Gao</surName>
+    </individualName>
+<organizationName>Chengdu Institute of Biology, Chinese Academy of Sciences</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>No.9, 4th Section, Renming Road</deliveryPoint><city>Chengdu</city><administrativeArea>Sichuan</administrativeArea><postalCode>610041</postalCode><country>CHINA</country>    </address>
+<phone>028-85222753</phone><electronicMailAddress>xfgao@cib.ac.cn</electronicMailAddress><onlineUrl>http://sourcedb.cas.cn/sourcedb_cib_cas/zw/rck/200911/t20091125_2674907.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Zheping</givenName>          <surName>xu</surName>
+    </individualName>
+<organizationName>Institute of Botany, Chinese Academy of Sciences</organizationName><positionName>Engineer</positionName>    <address>
+<deliveryPoint>No. 20, Nanxincun, Xiangshan, Haidian District</deliveryPoint><city>Beijing</city><administrativeArea>Beijing</administrativeArea><postalCode>100093</postalCode><country>CHINA</country>    </address>
+<phone>86-10-62836847</phone><electronicMailAddress>xuzp@ibcas.ac.cn</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Zheping</givenName>          <surName>xu</surName>
+    </individualName>
+<organizationName>Institute of Botany, Chinese Academy of Sciences</organizationName><positionName>Engineer</positionName>    <address>
+<deliveryPoint>No. 20, Nanxincun, Xiangshan, Haidian District</deliveryPoint><city>Beijing</city><administrativeArea>Beijing</administrativeArea><postalCode>100093</postalCode><country>CHINA</country>    </address>
+<phone>86-10-62836847</phone><electronicMailAddress>xuzp@ibcas.ac.cn</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>some Plant Specimen  Chengdu Institute of Botany, Chinese Academy of Sciences</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Xingfen</givenName>          <surName>Gao</surName>
+    </individualName>
+<organizationName>Chengdu Institute of Biology, Chinese Academy of Sciences</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>No.9, 4th Section, Renming Road</deliveryPoint><city>Chengdu</city><administrativeArea>Sichuan</administrativeArea><postalCode>610041</postalCode><country>CHINA</country>    </address>
+<phone>028-85222753</phone><electronicMailAddress>xfgao@cib.ac.cn</electronicMailAddress><onlineUrl>http://sourcedb.cas.cn/sourcedb_cib_cas/zw/rck/200911/t20091125_2674907.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:54Z</dateStamp>
+      <citation>Gao X, xu Z (2019). Plant Specimen from Herbarium (CDBI) in China, Chengdu Institute of Botany, Chinese Academy of Sciences. Chinese Academy of Sciences (CAS). Occurrence dataset https://doi.org/10.15468/pui83d accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://www.gbifchina.org:8080/gbifcas/logo.do?r=cdbi_data</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

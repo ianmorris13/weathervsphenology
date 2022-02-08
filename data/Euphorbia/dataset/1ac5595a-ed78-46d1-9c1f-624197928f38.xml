@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1ac5595a-ed78-46d1-9c1f-624197928f38"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/nmekri</alternateIdentifier>
+        <alternateIdentifier>1ac5595a-ed78-46d1-9c1f-624197928f38</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=urb_fl_of_kost_reg</alternateIdentifier>
+    <title>Urban flora of Kostanay region (Republic of Kazakhstan)</title>
+    <creator>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Yekaterina</givenName>          <surName>Petrova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>petrova_yekaterina@mail.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5411-7106</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Yekaterina</givenName>          <surName>Petrova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>petrova_yekaterina@mail.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5411-7106</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Ivanova</surName>
+    </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint><city>Pushchino</city><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data on the species diversity of urban flora in the Kostanay region (Republic of Kazakhstan) are presented. Currently, the process of urbanization is rapidly going on around the world. It has a character that is growing in time and space. Studying the flora of urbanized territories is one of the most important aspects of biological research. Employees of the Department of Biodiversity and Bioecology of the Institute of Natural Sciences and Mathematics of the Ural Federal University named after the first President of Russia B. N. Yeltsin compiled the list of species based on the results of their own research. Herbarium samples are stored in the herbarium of the Ural Federal University (UFU).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Kostanay region is located in the extreme north-west of Kazakhstan, almost in the very center of Eurasia, in the zone of temperate latitudes (48-55 ° N), between the Ural Range in the west and the Kazakh small hills in the east, covering the Tobol river basins in the north and Turgai in south. Kostanai oblast occupies a large part of the Torgai trough (about 285 thousand km2). The almost flat surface of the trough stretches from South to North for about 800 km. The city of Kostanay is the regional administrative center of the Kostanay region, which borders four regions of the Republic of Kazakhstan: Aktobe, Karaganda, Akmola and North Kazakhstan, as well as three ones of the Russian Federation: Orenburg, Chelyabinsk, Kurgan. The deep inland location of the territory determines many features of the continental nature of its natural conditions, especially the climate. The territory of the region is characterized by a relatively flat relief. Its northern part is occupied by the southeastern outskirts of the West Siberian lowland; the Torgai plateau lies to the south of it: in the west of the region there is the undulating plain of the Zauralsky plateau; and in the southwest there are the spurs of Saryarka. In the west of the region Mount Zhitikara is located, on the Torgai Plateau there are the mountains of Kargaly, Zhylandy, Kyzbel and Teke, and in the southeast the Upland Zhylanshykturme and Mount Kayindyshoky are situated. The region has rich deposits of iron ores, bauxites, brown coal, asbestos, refractory and brick clays, flux and cement limestone, glass sand, building stone and others. The inland geographic location of the region, remoteness from open seas and oceans determine the continentality and aridity of its climate.
+
+The characteristic features of the climate in the region, as well as the whole of Northern Kazakhstan, are severe and snowless winters, hot summers, and a small amount of precipitation. The continentality of the climate in the Kostanay region is in sharp contrasts of the air temperature in winter and summer, day and night, and also in the fact that the maximum rainfall occurs in the summer months. Climate change, in general, is expressed in a sequential increase in air temperatures and a decrease in precipitation from North to South. It should be noted that in the North of the region the summer maximum of precipitation is well expressed, while in the South the precipitation is distributed more evenly over the seasons. The temperature differences in the zones are most noticeable in the warm seasons, especially in summer; in the winter they are smoothed out. In sharply arid years, up to 150 mm of precipitation fall in the chernozem zone, and in the South of the region – up to 80 mm. On the contrary, in extremely wet years the amount of precipitation reaches 500-600 mm in the North, and in the South – 250-300 mm. The winter is usually long with a steady snow cover. The wind activity in the summer is less developed than in transitional seasons. In an arid climate, the hydrographic system of the Kostanay region plays a very important role. The largest rivers are the Tobyl (800 km within the region) with tributaries Ayat (94 km), Obagan (376 km), Uy (235 km); Trade (390 km) with tributaries: Saryuzen (164 km), Karatogay (165 km), and Sarytorgay (123 km), Olkek (150 km) and Ultzhylanshyk (196 km). Almost all the rivers of the region have mainly snow nutrition with an insignificant role of groundwater and rainwater. The main part of the annual runoff of watercourses is due to melt spring water.
+In comparison with other regions of Kazakhstan Kostanay region is rich in lakes, there are more than 5000 lakes, their total surface is about 3% of the territory. The lakes are distributed very unevenly, more than 90% of them are concentrated in the Northern part, mainly on the Tobol-Ishim watershed.  The natural soil cover of Kostanay region is largely subject to anthropogenic impact. Due to the duration of agricultural development, the main part of the black earth and, to a lesser extent, chestnut soils have undergone a certain transformation, that has led to a decrease in the content of organic and nutrients. However, the main type, subtype and generic features of soils have been preserved. Changes in the soil cover of the region are caused by the breadth of zoning bioclimatic factors. These changes, associated with the effort of aridity in the direction from North to South, allow us to distinguish two soil zones with four subzones: I zone of chernozems (5867 thousand. ha) with two subzones: ordinary chernozems (2764 thousand ha) and southern chernozems (3103 thousand ha) and II .zone chestnut soils (4185 thousand hectares) with two subzones: subzone dark chestnut soils (654 thousand hectares).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>61.19</westBoundingCoordinate>
+                      <eastBoundingCoordinate>66.914</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.214</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.253</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Nickolay</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Yekaterina</givenName>          <surName>Petrova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><administrativeArea>Sverdlovsk region</administrativeArea><postalCode>620003</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>petrova_yekaterina@mail.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5411-7106</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>In preparing the list, materials of our own research were used. Latin names are given in accordance with the International Index of Scientific Plant Names (IPNI: [site]. URL: http://www.ipni.org).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The work presents the species composition of the urban flora of the Kostanay region, which was identified using the route method.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>A network of routes covered all the main options for natural and man-made habitats in 4 settlements of the Kostanai region: Zhitikara, Arkalyk, Kostanay, Auliekol.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:29Z</dateStamp>
+      <citation>Tretyakova A, Grudanov N, Petrova Y (2020). Urban flora of Kostanay region (Republic of Kazakhstan). Version 1.1. Federal State Autonomous Educational Institution of Higher Education «Ural Federal University named after the first President of Russia B.N.Yeltsin». Occurrence dataset https://doi.org/10.15468/nmekri accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://urfu.ru/fileadmin/user_upload/common_files/about/brand/UrFULogo_Full_Russian.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

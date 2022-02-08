@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="28b85661-dc35-4dfc-acb3-6f0dc34ee716"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ekpd4b</alternateIdentifier>
+        <alternateIdentifier>28b85661-dc35-4dfc-acb3-6f0dc34ee716</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=florus-test</alternateIdentifier>
+    <title>FLORUS: miscellaneous records</title>
+    <creator>
+    <individualName>
+          <surName>FLORUS Community</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>FLORUS Community</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Natalya S.</givenName>          <surName>Gamova</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>-</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>bg_natagamova@mail.ru</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-09-29
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>FLORUS is a steadily growing compilation of miscellaneous records mobilised from various sources on the Russian flora (releves, literature, specimens, online resources, etc.). The aim of the dataset is to enable access to those FLORUS data which are not currently indexed in GBIF. Clustered records from overlapping datasets will be consequently excluded.</para>
+        <para>The dataset covers distributional data on vascular plants from all subjects of the Russian Federation with greatest strength on (77) the City of Moscow, (50) Moscow Oblast, (38) Irkutsk Oblast, (32) Bryansk Oblast, (82) Republic of Crimea, (66) Sverdlovsk Oblast, (13) Republic of Mordovia, (46) Kursk Oblast, (54) Novosibirsk Oblast, (52) Nizhny Novgorod Oblast, (92) the City of Sevastopol, (74) Chelyabinsk Oblast, (71) Tula Oblast, (22) Altaisky Krai, (36) Voronezh Oblast, (16) Republic of Tatarstan, (33) Vladimir Oblast, (55) Omsk Oblast, (76) Yaroslavl Oblast, (41) Kamchatka Krai, (02) Bashkortostan, (21) Chuvash Republic, (23) Krasnodar Krai, (39) Kaliningrad Oblast, (86) Khanty Mansi Autonomous Okrug, (69) Tver Oblast, (44) Kostroma Oblast.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Russia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>19</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-168</eastBoundingCoordinate>
+                      <northBoundingCoordinate>82</northBoundingCoordinate>
+                      <southBoundingCoordinate>40</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>FLORUS Community</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:10Z</dateStamp>
+      <citation identifier="https://doi.org/10.15468/ekpd4b">FLORUS Community (2021). FLORUS: miscellaneous records. Version 1.11. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/ekpd4b accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://depo.msu.ru/ipt/logo.do?r=florus-test</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

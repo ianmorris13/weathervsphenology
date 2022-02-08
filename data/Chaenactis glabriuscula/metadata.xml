@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.muyxn3"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0130519-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.muyxn3</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Chaenactis glabriuscula DC.&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Riqueza y distribución de especies vegetales en la Península de Baja California
+1 records from Herbario de la Universidad de Sevilla
+1 records from Institut Botanic de Barcelona (IBB, CSIC-Ajuntament de Barcelona), BC-Plantae
+1 records from United States National Plant Germplasm System Collection
+1 records from Botany Division, Yale Peabody Museum
+1 records from Etapa final de la captura y catalogación del Herbario del Instituto de Ecología, A. C., Centro Regional del Bajío
+1 records from University of South Carolina, A. C. Moore Herbarium
+1 records from Pittsburg State University, Theodore M. Sperry Herbarium
+1 records from Muestreos y recolectas de flora endémica y casi-endémica de matorral costero y chaparral de la zona mediterránea Baja California, México
+1 records from Bernice P. Bishop Museum
+1 records from University of New Mexico Herbarium
+1 records from EAN - Herbário Jaime Coelho de Moraes
+1 records from Olga Lakela Herbarium, University of Minnesota Duluth
+1 records from ICN - Herbário do Instituto de Ciências Naturais
+1 records from El banco de datos del Herbario HCIB en línea (Fase I): Implementación del Sistema Biótica
+1 records from MBM - Herbário do Museu Botânico Municipal
+1 records from Oskarshamn herbarium (OHN)
+1 records from La familia Asteraceae en México. Fase VI
+1 records from UCBG TAPIR Provider
+1 records from MBM herbarium - Museu Botânico Municipal \ Curitiba - Herbário Virtual REFLORA
+2 records from EURISCO, The European Genetic Resources Search Catalogue
+2 records from MPM Milwaukee Public Museum Herbarium
+2 records from Herbarium Senckenbergianum (FR)
+2 records from IAC - Herbário do Instituto Agronômico de Campinas
+2 records from University of Tennessee Vascular Herbarium
+2 records from Canadian Museum of Nature Palynology Collection
+2 records from CONN
+2 records from Geneva Herbarium – De Candolle&apos;s Prodromus (G-DC)
+3 records from Pl@ntNet automatically identified occurrences
+4 records from R. L. McGregor Herbarium Vascular Plants Collection
+4 records from Deaver Herbarium (Northern Arizona University)
+4 records from International Barcode of Life project (iBOL)
+4 records from Rutgers University, Chrysler Herbarium
+4 records from Flora de las playas y dunas costeras de México
+5 records from University of Alberta Vascular Plant Herbarium (ALTA-VP)
+5 records from North Carolina State University Vascular Plant Herbarium
+5 records from UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+6 records from Université Lyon 1
+7 records from Bell Museum plants
+9 records from CSUSB - California State University San Bernardino
+9 records from Catálogo electrónico de especímenes depositados en el Herbario de la Universidad de Texas en Austin, Fase IV (Ejemplaresimagenes)
+10 records from Plant Resources Center
+10 records from Arizona State University Vascular Plant Herbarium
+10 records from UTEP Plants (Arctos)
+10 records from Desert Botanical Garden Herbarium
+11 records from SJSU - Carl W. Sharsmith Herbarium, San Jose State University
+12 records from Sistematización del Herbario Nacional Forestal Biól Luciano Vela Gálvez
+12 records from Tropicos Specimen Data
+13 records from Carnegie Museum of Natural History Herbarium
+14 records from SFSU - Vascular Plants of the Harry D. Thiers Herbarium at San Francisco State University
+14 records from University of British Columbia Herbarium (UBC) - Vascular Plant Collection
+15 records from LOB - California State University, Long Beach Herbarium
+15 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+18 records from SFV - California State University, Northridge
+19 records from CDA - California Department of Food and Agriculture
+19 records from PUA - Pacific Union College Hebarium
+20 records from Naturalis Biodiversity Center (NL) - Botany
+22 records from SDSU - San Diego State University Herbarium
+23 records from Harvard University Herbaria: All Records
+26 records from Intermountain Herbarium (Vascular plants &amp; algae)
+33 records from HSC - Humboldt State University Vascular Plant Herbarium
+33 records from University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+34 records from Royal Botanic Garden Edinburgh Herbarium (E)
+35 records from Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (Plantas vasculares)
+37 records from NatureServe Network Species Occurrence Data
+38 records from LA - University of California, Los Angeles Herbarium
+39 records from Phanerogamic Botanical Collections (S)
+52 records from CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+65 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+83 records from DAV - UC Davis Herbarium
+90 records from UCSB - University of California Santa Barbara Herbarium
+105 records from OBI - Robert F. Hoover Herbarium, Cal Poly State University
+105 records from Puntos de presencia en Baja California (Botany)
+186 records from NMNH Extant Specimen Records (USNM, US)
+204 records from SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+217 records from The New York Botanical Garden Herbarium (NY)
+309 records from UCR - University of California, Riverside Herbarium - Vascular Plants
+357 records from SD - SD Herbarium, San Diego Natural History Museum
+637 records from CAS Botany (BOT)
+652 records from RSA - California Botanic Garden Herbarium</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:11:12Z</dateStamp>
+      <citation identifier="10.15468/dl.muyxn3">GBIF Occurrence Download 10.15468/dl.muyxn3</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0130519-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

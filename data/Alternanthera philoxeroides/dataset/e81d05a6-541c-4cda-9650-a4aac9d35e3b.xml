@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e81d05a6-541c-4cda-9650-a4aac9d35e3b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a2auot</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=ect</alternateIdentifier>
+        <alternateIdentifier>e81d05a6-541c-4cda-9650-a4aac9d35e3b</alternateIdentifier>
+    <title>ECT herbarium - Embrapa Clima Temperado - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Heiden</surName>
+    </individualName>
+<organizationName>Embrapa Clima Temperado - ECT</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Rodovia BR 392, km 78, Caixa Postal 403</deliveryPoint><city>Pelotas</city><administrativeArea>RS</administrativeArea><postalCode>96010-971</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>gustavo.heiden@embrapa.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Heiden</surName>
+    </individualName>
+<organizationName>Embrapa Clima Temperado - ECT</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Rodovia BR 392, km 78, Caixa Postal 403</deliveryPoint><city>Pelotas</city><administrativeArea>RS</administrativeArea><postalCode>96010-971</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>gustavo.heiden@embrapa.br</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-01-15
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The ECT herbarium (Embrapa Clima Temperado, Pelotas, RS, Brazil) started from a collection of vouchers from crop wild relatives’ accessions in 1986. Since 2003, the collection broadened its focus and increased specimen numbers focusing on temperate and subtropical Brazilian ecosystems, mostly along the Pampas and Atlantic Rainforest. In 2016, the herbarium was registered in Index Herbariorum. Currently, ECT harbors 10,537 exsiccate, and the new specimens are continuously photographed and databased. To increase the accessibility of the herbarium collections, since it is in the rural area in a medium-sized municipality in a sparsely populated region of countryside Brazil, publishing online is not simply an alternative, but must be considered a priority and the only way for the collection to be widely accessible by third parties and to keep itself updated. Complimentary for putting a great effort into digitization, the policy of the herbarium is to immediately distribute duplicates to other nine major Brazilian herbaria easing specimen’s consultation for identification by collaborating specialists. In 2015 ECT joined REFLORA and INCT Herbário Virtual da Flora e dos Fungos projects and databasing started. Currently, 100% of label data is available on line at JABOT (http://ect.jbrj.gov.br/v2/consulta.php), Reflora (http://reflora.jbrj.gov.br/reflora/herbarioVirtual/ConsultaPublicoHVUC/ResultadoDaConsultaNovaConsulta.do?lingua&amp;#61;en), SiBBr (https://collectory.sibbr.gov.br/collectory/public/show/co75), speciesLink (http://www.splink.org.br/form?lang&amp;#61;pt&amp;amp;collectioncode&amp;#61;ECT), and GBIF (https://www.gbif.org/dataset/e81d05a6-541c-4cda-9650-a4aac9d35e3b).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Subtropical and temperate Brazil.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-57.612</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-48.164</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-25.642</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.797</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Heiden</surName>
+    </individualName>
+<organizationName>Embrapa Clima Temperado - ECT</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Rodovia BR 392, km 78, Caixa Postal 403</deliveryPoint><city>Pelotas</city><administrativeArea>RS</administrativeArea><postalCode>96010-971</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>gustavo.heiden@embrapa.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Reflora coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>reflora@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:45Z</dateStamp>
+      <citation>Heiden G, Lanna J (2022). ECT herbarium - Embrapa Clima Temperado - Herbário Virtual REFLORA. Version 1.124. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/a2auot accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=ect</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

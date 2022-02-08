@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a5faa00c-028b-4a7d-9dda-e5c39a9678f7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/c8p4qe</alternateIdentifier>
+        <alternateIdentifier>a5faa00c-028b-4a7d-9dda-e5c39a9678f7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.brc.ac.uk/ipt/resource?r=uksba_cyprus_2019</alternateIdentifier>
+    <title>UKSBA Cyprus - Habitat Samples, 2019</title>
+    <creator>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Jodey</givenName>          <surName>Peyton</surName>
+    </individualName>
+<organizationName>CEH Wallingford</organizationName><positionName>Ecologist</positionName>    <address>
+<deliveryPoint>CEH Wallingford</deliveryPoint><city>Crowmarsh Gifford</city><administrativeArea>Oxon</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>joyt@ceh.ac.uk</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8313-6194</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>J. Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Fellow</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>om@ceh.ac.uk</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </metadataProvider>
+      <pubDate>
+      2020-06-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>102 paired habitat samples collected across the UK Sovereign Base Areas in Cyprus. One sample within each pair was targeted on a stand of a non-native species, whereas the other sample was in a similar habitat patch nearby without the focal non-native. Samples were irregular sizes in order to accommodate different non-native stand types.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Mediterranean</keyword>
+              <keyword>non-native</keyword>
+              <keyword>habitat</keyword>
+              <keyword>Cyprus</keyword>
+              <keyword>plants</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Samplingevent</keyword>
+              <keyword>invasive species</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>UK Sovereign Base Areas, Cyprus</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>32.747</westBoundingCoordinate>
+                      <eastBoundingCoordinate>33.907</eastBoundingCoordinate>
+                      <northBoundingCoordinate>35.082</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.554</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2019-02-25
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-03-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Improving knowledge of non-native species on Cyprus and their impacts.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Three botanists determined taxa in the field, with frequent reference to relevant Floras (e.g. Meikle, Viney etc.) Records were captured in the field using ArcPad 10.2 on a GPS enabled tablet computer. All records were manually checked subsequent to field-work in the process of creating the current resource.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>UK Sovereign Base Areas of Akrotiri and Dhekelia</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>102 paired habitat samples collected across the UK Sovereign Base Areas in Cyprus. One sample within each pair was targeted on a stand of a non-native species, whereas the other sample was in a similar habitat patch nearby without the focal non-native. Samples were irregular sizes in order to accommodate different non-native stand types.
+
+Sampled stand extents were captured on GPS-enabled tablet computers using ArcPad 10.2, and stand polygons are provided here using the footprintWKT field (EPSG:32636).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Three botanists determined taxa in the field, with frequent reference to relevant Floras (e.g. Meikle, Viney etc.) Records were captured in the field using ArcPad 10.2 on a GPS-enabled tablet computer. All records were manually checked subsequent to field-work in the process of creating the current resource.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="2af94099-7bc6-43d4-bca7-1d731b9d32f6">
+          <title>UKSBA Cyprus - Habitat samples, 2019</title>
+          <personnel>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>102 paired habitat samples collected across the UK Sovereign Base Areas in Cyprus. One sample within each pair was targeted on a stand of a non-native species, whereas the other sample was in a similar habitat patch nearby without the focal non-native. Samples were irregular sizes in order to accommodate different non-native stand types.</para>
+          </abstract>
+          <funding>
+              <para>Darwin Plus 056</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>UK Sovereign Base Areas, Cyprus</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>102 paired habitat samples collected across the UK Sovereign Base Areas in Cyprus. One sample within each pair was targeted on a stand of a non-native species, whereas the other sample was in a similar habitat patch nearby without the focal non-native. Samples were irregular sizes in order to accommodate different non-native stand types.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:57Z</dateStamp>
+      <citation>Pescott O, Peyton J, Mountford J O (2020). UKSBA Cyprus - Habitat Samples, 2019. Version 1.1. Biological Records Centre. Sampling event dataset https://doi.org/10.15468/c8p4qe accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

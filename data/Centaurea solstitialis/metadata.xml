@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.f9pwmx"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0130628-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.f9pwmx</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Centaurea solstitialis L.&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Herbario EMMA. Herbario de la Escuela Técnica Superior de Ingenieros de Montes. UPM
+1 records from Herbario de la Universidad de Sevilla, SEV-Historico
+1 records from Herbarium of Jyväskylä University Museum
+1 records from Plant Specimens of Kurashiki Museum of Natural History
+1 records from ALA species sightings and OzAtlas
+1 records from Flora exsiccata Bavarica
+1 records from The Erysiphales Collection at the Botanische Staatssammlung München
+1 records from Universidad Politécnica de Madrid, Dpto. Biología Vegetal, Banco de Germoplasma
+1 records from Museu Darder de Banyoles
+1 records from Plant specimens depodited in Osaka Museum of Natural History, Japan
+1 records from Clémence Lortet herbarium
+1 records from Photographs of higher plants, mosses, fungi, lichens, and algae
+1 records from FloVegSI - Floristical and fitocenological database of ZRC SAZU
+1 records from Floristic records from survey studies of the Bayerisches Landesamt für Umwelt
+1 records from Polish gene bank – passport data of plants accessions which are important in human life
+1 records from Observations floristiques PNM issues de la base de données flore du Conservatoire botanique national alpin
+1 records from Botany Division, Yale Peabody Museum
+1 records from Dr Mary Gillham Archive Project
+1 records from Botanical Collections of the Åbo Akademi (TUR-A)
+1 records from UKSBA Cyprus - Habitat Samples, 2019
+1 records from Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+1 records from Données naturalistes de Pierre HUGUENY
+1 records from Muséum d&apos;histoire naturelle de Nîmes
+1 records from HCDAL - Herbário Caririense Dárdano de Andrade-Lima
+1 records from MHA Herbarium: collections of vascular plants
+1 records from PAMP-tracheo: Vascular plants in Ribera Occidental de Navarra (Spain). PhD project, L. Garde
+1 records from PlutoF platform reference-based occurrences
+1 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+1 records from BODATSA: Botanical Collections
+1 records from MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul
+1 records from Observations faune et flore du Parc national des Écrins
+1 records from Données espèces - Expertise IQE 44
+1 records from Universidad de Navarra, Herbarium: PAMP-Vascular Plants
+1 records from Royal Ontario Museum Green Plant Herbarium (TRT)
+1 records from Inventaire permanent de la flore du massif armoricain
+1 records from Inventaire de la flore de Bordeaux Métropole 2013
+1 records from Eastern Kentucky University, Ronald L. Jones Herbarium
+1 records from Global Register of Introduced and Invasive Species - United States (Contiguous) V2.0
+1 records from Herbarium specimens of Herbiers Universitaires de Clermont-Ferrand (CLF)
+1 records from Earth Guardians Weekly Feed
+1 records from University of Vermont, Pringle Herbarium
+1 records from Conventions d’étude sur la biodiversité française – Partenariats du Service du patrimoine naturel
+1 records from Living Collection of the Gothenburg Botanical Garden
+1 records from Données espèces - Expertise IQE 57
+1 records from IPA - Herbário - IPA Dárdano de Andrade Lima
+1 records from Données naturalistes de GAULTIER Cyrille
+1 records from Herbarium specimens of Limoges university (LIMO)
+1 records from JCT AVH data
+1 records from Plants of Ukrainian flora from collections of M. I. Berezhnyj
+1 records from Données espèces - Expertise IQE 122
+1 records from Clemson University Herbarium
+1 records from Données naturalistes de Cyril EPICOCO
+1 records from Magnoliophyta del Herbario BAB (Instituto de Recursos Biológicos CIRN-INTA)
+1 records from SPF - Herbário da Universidade de São Paulo
+1 records from ICN - Herbário do Instituto de Ciências Naturais
+1 records from IICT Herbário LISC
+1 records from University of Alberta Vascular Plant Herbarium (ALTA-VP)
+1 records from NMNH Material Samples (USNM)
+1 records from B herbarium - Botanischer Garten und Botanisches Museum Berlin-Dahlem Herbarium - Herbário Virtual REFLORA
+1 records from Tasmanian Natural Values Atlas
+1 records from Muséum d’histoire naturelle de Grenoble
+1 records from BioFokus
+1 records from HUEFS - Herbario da Universidade Estadual de Feira de Santana
+1 records from Herbier Louis-Marie (QFA) - Collection de plantes vasculaires
+1 records from CESJ - Herbário Leopoldo Krieger
+1 records from Collection botanique Jaubert et Saul (BOUM)
+1 records from HO AVH data
+1 records from RB - Rio de Janeiro Botanical Garden Herbarium Collection
+1 records from Données ONF faune-flore-fonge
+1 records from SDSU - San Diego State University Herbarium
+1 records from Some botanical researches of the Faculty of Biology of Taras Shevchenko national university of Kyiv (1930s-2000s)
+1 records from Données espèces - Expertise IQE 2
+1 records from Inventaire de la flore de Lot-et-Garonne 2015
+1 records from Collection botanique Le Grand A. (BOUM)
+1 records from ALCB - Herbário Alexandre Leal Costa
+1 records from Sammlung altes Gartenherbar Herbarium Hamburgense HBG
+1 records from SEWBReC Vascular Plants (South East Wales)
+1 records from Application INPN Espèces: Observations naturalistes, participatives et opportunistes, fondées sur des photographies
+1 records from Jeu de données convention FEGVE-SPN-2012-2016
+1 records from Herbier Durrieu (TL 109)
+1 records from Twelve local floras of European Russia
+1 records from Vascular plant specimens of Akita Prefectural Museum
+1 records from Collection botanique Mulon L. (BOUM)
+1 records from IBF Monitoring of Vascular Plants
+1 records from BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+1 records from Carnet B Centre - lot 2012
+2 records from Botanical Garden Collection
+2 records from The AAU Herbarium Database
+2 records from Herbario de la Facultad de Farmacia de la Universidad Complutense de Madrid (MAF)
+2 records from Herbário João de Carvalho e Vasconcellos, I.S.A./U.L.
+2 records from Vascular plant specimens of National Museum of Nature and Science (TNS)
+2 records from Israel Nature and Parks Authority
+2 records from melu_avh
+2 records from Plant specimens in the Museum of Nature and Human Activities, Hyogo Prefecture, Japan
+2 records from MPM Milwaukee Public Museum Herbarium
+2 records from Herbario de la Universidad Pública de Navarra, Pamplona: UPNA-H
+2 records from University of South Carolina, A. C. Moore Herbarium
+2 records from Norwegian Species Observation Service
+2 records from LOB - California State University, Long Beach Herbarium
+2 records from The Vascular Plants Collection of the University of Goettingen
+2 records from Wikiplantbase #Emilia-Romagna
+2 records from Type herbarium, Göttingen (GOET)
+2 records from HAS - Herbário Alarich Rudolf Holger Schultz
+2 records from Données naturalistes de Jeanne VALLET
+2 records from University of Michigan Herbarium
+2 records from Kastikka Literature Sources
+2 records from Invasive Plant Atlas of the MidSouth (IPAMS)
+2 records from Allan Herbarium (CHR)
+2 records from Welsh BSBI data (ex-VPDB dataset) at hectad resolution
+2 records from University of Graz, Institute of Plant Sciences - Herbarium GZU
+2 records from Collection d&apos;animaux marins et plantes du Museum d&apos;Histoire Naturelle de Nice
+2 records from Geneva Herbarium – Burnat Herbarium (G-BU)
+2 records from CONN
+2 records from H.A. Stephens Herbarium
+2 records from Herbarium specimens of Association des Naturalistes de la Vallée du Loing (ANVL)
+2 records from Colección preservada Jardín Botánico de la Patagonia Extraandina
+2 records from Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium
+2 records from North Carolina State University Vascular Plant Herbarium
+2 records from FUEL - Herbário da Universidade Estadual de Londrina
+2 records from Royal Botanic Garden Edinburgh Living Plant Collections (E)
+3 records from Auckland Museum Botany Collection
+3 records from Herbario COFC de la Universidad de Córdoba: colección histórica
+3 records from EURISCO, The European Genetic Resources Search Catalogue
+3 records from TUR Vascular plant collections of the Turku University, Herbarium generale
+3 records from Universidad de Oviedo. Departamento de Biología de Organismos y Sistemas: FCO-Briof
+3 records from Données naturalistes de Damien AVRIL
+3 records from Bernice P. Bishop Museum
+3 records from University of New Mexico Herbarium
+3 records from Herbier E. P. Larchevêque (BOUM)
+3 records from Plant Resources Center
+3 records from Vascular plant herbarium, UiT Tromsø Museum
+3 records from Vascular plant herbarium TRH, NTNU University Museum
+3 records from Floristic Databases of Mecklenburg-Pomerania - Higher Plants
+3 records from Herbarium specimens of CBNA (GAP)
+3 records from Central Siberian Botanical Garden Herbarium (NS, NSK)
+3 records from Herbarium specimens of Jardins botaniques and Conservatoire Botanique of Nancy (NCY)
+3 records from Chapter 7: Linnaean Plant Names and their Types (part C)
+3 records from Weber State University Herbarium
+3 records from New records in vascular plants alien to Kyrgyzstan
+3 records from SP - Herbário do Estado &quot;Maria Eneyda P. Kaufmann Fidalgo&quot; - Coleção de Fanerógamas
+3 records from Canadian Museum of Nature Herbarium
+3 records from University of Tennessee Vascular Herbarium
+3 records from Malezas introducidas en México
+3 records from DNA AVH data
+3 records from University of North Carolina at Chapel Hill Herbarium
+3 records from Royal BC Museum - Herbarium (V)
+3 records from Muséum des Volcans
+3 records from Steiermärkisches Landesmuseum Joanneum - Herbarium GJO
+3 records from Estonian Museum of Natural History Department of Botany
+3 records from Kastikka Small Collections
+3 records from Colección Plantas Vasculares - Herbario del Departamento de Biología, Bioquímica y Farmacia de la Universidad Nacional del Sur
+3 records from Dutch Vegetation Database
+3 records from Cartografía de vegetación a escala de detalle 1:10.000 de la masa forestal de Andalucía
+3 records from Catálogo Florístico Histórico de Navarra. Gobierno de Navarra
+4 records from Dataflos
+4 records from Universidad de Oviedo. Departamento de Biología de Organismos y Sistemas: FCO
+4 records from Jardín Botánico de Córdoba: Herbarium COA
+4 records from Staatliches Museum für Naturkunde Stuttgart, Herbarium
+4 records from Herbarium Senckenbergianum Görlitz (GLM)
+4 records from Oklahoma Vascular Plants Database Provider
+4 records from Atlas Flora Danica
+4 records from Vascular Plant Specimen database of Kanagawa Prefectural Museum of Natural History
+4 records from MGC Herbarium of University of Malaga (Spain): MGC-Cormof dataset
+4 records from SysTax - Herbaria
+4 records from Données d&apos;occurrences Espèces issues de l&apos;inventaire des ZNIEFF
+4 records from Charles University Prague - Herbarium PRC
+4 records from Shropshire Ecological Data Network database
+4 records from Muséum d’histoire naturelle du Mans
+4 records from Manchester Museum, University of Manchester, Botany Collection
+4 records from Natural History Museum Maastricht (NL) - Herbarium
+4 records from University of Lethbridge Herbarium (LEA)
+4 records from PERTH AVH data
+5 records from Herbario ABH (Universidad de Alicante)
+5 records from Herbario COFC de la Universidad de Córdoba: colección general de plantas vasculares
+5 records from inatura - Erlebnis Naturschau Dornbirn
+5 records from Colorado State University Herbarium
+5 records from Herbarium specimens, Harmas J.H. Fabre (FABR - Sérignan-du-Comtat) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+5 records from MCCC - Mendocino College Coast Center Herbarium
+5 records from LERN Records
+5 records from Michigan State University Herbarium Vascular Plants
+5 records from Herbario de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid (MACB)
+5 records from Flore de Franche-Comté
+5 records from University of Jena, Herbarium Haussknecht - Herbarium JE
+5 records from SANT Herbarium vascular plants collection
+5 records from Desert Botanical Garden Herbarium
+5 records from UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+6 records from Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (Plantas vasculares)
+6 records from Kathryn Kalmbach Herbarium
+6 records from Banco de Datos de la Biodiversidad de la Comunitat Valenciana
+6 records from Precis Plant Data
+6 records from Herbarium of University of Coimbra (COI )
+6 records from INSDC Sequences
+6 records from Wikiplantbase #Liguria
+6 records from Puntos de presencia en Baja California (Botany)
+6 records from UNSW AVH data
+6 records from Rutgers University, Chrysler Herbarium
+6 records from UTEP Plants (Arctos)
+6 records from Staten Island Museum
+6 records from Vascular Plant Herbarium, UiB
+7 records from Leiner-Herbar Konstanz
+7 records from Jardin Botanique de Lyon
+7 records from VIT Herbarium - Vascular Plants (The Natural History Museum of Alava)
+7 records from Conservation Atlas Surveys
+7 records from SysTax - Botanical Gardens
+7 records from PRECIS
+7 records from MBM - Herbário do Museu Botânico Municipal
+7 records from SFV - California State University, Northridge
+7 records from OAC-BIO Herbarium
+7 records from Université d&apos;Aix-Marseille
+8 records from Herbario HSS Finca La Orden-Valdesequera (CICYTEX). Junta de Extremadura
+8 records from Scottish SNH-funded BSBI records
+8 records from Biodiversitätsdatenbank Salzburg
+8 records from Données naturalistes de Thomas GAILLARD
+8 records from Deaver Herbarium (Northern Arizona University)
+8 records from University of British Columbia Herbarium (UBC) - Vascular Plant Collection
+9 records from Herbario de Plantas Vasculares de la Universidad de Salamanca: SALA
+9 records from Base de datos de plantas vasculares del País Vasco: ARAN-EH
+9 records from Botany (UPS)
+9 records from Florient - a database dealing with historic wild plant occurrences
+9 records from Florabank1 - A grid-based database on vascular plant distribution in the northern part of Belgium (Flanders and the Brussels Capital region)
+9 records from FLORUS: miscellaneous records
+9 records from Local floras of Russia: a compilative dataset
+9 records from Colección de plantas vasculares del Herbario de la Universidad de Granada.
+10 records from Herbarium Senckenbergianum (FR)
+10 records from Herbarium specimens of the Muséum d&apos;Histoire Naturelle of Aix-en-Provence (AIX)
+10 records from Arizona State University Vascular Plant Herbarium
+10 records from Suffolk Biodiversity Information Service (SBIS) Dataset
+10 records from Levantamiento florístico en área del Proyecto GEF Corredores Biológicos de Montaña, Zona Central de Chile
+11 records from R. L. McGregor Herbarium Vascular Plants Collection
+11 records from Wikiplantbase #Sardegna
+11 records from Herbarium Erlangense
+11 records from University of Vienna, Institute for Botany - Herbarium WU
+11 records from Vascular plant herbarium (KMN) UiA
+11 records from Oskarshamn herbarium (OHN)
+11 records from UCSB - University of California Santa Barbara Herbarium
+11 records from Données acquises dans le cadre de l&apos;activité du bureau d&apos;étude BIOTOPE (1994 - 2013)
+12 records from Herbarium of Namur
+12 records from SFSU - Vascular Plants of the Harry D. Thiers Herbarium at San Francisco State University
+12 records from Other BSBI Scottish data up to 2015
+13 records from Données naturalistes d&apos;Olivier ESCUDER
+13 records from Flora of Worcestershire
+13 records from Wikiplantbase Sicilia
+13 records from Artportalen (Swedish Species Observation System)
+13 records from LA - University of California, Los Angeles Herbarium
+13 records from INRAE Villa Thuret
+14 records from NE AVH data
+14 records from Collections of Bioclass, school #179, Moscow
+14 records from Records of vascular plants, bryophytes and lichens from Ukrainian Grassland Database
+14 records from Herbarium Horti Botanici Pisani (PI), Sistema Museale di Ateneo, Università di Pisa
+14 records from University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+15 records from Carnegie Museum of Natural History Herbarium
+15 records from Tiroler Landesmuseum Ferdinandeum
+16 records from Segetal flora of Italy
+16 records from Vascular Plant Herbarium, Oslo (O) UiO
+16 records from Colección de plantas vasculares del Herbario &quot;Jaime Andrés Rodríguez&quot;. LEB
+16 records from Waarnemingen.be - Non-native plant occurrences in Flanders and the Brussels Capital Region, Belgium
+18 records from Natural History Museum (London) Collection Specimens
+19 records from Données Herbiers de l&apos;Université de Strasbourg
+21 records from Colección de Asterales del Museo Botánico CORD
+21 records from United Herbaria of the University and ETH Zurich
+21 records from Geneva Herbarium – De Candolle&apos;s Prodromus (G-DC)
+21 records from Intermountain Herbarium (Vascular plants &amp; algae)
+22 records from Geneva Herbarium – General Collection (G)
+23 records from International Barcode of Life project (iBOL)
+24 records from Colección de plantas vasculares del herbario de la Universitat de València (VAL)
+24 records from MEL AVH data
+25 records from Vascular Plant Collection - University of Washington Herbarium (WTU)
+25 records from Vascular Plant Collection
+25 records from Collections and observation data National Museum of Natural History Luxembourg
+26 records from Masaryk University - Herbarium BRNU
+27 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+27 records from Herbario de la Universidad de Sevilla
+27 records from Institut Botanic de Barcelona (IBB, CSIC-Ajuntament de Barcelona), BC-Plantae
+27 records from Victorian Biodiversity Atlas
+27 records from Herbier de Strasbourg
+28 records from Natural History Museum, Vienna - Herbarium W
+29 records from CeDoc de Biodiversitat Vegetal: BCN-Cormophyta
+29 records from Harvard University Herbaria: All Records
+29 records from HSC - Humboldt State University Vascular Plant Herbarium
+30 records from Données de la flore d’Alsace (SBA)
+31 records from Instituto de Botánica Darwinion
+32 records from SD - SD Herbarium, San Diego Natural History Museum
+33 records from BRI AVH data
+35 records from TAXA - Flore et habitats naturels de Franche-Comté
+36 records from CANB AVH data
+37 records from OBI - Robert F. Hoover Herbarium, Cal Poly State University
+38 records from Herbarium Berolinense, Berlin (B)
+40 records from Australasian Virtual Herbarium (AVH) data from the State Herbarium of South Australia (AD)
+42 records from Wikiplantbase #Italia
+48 records from CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+52 records from Tropicos Specimen Data
+53 records from Herbarium Willing at Herbarium Berolinense, Berlin (B)
+53 records from Palynology of a sediment profile from Lake Voulkaria in Greece
+54 records from Observation.org, Nature data from around the World
+60 records from NSW AVH data
+61 records from naturgucker
+62 records from The New York Botanical Garden Herbarium (NY)
+64 records from Herbarium  BAK
+65 records from Carnet en Ligne
+67 records from DAV - UC Davis Herbarium
+68 records from SA Flora (BDBSA)
+72 records from CDA - California Department of Food and Agriculture
+72 records from SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+76 records from Lund Botanical Museum (LD)
+76 records from Sistema de Información de la vegetación Ibérica y Macaronésica
+79 records from Pl@ntNet observations
+80 records from FLORIVON
+83 records from Observations floristiques issues de la base de données du Conservatoire botanique national alpin
+86 records from NMNH Extant Specimen Records (USNM, US)
+86 records from Vascular Plant Herbarium: Herbarium Generale
+87 records from UCR - University of California, Riverside Herbarium - Vascular Plants
+104 records from Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+107 records from RSA - California Botanic Garden Herbarium
+107 records from Observations floristiques floutées issues de la base de données flore du Conservatoire botanique national alpin
+111 records from CSIC-Real Jardín Botánico-Anthos. Sistema de Información de las Plantas de España
+117 records from Wikiplantbase #Toscana
+118 records from Swiss National Databank of Vascular Plants
+119 records from Meise Botanic Garden Herbarium (BR)
+123 records from Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria
+126 records from BSBI data from several English counties, up to 2015
+145 records from CAS Botany (BOT)
+149 records from Université Lyon 1
+151 records from Phytochorologie des départements français
+152 records from Royal Botanic Garden Edinburgh Herbarium (E)
+158 records from Moscow University Herbarium (MW)
+201 records from Phanerogamic Botanical Collections (S)
+299 records from Observations du Conservatoire botanique national du Bassin parisien.
+379 records from Naturalis Biodiversity Center (NL) - Botany
+484 records from FloraCAT: Banco de datos de los cormófitos de Cataluña
+516 records from Pl@ntNet automatically identified occurrences
+633 records from Flore du Bassin parisien (CBNBP)
+637 records from NSW BioNet Atlas
+652 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+994 records from Flora von Deutschland (Phanerogamen)
+1323 records from Observations floristiques - plateforme SINP régionale SILENE   PACA
+1724 records from INPN - Données flore des CBN agrégées par la FCBN
+2406 records from BLM - National Invasive Species Information Management System - Plants</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:41:18Z</dateStamp>
+      <citation identifier="10.15468/dl.f9pwmx">GBIF Occurrence Download 10.15468/dl.f9pwmx</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0130628-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

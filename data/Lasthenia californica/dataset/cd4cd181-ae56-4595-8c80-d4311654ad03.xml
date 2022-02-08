@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cd4cd181-ae56-4595-8c80-d4311654ad03"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.5886/qi7bks</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=nfld-specimens</alternateIdentifier>
+        <alternateIdentifier>cd4cd181-ae56-4595-8c80-d4311654ad03</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=nfld-specimens</alternateIdentifier>
+    <title>Agnes Marion Ayre Herbarium (NFLD)</title>
+    <creator>
+    <individualName>
+<givenName>Julissa</givenName>          <surName>Roncal</surName>
+    </individualName>
+<organizationName>Memorial University of Newfoundland</organizationName><positionName>Assistant Professor and Curator</positionName>    <address>
+<deliveryPoint>232 Elizabeth Avenue</deliveryPoint><city>St. John&apos;s</city><administrativeArea>NL</administrativeArea><postalCode>A1B 3X9</postalCode><country>CANADA</country>    </address>
+<phone>1 709 864 2241</phone><electronicMailAddress>jroncal@mun.ca</electronicMailAddress><onlineUrl>https://julissaroncal.wordpress.com/about-me-2/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">=daSOqlAAAAAJ&amp;hl=en</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Olivier</givenName>          <surName>Norvez</surName>
+    </individualName>
+<organizationName>Centre sur la Biodiversité de l&apos;Université de Montréal</organizationName><positionName>Research Officer</positionName>    <address>
+<deliveryPoint>4101 rue Sherbrooke Est</deliveryPoint><city>Montreal</city><administrativeArea>QC</administrativeArea><postalCode>H1X 2B2</postalCode><country>CANADA</country>    </address>
+<phone>1 514 343 2142</phone><electronicMailAddress>olivier.norvez@umontreal.ca</electronicMailAddress><onlineUrl>http://canadensys.net/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Olivier</givenName>          <surName>Norvez</surName>
+    </individualName>
+<organizationName>Centre sur la Biodiversité de l&apos;Université de Montréal</organizationName><positionName>Research Officer</positionName>    <address>
+<deliveryPoint>4101 rue Sherbrooke Est</deliveryPoint><city>Montreal</city><administrativeArea>QC</administrativeArea><postalCode>H1X 2B2</postalCode><country>CANADA</country>    </address>
+<electronicMailAddress>olivier.norvez@umontreal.ca</electronicMailAddress><onlineUrl>http://www.canadensys.net/</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This collection contains approximately 60,000 bryophyte specimens, representing the most complete collection for Newfoundland and Labrador, and ranking within the top five bryophyte collections in Canada. The collection also contains approximately 40,000 vascular plant specimens, of which over 90% were collected in Newfoundland and Labrador. It houses the original collections of earlier plant explorers in the province like Agnes Ayres and Earnest Rouleau, who founded the herbarium with the sponsorship of the NL Government in the late 1940’s to early 1950’s</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence records</keyword>
+              <keyword>herbarium specimens</keyword>
+              <keyword>Newfoundland and Labrador</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://portal.neherbaria.org/portal/collections/misc/collprofiles.php?collid=33#</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Most specimens were collected in Canada</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-142.36</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-42.73</eastBoundingCoordinate>
+                      <northBoundingCoordinate>71.03</northBoundingCoordinate>
+                      <southBoundingCoordinate>42.27</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1882
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1882
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ericaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Plantaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Orobanchaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caprifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Campanulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Viburnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Supports research and teaching activities at Memorial University of Newfoundland. The resource is also available to the local government, the private industry sector and the general public.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Julissa</givenName>          <surName>Roncal</surName>
+    </individualName>
+<organizationName>Memorial University of Newfoundland</organizationName><positionName>Assistant Professor and Curator</positionName>    <address>
+<deliveryPoint>232 Elizabeth Avenue</deliveryPoint><city>St. John&apos;s</city><administrativeArea>NL</administrativeArea><postalCode>A1B 3X9</postalCode><country>CANADA</country>    </address>
+<phone>1 709 864 2241</phone><electronicMailAddress>jroncal@mun.ca</electronicMailAddress><onlineUrl>https://julissaroncal.wordpress.com/about-me-2/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">=daSOqlAAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Examine specimen and annotation labels. New barcode accession numbers were assigned to every specimen (starting with NFLD000001)</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Digitization of vascular plant specimens from the Agnes Marion Ayre Herbarium (NFLD)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data is manually digitized as text from specimen labels into the Symbiota Portal administered by the Consortium of North Eastern Herbaria. Specimens are not always georeferenced. Specimens are given an identification by the collector in the field, and sometimes these identifications are revised by experts. Scientific names and authors are verified in the Symbiota portal.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>A visual quality control of the data is conducted for every batch of specimens entered. Specimens are validated before data-basing to ensure identification accuracy.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-06T23:18:30Z</dateStamp>
+      <citation identifier="http://doi.org/10.5886/qi7bks">Roncal J, Norvez O (2020). Agnes Marion Ayre Herbarium (NFLD). Version 1.4. Memorial University of Newfoundland. Occurrence dataset https://doi.org/10.5886/qi7bks accessed via GBIF.org on 2022-02-06.</citation>
+              <physical>
+                  <objectName>Canadensys Explorer</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>HTML</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://data.canadensys.net/explorer/occurrences/search?q=data_resource_uid%3Adr31#tab_mapView</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <physical>
+                  <objectName>GBIF data portal</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>HTML</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://www.gbif.org/dataset/cd4cd181-ae56-4595-8c80-d4311654ad03</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://data.canadensys.net/ipt/logo.do?r=nfld-specimens</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>NFLD</collectionIdentifier>
+                <collectionName>Agnes Marion Ayre Herbarium</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

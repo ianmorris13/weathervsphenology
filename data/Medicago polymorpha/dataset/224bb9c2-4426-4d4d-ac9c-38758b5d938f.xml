@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="224bb9c2-4426-4d4d-ac9c-38758b5d938f"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/oyj27o</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=puj-006-herbario</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=puj-006-herbario</alternateIdentifier>
+        <alternateIdentifier>10.15468/zxyh2y</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=puj-006-herbario</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=puj-006-herbario</alternateIdentifier>
+        <alternateIdentifier>224bb9c2-4426-4d4d-ac9c-38758b5d938f</alternateIdentifier>
+    <title>Herbario Pontificia Universidad Javeriana</title>
+    <creator>
+    <individualName>
+<givenName>Néstor</givenName>          <surName>García</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Investigador</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320 ext 4304</phone><electronicMailAddress>nestor.garcia@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>León Gómez</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Investigador</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320 Ext 4303</phone><electronicMailAddress>miguel.leon@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jorge Hernán</givenName>          <surName>Jácome Reyes</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Investigador</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320</phone><electronicMailAddress>jacomej@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Edgar Esteban</givenName>          <surName>Herrera Collazos</surName>
+    </individualName>
+<organizationName>Data Scientist</organizationName><positionName>Data Scientist</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>María Alejandra</givenName>          <surName>Rodríguez Morales</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesional Museo y Herbario</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320 ext 4049</phone><electronicMailAddress>ma-rodriguez@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Néstor</givenName>          <surName>García</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Investigador</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320 ext 4304</phone><electronicMailAddress>nestor.garcia@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Néstor</givenName>          <surName>García</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Investigador</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320</phone><electronicMailAddress>nestor.garcia@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dimitri</givenName>          <surName>Forero</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asociado-Coordinador de Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320</phone><electronicMailAddress>forero-i@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jorge Hernán</givenName>          <surName>Jácome Reyes</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asistente</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320</phone><electronicMailAddress>jacomej@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Miguel</givenName>          <surName>León Gómez</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asistente</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320</phone><electronicMailAddress>miguel.leon@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-11-11
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Plantas, hongos y líquenes depositadas en la colección del Herbario Pontificia Universidad Javeriana. Las colecciones provienen principalmente de la región altoandina de la Cordillera Oriental, cubre 33 departamentos del territorio nacional colombiano e incluye algunos ejemplares de Estados Unidos, Bolivia, Brasil, Costa Rica, Cuba, Ecuador, España, Francia, Guayana Francesa, Guayana Británica, Italia, México, Panamá, Perú, Puerto Rico, República Dominicana, Surinam y Venezuela. 
+Ejemplares representados en 7 filos distribuidos en 24 clases, 132 órdenes y 438 familias. Actualmente cuenta con 13.131 registros identificados hasta especie. La colección de orquídeas se considera como la más representativa e incluye más de 3.912 especímenes, incluyendo colecciones Tipo
+La colecta de ejemplares proviene de diferentes actividades como proyectos de investigación y salidas de campo programadas en las cátedras de la universidad. La publicación de los datos se enmarca bajo un convenio de cooperación acordado entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Pontificia Universidad Javeriana.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Ascomycota</keyword>
+              <keyword>Herbario</keyword>
+              <keyword>Colombia</keyword>
+              <keyword>Taxonomía</keyword>
+              <keyword>Colectas</keyword>
+              <keyword>Etiquetas</keyword>
+              <keyword>Pinophyta</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Identificación</keyword>
+              <keyword>Bryophyta</keyword>
+              <keyword>Pteridophyta</keyword>
+              <keyword>Basidiomycota</keyword>
+              <keyword>Etnobotánica</keyword>
+              <keyword>Marchantiophyta</keyword>
+              <keyword>Plantas útiles</keyword>
+              <keyword>Ejemplares</keyword>
+              <keyword>Anthocerotophyta</keyword>
+              <keyword>Charophyta</keyword>
+              <keyword>Colección</keyword>
+              <keyword>Magnoliophyta</keyword>
+              <keyword>Botánica</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Con una cobertura en el territorio nacional colombiano principalmente de la región altoandina de la Cordillera Oriental. Actualmente los ejemplares cubren 33 departamentos del país (Amazonas, Antioquia, Arauca, Archipiélago de San Andrés, Providencia y Santa Catalina, Atlántico, Bogotá, D.C., Bolívar, Boyacá, Caldas, Caquetá, Casanare, Cauca, Cesar, Chocó, Córdoba, Cundinamarca, Guainía, Guaviare, Huila, La Guajira, Magdalena, Meta, Nariño, Norte De Santander, Putumayo, Quindío, Risaralda, Santander, Sucre, Tolima, Valle Del Cauca, Vaupés, Vichada). 
+Incluye algunos ejemplares de Estados Unidos, Bolivia, Brasil, Costa Rica, Cuba, Ecuador, España, Francia, Guayana Francesa, Guayana Británica, Italia, México, Panamá, Perú, Puerto Rico, República Dominicana, Surinam y Venezuela.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-82.09</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-67.483</eastBoundingCoordinate>
+                      <northBoundingCoordinate>13.923</northBoundingCoordinate>
+                      <southBoundingCoordinate>-4.215</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1760-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-03-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Ejemplares de plantas, líquenes y hongos están representados en 7 filos distribuidos en 24 clases, 132 órdenes y 438 familias. Actualmente cuenta con 13131 registros identificados hasta especie. La colección de orquídeas se considera como la más representativa e incluye más de 3912 especímenes, incluyendo colecciones Tipo. La clasificación taxonómica se basó en: Catálogo de Flora de Colombia (Bernal et al., 2019), Catalogo de la vida (Roskov et al., 2019), Tropicos y The Plant List (2013).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Agaricomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Andreaeopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Anthocerotopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Bryopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Charophyceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Dacrymycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Dothideomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gnetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Leotiomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Marchantiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pezizomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Pinopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Saccharomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Sordariomycetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Sphagnopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Tremellomycetes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Preservar ejemplares de plantas colectadas principalmente en el territorio de Colombia con el propósito de aportar al conocimiento sobre la biodiversidad del país.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Dimitri</givenName>          <surName>Forero</surName>
+    </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asociado-Coordinador de Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(571)3208320 ext 4071</phone><electronicMailAddress>forero-i@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Se recolectan en campo muestras fértiles de plantas o muestras de hongos y líquenes, las cuales corresponden a especímenes enteros o a partes como ramas con flores y/o frutos. Posteriormente, en el laboratorio de procesamiento, se secan, se etiquetan y se identifican para su registro en la Colección.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Con una cobertura en el territorio nacional colombiano principalmente de la región altoandina de la Cordillera Oriental. Actualmente los ejemplares cubren 33 departamentos del país e incluyen especímenes de otros 18 países.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Curar y preservar ejemplares de plantas colectados de diferentes actividades como salidas de campo. Los ejemplares que ingresan a la colección de plantas son colectados, curados e identificados por expertos del grupo.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos fueron validados y depurados con las herramientas recomendadas por el SiB Colombia para mejorar la calidad de datos. La clasificación taxonómica se basó en: Catalogo de Flora de Colombia (Bernal et al., 2019), Catalogo de la vida (Roskov et al., 2019), Tropicos y The Plant List (2013).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Colección de plantas de Herbario Pontificia Universidad Javeriana</title>
+          <personnel>
+    <individualName>
+<givenName>Néstor</givenName>          <surName>García</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenio de Cooperación No. 13-13-014-281 CE entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Pontificia Universidad Javeriana.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Territorio nacional de Colombia principalmente.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Curar y preservar ejemplares de plantas colectados de diferentes actividades como salidas de campo.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:35Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/oyj27o">García N, León Gómez M, Jácome Reyes J H, Herrera Collazos E E, Rodríguez Morales M A (2020). Herbario Pontificia Universidad Javeriana. Version 4.4. Pontificia Universidad Javeriana. Occurrence dataset https://doi.org/10.15472/oyj27o accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Bernal, R., S.R. Gradstein &amp; M. Celis (eds.). 2019. Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá. http://catalogoplantasdecolombia.unal.edu.co</citation>
+      <citation>Roskov Y., Ower G., Orrell T., Nicolson D., Bailly N., Kirk P.M., Bourgoin T., DeWalt R.E., Decock W., Nieukerken E. van, Zarucchi J., Penev L., eds. (2019). Species 2000 &amp; ITIS Catalogue of Life, 2019 Annual Checklist. Digital resource at www.catalogueoflife.org/annual-checklist/2019. Species 2000: Naturalis, Leiden, the Netherlands. ISSN 2405-884X.</citation>
+      <citation>The Plant List (2013). Version 1.1. Published on the Internet; http://www.theplantlist.org/ (accessed 1st January).</citation>
+      <citation>Tropicos.org. Missouri Botanical Garden. 12 Dec 2019&lt;http://www.tropicos.org&gt;</citation>
+              </bibliography>
+              <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/portal-sib/Logo-javeriana.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>HPUJ</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 011</collectionIdentifier>
+                <collectionName>Herbario de la Pontificia Universidad Javeriana</collectionName>
+              </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Exicado</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>30,000</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

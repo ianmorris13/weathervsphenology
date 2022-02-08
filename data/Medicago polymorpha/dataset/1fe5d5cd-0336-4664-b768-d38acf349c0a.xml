@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1fe5d5cd-0336-4664-b768-d38acf349c0a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ighftu</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=herbario_instituto_humboldt</alternateIdentifier>
+        <alternateIdentifier>doi:10.15472/lup6es</alternateIdentifier>
+        <alternateIdentifier>doi:10.15472/j8284t</alternateIdentifier>
+        <alternateIdentifier>10.15472/j8284t</alternateIdentifier>
+        <alternateIdentifier>10.15472/j8284t</alternateIdentifier>
+        <alternateIdentifier>10.15472/lup6es</alternateIdentifier>
+        <alternateIdentifier>10.15472/lup6es</alternateIdentifier>
+        <alternateIdentifier>10.15468/xrapr6</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=herbario_instituto_humboldt</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/iavh/resource.do?r=herbario_instituto_humboldt</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=herbario_instituto_humboldt</alternateIdentifier>
+        <alternateIdentifier>1fe5d5cd-0336-4664-b768-d38acf349c0a</alternateIdentifier>
+        <alternateIdentifier>14430</alternateIdentifier>
+    <title>Colección Herbario Federico Medem Bogotá - FMB</title>
+    <creator>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Administrador Datos Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Claustro de San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Administrador Datos Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Claustro de San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Aura Eugenia</givenName>          <surName>Robles</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Asistente de Investigación 1</positionName>    <address>
+<deliveryPoint>Claustro de San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>aerobles@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humborldt.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alba Janeth</givenName>          <surName>Robles</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Asistente de Investigación 1</positionName>    <address>
+<deliveryPoint>Claustro de San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>ajrobles@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humborldt.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 1 3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-05
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Herbario Federico Meden Bogotá (FMB), del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, fue creado en 1971 por el desaparecido Instituto Nacional de Recursos Naturales INDERENA y posteriormente transferido al Instituto Humboldt en 1995. Su sede principal durante 24 años fue Bogotá y posteriormente se trasladó a Villa de Leyva, Boyacá. A partir de 1995, sus colecciones se incrementaron de cerca de 15000 a más de 100000 ejemplares gracias a las colectas realizadas en el marco de proyectos del Instituto Humboldt, donaciones y de estudios de impacto ambiental. Actualmente, se constituye en el tercer herbario más grande del país y contienen la mejor colección de las áreas de Parques Nacionales Naturales de Colombia.
+
+El objetivo del Herbario es constituirse en una colección de referencia disponible para consulta por parte de los investigadores que lo requieran y a la vez contribuir y fortalecer el inventario nacional de la biodiversidad. Además, cumple la función de ser el receptor de todas las colecciones científicas de plantas que por disposición de los permisos de investigación sean entregadas al Ministerio del Medio Ambiente. Complementariamente, el herbario apoya labores de docencia de colegios y universidades locales y nacionales.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Herbario</keyword>
+              <keyword>Cycadophyta</keyword>
+              <keyword>Gnetophyta</keyword>
+              <keyword>Colombia</keyword>
+              <keyword>plantas vasculares</keyword>
+              <keyword>Pinophyta</keyword>
+              <keyword>Lycopodiophyta</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Rubiaceae.</keyword>
+              <keyword>tipos</keyword>
+              <keyword>Pteridophyta</keyword>
+              <keyword>Bosque seco tropical</keyword>
+              <keyword>Melastomataceae</keyword>
+              <keyword>Flora</keyword>
+              <keyword>Magnoliophyta</keyword>
+              <keyword>FMB</keyword>
+              <keyword>Parque Nacionales Naturales</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=herbario_instituto_humboldt</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Ejemplares de plantas de Colombia depositados en el Herbario Federico Medem Bogotá. La clasificación departamental y municipal sigue la clasificación del DANE a marzo de 2012 (http://190.25.231.237/dvpbuscar/dvpbuscar.html).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-81.753</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-67.668</eastBoundingCoordinate>
+                      <northBoundingCoordinate>13.392</northBoundingCoordinate>
+                      <southBoundingCoordinate>-5.98</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1916-04-04
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-12-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Colecciones de plantas vasculares (helechos, pinos, plantas con flores), actualmente la colección cuenta con 110553 de ejemplares sistematizados, que representan 11489 especies; las familias mejor representadas en el herbario corresponden a Rubiaceae, Melastomateceae, Fabaceae y Asteraceae.
+
+La clasificación para la oragnización de la colección de  Angiospermas se basa en Cronquist (1981), Gimnospermas en Kubitzki (1990) y Pteridofitos en Tryon y Tryon (1985).
+
+La colección cuenta con más de 158 ejemplares tipo, que representan 71 especies, 19 subespecies y 4 híbridos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pinophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Cycadophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Gnetophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pteridophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Lycopodiophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Ser el respaldo del inventario Nacional de Biodiversidad.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Humberto</givenName>          <surName>Mendoza-Cifuentes</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador herbario Federico Medem Bogotá</positionName>    <address>
+<deliveryPoint>Claustro de San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>camedina@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>N/A</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Colombia</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los ejemplares que son ingresados a la colección siguen los siguientes procedimientos:
+
+1. Secado: Durante 10 horas a 80 °C.
+2. Etiquetado: Se etiquetan los ejemplares con base a las libretas o formatos de campo con los que ingresa la muestra.
+3. Montaje: Con base en los estándares establecidos en el protocolo de manejo de colecciones.
+4. Catalogación: Asignación de un numero único y  consecutivo para cada ejemplare de herbario.
+5. Asignación de códigos bidimensionales.
+6. Sistematización: Ingreso de información del espécimen en la plataforma Specify.
+7. Digitalización: El especímen es fotografiado.
+8. Publicación: la información es dispuesta al publico en plataformas como SIB-Colombia, GBIF y Ceiba.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El proceso de identificación taxonómica es realizado solamente por botánicos y taxónomos con experiencia.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Herbario Federico Medem Bogotá (FMB)</title>
+          <personnel>
+    <individualName>
+<givenName>Humberto</givenName>          <surName>Mendoza-Cifuentes</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Instituto Alexander von Humboldt</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Colombia</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Flora de Colombia</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:41Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ighftu">Borja-Acosta K (2021). Colección Herbario Federico Medem Bogotá - FMB. Version 32.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ighftu accessed via GBIF.org on 2022-02-08.</citation>
+              <physical>
+                  <objectName>Colección Herbario Federico Medem Bogotá - FMB</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=herbario_instituto_humboldt</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>FMB</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 4</collectionIdentifier>
+                <collectionName>Herbario Federico Meden Bogotá</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

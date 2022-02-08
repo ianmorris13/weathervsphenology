@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9a534fe9-2726-4272-a62d-90492b65ca56"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/qwxuhy</alternateIdentifier>
+        <alternateIdentifier>9a534fe9-2726-4272-a62d-90492b65ca56</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-a41b54dc-872b-40cb-a311-40b433b798ad</alternateIdentifier>
+    <title>Inventaire de la flore de la Communauté Urbaine de Bordeaux 2009</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>NR</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-01
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Inventaires de la flore vasculaire réalisés par le CBN Sud-Atlantique en 2009 sur le territoire de la Communauté Urbaine de Bordeaux
+Réf. : Préfiguration d&amp;#39;un observatoire de la biodiversité végétale de la Communauté Urbaine de Bordeaux - Programme CBNSA
+JEANDENAND F., CAZE G. &amp;amp; BLANCHARD F., 2009</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-0.868</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.477</eastBoundingCoordinate>
+                      <northBoundingCoordinate>45.049</northBoundingCoordinate>
+                      <southBoundingCoordinate>44.771</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>NR</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:43Z</dateStamp>
+      <citation>NR N, Inventaire National du Patrimoine Naturel (2020). Inventaire de la flore de la Communauté Urbaine de Bordeaux 2009. Version 1.1. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/qwxuhy accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

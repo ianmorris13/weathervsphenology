@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4005c523-b315-46cc-bf57-f54dd3a28b93"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/g9sbtb</alternateIdentifier>
+        <alternateIdentifier>http://science-net.kahaku.go.jp/ipt2/resource?r=snet-1002-102</alternateIdentifier>
+        <alternateIdentifier>4005c523-b315-46cc-bf57-f54dd3a28b93</alternateIdentifier>
+        <alternateIdentifier>http://gbif.science-net.kahaku.go.jp:8081/ipt2/resource?r=snet-1002-102</alternateIdentifier>
+    <title>Plant specimens of Otaru City Museum</title>
+    <creator>
+    <individualName>
+<givenName>Aki</givenName>          <surName>Yamamoto</surName>
+    </individualName>
+<organizationName>Otaru City Museum</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>yamamoto.otaru.museum@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Aki</givenName>          <surName>Yamamoto</surName>
+    </individualName>
+<organizationName>Otaru City Museum</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>yamamoto.otaru.museum@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-11-24
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant specimens deposited in Otaru City Museum</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Aki</givenName>          <surName>Yamamoto</surName>
+    </individualName>
+<organizationName>Otaru City Museum</organizationName><positionName>Curator</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>yamamoto.otaru.museum@gmail.com</electronicMailAddress><onlineUrl>http://www.city.otaru.lg.jp/simin/sisetu/museum/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:36Z</dateStamp>
+      <citation>Yamamoto A (2021). Plant specimens of Otaru City Museum. Version 1.5. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/g9sbtb accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

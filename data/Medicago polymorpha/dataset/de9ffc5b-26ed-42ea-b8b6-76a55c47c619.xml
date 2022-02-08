@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="de9ffc5b-26ed-42ea-b8b6-76a55c47c619"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/akhvuy</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.jp/ipt/resource.do?r=plobj</alternateIdentifier>
+        <alternateIdentifier>de9ffc5b-26ed-42ea-b8b6-76a55c47c619</alternateIdentifier>
+        <alternateIdentifier>a765e5fe-2720-48d3-a749-a1639b7e4a34</alternateIdentifier>
+        <alternateIdentifier>12292</alternateIdentifier>
+    <title>Plant Observation Records of Japan</title>
+    <creator>
+    <individualName>
+<givenName>Motomi</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tokyo university</organizationName><positionName>Professor</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>cmito@mail.ecc.u-tokyo.ac.jp</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Motomi</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tokyo university</organizationName><positionName>Professor</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>cmito@mail.ecc.u-tokyo.ac.jp</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Motomi</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tokyo university</organizationName><positionName>Professor</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>cmito@mail.ecc.u-tokyo.ac.jp</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2016-06-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant Observation Records of Japan</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Angiosperms</keyword>
+              <keyword>Pteridphytes</keyword>
+              <keyword>Gymnosperms</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Motomi</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tokyo university</organizationName><positionName>Professor</positionName>    <address>
+<country>JAPAN</country>    </address>
+<electronicMailAddress>cmito@mail.ecc.u-tokyo.ac.jp</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:32Z</dateStamp>
+      <citation>Ito M (2016). Plant Observation Records of Japan. National Institute of Genetics, ROIS. Occurrence dataset https://doi.org/10.15468/akhvuy accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

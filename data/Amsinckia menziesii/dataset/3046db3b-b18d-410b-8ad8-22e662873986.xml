@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3046db3b-b18d-410b-8ad8-22e662873986"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7varbp</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nlbif.nl/resource?r=nmb_plants</alternateIdentifier>
+    <title>Plant collection Natuurmuseum Brabant, Tilburg</title>
+    <creator>
+    <individualName>
+<givenName>Nadine</givenName>          <surName>Müller</surName>
+    </individualName>
+<organizationName>Natuurmuseum Brabant</organizationName><positionName>Coordinator collection and science</positionName>    <address>
+<deliveryPoint>Spoorlaan 434</deliveryPoint><city>Tilburg</city><postalCode>NL-5038 CH</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.13.5353935</phone><electronicMailAddress>n.muller@natuurmuseumbrabant.nl</electronicMailAddress><onlineUrl>https://www.natuurmuseumbrabant.nl/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jeroen</givenName>          <surName>Creuwels</surName>
+    </individualName>
+<organizationName>NLBIF</organizationName><positionName>Data manager</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.7519362</phone><electronicMailAddress>nlbif@naturalis.nl</electronicMailAddress><onlineUrl>http://www.nlbif.nl</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-6131-7026</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nadine</givenName>          <surName>Müller</surName>
+    </individualName>
+<organizationName>Natuurmuseum Brabant</organizationName><positionName>Coordinator collection and science</positionName>    <address>
+<deliveryPoint>Spoorlaan 434</deliveryPoint><city>Tilburg</city><postalCode>NL-5038 CH</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.13.5353935</phone><electronicMailAddress>n.muller@natuurmuseumbrabant.nl</electronicMailAddress><onlineUrl>https://www.natuurmuseumbrabant.nl/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Niels</givenName>          <surName>Raes</surName>
+    </individualName>
+<organizationName>NLBIF</organizationName><positionName>Node manager</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.7519362</phone><electronicMailAddress>nlbif@naturalis.nl</electronicMailAddress><onlineUrl>http://www.nlbif.nl</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4329-4892</userId>
+    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-23
+      </pubDate>
+    <language>DUTCH</language>
+    <abstract>
+        <para>This dataset contains all the plant records of  of Natuurmuseum Brabant, Tilburg. In total the dataset consists of over 27000 records. Most specimens are collected in Netherlands.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global distribution, but majority of specimens collected in the Netherlands.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nadine</givenName>          <surName>Müller</surName>
+    </individualName>
+<organizationName>Natuurmuseum Brabant</organizationName><positionName>Coordinator collection and science</positionName>    <address>
+<deliveryPoint>Spoorlaan 434</deliveryPoint><city>Tilburg</city><postalCode>NL-5038 CH</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.13.5353935</phone><electronicMailAddress>n.muller@natuurmuseumbrabant.nl</electronicMailAddress><onlineUrl>https://www.natuurmuseumbrabant.nl/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:42Z</dateStamp>
+      <citation>Müller N, Creuwels J (2021). Plant collection Natuurmuseum Brabant, Tilburg. Natuurmuseum Brabant. Occurrence dataset https://doi.org/10.15468/7varbp accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>http://ipt.nlbif.nl/resources/nmb_logo.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="898fcbd3-f5e9-48c8-a725-a681cb6bcf2d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/vpgzhd</alternateIdentifier>
+        <alternateIdentifier>https://openherbarium.org:443/collections/misc/collprofiles.php?collid=55</alternateIdentifier>
+        <alternateIdentifier>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=55</alternateIdentifier>
+    <title>University of Sindh Jamshoro Herbarium</title>
+    <creator>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>University of Sindh Jamshoro Herbarium</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Institute of Plant Sciences, University of Sindh, Jamshoro</deliveryPoint><city>Jamshoro</city><administrativeArea>Sindh</administrativeArea><postalCode>76080</postalCode><country>PAKISTAN</country>    </address>
+<phone>+923338709966</phone><electronicMailAddress>rabia.memon@usindh.edu.pk</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbarium of the University of Sindh Jamshoro is one of two key components of the Institute of Plant Sciences, the other being establishment of a botanic garden. The herbarium was initiated in the 1950s, primarily as a teaching resource. In 2018, with support from the Higher Education Commission of Pakistan, it is being transformed into a research herbarium. A key part of this transformation has been identifying its primary goals as 1) documentation of the flora of Sindh and adjacent regions of Balochistan; 2) providing instruction in the importance and preparation of voucher specimens in botanical research; and sharing of what is learned with diverse audiences through multiple outlets. In December 2018, the herbarium began sharing its data via OpenHerbarium, a Symbiota network, and, early in 2019, via the Global Biodiversity Information Facility. In 2018, the collection included about 15,000 specimens, essentially all of which are of vascular plants.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>University of Sindh Jamshoro Herbarium</organizationName><phone>+923338709966</phone><electronicMailAddress>rabia.memon@usindh.edu.pk</electronicMailAddress>      </contact>
+
+      <project id="BIFA3_47">
+          <title>Georeferencing and mobilization of plant occurrence data from Pakistan</title>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:47Z</dateStamp>
+      <citation>Institute of Plant Sciences, University of Sindh Jamshoro (2020). University of Sindh Jamshoro Herbarium. Occurrence dataset https://doi.org/10.15468/vpgzhd accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ebd49d9b-696b-4dba-8700-8526b1e7b4a2"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/3a8kec</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=biga-cormophyta</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=biga-cormophyta</alternateIdentifier>
+        <alternateIdentifier>ebd49d9b-696b-4dba-8700-8526b1e7b4a2</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=biga-cormophyta</alternateIdentifier>
+    <title>Herbario de Plantas Vasculares de la Asociación BIGA para el estudio del patrimonio natural de Galicia: FBIGA</title>
+    <creator>
+    <individualName>
+<givenName>Rubén</givenName>          <surName>Pino Pérez</surName>
+    </individualName>
+<organizationName>Asociación BIGA para el estudio del patrimonio natural de Galicia</organizationName><positionName>Investigador</positionName>    <address>
+<city>Cangas</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36940</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>ruben.pino.perez@gmail.com</electronicMailAddress><onlineUrl>http://www.biga.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rubén</givenName>          <surName>Pino Pérez</surName>
+    </individualName>
+<organizationName>Asociación BIGA para el estudio del patrimonio natural de Galicia</organizationName><positionName>Investigador</positionName>    <address>
+<city>Cangas</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36940</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>ruben.pino.perez@gmail.com</electronicMailAddress><onlineUrl>http://www.biga.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Juan José</givenName>          <surName>Pino Pérez</surName>
+    </individualName>
+<organizationName>Asociación BIGA para el estudio del patrimonio natural de Galicia</organizationName><positionName>Investigador</positionName>    <address>
+<city>Cangas</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36940</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>pino@uvigo.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>José Luis</givenName>          <surName>Camaño Portela</surName>
+    </individualName>
+<organizationName>Asociación BIGA para el estudio del patrimonio natural de Galicia</organizationName><positionName>Investigador</positionName>    <address>
+<city>Cangas</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36940</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>cama@uvigo.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco Javier</givenName>          <surName>Silva Pando</surName>
+    </individualName>
+<organizationName>Centro de Investigación Forestal de Lourizán, Dirección Xeral de Montes, Xunta de Galicia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Apartado 127</deliveryPoint><city>Pontevedra</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36080</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>francisco.javier.silva.pando@xunta.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Herbario Cormophyta. Acrónimo FBIGA. El Herbario de la Asociación BIGA para el estudio del patrimonio natural de Galicia (FBIGA) se creó en 2007 para alojar el material vegetal obtenido en las recolecciones efectuadas principalmente en el territorio de la comunidad autónoma de Galicia (NO España) que sirviera de base a la investigación botánica, desde el punto de vista de la biogeografía, corología, migraciones,  desarrollo de mapas,  dominios y territorios climáticos, bioclimatología, bioindicadores, biología floral, polinización,  citología, histología, anatomía, carpología, cultivos experimentales o etnobotánica, factores ecológicos, fenología, fitoquimica, fisiología de los vegetales,  fitosociología, floras y catálogos,  notas y aportaciones florísticas, flora ornamental y alóctona, números cromosomáticos, palinologia, sistemática, taxonomía y nomenclatura, silvicultura o producción forestal. 
+El herbario FBIGA está formado por plantas vasculares (angiospermas, gimnospermas y pteridófitos) con actualmente 5089 pliegos. La colección se encuentra informatizada al 100 %. Es un herbario activo con un ritmo de crecimiento anual entre 200 y 400 pliegos por año. Todos los pliegos son posteriormente depositados en un herbario institucional, integrado en el Index herbariorum, en este caso, el herbario LOU en el Centro de Investigación Forestal de Lourizán, dependiente de la Dirección Xeral de Montes de la Xunta de Galicia.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Flora; Cormophyta; Vascular plants; Pteridophyta; Spermatophyta; Gymnospermae; Angiospermae; Iberian Peninsula; Spain; Galicia</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Todos los especímenes que integran el herbario FBIGA son cedidos al herbario LOU, dependiente del Centro de Investigación Forestal de Lourizán, de la Dirección General de Montes de la Junta de Galicia.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.biga.org/index.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El 97 % de los especímenes han sido recolectados en el territorio de la Comunidad Autónoma de Galicia, NO España (provincias de A Coruña, Lugo, Ourense y Pontevedra). Existen recolecciones incidentales en otras 15 provincias de la Península Ibérica.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2001-05-12
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-06-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El herbario se compone de plantas vasculares de los phylum Pteridophyta y Spermatophyta (Angiospermae y Gymnospermae). Actualmente, se conservan especímenes de 134 familias (Aceraceae, Adiantaceae, Agavaceae, Aizoaceae, Alismataceae, Amaryllidaceae, Anacardiaceae, Anthericaceae, Apocynaceae, Aquifoliaceae, Araceae, Araliaceae, Aristolochiaceae, Asclepiadaceae, Aspidiaceae, Aspleniaceae, Athyriaceae, Azollaceae, Basellaceae, Betulaceae, Bignoniaceae, Blechnaceae, Boraginaceae, Buddlejaceae, Buxaceae, Cactaceae, Callitrichaceae, Campanulaceae, Cannabaceae, Cannaceae, Caprifoliaceae, Caryophyllaceae, Chenopodiaceae, Cistaceae, Commelinaceae, Compositae, Convolvulaceae, Crassulaceae, Cruciferae, Cryptogrammaceae, Cucurbitaceae, Cupressaceae, Cyperaceae, Davalliaceae, Dioscoreaceae, Dipsacaceae, Droseraceae, Equisetaceae, Ericaceae, Euphorbiaceae, Fagaceae, Gentianaceae, Geraniaceae, Gramineae, Guttiferae, Haloragaceae, Hemionitidaceae, Hydrocharitaceae, Hymenophyllaceae, Hypolepidaceae, Iridaceae, Isoetaceae, Juglandaceae, Juncaceae, Juncaginaceae, Labiatae, Lauraceae, Leguminosae, Lentibulariaceae, Liliaceae, Linaceae, Lycopodiaceae, Lythraceae, Malvaceae, Menyanthaceae, Moraceae, Myoporaceae, Myrtaceae, Nyctaginaceae, Oleaceae, Onagraceae, Ophioglossaceae, Orchidaceae, Orobanchaceae, Osmundaceae, Oxalidaceae, Paeoniaceae, Papaveraceae, Phytolaccaceae, Pinaceae, Pittosporaceae, Plantaginaceae, Plumbaginaceae, Polygalaceae, Polygonaceae, Polypodiaceae, Portulacaceae, Posidoniaceae, Potamogetonaceae, Primulaceae, Rafflesiaceae, Ranunculaceae, Resedaceae, Rhamnaceae, Rosaceae, Rubiaceae, Ruppiaceae, Rutaceae, Salicaceae, Salviniaceae, Santalaceae, Saxifragaceae, Scrophulariaceae, Selaginellaceae, Sinopteridaceae, Smilacaceae, Solanaceae, Sparganiaceae, Tamaricaceae, Taxaceae, Taxodiaceae, Thelypteridaceae, Thymelaeaceae, Tropaeolaceae, Typhaceae, Ulmaceae, Umbelliferae, Urticaceae, Valerianaceae, Verbenaceae, Violaceae, Viscaceae, Zosteraceae y Zygophyllaceae).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantas vasculares</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pteridophyta</taxonRankValue>
+                          <commonName>Plantas sin flores</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Spermatophyta</taxonRankValue>
+                          <commonName>Plantas con flores</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>La Asociación BIGA pretende conocer y dar a conocer lo que está publicado que tenga relación con la biodiversidad en Galicia. Tiene además como objetivo realizar trabajos de campo para averiguar qué especies existen en Galicia para un determinado grupo, su distribución, ecología, etc. Estos tres objetivos que se concretarán materialmente en la web de la Asociación, se acometerán como sigue:
+Confeccionar una base de datos bibliográfica que resuma, sin interpretación, el elenco de trabajos, libros o monografías científicas que traten el patrimonio gallego. Una base de datos estandarizada que reúna la información pertinente, permita búsquedas, aparato crítico sobre la nomenclatura de los táxones, iconografía, mapeo y distribución, catálogos, evolución de poblaciones de especies alóctonas e invasoras, etc.
+Confeccionar una base de datos sobre especímenes que aúne la estandarización que se intenta a nivel internacional desde distintos ámbitos (GBIF, TDWG), la prospección idónea del territorio de estudio y el acceso a la información específica de aquéllos, mapa de distribución, información ecológica, fotografías, etc. Como consecuencia de la confección de esta BDD y su conexión con la BDD bibliográfica, serán accesibles ambos tipos de datos, si existen o están disponibles, para cualquier búsqueda sobre un taxon del territorio. Los datos cruzados, bibliográficos y de campo, ofrecerán la posibilidad de compararlos haciendo inmediatas las novedades y su grado de importancia.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rubén</givenName>          <surName>Pino Pérez</surName>
+    </individualName>
+<organizationName>Asociación BIGA para el estudio del patrimonio natural de Galicia</organizationName><positionName>Presidente</positionName>    <address>
+<city>Cangas</city><administrativeArea>Pontevedra</administrativeArea><postalCode>36940</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>ruben.pino.perez@gmail.com</electronicMailAddress><onlineUrl>http://www.biga.org/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>El proceso para la preparación de los ejemplares es como sigue: las plantas recogidas en el campo se depositan entre papeles, adjudicándoles un número de FBIGA inmediatamente. Se coloca cada pliego en la prensa separado de los contiguos por planchas de celulosa y cartón corrugado. La prensa se coloca en el interior de una bolsa plástica; la prensa con los pliegos y cartones asoma por un extremo ceñido por el plástico y por el otro unido a la bolsa hay un pequeño extractor que mueve un caudal de unos 60 m3 de aire por hora, a temperatura ambiente. Se mantiene el extractor encendido entre 24 horas y siete días, en función de la temperatura ambiente y la humedad de la dependencia, las especies o el número de ejemplares. 
+Los datos completos de herborización (país, provincia, municipio, localidad, georreferencia, altitud, fecha, ecología y legatarios como mínimo)  se pasan a una base de datos que permite generar etiquetas que se colocan en los pliegos, una vez terminado el proceso de secado. 
+A continuación, los pliegos ya etiquetados, se colocan en bolsas de plástico negras y se introducen el conjunto en cajas plásticas que se depositan en una cámara frigorífica de conservación, a temperaturas por debajo de –18ºC durante unas dos semanas. De esta forma se asegura la muerte de los imagos, larvas y huevos de los diferentes parásitos de los herbarios (Stegobium sp., Psocoptera, etc.).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El herbario se ha confeccionado con especímenes del territorio de la Comunidad Autónoma de Galicia sin que se haya establecido una frecuencia determinada de muestreo.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Todo el material ha sido herborizado por miembros de la Asociación BIGA en el área de estudio, con las preceptivas autorizaciones de la Xunta de Galicia.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El material recolectado fue determinado taxonómicamente por los miembros de la Asocación BIGA y la ayuda de especialistas en determinados casos.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Biodiversidad en Galicia</title>
+          <personnel>
+    <individualName>
+<givenName>Rubén</givenName>          <surName>Pino Pérez</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Ninguna.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio prioritaria es el territorio de la Comunidad Autónoma de Galicia.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Confeccionar una base de datos sobre especímenes que aúne la estandarización que se intenta a nivel internacional desde distintos ámbitos (GBIF, TDWG), la prospección idónea del territorio de estudio y el acceso a la información específica de aquéllos.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:46Z</dateStamp>
+      <citation identifier="Asociación BIGA">Pino Pérez R (2018). Herbario de Plantas Vasculares de la Asociación BIGA para el estudio del patrimonio natural de Galicia: FBIGA. Version 1.4. Colecciones naturales de la Asociación BIGA para el estudio del patrimonio natural de Galicia: FBIGA y ABIGA.. Occurrence dataset https://doi.org/10.15468/3a8kec accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation identifier="http://www.biga.org/Boletin_BIGA/index.html">CAMAÑO, J.L.; PINO PÉREZ, J.J.; SILVA-PANDO, F.J. &amp; PINO PÉREZ, R. (2006): Asientos corológicos LOU, 2003. Bol. BIGA. 1: 3-138. 
+PINO PÉREZ, J.J.; CAMAÑO, J.L. &amp; PINO PÉREZ, R. (2007): Asientos corológicos LOU, 2004. Bol. BIGA. 2: 40-120. 
+CAMAÑO PORTELA, J.L.; SILVA-PANDO, F.J.; PINO PÉREZ, J.J. &amp; PINO PÉREZ, R. (2008): Asientos corológicos LOU, 2005. Bol. BIGA. 4: 5-21. 
+PINO PÉREZ, J.J.; SILVA-PANDO, F.J.; CAMAÑO PORTELA, J.L. &amp; PINO PÉREZ, R. (2008): Asientos corológicos LOU, 2006. Bol. BIGA. 4: 23-36.
+PINO PÉREZ, J.J.; SILVA-PANDO, F.J.; CAMAÑO PORTELA, J.L. &amp; PINO PÉREZ, R. (2009): Asientos corológicos LOU, 2007. Bol. BIGA. 6: 5-23.
+
+CAMAÑO PORTELA, J.L.; PINO PÉREZ, J.J.; SILVA-PANDO, F.J. &amp; PINO PÉREZ, R. (2009): Asientos corológicos LOU, 2008. Bol. BIGA. 6: 25-36.
+PINO PÉREZ, R.; CAMAÑO PORTELA, J.L.; PINO PÉREZ, J.J. &amp; SILVA-PANDO, F.J. (2009): Asientos corológicos LOU, 2009. Bol. BIGA. 6: 109-124.
+PINO PÉREZ, R.; CAMAÑO PORTELA, J.L.; PINO PÉREZ, J.J. &amp; SILVA-PANDO, F.J. (2010). Asientos corológicos LOU, 2010. Bol. BIGA. 9:  5-14.
+PINO PÉREZ, R. &amp; PINO PÉREZ,  J.J. (2013) Asientos Corológicos LOU, 2011-2012. Bol. BIGA. 11: 69-105.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=biga-cormophyta</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>http://www.gbif.es/ic_colecciones.php?ID_Coleccion=10025</collectionIdentifier>
+                <collectionName>Herbario FBIGA de la Asociación BIGA</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d6cc311c-c5ab-4f23-9a20-10514f9eb9c4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ijccz9</alternateIdentifier>
+        <alternateIdentifier>https://nas.er.usgs.gov/ipt/resource?r=nas</alternateIdentifier>
+        <alternateIdentifier>https://nas.er.usgs.gov/ipt/resource.do?r=nas</alternateIdentifier>
+        <alternateIdentifier>d6cc311c-c5ab-4f23-9a20-10514f9eb9c4</alternateIdentifier>
+        <alternateIdentifier>14300</alternateIdentifier>
+    <title>USGS Nonindigenous Aquatic Species database</title>
+    <creator>
+    <individualName>
+<givenName>Matthew</givenName>          <surName>Neilson</surName>
+    </individualName>
+<organizationName>United States Geological Survey</organizationName><positionName>Fishery Biologist</positionName>    <address>
+<deliveryPoint>7920 NW 71 ST</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3522643519</phone><electronicMailAddress>mneilson@usgs.gov</electronicMailAddress><onlineUrl>http://nas.er.usgs.gov</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-5139-5677</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Matthew</givenName>          <surName>Neilson</surName>
+    </individualName>
+<organizationName>United States Geological Survey</organizationName><positionName>Fishery Biologist</positionName>    <address>
+<deliveryPoint>7920 NW 71 ST</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3522643519</phone><electronicMailAddress>mneilson@usgs.gov</electronicMailAddress><onlineUrl>http://nas.er.usgs.gov</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-5139-5677</userId>
+    </metadataProvider>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This database has been established as a central repository for spatially referenced biogeographic accounts of introduced aquatic species. The program provides scientific reports, online/realtime queries, spatial data sets, regional contact lists, and general information. The data is made available for use by biologists, interagency groups, and the general public.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>non-native</keyword>
+              <keyword>invasive</keyword>
+              <keyword>aquatic</keyword>
+              <keyword>nonindigenous</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://nas.er.usgs.gov</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Freshwater drainages of the United States and its territories.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-168.91</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-47.66</eastBoundingCoordinate>
+                      <northBoundingCoordinate>71.79</northBoundingCoordinate>
+                      <southBoundingCoordinate>12.07</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All nonindigenous aquatic animals and plants in freshwater drainages of the United States and its territories.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>This database has been established as a central repository for spatially referenced biogeographic accounts of introduced aquatic species. The program provides scientific reports, online/realtime queries, spatial data sets, regional contact lists, and general information. The data is made available for use by biologists, interagency groups, and the general public.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Matthew</givenName>          <surName>Neilson</surName>
+    </individualName>
+<organizationName>United States Geological Survey</organizationName><positionName>Fishery Biologist</positionName>    <address>
+<deliveryPoint>7920 NW 71 ST</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3522643519</phone><electronicMailAddress>mneilson@usgs.gov</electronicMailAddress><onlineUrl>http://nas.er.usgs.gov</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-5139-5677</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>USGS Nonindigenous Aquatic Species database</title>
+          <personnel>
+    <individualName>
+<givenName>Matthew</givenName>          <surName>Neilson</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-5139-5677</userId>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>U.S. Geological Survey, National Oceanic and Atmospheric Administration, U.S. Fish and Wildlife Service, U.S. Environmental Protection Agency</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:13:00Z</dateStamp>
+      <citation identifier="USGS/NAS database">Neilson M (2022). USGS Nonindigenous Aquatic Species database. Version 1.226. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/ijccz9 accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://nas.er.usgs.gov/ipt/logo.do?r=nas_glansis</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>USGS</parentCollectionIdentifier>
+                <collectionIdentifier>https://nas.er.usgs.gov</collectionIdentifier>
+                <collectionName>USGS Nonindigenous Aquatic Species database</collectionName>
+              </collection>
+              <formationPeriod>1850-current</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

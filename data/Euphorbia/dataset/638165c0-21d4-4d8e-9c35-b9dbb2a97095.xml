@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="638165c0-21d4-4d8e-9c35-b9dbb2a97095"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/6zaucq</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=weed</alternateIdentifier>
+    <title>Weed species of the Central Urals (Sverdlovsk region)</title>
+    <creator>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Pavel</givenName>          <surName>Kondratkov</surName>
+    </individualName>
+<organizationName>Department of biology and fundamental medicine; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>pavel.kondratkov@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-5455</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nicolai</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Nicolai</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+    </metadataProvider>
+      <pubDate>
+      2019-11-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data on weed species diversity in the Central Urals (Sverdlovsk region) are presented. We define weed plants as are plants not specially cultivated but adapted to grow in crops and reduce the size and quality of the crop yield. The list species was compiled on the results of our own research by research group of the Institute of Natural Sciences and Mathematics of the Ural Federal University. Herbarium specimens are stored in the Herbarium of the Ural Federal University (UFU). Our own research data are supplemented by the herbarium specimens of the Institute of Plant and Animal Ecology of the Ural Branch of the Russian Academy of Sciences (SVER).</para>
+        <para>Представлены данные о видовом разнообразии сорных растений Среднего Урала (Свердловская область). К сорным растениям нами отнесены растения, специально не культивируемые, но приспособленные к произрастанию в посевах и снижающие величину и качество продукции культурных растений. Список видов составлен по результатам собственных исследований сотрудников кафедры биоразнообразия и биоэкологии Института естественных наук и математики Уральского федерального университета имени первого Президента России Б. Н. Ельцина. Образцы гербария хранятся в гербарии Уральского федерального университета (UFU). Материалы наших собственных исследований дополнены материалами гербария Института экологии растений и животных Уральского отделения Российской академии наук (SVER).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Sverdlovsk region is situated within the Central Urals, southern part of the Northern Urals, outskirts of the West Siberian Plain and the East European Plain. The length of the region from north to south is 660 km (N 56°03&apos;, N 61°57&apos;), from west to east – 560 km (E 57°14&apos;, E 66°11&apos;). The area of the Sverdlovsk region is 194.8 square km.
+The terrain of the Central Urals is low-mountain. In the north two large mountain uplifts lie parallelly that are divided by intermontane depression. The east dividing ridge is tracked throughout the Central Urals. The west dividing ridge has smaller length and consists of a variety of isolated mountain groups that lie in series. The largest among them is Basseghi mountain uplift gaining an altitude of 993 m. The terrain of west and east slopes of the Central Urals is steeply-sloping, hilly with ridges and low grounds.
+The hydrographic system is well developed and presented by many rivers and lakes. The rivers of the south-west part of the region (Choosovaya, Ufa and their tributaries) belong to the Volga-Kama basin. The other rivers (such big as Loz’va, Sos’va, Tavda, Pelym, Toora, Nitsa, Pyshma and Iset) belong to the Ob-Irtysh basin. Big rivers begin on the Urals ridge and these are mountain streams in their upstream water part. In the piedmont of the Urals there are a lot of lakes in tectonic depressions. On the hilly north-east part of the region (Tavda river basin with tributaries) there are also shallow lakes (the Pelym mist, the Vagil mist etc.) that lie among the vast area of turf swamps.
+Sverdlovsk region has a continental climate. The annual precipitation decreases from a north-western to south-eastern direction. In the mountains of the Northern Urals the amount of rain is 800–850 mm (in some places more than 1000 mm), in the Central Urals and in the western piedmonts the amount of rain is 550–650 mm. In the plain south-eastern part of the region the amount of rain is 320–350 mm. The maximum amount of rain (60–70% of annual precipitation) happens in warm seasons.  Lasting of snow cover is 150–160 days in the south and 170–180 days in the north (in the mountain of the Northern Urals snow cover lasts 180–190 days). Snow depth varies from 45–50 cm in the south-east to 70 cm in the western piedmonts and low-hill terrains of the Central Urals. In the mountains of the Northern Urals the snow depth is 90 cm and more.
+The average monthly temperature of the coldest month (January) varies from –16°C in the south to –18 to –19°C in the north. The average monthly temperature of the warmest month (July) varies from +17 to +18°C. The growing season length is 160–170 days in the south-western part and 110–120 days in the mountain part of the Northern Urals. Late spring and early autumn ground frosts typically occur that notably diminish the frost-free season. Accumulative positive temperatures vary from 1000°С in the northern and mountain part to 1400–1600°С in the Central part. The maximum mean is 1600–1800°С in the outermost south-eastern and south-western parts. In the north hydrothermal index is 1.6–2.0, in the centre it is 1.4–1.6, and in the outskirts south-western and south-eastern parts is 1.2–1.4.
+In the taiga zone of Sverdlovsk region ash gray soil and soddy podzolic soil are widely spread. In the southern part on the forest zone there is grey forest soil. In the outskirts south-western and south-eastern part within the forest-steppe zone and adjunct forest zone along with this type of soil leached chernozem and black degraded soil occur as well as meadow chernozemic soil.
+Forest vegetation prevails in the vegetation cover of Sverdlovsk region. On this territory all subzones of the forest (taiga) zone are presented as well as the northern subzone of the forest-steppe zone.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The list species includes 300 weed plant species.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Equisetophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida (Monocotyledones)</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida (Dicotyledones)</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alyona</givenName>          <surName>Tretyakova</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>Alyona.Tretyakova@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-8735-4482</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Pavel</givenName>          <surName>Kondratkov</surName>
+    </individualName>
+<organizationName>Department of biology and fundamental medicine; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>pavel.kondratkov@urfu.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-5455</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Nicolai</givenName>          <surName>Grudanov</surName>
+    </individualName>
+<organizationName>Department of Biodiversity and Bioecology; Institute of Natural Sciences and Mathematics; Ural Federal University named after the first President of Russia B. N. Yeltsin</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Mira st., 19</deliveryPoint><city>Ekaterinburg</city><postalCode>620002</postalCode>    </address>
+<electronicMailAddress>nickolai.grudanoff@yandex.ru</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0498-2975</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>In the list species preparation, we used our own research data that were supplemented by the herbarium specimens of the Institute of Plant and Animal Ecology of the Ural Branch of the Russian Academy of Sciences (SVER). The plant names are given in accordance with the working list of all known plant species – ThePlantList.org.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The list of weed species in the Sverdlovsk region are presented.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The weed species composition was revealed by route census that covered the whole Sverdlovsk region territory. The weed flora includes weed plants occurring in spring and winter crops, row crops and perennial grasses.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:41Z</dateStamp>
+      <citation>Tretyakova A, Kondratkov P, Grudanov N (2019). Weed species of the Central Urals (Sverdlovsk region). Federal State Autonomous Educational Institution of Higher Education «Ural Federal University named after the first President of Russia B.N.Yeltsin». Occurrence dataset https://doi.org/10.15468/6zaucq accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://urfu.ru/fileadmin/_processed_/d/d/csm_logo1_d783972efb.png</resourceLogoUrl>
+              <formationPeriod>1900 – 2018</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

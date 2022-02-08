@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1672a8ae-1e9c-4620-8314-a6da5202eb4e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.5886/6tff2h49</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=bu-specimens</alternateIdentifier>
+        <alternateIdentifier>http://doi.org/10.5886/6tff2h49</alternateIdentifier>
+        <alternateIdentifier>10.15468/4hugua</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource.do?r=bu-specimens</alternateIdentifier>
+        <alternateIdentifier>1672a8ae-1e9c-4620-8314-a6da5202eb4e</alternateIdentifier>
+    <title>Brock University Herbarium (BU)</title>
+    <creator>
+    <individualName>
+<givenName>Heather</givenName>          <surName>VanVolkenburg</surName>
+    </individualName>
+<organizationName>Brock University</organizationName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-933-4223</phone><electronicMailAddress>hv12fx@brocku.ca</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Heather</givenName>          <surName>VanVolkenburg</surName>
+    </individualName>
+<organizationName>Brock University</organizationName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-933-4223</phone><electronicMailAddress>hv12fx@brocku.ca</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Liette</givenName>          <surName>Vasseur</surName>
+    </individualName>
+<organizationName>Brock University</organizationName><positionName>Full Professor</positionName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-905.688.5550 Ext. 4023</phone><electronicMailAddress>lvasseur@brocku.ca</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Heather</givenName>          <surName>VanVolkenburg</surName>
+    </individualName>
+<organizationName>Brock University</organizationName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-933-4223</phone><electronicMailAddress>hv12fx@brocku.ca</electronicMailAddress>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Heather</givenName>          <surName>VanVolkenburg</surName>
+    </individualName>
+<organizationName>Brock University</organizationName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-933-4223</phone><electronicMailAddress>hv12fx@brocku.ca</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>Brock University</organizationName>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2016-02-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Brock is a publicly funded university located in the Niagara Region of Ontario, Canada. Its location along the Niagara Escarpment grants it a special position within a designated UNESCO Biosphere Reserve. The Niagara region is special as it represents one of the last regions in Canada where the Carolinian ecosystem can be found and where many specie at risk are present. Unfortunately, for various reasons, the region has been the target of few intensive biodiversity studies with specimen collections. The university, along with several local organizations, envisions itself as a leader in improving our understanding of plant diversity in the region and therefore aims at becoming the official specimen depository for the region. The establishment and registration of our herbarium, which includes collections dating back to the 1930’s, is an important step to engaging the international community. This will allow improving the knowledge of the area and exchange with other institutions that may have studied in the region. It is also a collaborative effort with other local organizations that believe this initiative timely considering new conservation projects such as those of the Niagara Land Trust.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Canada</keyword>
+              <keyword>herbarium</keyword>
+              <keyword>BU</keyword>
+              <keyword>specimens</keyword>
+              <keyword>collection</keyword>
+              <keyword>Brock University Herbarium</keyword>
+              <keyword>Canadensys</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Collection presently includes vouchers from Canada, Iceland, as well as the Northeastern and the Midwestern United States.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-144.12</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-13.03</eastBoundingCoordinate>
+                      <northBoundingCoordinate>83.88</northBoundingCoordinate>
+                      <southBoundingCoordinate>36.71</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1936-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1936-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Liette</givenName>          <surName>Vasseur</surName>
+    </individualName>
+<organizationName>Brock University</organizationName><positionName>Full Professor</positionName>    <address>
+<deliveryPoint>1812 Sir Isaac Brock Way</deliveryPoint><city>St. Catherines</city><administrativeArea>Ontario</administrativeArea><postalCode>L2S 3A1</postalCode><country>CANADA</country>    </address>
+<phone>1-905-688-5550 Ext. 4023</phone><electronicMailAddress>lvasseur@brocku.ca</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>Revitalization and Digitization of the Brock University Herbarium</title>
+          <personnel>
+    <individualName>
+<givenName>Liette</givenName>          <surName>Vasseur</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:40Z</dateStamp>
+      <citation identifier="http://doi.org/10.5886/6tff2h49">VanVolkenburg H (2016). Brock University Herbarium (BU). Version 3.1. Brock University. Occurrence dataset https://doi.org/10.5886/6tff2h49 accessed via GBIF.org on 2022-02-08.</citation>
+              <physical>
+                  <objectName>Canadensys Explorer</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>HTML</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://data.canadensys.net/explorer/en/resources/bu-specimens</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <physical>
+                  <objectName>GBIF data portal</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>HTML</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.gbif.org/dataset/1672a8ae-1e9c-4620-8314-a6da5202eb4e</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>http://www.brocku.ca/sites/all/themes/custom/brock/images/brock_logo.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>http://www.gbif.org/publisher/b35e2d16-5a39-486f-82ee-61662e45c665</collectionIdentifier>
+                <collectionName>Brock University Herbarium</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

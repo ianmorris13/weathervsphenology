@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4d608085-da7f-4c86-bc7d-7f5a142b6496"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/7s9cth</alternateIdentifier>
+        <alternateIdentifier>http://lully.snv.jussieu.fr:8080/ipt/resource.do?id=herbierdestrasbourg</alternateIdentifier>
+        <alternateIdentifier>12756</alternateIdentifier>
+    <title>Herbier de Strasbourg</title>
+    <creator>
+    <individualName>
+<givenName>Michel</givenName>          <surName>Hoff</surName>
+    </individualName>
+<organizationName>Herbier, Institut de Botanique, Université Louis Pasteur</organizationName>    <address>
+<deliveryPoint>28 rue Goethe</deliveryPoint><city>Strasbourg</city><postalCode>F-67083</postalCode><country>FRANCE</country>    </address>
+<phone>03 90 24 18 62</phone><electronicMailAddress>michel.hoff@bota-ulp.u-strasbg.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Delphine</givenName>          <surName>Gasc</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>gasc@gbif.fr</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2011-03-21
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Base de données sous dBase et FoxPro</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Michel</givenName>          <surName>Hoff</surName>
+    </individualName>
+<organizationName>Herbier, Institut de Botanique, Université Louis Pasteur</organizationName>    <address>
+<deliveryPoint>28 rue Goethe</deliveryPoint><city>Strasbourg</city><postalCode>F-67083</postalCode><country>FRANCE</country>    </address>
+<phone>03 90 24 18 62</phone><electronicMailAddress>michel.hoff@bota-ulp.u-strasbg.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:17:05Z</dateStamp>
+      <citation>Hoff M, Gasc D (2011). Herbier de Strasbourg. Université de Strasbourg. Occurrence dataset https://doi.org/10.15468/7s9cth accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

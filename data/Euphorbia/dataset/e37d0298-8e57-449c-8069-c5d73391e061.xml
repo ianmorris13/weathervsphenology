@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e37d0298-8e57-449c-8069-c5d73391e061"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/o73rkv</alternateIdentifier>
+    <title>Digitization of plant specimens from Rhoen and Vogelsberg (FULD)</title>
+    <associatedParty>
+    <individualName>
+          <surName>Data Center SGN</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Senckenberg, Senckenberganlage 25, D-60325 Frankfurt am Main, Germany</deliveryPoint>    </address>
+<electronicMailAddress>sgn-datacenter@senckenberg.de</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>The digitization  from the possessions of the herbarium of the Verein für Naturkunde in Osthessen (FULD) comprises metadata from specimen labels, georeferencing of localities and a digital image of the object.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.senckenberg.de/root/index.php?page_id=5850</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+          <surName>Dipl.-Biologe Uwe M. Barth</surName>
+    </individualName>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:42Z</dateStamp>
+      <citation>Senckenberg. Digitization of plant specimens from Rhoen and Vogelsberg (FULD). Occurrence dataset https://doi.org/10.15468/o73rkv accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

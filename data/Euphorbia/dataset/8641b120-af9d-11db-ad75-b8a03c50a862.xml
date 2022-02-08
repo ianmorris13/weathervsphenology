@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8641b120-af9d-11db-ad75-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/wkzsrl</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=uw_bsg_herbarium_vascularplants</alternateIdentifier>
+        <alternateIdentifier>8641b120-af9d-11db-ad75-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>1470</alternateIdentifier>
+    <title>Herbarium BSG Vascular Plants</title>
+    <creator>
+    <individualName>
+<givenName>Bogdan</givenName>          <surName>Jaroszewicz</surName>
+    </individualName>
+<organizationName>University of Warsaw, Białowieża Geobotanical Station of the Biological Faculty</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>b.jaroszewicz@uw.edu.pl</electronicMailAddress><onlineUrl>http://www.mindstorm.pl/_projekty/bsg/www_eng/ind</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Bogdan</givenName>          <surName>Jaroszewicz</surName>
+    </individualName>
+<organizationName>University of Warsaw, Białowieża Geobotanical Station of the Biological Faculty</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>b.jaroszewicz@uw.edu.pl</electronicMailAddress><onlineUrl>http://www.mindstorm.pl/_projekty/bsg/www_eng/ind</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Bogdan</givenName>          <surName>Jaroszewicz</surName>
+    </individualName>
+<electronicMailAddress>b.jaroszewicz@uw.edu.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database includes records prepared on the basis of plant specimens kept in the herbarium collection of the Białowieża Geobotanical Station of the Warsaw University collected in the years 1965-2006. They represent a unique record of changes caused by change in land use character in local flora. Most of the records are coming from the Białowieża Forest region and NE Poland.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Bogdan</givenName>          <surName>Jaroszewicz</surName>
+    </individualName>
+<organizationName>University of Warsaw, Białowieża Geobotanical Station of the Biological Faculty</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>b.jaroszewicz@uw.edu.pl</electronicMailAddress><onlineUrl>http://www.mindstorm.pl/_projekty/bsg/www_eng/ind</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:41Z</dateStamp>
+      <citation>Jaroszewicz B (2017). Herbarium BSG Vascular Plants. University of Warsaw, Białowieża Geobotanical Station of the Biological Faculty. Occurrence dataset https://doi.org/10.15468/wkzsrl accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

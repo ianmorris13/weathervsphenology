@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2ae2997e-c6ff-40b1-917f-93227768da6f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xp6bam</alternateIdentifier>
+        <alternateIdentifier>2ae2997e-c6ff-40b1-917f-93227768da6f</alternateIdentifier>
+        <alternateIdentifier>http://ipt.brc.ac.uk/ipt/resource?r=uksba_cyprus_plantrecords2018</alternateIdentifier>
+    <title>UKSBA Cyprus Plant Records 2018</title>
+    <creator>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Jodey M.</givenName>          <surName>Peyton</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>joyt@ceh.ac.uk</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8313-6194</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>J. Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Fellow</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    </metadataProvider>
+      <pubDate>
+      2020-06-12
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Point occurrence biological records made in February &amp;amp; March 2018 in the UK Sovereign Base Areas of Cyprus. Non-native species were particularly targeted.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>non-native</keyword>
+              <keyword>Mediterranean</keyword>
+              <keyword>invasive</keyword>
+              <keyword>Cyprus</keyword>
+              <keyword>biological records</keyword>
+              <keyword>monitoring</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>alien</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.ris-ky.info/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>UK Sovereign Base Areas of Akrotiri &amp; Dhekelia, Cyprus</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>32.723</westBoundingCoordinate>
+                      <eastBoundingCoordinate>33.937</eastBoundingCoordinate>
+                      <northBoundingCoordinate>35.133</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.547</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-02-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-03-09
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Improving knowledge of established or establishing non-native species in Cyprus.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>No updates planned.</para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oliver</givenName>          <surName>Pescott</surName>
+    </individualName>
+<organizationName>UK Centre for Ecology &amp; Hydrology</organizationName><positionName>Plant Ecologist</positionName>    <address>
+<deliveryPoint>Maclean Building, Benson Lane, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress><onlineUrl>https://www.ceh.ac.uk/staff/oliver-pescott</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Three botanists determined taxa in the field, with frequent reference to relevant Floras (e.g. Meikle, Viney etc.) Records were captured in the field using ArcPad 10.2 on a GPS enabled tablet computer. All records were manually checked subsequent to field-work in the process of creating the current resource.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>UKSBAs of Cyprus.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>A 2 x 2 km grid according to projection EPSG:32636 was used to organise sampling. Over the course of two weeks project personnel searched for naturalised, apparently naturalising, or widely planted non-native plant species across each 2 x 2 km square of the UKSBAs in Cyprus. Priority was given to locations not searched in previous field-work associated with this project GUID.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Three botanists determined taxa in the field, with frequent reference to relevant Floras (e.g. Meikle, Viney etc.) Records were captured in the field using ArcPad 10.2 on a GPS enabled tablet computer. All records were manually checked subsequent to field-work in the process of creating the current resource.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="2af94099-7bc6-43d4-bca7-1d731b9d32f6">
+          <title>UKSBA Cyprus non-native species monitoring</title>
+          <personnel>
+    <individualName>
+<givenName>Oliver L.</givenName>          <surName>Pescott</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">aUBHmIQAAAAJ&amp;hl=en</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jodey M.</givenName>          <surName>Peyton</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-8313-6194</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>J. Owen</givenName>          <surName>Mountford</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>Point occurrence biological records made in February &amp; March 2018 in the UK Sovereign Base Areas of Cyprus. Non-native species were particularly targeted.</para>
+          </abstract>
+          <funding>
+              <para>Darwin Plus 056</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>UK Sovereign Base Areas of Akrotiri &amp; Dhekelia, Cyprus</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>A 2 x 2 km grid according to projection EPSG:32636 was used to organise sampling. Over the course of two weeks project personnel searched for naturalised, apparently naturalising, or widely planted non-native plant species across each 2 x 2 km square of the UKSBAs in Cyprus. Priority was given to locations not searched in previous field-work associated with this project GUID. Three botanists determined taxa in the field, with frequent reference to relevant Floras (e.g. Meikle, Viney etc.)</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:00Z</dateStamp>
+      <citation>Pescott O L, Peyton J M, Mountford J O, Pescott O (2020). UKSBA Cyprus Plant Records 2018. Version 1.2. Biological Records Centre. Occurrence dataset https://doi.org/10.15468/xp6bam accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

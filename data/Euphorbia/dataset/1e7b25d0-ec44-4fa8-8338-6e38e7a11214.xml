@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1e7b25d0-ec44-4fa8-8338-6e38e7a11214"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a8c783</alternateIdentifier>
+        <alternateIdentifier>1e7b25d0-ec44-4fa8-8338-6e38e7a11214</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=vasc_plants_north_baikal</alternateIdentifier>
+    <title>Occurrences of vascular plants in the western part of Baikal-Amur Mainline</title>
+    <creator>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Junior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Республика Бурятия</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>blenysik@mail.ru</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi, 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?hl=ru&amp;user=bAyEHO0AAAAJ</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Junior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi, 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>blenysik@mail.ru</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-12-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Northern part of Lake Baikal has very sparse botanical studies which are usually concentrated on investigations of mountain ridges or river valleys. Floristic information for this region with detailed distribution maps of vascular plant species is summarized in the book by M.M. Ivanova and A.A. Chepurnov “Flora of western part of developing regions of Baikal-Amur Mainline (BAM)” (Ivanova and Chepurnov 1983). All available maps from this book have been digitized and localities of vascular plants organized in separate dataset.</para>
+        <para>The dataset includes 9972 occurrences for 770 vascular plant species and subspecies at the northern part of Lake Baikal (western part of Baikal-Amur Mainline). The dataset contains information on species distribution in the hard accessible mountainous region with very few floristic studies.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>vascular plants</keyword>
+              <keyword>Lake Baikal</keyword>
+              <keyword>flora</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>digitizing printed maps</keyword>
+              <keyword>dataset</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Study area includes the western part of BAM from Ust-Kut town at the west and Chara depression at the east. It is a mountainous region involving several ranges of Stanovoy Highlands (Upper Angara, Northern Muya, Southern Muya, Kodar, Udokan), neighbor Baikal and Barguzin ranges. The main river of the study area is Lena with its right tributary river Vitim. The latter one has left (Muya, Mamakan, Mama) and right (Kalar and Kalakan) tributaries within study area. Upper Angara river, which flow into Lake Baikal and right tributary of Lena (river Chaya) have their sources at the western part of Stanovoy Highlands.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>104.23</westBoundingCoordinate>
+                      <eastBoundingCoordinate>121.29</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.05</northBoundingCoordinate>
+                      <southBoundingCoordinate>53.48</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>denis.sandanov@gmail.com</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">bAyEHO0AAAAJ&amp;hl=ru</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+<organizationName>Institute of General and Experimental Biology of SB RAS</organizationName><positionName>Junior Researcher</positionName>    <address>
+<deliveryPoint>Sakhyanovoi str., 6</deliveryPoint><city>Ulan-Ude</city><administrativeArea>Republic of Buryatia</administrativeArea><postalCode>670047</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>73012433256</phone><electronicMailAddress>blenysik@mail.ru</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Digitalization of species distribution maps was performed in QGIS software by means of georeferencing tool. Output digitized maps were compared to the original.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Study area is situated on the northern edges of three regions of Russia: Irkutsk Oblast, Republic of Buryatia, and Zabaikalsky Krai. Some of species occurrences at the northwestern part of Lake Baikal, including Baikal Range at the present time partially located at Baikal-Lena nature reserve. Opposite part of Baikal shoreline occupied by Barguzin nature reserve, Zabaikalsky national park, and Frolikhinsky Sanctuary. Northeastern part of Irkutsk Oblast covered by Vitimsky reserve which border at the south with national park Kodar on the territory of Zabaikalsky Krai.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>In total, 770 maps were scanned from the book. Using the position of Lake Baikal and neighbor rivers we define projection of the maps and adjusted all of them to unified coordinate system. Digitalization was performed in QGIS 3.10 software using of georeferencing tool. Source raster distribution maps were georeferenced by snapping control points to destination vector shapefile, which in our case was the contour of Lake Baikal and neighbor rivers. Control points linked raster maps to destination shapefile which resulted in transformation of the maps according to spatial projection of destination features (WGS 1984). Subsequently, species distribution locations were digitized from each map. Coordinates of each location were calculated in attribute table.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Final examination of the digitized species distribution maps we performed in QGIS 3.10. For each species we compared the output digitized occurrences with the original maps. The majority of occurrences digitized consistently with the printed maps. The diameter of dot designating species occurrences is equal to 16 km. According to this we estimate the coordinate uncertainty as 20 km for all studied species.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="121030900138-8 ">
+          <title>Biota of terrestrial ecosystems of Baikal region: composition, structure, eco-geographic patterns</title>
+          <personnel>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Sandanov</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?hl=ru&amp;user=bAyEHO0AAAAJ</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Elena</givenName>          <surName>Brianskaia</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>The project involves different disciplines: flora and plant taxonomy, plant biology and population ecology, the vegetation of Baikal region, fauna and ecology of insects, ecology and geography of vertebrates.</para>
+          </abstract>
+          <funding>
+              <para>Russian Federal Budget</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Baikal Region, Russia</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:45Z</dateStamp>
+      <citation>Sandanov D, Brianskaia E (2021). Occurrences of vascular plants in the western part of Baikal-Amur Mainline. Version 1.15. Institute of General and Experimental Biology of SB RAS. Occurrence dataset https://doi.org/10.15468/a8c783 accessed via GBIF.org on 2022-02-08.</citation>
+              <formationPeriod>1912/1982</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

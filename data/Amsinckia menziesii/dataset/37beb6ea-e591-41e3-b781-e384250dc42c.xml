@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="37beb6ea-e591-41e3-b781-e384250dc42c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/khlfs3</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr1097</alternateIdentifier>
+        <alternateIdentifier>b88d33aa-1db6-30d0-afec-0f6f3d16ceb9</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr1097</alternateIdentifier>
+        <alternateIdentifier>37beb6ea-e591-41e3-b781-e384250dc42c</alternateIdentifier>
+        <alternateIdentifier>f43b2d62-eee9-3f8f-9f5c-f9d64b1013f8</alternateIdentifier>
+        <alternateIdentifier>fb098567-3107-320a-8b2a-bbf8f0a68e12</alternateIdentifier>
+    <title>Victorian Biodiversity Atlas</title>
+    <creator>
+<organizationName>Victorian Biodiversity Atlas</organizationName>    <address>
+<deliveryPoint>1 Spring Street,</deliveryPoint><city>Melbourne</city><administrativeArea>Victoria</administrativeArea><postalCode>3000</postalCode><country>AUSTRALIA</country>    </address>
+<onlineUrl>http://www.depi.vic.gov.au/environment-and-wildlife/biodiversity/victorian-biodiversity-atlas</onlineUrl>    </creator>
+    <creator>
+<organizationName>Victorian Department of Environment, Land, Water and Planning</organizationName>    <address>
+<deliveryPoint>1 Spring Street,</deliveryPoint><city>Melbourne</city><administrativeArea>Victoria</administrativeArea><postalCode>3000</postalCode><country>AUSTRALIA</country>    </address>
+<phone>136 186</phone><electronicMailAddress>customer.service@dpi.vic.gov.au</electronicMailAddress><onlineUrl>http://delwp.vic.gov.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Victorian Biodiversity Atlas</organizationName>    <address>
+<deliveryPoint>1 Spring Street,</deliveryPoint><city>Melbourne</city><administrativeArea>Victoria</administrativeArea><postalCode>3000</postalCode><country>AUSTRALIA</country>    </address>
+<onlineUrl>http://www.depi.vic.gov.au/environment-and-wildlife/biodiversity/victorian-biodiversity-atlas</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Department of Environment, Land, Water &amp;amp; Planning works in partnership with a range of agencies and stakeholders to protect and preserve Victoria’s native landscape through a range of biodiversity, wildlife and community programs. 
+
+We manage threatened species conservation and recovery, biodiversity research, invasive species, and climate change adaptation strategies. - See more at: http://www.delwp.vic.gov.au/environment-and-wildlife#sthash.giDedj4S.dpuf
+
+The Victorian Biodiversity Atlas (VBA) is the web-based information system designed to manage information about native and naturalised species occurring in Victoria. The system includes species attribute information, including origin and conservation status, along with more than six million records of species distribution and abundance. All the published records have been through the verification process of the VBA which includes review by a panel of Victorian experts. 
+
+The VBA includes the data submitted to DELWP from external sources as well as the Department’s own data collections from systematic surveys and general observations. The VBA replaces several legacy systems, including the Victorian Flora Site Database, the Atlas of Victorian Wildlife, the Aquatic Fauna Database and the Victorian Rare or Threatened Plant Population monitoring (VROTPop) systems. 
+
+For further information and access to the VBA please go to the DELWP website http://www.depi.vic.gov.au/environment-and-wildlife/biodiversity/victorian-biodiversity-atlas).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr1097</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+          <surName>VBA Help</surName>
+    </individualName>
+<positionName>support</positionName><electronicMailAddress>vba.help@delwp.vic.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:43Z</dateStamp>
+      <citation>Victorian Department of Environment, Land, Water and Planning (2021). Victorian Biodiversity Atlas. Occurrence dataset https://doi.org/10.15468/khlfs3 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

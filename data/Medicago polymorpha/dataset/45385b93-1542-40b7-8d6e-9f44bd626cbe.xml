@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="45385b93-1542-40b7-8d6e-9f44bd626cbe"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/vqfxiv</alternateIdentifier>
+        <alternateIdentifier>http://gbif-chile.mma.gob.cl/ipt/resource?r=pbuch_sqf</alternateIdentifier>
+        <alternateIdentifier>45385b93-1542-40b7-8d6e-9f44bd626cbe</alternateIdentifier>
+    <title>Herbario SQF</title>
+    <creator>
+    <individualName>
+<givenName>Antonia</givenName>          <surName>Serey Vásquez</surName>
+    </individualName>
+<organizationName>Universidad de Chile</organizationName><positionName>Creador del recurso</positionName>    <address>
+<deliveryPoint>Av. Santa Rosa 11315, La Pintana</deliveryPoint><city>Santiago</city><postalCode>8820808</postalCode><country>CHILE</country>    </address>
+<phone>+56 9 777 33 666</phone><electronicMailAddress>antonia.serey@ug.uchile.cl</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Delporte Vergara</surName>
+    </individualName>
+<organizationName>Herbario SQF - Universidad de Chile</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Santos Dumont 964, Independencia, Región Metropolitana</deliveryPoint><city>santiago</city><administrativeArea>santiago</administrativeArea><postalCode>8380494</postalCode><country>CHILE</country>    </address>
+<phone>+56 2 978 1697</phone><electronicMailAddress>cdelpor@uchile.cl</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Paulette</givenName>          <surName>Naulin Gysling</surName>
+    </individualName>
+<organizationName>Universidad de Chile</organizationName><positionName>Acádemico</positionName>    <address>
+<deliveryPoint>Av. Santa Rosa 11315, La Pintana</deliveryPoint><city>Santiago</city><postalCode>8820808</postalCode><country>CHILE</country>    </address>
+<phone>+56 2 2 2978 5825</phone><electronicMailAddress>pnaulin@uchile.cl</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-08-19
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Herbario SQF se fundó en 1955 a partir de colecciones de Federico Johow; botánico, micólogo, liquenólogo alemán. Su primer director fue el profesor de botánica Juan Ibáñez Gómez, labor que continuó en 1955 el profesor Hugo Gunckel Lüer; una eminencia entre los naturalistas chilenos y gran colector de plantas. Quien reconociendo muestras y generando material, logró que SQF alcanzase aproximadamente las 11.500 unidades. En 1968, L. E. Navas sucede al profesor Gunckel como directora del herbario, cargo que desempeñó hasta 1982, fecha en que el herbario alcanza unos 16.000 ejemplares.</para>
+        <para>Posteriormente, se incorporan a trabajar al herbario Ida Latorre, R. Peña y, desde la década de 1990, la doctora Carla Delporte asume como directora del herbario de la Escuela de Química y Farmacia de la Universidad de Chile. En 1992 ocurre uno de los tres incendios documentados para la Facultad, consumiendo gran parte del edificio, y casi afectando directamente al herbario.</para>
+        <para>Este herbario es uno de los 16 herbarios indexados en el país, de los cuales 3 pertenecen a Universidad de Chile. Estar indexado implica reconocimiento a nivel mundial, asignándosele un identificador único permanente en la forma de un código. Esta práctica se realiza desde la fundación de Index Herbariorum en 1935. La información que debe contener un herbario para su registro en Index Herbariorum incluye su ubicación física, dirección URL, contenido, fecha de fundación, nombres, información de contacto y áreas de experiencia del personal asociado.</para>
+        <para>Los datos contenidos en SQF poseen información valiosa sobre flora histórica central, donde muchos ejemplares sirvieron de respaldo en varios trabajos sobre flora de la Región Metropolitana, en particular sobre la flora histórica del Cerro San Cristóbal, quebradas de Peñalolén y Macul, y la laguna de Batuco (Universidad de Chile, 2011). Estos datos respaldan la obra “Flora de la cuenca de Santiago” en tres volúmenes de L.E Navas</para>
+        <para>También se ha ocupado para el desarrollo de memorias de título, tesis de grado, trabajos y tesis de posgrados, de distintas partes de Chile, sumando más de 100 trabajos de éste tipo</para>
+        <para>Por ejemplo, en cierto período, se estudió la migración humana en la Polinesia, comparando la introducción de especies vegetales con el movimiento de la población entre diferentes islas. Una de las especies investigadas, Broussonetia papyrifera (L.) L&amp;#39;Hér. ex Vent., nativa de Asia oriental y cultivada en el Extremo Oriente (China, Japón, Indochina) desde hace siglos para su utilización en la fabricación de papel, fue encontrada en el herbario de la Facultad, contribuyendo a esa investigación.</para>
+        <para>Según registros del Index Herbariorum, SQF tendría alrededor de 15.000 muestras, con especialidad en angiospermas de Chile central. Otros registros indican la presencia de 22.000 especímenes  (López, 2011; Thiers, 2018).más en el año 2016 se estimaron 19.000 muestras conservadas a través de la realización del proyecto U-Redes, Consorcio Patrimonio Botánico Universidad de Chile (PBUCH): Rescate, difusión y puesta en  valor del patrimonio natural en las colecciones botánicas indexadas de la Universidad de Chile.</para>
+        <para>Entre los colectores más relevantes están F. Johow; J. Ibañez; G. Amunategui; C. Rudolph; H. Gunckel; L.E Navas, cuyas muestras datan desde 1885 hasta la segunda mitad del siglo XX.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Plantas vasculares</keyword>
+              <keyword>Sudamérica</keyword>
+              <keyword>flora</keyword>
+              <keyword>SQF</keyword>
+              <keyword>Chile</keyword>
+              <keyword>herbario</keyword>
+              <keywordThesaurus>n / a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos proceden de diferentes localidades del territorio de Chile. Principalmete de la zona central del país. Estas muestras corresponden a la recolección de docentes, botánicos e investigadores.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.289</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-66.445</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-18.646</northBoundingCoordinate>
+                      <southBoundingCoordinate>-56.072</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1885-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los registros pertenecen principalmente al Phyllum Tracheophyta, representando al 98.8% de la totalidad. Otros phyllum que se encuentran, de manera poco representativa son: Ochrophyta, Rhodophyta, Bryophyta, Ascomycota, Magnoliophyta, Chlorophyta, Pteridophyta, Angiospermae, Basidiomycota</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Delporte Vergara</surName>
+    </individualName>
+<organizationName>Universidad de Chile</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Santos Dumont 964, Independencia, Región Metropolitana</deliveryPoint><city>Santiago</city><postalCode>8380494</postalCode><country>CHILE</country>    </address>
+<phone>+56 2 978 1697</phone><electronicMailAddress>cdelpor@uchile.cl</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>David</givenName>          <surName>Aravena Vidal</surName>
+    </individualName>
+<organizationName>Universidad de Chile</organizationName><positionName>Técnico de Herbario</positionName>    <address>
+<deliveryPoint>Santos Dumont 964, Independencia, Región Metropolitana</deliveryPoint><city>Santiago</city><postalCode>8380494</postalCode><country>CHILE</country>    </address>
+<phone>+56 2 2 978 1654</phone><electronicMailAddress>daravenav@hotmail.com</electronicMailAddress>      </contact>
+
+      <project id="UR15-001">
+          <title>Consorcio Patrimonio Botánico Universidad de Chile (PBUCH): Rescate, difusión y puesta en valor del patrimonio natural en las colecciones botánicas indexadas de la Universidad de Chile</title>
+          <personnel>
+    <individualName>
+<givenName>Paulette</givenName>          <surName>Naulin</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Delporte</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Muñoz</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Federico</givenName>          <surName>Luebert</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Luis</givenName>          <surName>Faúndez</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nicolás</givenName>          <surName>García</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Rosa</givenName>          <surName>Scherson</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>En el proyecto Programa U-Redes: Línea 1 Incentivo a la Generación de Red, Consorcio Patrimonio Botánico Universidad de Chile (PBUCH): Rescate, difusión y puesta en valor del patrimonio natural en las colecciones botánicas indexadas de la Universidad de Chile, se realizó el diagnostico de las colecciones botánicas de herbarios indexados pertenecientes a la Universidad de Chile, administradas por las Facultades de Ciencias Agronómicas, Ciencias Forestales y de la Conservación de la Naturaleza y Ciencias Químicas y Farmacéuticas.</para>
+          </abstract>
+          <funding>
+              <para>Fondo Central de Investigación, Programa U-Redes: Línea 1 Incentivo a la Generación de Red.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:36Z</dateStamp>
+      <citation>Serey Vásquez A, Delporte Vergara C, Naulin Gysling P (2021). Herbario SQF. Version 1.6. Herbario SQF - Universidad de Chile. Occurrence dataset https://doi.org/10.15468/vqfxiv accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

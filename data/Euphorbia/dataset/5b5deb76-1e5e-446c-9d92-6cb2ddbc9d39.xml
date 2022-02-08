@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5b5deb76-1e5e-446c-9d92-6cb2ddbc9d39"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dyj4jj</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=samoylovka</alternateIdentifier>
+    <title>A grid-based database on vascular plant distribution in Samoylovsky District of Saratov Oblast, Russia</title>
+    <creator>
+    <individualName>
+<givenName>Vikotoria N.</givenName>          <surName>Pashkina</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Master&apos;s student</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>trentepolia.sp.45@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Vikotoria N.</givenName>          <surName>Pashkina</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Master&apos;s student</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>trentepolia.sp.45@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Alexey P.</givenName>          <surName>Seregin</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Leading Research Fellow</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>      <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+    <role>EDITOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset contains 5,772 unique occurrences of ca. 630 vascular plant species from Samoylovsky District, Saratov Oblast (Russia). They are based on field records by Viktoria N. Pashkina performed in 2017–2018 using a grid scheme. Georeferences are based on WGS84 grid scheme with 24 grid squares (5 minutes lat. × 10 minutes long., or ca. 116 square km). Dataset contains only one occurrence per species per grid square, thereby earlier records are not duplicated if they were confirmed later.</para>
+        <para>The dataset is a part of the Master&amp;#39;s Paper &amp;#34;Spatial structure of flora in agricultural landscapes (based on case study of Samoylovsky District of Saratov Oblast)&amp;#34; (Pashkina, 2019) supervised by Dr. A.P. Seregin. Ca. 800 voucher specimens were trasfered to the Moscow University Herbarium and will be available via the &amp;#34;Moscow University Herbarium (MW)&amp;#34; dataset (https://www.gbif.org/dataset/902c8fe7-8f38-45b0-854e-c324fed36303).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Samoylovsky District of Saratov Oblast, Russia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>43</westBoundingCoordinate>
+                      <eastBoundingCoordinate>44.25</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.5</northBoundingCoordinate>
+                      <southBoundingCoordinate>51</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Vascular plants</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Vikotoria N.</givenName>          <surName>Pashkina</surName>
+    </individualName>
+<organizationName>Lomonosov Moscow State University</organizationName><positionName>Master&apos;s student</positionName>    <address>
+<deliveryPoint>Leninskie Gory 1</deliveryPoint><city>Moscow</city><postalCode>119234</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>trentepolia.sp.45@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>Spatial structure of flora in agricultural landscapes (based on case study of Samoylovsky District of Saratov Oblast)</title>
+          <personnel>
+    <individualName>
+<givenName>Vikotoria N.</givenName>          <surName>Pashkina</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Although steppe area is not extensive compared to others zones, their value is hard to overestimate. Because of its great importance for economy the steppe zone of Russia is well studied. There were multiple studies focused on steppe flora. However, few researchers have addressed the issue of its spatial structure. Samoylovsky District is one of the districts of Saratov Oblast. The spatial structure of  its flora was studied with grid method. The whole territory was divided into 24 square 5′ in latitude and 10′  in longitude. Each grid square was divided into four smaller segments (2.5′×5′). In the field seasons 2017-2018 Vikotoria N. Pashkina explored, as minimum, one segment of each grid square. Each route was built out of nesesserity to visit maximum habitat types: rivers, ponds, woods, meadows, railways, salt licks etc. Special attention was paid to last steppe areas remaining intact. Annotated checklist and distribution maps of species was produced.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:44Z</dateStamp>
+      <citation>Pashkina V N (2019). A grid-based database on vascular plant distribution in Samoylovsky District of Saratov Oblast, Russia. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/dyj4jj accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://depo.msu.ru/ipt/logo.do?r=samoylovka</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

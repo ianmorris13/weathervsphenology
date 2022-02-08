@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="83529de0-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/j5n36h</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=jaca</alternateIdentifier>
+        <alternateIdentifier>83529de0-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>246</alternateIdentifier>
+    <title>Instituto Pirenaico de Ecología-CSIC: Herbarium JACA</title>
+    <creator>
+    <individualName>
+<givenName>José Luis</givenName>          <surName>Benito Alonso</surName>
+    </individualName>
+<organizationName>Pyrinean Institute of Ecology (CSIC)</organizationName>    <address>
+<country>SPAIN</country>    </address>
+<electronicMailAddress>jolube@jolube.net</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>José Luis</givenName>          <surName>Benito Alonso</surName>
+    </individualName>
+<organizationName>Pyrinean Institute of Ecology (CSIC)</organizationName>    <address>
+<country>SPAIN</country>    </address>
+<electronicMailAddress>jolube@jolube.net</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>José Luis Benito Alonso</surName>
+    </individualName>
+<phone>34-974 356 962</phone><electronicMailAddress>jolube@jolube.net</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Ecological Pyrenean Institute-CSIC. Jaca (Huesca) SPAIN. Herbarium</para>
+        <para>Note: this dataset was previously orphaned. It has been rescued by ① extracting it from the GBIF.org index (see GBIF Download in External Data) and ② republishing it on this IPT data hosting centre as version 1.0.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.ipe.csic.es/</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>José Luis</givenName>          <surName>Benito Alonso</surName>
+    </individualName>
+<organizationName>Pyrinean Institute of Ecology (CSIC)</organizationName>    <address>
+<country>SPAIN</country>    </address>
+<electronicMailAddress>jolube@jolube.net</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Luis</givenName>          <surName>Villar Pérez</surName>
+    </individualName>
+<organizationName>Pyrinean Institute of Ecology (CSIC)</organizationName>    <address>
+<country>SPAIN</country>    </address>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Gómez García</surName>
+    </individualName>
+<organizationName>Pyrinean Institute of Ecology (CSIC)</organizationName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:19:52Z</dateStamp>
+      <citation>Benito Alonso J L (2020). Instituto Pirenaico de Ecología-CSIC: Herbarium JACA. Pyrinean Institute of Ecology (CSIC). Occurrence dataset https://doi.org/10.15468/j5n36h accessed via GBIF.org on 2022-02-08.</citation>
+              <physical>
+                  <objectName>GBIF Occurrence Download</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0002108-180131172636756.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

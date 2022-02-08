@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="63fa6322-9962-44a5-8691-24cdb26e1370"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/h7wbjz</alternateIdentifier>
+        <alternateIdentifier>63fa6322-9962-44a5-8691-24cdb26e1370</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr794</alternateIdentifier>
+        <alternateIdentifier>ec0178bc-ddb5-3346-a168-a73070087905</alternateIdentifier>
+    <title>Weed and native flora data for the Swan Coastal Plain</title>
+    <creator>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </creator>
+    <creator>
+<organizationName>Western Australia, Department of Biodiversity, Conservation and Attractions</organizationName>    <address>
+<deliveryPoint>17 Dick Perry Avenue</deliveryPoint><city>Perth</city><administrativeArea>Western Australia</administrativeArea><postalCode>6151</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(08) 9219 9000</phone><electronicMailAddress>enquiries@dbca.wa.gov.au</electronicMailAddress><onlineUrl>https://www.dbca.wa.gov.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureMap</organizationName><onlineUrl>http://naturemap.dec.wa.gov.au/default.aspx</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Weed and native flora quadrat data compiled between 1990 - 1996 for the Southern Swan Coastal Plain
+
+Compiled and edited by Keighery, B., Keighery, G., Longman, V.M., and Clarke, K.A. 2012. Data compiled for the Departments of Environmental Protection and Conservation and Land Management.
+
+This dataset derives from a database that has been compiled and maintained over many years. It combines the results of a number of floristic studies conducted on plant communities of the IBRA Swan Coastal Plain Bioregion (abbreviated as SWA, SEWPC 2012) south of the Moore River, hereafter referred to as the southern Swan Coastal Plain. It includes sampling site details, the flora collected at these sampling sites and the floristic community type assigned to these sampling sites. The taxonomy of the flora in the database has been updated regularly as determined by Greg and Bronwen Keighery. This dataset lists the taxonomy (including family names) which was current in this database on 23 June 2005 when this dataset was compiled.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr794</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Greg</givenName>          <surName>Keighery</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>greg.keighery@dec.wa.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:07Z</dateStamp>
+      <citation>Western Australia, Department of Biodiversity, Conservation and Attractions (2019). Weed and native flora data for the Swan Coastal Plain. Occurrence dataset https://doi.org/10.15468/h7wbjz accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/wa-gov.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

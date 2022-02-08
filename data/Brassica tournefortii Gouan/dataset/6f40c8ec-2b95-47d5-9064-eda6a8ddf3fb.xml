@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6f40c8ec-2b95-47d5-9064-eda6a8ddf3fb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bp6jy3</alternateIdentifier>
+        <alternateIdentifier>https://openherbarium.org:443/collections/misc/collprofiles.php?collid=51</alternateIdentifier>
+        <alternateIdentifier>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=51</alternateIdentifier>
+    <title>Quaid-i-Azam University Herbarium</title>
+    <creator>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Quaid-i-Azam University Herbarium</organizationName><positionName>Collection Manager</positionName><phone>92-51-90643149</phone><electronicMailAddress>mushtaqflora@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-11-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>ISL was established in 1974. It is now the largest herbarium in Pakistan having over 180,000 specimens, collected from throughout Pakistan. The oldest specimens were collected over 50 years ago. The herbarium supports and promotes research on a wide range of environmental and biodiversity issues. Its holdings include many important endangered, rare and vulnerable plant species. Currently, the herbarium is being used by projects in taxonomy, molecular systematics, revisions, palynology, diversity of wild vegetables and edible fruits, biofuels, medicinal uses and the flora of different ecosystems within Pakistan. The herbarium’s holdings be consulted by anyone interested. Visitors routinely include foreigners, scientists, herbalists, naturalists, students and teachers from universities, colleges and schools. In 2018, Drs. Mushtaq Ahmad and Muhammad Zafar, assisted by their post-graduate students and funding from the Bioidiversity Information Fund for Asia (BIFA03-47), began digitizing and georeferencing the herbarium’s specimens. A second BIFA grant (BIFA04-046), enabled continuation of that effort so that now (2020-Oct-20) there are 36,208 ISL records accessible via OpenHerbarium and the Global Biodiversity Information Facility, of which 24,368 have been georeferenced. Individuals needing to view information for endangered, rare and vulnerable species should contact Dr. Mushtaq Ahmad for permission.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>Quaid-i-Azam University Herbarium</organizationName><phone>92-51-90643149</phone><electronicMailAddress>mushtaqflora@hotmail.com</electronicMailAddress>      </contact>
+
+      <project id="BIFA3_47">
+          <title>Georeferencing and mobilization of plant occurrence data from Pakistan</title>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:20:07Z</dateStamp>
+      <citation>Herbarium of Pakistan (ISL) - QAU (2020). Quaid-i-Azam University Herbarium. Occurrence dataset https://doi.org/10.15468/bp6jy3 accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

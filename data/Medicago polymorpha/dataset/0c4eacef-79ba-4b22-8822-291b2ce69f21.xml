@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0c4eacef-79ba-4b22-8822-291b2ce69f21"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/t4lkyc</alternateIdentifier>
+        <alternateIdentifier>https://openherbarium.org:443/collections/misc/collprofiles.php?collid=63</alternateIdentifier>
+    <title>University of Azad Jammu and Kashmir Herbarium</title>
+    <creator>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>OpenHerbarium</organizationName><electronicMailAddress>Mary.Barkworth@usu.edu</electronicMailAddress><onlineUrl>https://openherbarium.org:443/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>University of Azad Jammu and Kashmir Herbarium</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>C.M.H. Road</deliveryPoint><city>Muzaffarabad</city><administrativeArea>Azad Jammu and Kashmir</administrativeArea><postalCode>13100</postalCode><country>PAKISTAN</country>    </address>
+<phone>[92] 5822 960431</phone><electronicMailAddress>tariqhabib76@gmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbarium, which was established in 2019, is focused on the flora of Azad Kashmir and northern Pakistan. This floristically rich region encompasses subtropical, temperate, and alpine floras.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>University of Azad Jammu and Kashmir Herbarium</organizationName><phone>[92] 5822 960431</phone><electronicMailAddress>tariqhabib76@gmail.com</electronicMailAddress>      </contact>
+
+      <project id="BIFA4_046">
+          <title>Expanding the value and reach of plant data mobilization in Pakistan</title>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:44Z</dateStamp>
+      <citation>University of Azad Jammu and Kashmir (2021). University of Azad Jammu and Kashmir Herbarium. Occurrence dataset https://doi.org/10.15468/t4lkyc accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

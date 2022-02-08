@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ea05dcbd-0d05-4785-9313-0ec68cb90426"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/cchsv3</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.se/ipt/resource?r=gothenburg-botanic-garden</alternateIdentifier>
+        <alternateIdentifier>ea05dcbd-0d05-4785-9313-0ec68cb90426</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.se/ipt/resource?r=gothenburg-botanic-garden</alternateIdentifier>
+    <title>Living Collection of the Gothenburg Botanical Garden</title>
+    <creator>
+    <individualName>
+<givenName>Mats</givenName>          <surName>Havström</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Head of research and collections</positionName>    <address>
+<deliveryPoint>Carl Skottbergs gata 22a</deliveryPoint><city>Göteborg</city><postalCode>41319</postalCode><country>SWEDEN</country>    </address>
+<electronicMailAddress>Mats.Havstrom@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Mari</givenName>          <surName>Källersjö</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Carl Skottbergs gata 22a</deliveryPoint><city>Göteborg</city><postalCode>41319</postalCode><country>SWEDEN</country>    </address>
+<electronicMailAddress>Mari.Kallersjo@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Åsa</givenName>          <surName>Krüger</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Scientific curator</positionName>    <address>
+<deliveryPoint>Cal Skottbergsgata 22a</deliveryPoint><city>Göteborg</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>asa.kruger@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mats</givenName>          <surName>Havström</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Head of research and collections</positionName>    <address>
+<deliveryPoint>Carl Skottbergs gata 22a</deliveryPoint><city>Göteborg</city><postalCode>41319</postalCode><country>SWEDEN</country>    </address>
+<electronicMailAddress>Mats.Havstrom@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-10
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The area in total is 175 hectares (ca 430 acres), of which most constitutes a nature reserve including the arboretum. The garden proper is about 40 hectares and here grow some 16,000 different species and cultivars. There are many different parts of the garden such as the Rhododendron Valley, the Japanese Glade and the Rockgarden. In the Greenhouses you will find about 4,000 various species and cultivars, including some 1,500 orchids, a remarkable travertine department and the rare Eastern Island Tree. The garden is involved in conservation projects of threatened species in western Sweden.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>botany</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>vascular plants</keyword>
+              <keyword>Living specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.botaniska.se</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The collection has a broad geographical range.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The collection includes vascular plants.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophytes</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Education, research, horticulture, garden therapy</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Curation</para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Åsa</givenName>          <surName>Krüger</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Scientific curator</positionName>    <address>
+<deliveryPoint>Carl Skottsbergs gata 22a</deliveryPoint><city>Göteborg</city><postalCode>41319</postalCode><country>SWEDEN</country>    </address>
+<electronicMailAddress>asa.kruger@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Mats</givenName>          <surName>Havström</surName>
+    </individualName>
+<organizationName>Gothenburg Botanical Garden</organizationName><positionName>Head of research and collections</positionName>    <address>
+<deliveryPoint>Carl Skottbergs gata 22a</deliveryPoint><city>Göteborg</city><postalCode>41319</postalCode><country>SWEDEN</country>    </address>
+<electronicMailAddress>Mats.Havstrom@vgregion.se</electronicMailAddress><onlineUrl>http://www.botaniska.se</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Not appicable</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Living collection of vascular plants from a wide geographical range.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Seed exchange, field collecting of living material among others.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Curation</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="GBG">
+          <title>Gothenburg Botanical Garden</title>
+          <personnel>
+    <individualName>
+<givenName>Mats</givenName>          <surName>Havström</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mari</givenName>          <surName>Källersjö</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para>Gothenburg Botanical Garden. Collection of living specimens, vascular plants.</para>
+          </abstract>
+          <funding>
+              <para>Västra Götaland regional council (the public government sector)</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:40:57Z</dateStamp>
+      <citation identifier="GBG">Havström M, Källersjö M, Krüger Å (2021). Living Collection of the Gothenburg Botanical Garden. Version 1.5. GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/cchsv3 accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>GBG</collectionIdentifier>
+                <collectionName>Gothenburg Botanical Garden</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>living plant specimens</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>25,000</beginRange>
+                          <endRange>35,000</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

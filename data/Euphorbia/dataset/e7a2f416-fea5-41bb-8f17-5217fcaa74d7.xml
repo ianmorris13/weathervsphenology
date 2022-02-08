@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e7a2f416-fea5-41bb-8f17-5217fcaa74d7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qdfdqq</alternateIdentifier>
+        <alternateIdentifier>e7a2f416-fea5-41bb-8f17-5217fcaa74d7</alternateIdentifier>
+        <alternateIdentifier>http://www.csbg.nsc.ru:8080/ipt/resource?r=checklistnsk2019</alternateIdentifier>
+    <title>Typotheca of the higher vascular plants stored in M.G. Popov Herbarium (NSK) at the Central Siberian botanical garden SB RAS</title>
+    <creator>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+79529365495</phone><electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/unu_herbarium#rec92516349</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Ovchinnikova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><country>RUSSIAN_FEDERATION</country>    </address>
+<onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-3876-954</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Olga</givenName>          <surName>Nikiforova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Researcher</positionName>    <address>
+<city>Novosibirsk</city><country>RUSSIAN_FEDERATION</country>    </address>
+<onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Natalia</givenName>          <surName>Vlasova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName>    <address>
+<city>Novosibirsk</city><country>RUSSIAN_FEDERATION</country>    </address>
+<onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Shekhovtsova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName>    <address>
+<city>Novosibirsk</city><country>RUSSIAN_FEDERATION</country>    </address>
+<onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Doron′kin</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya, 101</deliveryPoint><city>Novosibirsk</city><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>norbo@ngs.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-6344-7588</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Viktoria</givenName>          <surName>Troshkina</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya, 101</deliveryPoint><city>Novosibirsk</city><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>vitroshkina@csbg.nsc.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics#rec103113309</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5762-4357</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ekaterina</givenName>          <surName>Pinzhenina</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<city>Novosibirsk</city><country>RUSSIAN_FEDERATION</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Belyaeva</surName>
+    </individualName>
+<organizationName>Royal Botanical Gardens Kew</organizationName><positionName>researcher</positionName>    <address>
+<city>London</city><country>UNITED_KINGDOM</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/unu_herbarium#rec92516349</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Ilya</givenName>          <surName>Eremin</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>programmer</positionName>    <address>
+<city>Novosibirsk</city><country>RUSSIAN_FEDERATION</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Senior Researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode>    </address>
+<phone>+79529365495</phone><electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbaria at the Central Siberian Botanical Garden Siberian Branch of the Russian Academy of Sciences (CSBG) were started in 1946. There are two herbarium collections with their own codes and registrations in the Index Herbariorum: M.G.Popov Herbarium (NSK) and I.M.Krasnoborov Herbarium (NS). Approximately 800000 herbarium specimens of vascular plants, mosses, lichens and fungi collected in Siberia, the Russian Far East, Europe, Asia and North America are stored in NSK and NS. Digitization of the herbarium specimens of vascular plants at the resolution of 600 dpi began in 2014 using a special scanner, Herbscan, starting with type specimens. In 2017 a new research group Unique Scientific Unit – Herbarium (USU-Herbarium) was organized in the CSBG for the digitization and management of herbarium collections. Herbarium specimens are being digitized using three customized scanners: Herbscan and two ObjectScan 1600, according to the international standards, at 600 dpi, with a barcode, 24-color scale and spatial scale bar. Images and metadata are stored in the CSBG Database generated by ScanWizard Botany and MiVapp Botany software (Microtek, Taiwan).</para>
+        <para>We started creating the Typotheca since 2014 year by digitized type specimens and the protoloques. Typotheca - a collection of type specimen images and copies of pertaining protologues, as many protologues published in Russian have not been available in digital format (Kovtonyuk, Han, Gatilova, 2018b). Images and metadata for 568 type specimens preserved at the NSK are currently available on the Virtual Herbaria web site at the University of Vienna, Austria (http://herbarium.univie.ac.at/database) and 580 in JSTOR (https://plants.jstor.org). Here we published full checklist of type specimens</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Type specimens are kept in the CSBG SB RAS in designated cabinets for better preservation and control of handling.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://herb.csbg.nsc.ru:8081</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Type specimens of higher vascular plants collected in Siberia, the Russian Far East, Europe, Asia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-168.75</westBoundingCoordinate>
+                      <eastBoundingCoordinate>32</eastBoundingCoordinate>
+                      <northBoundingCoordinate>78.062</northBoundingCoordinate>
+                      <southBoundingCoordinate>33</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1833-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-06-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Type specimens from families Asteraceae (106), Poaceae (106), Fabaceae (94), Boraginaceae (80), Rosaceae (79), Ranunculaceae (48), Papaveraceae (47), Cyperaceae (44), Caryophyllaceae (40), Polygonaceae (23), Amaryllidaceae (22), Portulacaceae (22), Geraniaceae (14), Saxifragaceae (14), Brassicaceae (13), Juncaceae (12), Apiaceae (11), Primulaceae (11), Salicaceae (10), Euphorbiaceae (9), Violaceae (9), Orobanchaceae (9), Betulaceae (6), Gentianaceae (6), Lamiaceae (6), Amaranthaceae (4), Asparagaceae (4), Chenopodiaceae (3), Crassulaceae (3), Ericaceae (3), Grossulariaceae (2), Lentibulariaceae (2), Linaceae (2), Onagraceae (2), Tofieldiaceae (2), Caprifoliaceae (1), Iridaceae (1), Potamogetonaceae (1), Plantaginaceae (1).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranunculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Papaveraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaryllidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Portulacaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Geraniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Saxifragaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Brassicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Violaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Betulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gentianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scrophulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asparagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orobanchaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chenopodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crassulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ericaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grossulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Linaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Onagraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tofieldiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Potamogetonaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>We started creating the Typotheca since 2014 year by digitized type specimens and the protoloques. Typotheca - a collection of type specimen images and copies of pertaining protologues, as many protologues published in Russian have not been available in digital format.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>The value of digital images of type specimens has recently grown, since it grants ready access to authentic material necessary for research and typification, thus providing for correct application of scientific names, as stated in Art. 7.1 of the International Code of Nomenclature for Algae, Fungi, and Plants (ICN) (Turland et al., 2018) and demonstrated in publications (Kovtonyuk, 2015, 2017a,b,c, 2019; Kovtonyuk and Belyaeva, 2015; Nikiforova, 2016; Ovchinnikova et al., 2016; Troshkina, 2017; Kovtonyuk, Han, Gatilova, 2018; Vlasova, 2018; Shekhovtsova, 2018; Doronkin, V.M., Vlasova, N.V., Pinzhenina, E.A. 2019).</para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>head of research group USU-Herbarium CSBG</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<phone>+79529365495</phone><electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Digitization have made by ObjectScan 1600.This integrated workstation is characterized by on-top scan design for full-frame focus, a maximum of 1600 dpi (equal to 1 Gigabyte pixels), color CCD, Optical Character Recognition (OCR) for specimen label and ID barcode, and image archive and privileged-account cloud management system. Verification of digitized images was made by I. Han and N. Kovtonyuk.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Type specimens were digitized since 2014 year.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Currently digitization of samples is carried out using Herbscan and two ObjectScan 1600 scanners. Each workstation consists of an ObjectScan 1600 scanner, ScanWizard_Botany software (reg. number I41-018966) and MiVapp_Botany archive management system (reg. number I41-018969) software (Microtek, Taiwan).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Specimens were scanned using international standards: with the resolution of 600 dpi, a barcode for each specimen, and a 24-color scale and scale</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Typotheca of the higher vascular plants stored in M.G. Popov Herbarium (NSK) at the Central Siberian botanical garden SB RAS</title>
+          <personnel>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Ovchinnikova</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-3876-954</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Olga</givenName>          <surName>Nikiforova</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Natalia</givenName>          <surName>Vlasova</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Shekhovtsova</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Doron′kin</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-6344-7588</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Viktoria</givenName>          <surName>Troshkina</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-5762-4357</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ekaterina</givenName>          <surName>Pinzhenina</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Belyaeva</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>Typotheca - a collection of type specimen images and copies of pertaining protologues.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Type specimens of taxa from 39 families collected in Siberia, Far East, Europe, Asia.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Digitization of the herbarium specimens of vascular plants at the resolution of 600 dpi began in 2014 using a special scanner, Herbscan, starting with type specimens. In 2017 a new research group Unique Scientific Unit – Herbarium (USU-Herbarium) was organized in the CSBG for the digitization and management of herbarium collections. Herbarium specimens are being digitized using three customized scanners: Herbscan and two ObjectScan 1600, according to the international standards, at 600 dpi, with a barcode, 24-color scale and spatial scale bar. Images and metadata are stored in the CSBG Database (http://herb.csbg.nsc.ru:8081) generated by ScanWizard Botany and MiVapp Botany software (Microtek, Taiwan).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:24Z</dateStamp>
+      <citation>Kovtonyuk N, Han I, Ovchinnikova S, Nikiforova O, Vlasova N, Shekhovtsova I, Doron′kin V, Troshkina V, Pinzhenina E, Belyaeva I, Eremin I (2021). Typotheca of the higher vascular plants stored in M.G. Popov Herbarium (NSK) at the Central Siberian botanical garden SB RAS. Version 1.6. Central Siberian Botanical Garden SB RAS. Occurrence dataset https://doi.org/10.15468/qdfdqq accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Buzunova I.O., Kovtonyuk N. K. 2010. Typical samples of Primula L. (Primulaceae) taxa from Siberia and the Russian Far East, kept in Herbarium of V. L. Komarov Institute of botany (LE) //  Rastitel’niy mir Asiatskoy Rossii, 1: 12–18.</citation>
+      <citation identifier="http://www.izdatgeo.ru/pdf/rast/2015-3/88.pdf">Kovtonyuk N.K. 2015. Virtual collection of type specimens in M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 3: 88-93.</citation>
+      <citation identifier="http://skvortsovia.uran.ru/2015/2203.pdf">Kovtonyuk N.K., Belyaeva I.V. 2015. Nomenclatural and taxonomic notes on the names published by M.G. Popov in Salix L. and Populus L. (Salicaceae) // Skvortsovia, 2, 2: 126–140.</citation>
+      <citation identifier="http://www.izdatgeo.ru/pdf/rast/2015-4/12.pdf">Elisafenko T.V., Ovchinnikova S.V. 2015. Lectotypification of Viola taynensis (Violaceae) // Rastitel’niy mir Asiatskoy Rossii, 4: 12–23.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2016-3(41-54)">Han I.V. 2016. Taxa of Asteraceae, Euphorbiaceae and Scrophulariaceae in collection of types of M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 3:  41-54.</citation>
+      <citation identifier="DOI: 10.17223/20764103.113.2">Nikiforova O.D. 2016. The type specimens of the taxa of Hedysarum, Vicia, and Trifolium (Fabaceae) in collection of the M.G. Popov Herbarium (NSK) // Systematic notes, 113: 26–36.</citation>
+      <citation identifier="http://www.izdatgeo.ru/pdf/rast/2016-2/14.pdf">Nikiforova O.D. 2016. Type specimens of the taxa of the genus Papaver (Papaveraceae) in collections of M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 2:  14-20.</citation>
+      <citation identifier="http://www.izdatgeo.ru/pdf/rast/2016-1/48.pdf">Ovchinnikova S.V., Nikiforova O.D., Doron′kin, V.M., Vlasova N.V., Shekhovtsova I.N., Pinzhenina E.A. 2016. Type specimens of the taxa of Poaceae family in collection of M.G. Popov (NSK) // Rastitel’niy mir Asiatskoy Rossii, 1: 48 – 64.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2016-3(22-32)">Troshkina V.I. 2016. Notes on systematic and chorology of Geranium pseudosibiricum and related species (Geraniaceae) // Rastitel’niy mir Asiatskoy Rossii, 3: 22-32.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2016-3(18-21)">Vlasova N.V., Baikov K.S. 2016. Type specimens for taxa of the genus Dianthus (Caryophyllaceae) in the collection of M.G. Popov herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 3: 18–21.</citation>
+      <citation identifier="DOI:10.21782/RMAR1995-2449-2017-4(11-16)">Kovtonyuk N.K. (2017) Typification Primula macrocalyx and P. maximowiczii (Primulaceae) // Rastitel’niy mir Asiatskoy Rossii, 4: 11-16.</citation>
+      <citation identifier="DOI:10.5252/a2017n2a4 (29 Dec 2017) ">Kovtonyuk N. 2017. Typification of names in Primula L. (Primulaceae), described by A.R. Franchet // Adansonia, 39, 2: 1-16.</citation>
+      <citation identifier="DOI:10.21782/RMAR1995-2449-2017-4(11-16).">Kovtonyuk N.K. (2017) Virtual herbarium collections as a resource for taxonomy and biodiversity study // Rastitel’niy mir Asiatskoy Rossii, 1: 98-104.</citation>
+      <citation identifier="DOI:10.21782/RMAR1995-2449-2017-3(22-33)">Troshkina V.I. 2017. Systematics and chorology of Geranium albiflorum and related species (Geraniaceae) // Rastitel’niy mir Asiatskoy Rossii, 3: 22-33.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2018-4(19-29)">Kovtonyuk N.K., Han I.V., Gatilova E.A. 2018a Family Primulaceae in digital Herbarium of the Central Siberian Botanical garden SB RAS // Rastitel’niy mir Asiatskoy Rossii, 4: 19-29.</citation>
+      <citation identifier="http://skvortsovia.uran.ru/2018/4302.pdf">Kovtonyuk N., Han I. and Gatilova E. 2018b Digitization of vascular plant herbarium collections at the Central Siberian Botanical Garden, Novosibirsk, Russia // Skvortsovia, 4 (3): 100 – 111.</citation>
+      <citation identifier="https://www.binran.ru/files/journals/Novitates/2017_48/NSPV-48_8-Kovtonyuk.pdf">Kovtonyuk N.K. 2018. Lectotypification of name Ranunculus taigaensis (Ranunculaceae) // Nov. Syst. Plant. Vasc. 48: 65 –67.</citation>
+      <citation identifier="DOI:10.21782/RMAR1995-2449-2018-2(9-20)">Ovchinnikova S.V., Shekhovtsova I.N., Pinzhenina E.A. 2018. Type specimens of the name of taxa of Rosaceae family in collection of the M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 2: 9–20.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2018-4(37-50)">Ovchinnikova S.V., Pinzhenina E.A. 2018. Type specimens of genera Astragalus and Oxytropis (Fabaceae) in collection of M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 4:37-50.</citation>
+      <citation identifier="DOI: doi||10.21782/RMAR1995-2449-2018-3(36-41)">Vlasova N.V. 2018. Type specimens of taxon names in genera Silene and Lichnis  (Caryophyllaceae) in the collection of M.G. Popov Herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii  3 (23): 18–21.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2018-3(42-52)">Shekhovtsova I.N. 2018. Type specimens of taxon names of the Cyperaceae family from the M.G. Popov herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 3: 42-52.</citation>
+      <citation identifier="https://doi.org/10.14258/abs.v5.i2.5927">Doronkin, V.M., Vlasova, N.V., Pinzhenina, E.A. 2019.Type specimens of the names of the families Betulaceae, Ranunculaceae, Asparagaceae and Tofieldiaceae taxa in collection of M. G. Popov Herbarium (NSK). Acta Biologica Sibirica, 5 (2): 23-29.</citation>
+      <citation identifier="DOI: 10.21782/RMAR1995-2449-2019-1(41-47)">Nikiforova O.D. 2019. Type specimens of the taxa family Polygonaceae in collections of M.G. Popov herbarium (NSK) // Rastitel’niy mir Asiatskoy Rossii, 1: 41-47.</citation>
+      <citation identifier="https://doi.org/10.5252/adansonia2019v41a9">Kovtonyuk N., Andro-Durand V. (2019) Typification of Primula L. (Primulaceae), described by A. Franchet in 1886 from China and eastern Tibet // Adansonia, 41, 1. P. 75-89.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://static.tildacdn.com/tild6335-6361-4139-a139-666362303263/__.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>NSK</collectionIdentifier>
+                <collectionName>M.G. Popov Herbarium of the higher vascular plants</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>250,000</beginRange>
+                          <endRange>280,000</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

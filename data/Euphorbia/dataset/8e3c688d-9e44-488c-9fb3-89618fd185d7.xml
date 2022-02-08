@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8e3c688d-9e44-488c-9fb3-89618fd185d7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hf2e8b</alternateIdentifier>
+        <alternateIdentifier>https://ipt.mes.org.mk/ipt-2.4.0/resource?r=classic_plants</alternateIdentifier>
+        <alternateIdentifier>8e3c688d-9e44-488c-9fb3-89618fd185d7</alternateIdentifier>
+    <title>Classic localities of endemic vascular plants from the Western Balkans</title>
+    <creator>
+    <individualName>
+<givenName>Vlado</givenName>          <surName>Matevski</surName>
+    </individualName>
+<organizationName>Ss. Cyril and Methodius University</organizationName><positionName>academician</positionName>    <address>
+<city>Skopje</city><country>MACEDONIA</country>    </address>
+<electronicMailAddress>vlado.matevski@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marash</givenName>          <surName>Rakaj</surName>
+    </individualName>
+<organizationName>Universiteti i Shkodres Luigj Gurakuqi, Shkodër</organizationName><positionName>Botanist</positionName>    <address>
+<city>Shkodër</city><country>ALBANIA</country>    </address>
+<electronicMailAddress>marash_rakaj@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Zoltan</givenName>          <surName>Barina</surName>
+    </individualName>
+<organizationName>Natural History Museum, Budapest</organizationName><positionName>Botanist</positionName>    <address>
+<city>Budapest</city><country>HUNGARY</country>    </address>
+<electronicMailAddress>quercusbz@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Biljana</givenName>          <surName>Lubarda</surName>
+    </individualName>
+<organizationName>University of Banja Luka</organizationName><positionName>Botanist</positionName>    <address>
+<city>Banja Luka</city><country>BOSNIA_HERZEGOVINA</country>    </address>
+<electronicMailAddress>biljana.lubarda@pmf.unibl.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Vasko</givenName>          <surName>Avukatov</surName>
+    </individualName>
+<organizationName>Macedonian Ecological Society</organizationName><positionName>GIS analytics and databases programme coordinator</positionName>    <address>
+<deliveryPoint>Blvd. Boris Trajkovski St.7  No.9A</deliveryPoint><city>Skopje</city><administrativeArea>Kisela Voda</administrativeArea><postalCode>1000</postalCode><country>MACEDONIA</country>    </address>
+<phone>0038922402773</phone><electronicMailAddress>avukatov@mes.org.mk</electronicMailAddress><onlineUrl>http://www.mes.org.mk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vasko</givenName>          <surName>Avukatov</surName>
+    </individualName>
+<organizationName>Macedonian Ecological Society</organizationName><positionName>GIS analytics and databeses programme coordinator</positionName>    <address>
+<deliveryPoint>bul. Boris Trajkovski st.7 no.9a</deliveryPoint><city>Skopje</city><postalCode>1000</postalCode><country>MACEDONIA</country>    </address>
+<phone>0038922402773</phone><electronicMailAddress>vaskoav@gmail.com</electronicMailAddress><onlineUrl>http://www.mes.org.mk</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2021-07-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This resource contains spatial data about classical localities of endemic vascular plants from the Western Balkans. Data were compiled within the List of Selected Endemic Terrestrial Plant and Animal Taxa of South-East Europe (hereinafter: List of Endemic Taxa of SEE). Support for developing this list was provided by the Open Regional Fund for South-East Europe – Biodiversity (GIZ/ORF-BD), as part of its sub-project „Regional Network for Biodiversity Information Management and Reporting (BIMR)“ funded by the German Federal Ministry for Economic Cooperation and Development (BMZ) and implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Balkan</keyword>
+              <keyword>Kosovo</keyword>
+              <keyword>plants</keyword>
+              <keyword>endemic</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Macedonia</keyword>
+              <keyword>Serbia</keyword>
+              <keyword>Montenegro</keyword>
+              <keyword>Albania</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The main area of interest were the non-EU countries/economies from the western Balkan peninsula: Macedonia, Serbia, Montenegro, Kosovo, and Bosnia and Hercegovina, but some data is also included from Greece, Bulgaria, Croatia and Romania.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>15.029</westBoundingCoordinate>
+                      <eastBoundingCoordinate>28.651</eastBoundingCoordinate>
+                      <northBoundingCoordinate>46.68</northBoundingCoordinate>
+                      <southBoundingCoordinate>36.315</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>This resource contains spatial data about classical localities of endemic vascular plants from the Western Balkans. Data were compiled within the List of Selected Endemic Terrestrial Plant and Animal Taxa of South-East Europe (hereinafter: List of Endemic Taxa of SEE). Support for developing this list was provided by the Open Regional Fund for South-East Europe – Biodiversity (GIZ/ORF-BD), as part of its sub-project „Regional Network for Biodiversity Information Management and Reporting (BIMR)“ funded by the German Federal Ministry for Economic Cooperation and Development (BMZ) and implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Vasko</givenName>          <surName>Avukatov</surName>
+    </individualName>
+<organizationName>Macedonian Ecological Society</organizationName><positionName>GIS analytics and databases programme coordinator</positionName>    <address>
+<deliveryPoint>Blvd. Boris Trajkovski St.7  No.9A</deliveryPoint><city>Skopje</city><administrativeArea>Kisela Voda</administrativeArea><postalCode>1000</postalCode><country>MACEDONIA</country>    </address>
+<phone>0038922402773</phone><electronicMailAddress>avukatov@mes.org.mk</electronicMailAddress><onlineUrl>http://www.mes.org.mk</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The main goal in the development of the list was to record all taxa (species and subspecies) described on the territory of SEE economies (or in their immediate vicinity) whose present distributions are restricted to the Western Balkans region. Data was compiled on the basis of direct review of a large number of published monographs and articles containing a scientific description of a particular taxon. From the compiled literature, the original (verbatim) scientific name (under which it is described) and localities where it was first found (classic locality) were extracted. Actual taxonomic status of every taxon and scientific names were aligned with the accepted scientific nomenclature format according to the International Code of Zoological Nomenclature or the International Code of Nomenclature for Algae, Fungi and Plants. Furthermore, classic localities were spatially determined and georeferenced with the highest possible precision, and their names were adjusted to the current topographic naming.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The main goal in the development of the list was to record all taxa (species and subspecies) described on the territory of SEE economies (or in their immediate vicinity) whose present distributions are restricted to the Western Balkans region.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data was compiled on the basis of direct review of a large number of published monographs and articles containing a scientific description of a particular taxon. rom the compiled literature, the original (verbatim) scientific name (under which it is described) and localities where it was first found (classic locality) were extracted. Actual taxonomic status of every taxon and scientific names were aligned with the accepted scientific nomenclature format according to the International Code of Zoological Nomenclature or the International Code of Nomenclature for Algae, Fungi and Plants.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Furthermore, classic localities were spatially determined and georeferenced with the highest possible precision, and their names were adjusted to the current topographic naming.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:34Z</dateStamp>
+      <citation>Matevski V, Rakaj M, Barina Z, Lubarda B, Avukatov V (2021). Classic localities of endemic vascular plants from the Western Balkans. Version 1.5. Macedonian Ecological Society. Occurrence dataset https://doi.org/10.15468/hf2e8b accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

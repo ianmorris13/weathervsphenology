@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="57ea6e10-3b95-4770-ab39-2111a06ddc7c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/wbrsvs</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr4625</alternateIdentifier>
+        <alternateIdentifier>d72a3aa7-8549-3c33-ace1-a3d58c8363b2</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr4625</alternateIdentifier>
+        <alternateIdentifier>57ea6e10-3b95-4770-ab39-2111a06ddc7c</alternateIdentifier>
+        <alternateIdentifier>1de4ce0d-43ba-3aee-a100-e5583a111ae6</alternateIdentifier>
+        <alternateIdentifier>fb8a4ed4-d18e-3118-8cce-ca2c0cbad1ed</alternateIdentifier>
+    <title>Great Eastern Ranges - Southern Highlands</title>
+    <creator>
+<organizationName>FieldData / Biological Data Recording System</organizationName><onlineUrl>https://root.ala.org.au/bdrs-core/root/home.htm</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>FieldData / Biological Data Recording System</organizationName><onlineUrl>https://root.ala.org.au/bdrs-core/root/home.htm</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr4625</url>
+          </online>
+      </distribution>
+      <contact>
+<positionName>editor</positionName><electronicMailAddress>support_bdrs@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:54Z</dateStamp>
+      <citation>Great Eastern Ranges Initialtive (2019). Great Eastern Ranges - Southern Highlands. Occurrence dataset https://doi.org/10.15468/wbrsvs accessed via GBIF.org on 2022-02-08.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/ala-logo.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

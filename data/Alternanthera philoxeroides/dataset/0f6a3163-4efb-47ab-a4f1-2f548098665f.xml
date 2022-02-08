@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0f6a3163-4efb-47ab-a4f1-2f548098665f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bhgpmq</alternateIdentifier>
+        <alternateIdentifier>https://midwestherbaria.org/portal/collections/misc/collprofiles.php?collid=315</alternateIdentifier>
+    <title>University of Cincinnati, Margaret H. Fulford Herbarium - Vascular Plants</title>
+    <creator>
+<organizationName>Consortium of Midwest Herbaria</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://midwestherbaria.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Consortium of Midwest Herbaria</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://midwestherbaria.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Eric Tepe, Assistant Professor &amp; Herbarium Curator</surName>
+    </individualName>
+<electronicMailAddress>eric.tepe@uc.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-01-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbarium at the University of Cincinnati was founded by Margaret Fulford in 1927 and has grown over the years through the work of prolific collectors and through acquisition of several large and important collections. Today, the herbarium houses around 125,000 specimens of vascular plants, bryophytes, lichens, fungi, and algae, making it the third largest herbarium in Ohio. In addition to the large collection of regional and North American material, it also contains extensive collections from Europe, South America, the Caribbean Basin, Samoa, and China. Particular strengths of the herbarium are North American Sphagnum, South American and Caribbean Hepatics, North American Cladonia, and Trilliaceae.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>University of Cincinnati, Margaret H. Fulford Herbarium - Vascular Plants</organizationName><phone>513-556-9700</phone><electronicMailAddress>eric.tepe@uc.edu</electronicMailAddress><onlineUrl>https://herbariumcinc.com</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T04:12:42Z</dateStamp>
+      <citation>Margaret H. Fulford Herbarium, University of Cincinnati (CINC) (2022). University of Cincinnati, Margaret H. Fulford Herbarium - Vascular Plants. Occurrence dataset https://doi.org/10.15468/bhgpmq accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

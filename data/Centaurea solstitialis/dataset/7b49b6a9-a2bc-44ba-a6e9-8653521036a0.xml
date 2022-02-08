@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7b49b6a9-a2bc-44ba-a6e9-8653521036a0"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/ak7ldg</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=herbier_l_mulon_boum</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.fr/ipt/resource?r=herbier_l_mulon_boum</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.fr/ipt/resource.do?r=herbier_l_mulon_boum</alternateIdentifier>
+        <alternateIdentifier>7b49b6a9-a2bc-44ba-a6e9-8653521036a0</alternateIdentifier>
+    <title>Collection botanique Mulon L. (BOUM)</title>
+    <creator>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron</deliveryPoint><city>Bourges</city><administrativeArea>Centre</administrativeArea><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>Ludovic.BESSON@ville-Bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Franck A.</givenName>          <surName>Maddi</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Botanist</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron</deliveryPoint><city>Bourges</city><administrativeArea>Centre</administrativeArea><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron</deliveryPoint><city>Bourges</city><administrativeArea>Centre</administrativeArea><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>Ludovic.BESSON@ville-Bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron</deliveryPoint><city>Bourges</city><administrativeArea>Centre</administrativeArea><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>Ludovic.BESSON@ville-Bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-03
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Lucien Mulon (1837-1896) était propriétaire à Saint-Martin-des-Champs (Cher). Maire de cette commune en 1871, il laisse un herbier de 600 planches provenant pour l&amp;#39;essentiel de Chézal-Benoît et de Sancergues (Cher). Cet ensemble comporte des récoltes de Jaubert et de Duvergier de Hauranne. Le muséum de Bourges possède un exemplaire de la Flore de Boreau (1849) lui ayant appartenu et annoté de sa main (cf. Candegabe et Bodin, 2001). Quelques récoltes de sa fille.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Plantae</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>L&apos;herbier est restitué en un ensemble nominal et n&apos;est plus intégré physiquement à l&apos;Herbier Général BOUM (cf. Candegabe et Bodin, 2001).  La transcription du cartel est donnée (/ : passage à la ligne) pour de nombreuses parts. Les plantes n&apos;ont pas été redéterminées mais la nomenclature a été mise à jour à partir de l&apos;Index de Kerguelen au moment de l&apos;inventaire.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.museum-bourges.net/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>France</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-4.99</westBoundingCoordinate>
+                      <eastBoundingCoordinate>10</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.25</northBoundingCoordinate>
+                      <southBoundingCoordinate>41.15</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1837
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1895
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron</deliveryPoint><city>Bourges</city><administrativeArea>Centre</administrativeArea><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>Ludovic.BESSON@ville-Bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:40:59Z</dateStamp>
+      <citation>Besson L, Maddi F A (2020). Collection botanique Mulon L. (BOUM). Version 3.5. Muséum d&apos;Histoire Naturelle de Bourges. Occurrence dataset https://doi.org/10.15468/ak7ldg accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Candegabe P. &amp; Bodin C. (2001) - Matériaux pour une histoire de la botanique en Berry : les botanistes, leurs publications et leurs herbiers. I. Des origines à 1905. Symbioses, n.s., 5 : 41-72.</citation>
+      <citation>Kerguélen M.. 1993. Index synonymique de la de la flore de France. Ed. Muséum National d&apos;Histoire Naturelle. Version en ligne de 1999.</citation>
+              </bibliography>
+              <collection>
+                <parentCollectionIdentifier>Herbier L. Mulon</parentCollectionIdentifier>
+                <collectionIdentifier>Herbier L. Mulon</collectionIdentifier>
+                <collectionName>Herbier L. Mulon</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

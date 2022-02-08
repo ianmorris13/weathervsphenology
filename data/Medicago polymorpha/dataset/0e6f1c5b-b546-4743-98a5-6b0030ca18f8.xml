@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0e6f1c5b-b546-4743-98a5-6b0030ca18f8"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15470/ad1hlt</alternateIdentifier>
+        <alternateIdentifier>0e6f1c5b-b546-4743-98a5-6b0030ca18f8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=hss-carpoteca</alternateIdentifier>
+    <title>HSS-carpoteca (HSS-C) Finca La Orden-Valdesequera (CICYTEX). Junta de Extremadura</title>
+    <creator>
+    <individualName>
+<givenName>Francisco María</givenName>          <surName>Vázquez-Pardo</surName>
+    </individualName>
+<organizationName>Instituto de Investigación Agraria Finca La Orden-Valdesequera (CICYTEX)</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>A5 km372</deliveryPoint><city>Guadajira</city><administrativeArea>Badajoz</administrativeArea><postalCode>06187</postalCode><country>SPAIN</country>    </address>
+<phone>924014000</phone><electronicMailAddress>frvazquez50@hotmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-7826-8814</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>David</givenName>          <surName>García-Alonso</surName>
+    </individualName>
+<organizationName>Instituto de Investigación Agraria Finca La Orden-Valdesequera (CICYTEX)</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>A5 km372</deliveryPoint><city>Guadajira</city><administrativeArea>Badajoz</administrativeArea><postalCode>06187</postalCode><country>SPAIN</country>    </address>
+<phone>924014000</phone><electronicMailAddress>david.garciaa@juntaex.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9593-6164</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Márquez-García</surName>
+    </individualName>
+<organizationName>Instituto de Investigación Agraria Finca La Orden-Valdesequera (CICYTEX)</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>A5 km372</deliveryPoint><city>Guadajira</city><administrativeArea>Badajoz</administrativeArea><postalCode>06187</postalCode><country>SPAIN</country>    </address>
+<phone>924014100</phone><electronicMailAddress>marquez_arn@yahoo.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-4420-2822</userId>
+    </metadataProvider>
+      <pubDate>
+      2021-12-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La carpoteca (HSS-C) es un registro de semillas silvestres recolectadas en campo y, en su mayor parte, asociadas a pliegos de herbario del herbario HSS, lo que permite garantizar la correcta su identificación.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Carpoteca</keyword>
+              <keyword>Semillas</keyword>
+              <keyword>Extremadura</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La localización geográfica de los registros de la colección HSS-C proceden, en su mayor parte, de España (provincias de Cáceres y Badajoz).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-136.406</westBoundingCoordinate>
+                      <eastBoundingCoordinate>154.688</eastBoundingCoordinate>
+                      <northBoundingCoordinate>62.268</northBoundingCoordinate>
+                      <southBoundingCoordinate>-43.069</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1989
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Márquez-García</surName>
+    </individualName>
+<organizationName>Instituto de Investigación Agraria Finca La Orden-Valdesequera (CICYTEX)</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>A5 km372</deliveryPoint><city>Guadajira</city><administrativeArea>Badajoz</administrativeArea><postalCode>06187</postalCode><country>SPAIN</country>    </address>
+<phone>924014100</phone><electronicMailAddress>francisco.marquezga@junatex.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-4420-2822</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Márquez-García</surName>
+    </individualName>
+<organizationName>Instituto de Investigación Agraria Finca La Orden-Valdesequera (CICYTEX)</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>A5 km372</deliveryPoint><city>Guadajira</city><administrativeArea>Badajoz</administrativeArea><postalCode>06187</postalCode><country>SPAIN</country>    </address>
+<phone>924014100</phone><electronicMailAddress>francisco.marquezga@juntaex.es</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-4420-2822</userId>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:16:34Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/ad1hlt">Vázquez-Pardo F M, García-Alonso D, Márquez-García F (2021). HSS-carpoteca (HSS-C) Finca La Orden-Valdesequera (CICYTEX). Junta de Extremadura. Version 1.1. La Orden Estate, Dep. Forest Production and Grasslands, Agriculture and Environment Office, Regional Government of Extremadura. Occurrence dataset https://doi.org/10.15470/ad1hlt accessed via GBIF.org on 2022-02-08.</citation>
+              <collection>
+                <parentCollectionIdentifier>HSS</parentCollectionIdentifier>
+                <collectionIdentifier>HSS-C</collectionIdentifier>
+                <collectionName>Carpoteca CICYTEX</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

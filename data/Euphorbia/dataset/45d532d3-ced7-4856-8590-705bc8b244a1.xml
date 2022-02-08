@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="45d532d3-ced7-4856-8590-705bc8b244a1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/c1y9q2</alternateIdentifier>
+        <alternateIdentifier>45d532d3-ced7-4856-8590-705bc8b244a1</alternateIdentifier>
+        <alternateIdentifier>http://www.csbg.nsc.ru:8080/ipt/resource?r=csbgasia</alternateIdentifier>
+    <title>Foreign Asia herbarium collection in CSBG (NS)</title>
+    <creator>
+    <individualName>
+<givenName>Evgeniya</givenName>          <surName>Gatilova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Main specialist</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>zhenya_kl@mail.ru</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-9478-0244</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Dmitriy</givenName>          <surName>Shaulo</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>leading researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>dshaulo@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/shaulo_dn</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Igor</givenName>          <surName>Artemov</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>artemov_1@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-herbarium</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Shekhovtsova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>maklakovain@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-6183-3650</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Tatyana</givenName>          <surName>Ankova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>ankova_tv@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-3661-0719</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Vladimir</givenName>          <surName>Doronkin</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>leading researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>norbo@ngs.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-6344-7588</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Victoria</givenName>          <surName>Troshkina</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>vitroshkina@csbg.nsc.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/troshkina_vi</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5762-4357</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ekaterina</givenName>          <surName>Pinzhenina</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>baldk21@ngs.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-4931-5129</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Natalya</givenName>          <surName>Vlasova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>nat.vlasova54@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8850-1245</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Konstantin</givenName>          <surName>Baikov</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>leading researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>kbaikov@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-systematics-and-florogenetics</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5049-2910</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Lomonosova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>leading researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>mlomonosova@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/lab-herbarium</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Evgeny</givenName>          <surName>Banaev</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden, SB RAS</organizationName><positionName>Director of institute</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya St. 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya oblast&apos;</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>alnus2005@mail.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/directorate</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-1314-8429</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Evgeniya</givenName>          <surName>Gatilova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Main specialist</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>zhenya_kl@mail.ru</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-9478-0244</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Evgeniya</givenName>          <surName>Gatilova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Main specialist</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>zhenya_kl@mail.ru</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-9478-0244</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Yulia</givenName>          <surName>Pshenichkina</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Senior scientist</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>scutel@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/pshenichkina_yua</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-2527-2577</userId>
+    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Foreign Asia herbarium collection in CSBG (NS) is digitized. This is our first experience of digitizing by using floristic rather than systematic principle. The total number of herbarium samples are 4794. Herbarium materials from 11 countries are presented: Mongolia (3211), China (759), Japan (661), Turkey(75), India (35), South Korea (16), Iran (17), Afghanistan (6), Taiwan (6), Syria (5), Philippines (3). The dataset excludes specimens from the territory of ex-USSR (Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan and Kyrgyzstan).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://herb.csbg.nsc.ru:8081/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Herbarium materials from 12 countries are presented: Mongolia (3211), China (759), Japan (661), Turkey (75), India (35), South Korea (16), Iran (17), Afghanistan (6), Taiwan (6), Syria (5), Philippines (3).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>41.133</westBoundingCoordinate>
+                      <eastBoundingCoordinate>145.898</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.67</northBoundingCoordinate>
+                      <southBoundingCoordinate>10.922</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1836-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-07-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Specimens from 169 families are presented.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranunculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Brassicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaryllidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orobanchaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gentianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Betulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ericaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plantaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Campanulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Saxifragaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apocynaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crassulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapindaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grossulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Geraniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Papaveraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Celastraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ephedraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cupressaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Violaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asparagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Adoxaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Convolvulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrangeaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rutaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Potamogetonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aquifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orchidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dryopteridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Onagraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plumbaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Liliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Superfamily</taxonRankName>
+                        <taxonRankValue>Oleaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Urticaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rhamnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Solanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tamaricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Theaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Our aim is to provide online access to CSBG SB RAS herbarium collections
+as a worldwide resource for biodiversity study.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Evgeniya</givenName>          <surName>Gatilova</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Main specialist</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>zhenya_kl@mail.ru</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-9478-0244</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>main engineer</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>irahan81@gmail.com</electronicMailAddress><onlineUrl>http://csbg-nsk.ru/unu_herbarium</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+<organizationName>Central Siberian Botanical Garden SB RAS</organizationName><positionName>Senior researcher</positionName>    <address>
+<deliveryPoint>Zolotodolinskaya Str., 101</deliveryPoint><city>Novosibirsk</city><administrativeArea>Novosibirskaya obl.</administrativeArea><postalCode>630090</postalCode><country>RUSSIAN_FEDERATION</country>    </address>
+<electronicMailAddress>knat2008@yandex.ru</electronicMailAddress><onlineUrl>https://csbg-nsk.ru/kovtonyuk_nk</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Non-determined herbarium specimens were tested by taxonomy specialists: Han I.V., Kovtonyuk N.K., Shaulo D.N., Artemov I.A., Shekhovtsova I.N., Ankova T.V., Troshkina V.I., Doronkin V.M., Gatilova E.A., Banaev E.V., Baikov K.S., Lomonosova M.N., Vlasova N.V., Pinzhenina E.A.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Digitization have made by ObjectScan 1600.This integrated workstation is characterized by on-top scan design for full-frame focus, a maximum of 1600 dpi (equal to 1 Gigabyte pixels), color CCD, Optical Character Recognition (OCR) for specimen label and ID barcode, and image archive and privileged-account cloud management system.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The Foreign Asia herbarium collection in CSBG (NS) is digitized. This is our first experience of digitizing by using floristic rather than systematic principle. The total number of herbarium samples are 4794. Herbarium materials from 12 countries are presented: Mongolia (3211), China (759), Japan (661), Turkey (75), India (35), South Korea (16), Iran (17), Afghanistan (6), Taiwan (6), Syria (5), Philippines (3). The dataset excludes specimens from the territory of ex-USSR (Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan and Kyrgyzstan).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Currently digitization of samples is carried out using two ObjectScan 1600 scanners. Each workstation consists of an ObjectScan 1600 scanner, ScanWizard_Botany software (reg. number I41-018966) and MiVapp_Botany archive management system (reg. number I41-018969) software (Microtek, Taiwan).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Specimens were scanned using international standards: with the resolution of 600 dpi, a barcode for each specimen, and a 24-color scale and scale.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Foreign Asia herbarium collection in CSBG (NS)</title>
+          <personnel>
+    <individualName>
+<givenName>Evgeniya</givenName>          <surName>Gatilova</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-9478-0244</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Irina</givenName>          <surName>Han</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-8385-5247</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nataliya</givenName>          <surName>Kovtonyuk</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-4018-6634</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>The work was carried out within the framework of the State Assignment of the Central Siberian Botanical Garden, SB RAS № АААА-А17-117012610055-3.</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Currently digitization of samples is carried out using two ObjectScan 1600 scanners. Each workstation consists of an ObjectScan 1600 scanner, ScanWizard_Botany software and MiVapp_Botany archive management system software (Microtek, Taiwan). This integrated workstation is characterized by on-top scan design for full-frame focus, a maximum of 1600 dpi (equal to 1 Gigabyte pixels), color CCD, Optical Character Recognition (OCR) for specimen label and ID barcode, and image archive and privileged-account cloud management system. Specimens were scanned using international standards: with the resolution of 600 dpi, a barcode for each specimen, and a 24-color scale and scale bar.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:30Z</dateStamp>
+      <citation>Gatilova E, Han I, Kovtonyuk N, Shaulo D, Artemov I, Shekhovtsova I, Ankova T, Doronkin V, Troshkina V, Pinzhenina E, Vlasova N, Baikov K, Lomonosova M, Banaev E (2021). Foreign Asia herbarium collection in CSBG (NS). Version 1.5. Central Siberian Botanical Garden SB RAS. Occurrence dataset https://doi.org/10.15468/c1y9q2 accessed via GBIF.org on 2022-02-08.</citation>
+              <bibliography>
+      <citation>Grubov V.I. 1982. Opredelitel’ sosudistyh rasteniy Mongolii [Key to the vascular plants of Mongolia]. Leningrad: Nauka. 442 p.</citation>
+      <citation>Gubanov I.A. 1996. Konspekt flory Vneshnei Mongolii (sosudistye rasteniya) [Synopsis of flora of Outer Mongolia (vascular plants)]. Moscow. 136 p. ISBN 5-89271-002-5: Б. ц.</citation>
+      <citation identifier="http://old.ssbg.asu.ru/turcz/p19-23.pdf">Gubanov I.A. 1999. Additions and corrections to the “Conspectus of flora of Outer
+Mongolia (vascular plants)” // Turczaninowia, 2, 3: 19–23.</citation>
+      <citation identifier="http://skvortsovia.uran.ru/2015/2102.pdf">Doronkin V., Shaulo D., Han I., Vlasova N., Ivleva V., Enkhtuya L., Munkh-Erdene T., Ochgerel N. and Munkhjargal B. 2015. New records for the flora of Selenge Province (Mongolia) // Skvortsovia, 2, 1: 8 – 27.</citation>
+      <citation identifier="DOI: 10.11646/phytotaxa.316.2.2.">Erst A., Wang W., Yu Sh., Xiang. K., Wang J., Shaulo D., Smirnov S., Kushunina M., Sukhorukov A., Nobis M. 2017. Two new species and four new records of Aquilegia (Ranunculaceae) from China // Phytotaxa, 316, 2: 121–137.</citation>
+      <citation identifier="DOI: 10.1051/bioconf/20191600006 ">Doronkin V., Vlasova N., Ochgerel N., Enkhtuya L., Munkh-Erdene T. 2019. Rare species of psammophyte flora in transboundary areas of Southern Siberia and Mongolia // BIO Web of Conferences “Results and Prospects of Geobotanical Research in Siberia”, dedicated to the 75th anniversary of the laboratory of ecology and geobotany of CSBG SB RAS, 16, 00006.</citation>
+      <citation identifier="DOI: 10.14258/turczaninowia.22.4.3 ">Ankova T.V., Korolyuk E.A., Korolyuk A.Yu. 2019. Chromosome numbers for some vascular plants from Mongolia.1. // Turczaninowia, 22, 4: 23 – 30.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://static.tildacdn.com/tild6335-6361-4139-a139-666362303263/__.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>NS</collectionIdentifier>
+                <collectionName>I.M.Krasnoborov Herbarium</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

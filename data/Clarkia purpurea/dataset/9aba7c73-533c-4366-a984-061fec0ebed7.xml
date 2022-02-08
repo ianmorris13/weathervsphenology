@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9aba7c73-533c-4366-a984-061fec0ebed7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/t885ps</alternateIdentifier>
+        <alternateIdentifier>https://cch2.org/portal/collections/misc/collprofiles.php?collid=47</alternateIdentifier>
+        <alternateIdentifier>https://www.cch2.org/portal/collections/misc/collprofiles.php?collid=47</alternateIdentifier>
+    <title>CSUSB - California State University San Bernardino</title>
+    <creator>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Lua</givenName>          <surName>Lopez Perez</surName>
+    </individualName>
+<positionName>Curator</positionName><electronicMailAddress>Lua.LopezPerez@csusb.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbarium at CSUSB was founded in 1969, four years after the campus opened. The specimens it houses have been collected primarily from San Bernardino and Riverside Counties. The herbarium, however, contains specimens from other counties, states, and countries.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>CSUSB - California State University San Bernardino</organizationName><phone>+1-909-537-5364</phone><electronicMailAddress>Lua.LopezPerez@csusb.edu</electronicMailAddress><onlineUrl>http://www.csusb.edu/biology/herbarium</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T02:19:45Z</dateStamp>
+      <citation>California State University San Bernardino Herbarium (2022). CSUSB - California State University San Bernardino. Occurrence dataset https://doi.org/10.15468/t885ps accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f387a2f0-6f4f-47ec-82dd-9cc24914dd53"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/9cpmkt</alternateIdentifier>
+        <alternateIdentifier>https://ngpherbaria.org/portal/collections/misc/collprofiles.php?collid=205</alternateIdentifier>
+        <alternateIdentifier>http://ngpherbaria.org/portal/collections/misc/collprofiles.php?collid=205</alternateIdentifier>
+    <title>Montana State University Billings</title>
+    <creator>
+<organizationName>Great Plains Herbaria</organizationName><electronicMailAddress>mary.barkworth@usu.edu</electronicMailAddress><onlineUrl>https://ngpherbaria.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Great Plains Herbaria</organizationName><electronicMailAddress>mary.barkworth@usu.edu</electronicMailAddress><onlineUrl>https://ngpherbaria.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Jason Comer</surName>
+    </individualName>
+<electronicMailAddress>jason.comer@msubillings.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>MSUB Herbarium contains vascular plant specimens, some of which date back to late 1800s and early 1900s. The Herbarium serves as a tool for basic research in plant systematics, ecology, phytogeography, and evolution. The collections are actively used in teaching and research as a resource to provide population localities for studies of a diverse nature, ranging from biological control to rare plants. MSUB was established in 1976 when the collections from the herbaria of Eastern Montana Normal School, Eastern Montana College, Rocky Mountain College, and USDA Forest Service were consolidated. It has grown steadily to about 16,500 specimens. The collections include plants of Montana, (emphasis on eastern Montana and Beartooth Plateau,), India, Venezuela, Roberson County, Texas, Brooklyn Botanical Gardens Herbarium, W.K. Kellogg Biological Field Station and vascular plants of Wisconsin, Ohio, Utah, and many other places.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>Montana State University Billings</organizationName><phone>406-657-2030</phone><electronicMailAddress>jason.comer@msubillings.edu</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:27:42Z</dateStamp>
+      <citation>Montana State University-Billings Herbarium (2022). Montana State University Billings. Occurrence dataset https://doi.org/10.15468/9cpmkt accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

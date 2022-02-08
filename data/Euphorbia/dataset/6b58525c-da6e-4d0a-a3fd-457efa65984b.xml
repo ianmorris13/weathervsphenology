@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6b58525c-da6e-4d0a-a3fd-457efa65984b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/d7ws0j</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.jp/ipt/resource?r=veg2-5_plantae</alternateIdentifier>
+        <alternateIdentifier>6b58525c-da6e-4d0a-a3fd-457efa65984b</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.jp/ipt/resource?r=veg2-5_plantae</alternateIdentifier>
+    <title>The 2-5th National Survey on the Natural Environment: Vegetation Survey</title>
+    <creator>
+<organizationName>Biodiversity Center of Japan, Ministry of the Environment</organizationName>    <address>
+<deliveryPoint>5597-1, Kenmarubi, Kamiyoshida</deliveryPoint><city>Fujiyoshida</city><administrativeArea>Yamanashi</administrativeArea><postalCode>4030005</postalCode><country>JAPAN</country>    </address>
+<phone>+81-555-72-6031</phone><electronicMailAddress>biodic_webmaster@env.go.jp</electronicMailAddress><onlineUrl>http://www.biodic.go.jp/index_e.html</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Biodiversity Center of Japan, Ministry of the Environment</organizationName>    <address>
+<deliveryPoint>5597-1, Kenmarubi, Kamiyoshida</deliveryPoint><city>Fujiyoshida</city><administrativeArea>Yamanashi</administrativeArea><postalCode>4030005</postalCode><country>JAPAN</country>    </address>
+<phone>+81-555-72-6031</phone><electronicMailAddress>biodic_webmaster@env.go.jp</electronicMailAddress><onlineUrl>http://www.biodic.go.jp/index_e.html</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Osamu</givenName>          <surName>Kurashima</surName>
+    </individualName>
+<organizationName>The University of Tokyo</organizationName><positionName>Research fellow</positionName>    <address>
+<deliveryPoint>3-8-1 Komaba</deliveryPoint><city>Meguro</city><administrativeArea>Tokyo</administrativeArea><postalCode>1538902</postalCode><country>JAPAN</country>    </address>
+<electronicMailAddress>osamu@darwin.c.u-tokyo.ac.jp</electronicMailAddress><onlineUrl>http://www.c.u-tokyo.ac.jp/</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>Survey Unit, Biodiversity Center of Japan, Ministry of the Environment</organizationName>    <address>
+<deliveryPoint>5597-1, Kenmarubi, Kamiyoshida</deliveryPoint><city>Fujiyoshida</city><administrativeArea>Yamanashi</administrativeArea><postalCode>4030005</postalCode><country>JAPAN</country>    </address>
+<phone>+81-555-72-6033</phone><electronicMailAddress>biodic_webmaster@env.go.jp</electronicMailAddress><onlineUrl>http://www.biodic.go.jp/index_e.html</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-08-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Plant occurrence data from the 2-5th National Survey on the Natural Environment: Vegetation Survey conducted by Ministry of Environment, Japan.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Human Observation</keyword>
+              <keyword>Japan</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>the 2-5th National Survey on the Natural Environment</keyword>
+              <keyword>Plants</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>Vegetation Survey</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://ikilog.biodic.go.jp/Investigation?invReq=detail&amp;eventremarks_id=130&amp;group_id=1</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Japan</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>122.934</westBoundingCoordinate>
+                      <eastBoundingCoordinate>153.986</eastBoundingCoordinate>
+                      <northBoundingCoordinate>45.557</northBoundingCoordinate>
+                      <southBoundingCoordinate>20.425</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+<organizationName>Biodiversity Center of Japan, Ministry of the Environment</organizationName>    <address>
+<deliveryPoint>5597-1, Kenmarubi, Kamiyoshida</deliveryPoint><city>Fujiyoshida</city><administrativeArea>Yamanashi</administrativeArea><postalCode>4030005</postalCode><country>JAPAN</country>    </address>
+<phone>+81-555-72-6031</phone><electronicMailAddress>biodic_webmaster@env.go.jp</electronicMailAddress><onlineUrl>http://www.biodic.go.jp/index_e.html</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:27Z</dateStamp>
+      <citation>National Institute of Genetics, ROIS (2019). The 2-5th National Survey on the Natural Environment: Vegetation Survey. Version 1.4. Occurrence dataset https://doi.org/10.15468/d7ws0j accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

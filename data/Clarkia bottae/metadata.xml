@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.myffab"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0130501-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.myffab</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Clarkia bottae (Spach) H. &amp; Lewis&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Jardin Botanique de Lyon
+1 records from Western Carolina University Herbarium
+1 records from Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+1 records from University of New Mexico Herbarium
+1 records from INSDC Sequences
+1 records from Phanerogamic Botanical Collections (S)
+1 records from University of Tennessee Vascular Herbarium
+1 records from CONN
+1 records from UCSC Herbarium - Kenneth S. Norris Center for Natural History, University of California Santa Cruz
+1 records from The Fungal Collection at the Senckenberg Museum für Naturkunde Görlitz
+2 records from MPM Milwaukee Public Museum Herbarium
+2 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+2 records from International Barcode of Life project (iBOL)
+2 records from SJSU - Carl W. Sharsmith Herbarium, San Jose State University
+2 records from Université Lyon 1
+2 records from University of Colorado Museum of Natural History Herbarium Vascular Plant Collection
+3 records from Arizona State University Vascular Plant Herbarium
+3 records from UTEP Plants (Arctos)
+3 records from Tropicos Specimen Data
+4 records from SysTax - Botanical Gardens
+4 records from HSC - Humboldt State University Vascular Plant Herbarium
+5 records from SDSU - San Diego State University Herbarium
+6 records from CHSC - CSU Chico, Chico State Herbarium - Vascular Plants
+6 records from CDA - California Department of Food and Agriculture
+6 records from Carnegie Museum of Natural History Herbarium
+6 records from Naturalis Biodiversity Center (NL) - Botany
+8 records from EURISCO, The European Genetic Resources Search Catalogue
+10 records from SFV - California State University, Northridge
+14 records from LOB - California State University, Long Beach Herbarium
+18 records from DAV - UC Davis Herbarium
+22 records from SD - SD Herbarium, San Diego Natural History Museum
+27 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+31 records from OBI - Robert F. Hoover Herbarium, Cal Poly State University
+36 records from UCSB - University of California Santa Barbara Herbarium
+37 records from UCR - University of California, Riverside Herbarium - Vascular Plants
+37 records from LA - University of California, Los Angeles Herbarium
+38 records from NMNH Extant Specimen Records (USNM, US)
+39 records from Harvard University Herbaria: All Records
+55 records from The New York Botanical Garden Herbarium (NY)
+100 records from CAS Botany (BOT)
+117 records from SBBG - Clifton Smith Herbarium, Santa Barbara Botanic Garden
+203 records from RSA - California Botanic Garden Herbarium</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:04:52Z</dateStamp>
+      <citation identifier="10.15468/dl.myffab">GBIF Occurrence Download 10.15468/dl.myffab</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0130501-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

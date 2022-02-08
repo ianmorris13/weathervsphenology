@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="65d08ad7-7969-4041-b2d2-fdf50742e4d6"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/zojmog</alternateIdentifier>
+        <alternateIdentifier>65d08ad7-7969-4041-b2d2-fdf50742e4d6</alternateIdentifier>
+        <alternateIdentifier>http://ipt-inpn.gbif.fr/resource?r=IPT-463d4909-012a-46bb-86a2-8f3dbb6681d0</alternateIdentifier>
+    <title>Inventaire des pelouses calcicoles du PNR du Marais Poitevin 2017</title>
+    <creator>
+    <individualName>
+<givenName>n/a</givenName>          <surName>VIAL Timothée</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+<electronicMailAddress>t.vial@cbnsa.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Inventaire National du Patrimoine Naturel</surName>
+    </individualName>
+<organizationName>Unité mixte de service 2006 Patrimoine Naturel</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-01
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Inventaire et évaluation des pelouses calcicoles du PNR du Marais Poitevin suivant 4 axes : délimiter les sites à enjeux pelouses, caractériser les végétations de pelouses et d’ourlets calcicoles, inventorier et évaluer les enjeux floristiques des sites, hiérarchiser les enjeux patrimoniaux des sites. 
+Ce jeu de données porte uniquement sur les parties Charente-Maritime et Deux-Sèvres du PNR Marais Poitevin.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>See map.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.094</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.439</eastBoundingCoordinate>
+                      <northBoundingCoordinate>46.313</northBoundingCoordinate>
+                      <southBoundingCoordinate>46.125</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>n/a</givenName>          <surName>NR</surName>
+    </individualName>
+<organizationName>CBN Sud-Atlantique</organizationName><positionName>n/a</positionName>    <address>
+<country>FRANCE</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-08T03:48:42Z</dateStamp>
+      <citation>VIAL Timothée N, Inventaire National du Patrimoine Naturel (2020). Inventaire des pelouses calcicoles du PNR du Marais Poitevin 2017. Version 1.1. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/zojmog accessed via GBIF.org on 2022-02-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
