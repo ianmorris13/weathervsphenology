@@ -6,7 +6,14 @@ Over time, the impact of drought in the western United States, specifically Cali
 
 ## Planned Deliverables
 
-The aim of this project is to create a machine learning model that can predict to utmost accuracy what the progression of California drought will be and the effect it will have on native and nonnative plant growth. Utilizing Jupyter Notebook, the model will be trained based on already existing data of the California drought over the years and already existing data on plant growth over the same time frame. We will be plotting drought conditions vs plant growth, which will offer a visual of what the past and current conditions are, as well as the correlation of the two. There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Additionally, there will be options to filter between species, genus, native non-native, etc. Different categories between all flowers and to compare said categories over the years. This webapp will be hosted on herkuapp.com, similar to this website https://eitc-app.herokuapp.com/. 
+The aim of this project is to create a machine learning model that can predict to utmost accuracy what the progression of California drought will be and the effect it will have on native and non-native plant growth. 
+
+### Partial Success
+
+Utilizing Jupyter Notebook, the model will be trained based on already existing data of California drought over the years and already existing data on plant growth over the same time frame. We will be plotting drought conditions vs plant growth, which will offer a visual of what the past and current conditions are, as well as any correlation between the two. 
+
+### Full Success
+There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Additionally, there will be options to filter between species, genus, native, non-native, etc. Different categories between all flowers and to compare said categories over the years. Lastly, this webapp will be hosted on herkuapp.com, similar to this website https://eitc-app.herokuapp.com/. 
 
 In addition to the data visualizations, we aim to forecast the future of native species. Many factors will need to be considered, especially since there are many variables that come with ecological models.  Nevertheless, the website will provide current information on the correlation and effect of a drought and plant growth. Lastly, I will provide thorough written analysis on the data, explaining why this is important.
 
