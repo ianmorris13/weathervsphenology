@@ -1,4 +1,4 @@
-ame, County, ClimateDivision, Longitude, Latitude, Elevation, MeanAvgTemperature, TotalPrecipitation
+Name, County, ClimateDivision, Longitude, Latitude, Elevation, MeanAvgTemperature, TotalPrecipitation
 IMPERIAL, Imperial, CA07, -115.567, 32.849, -64, 58.9, 0.46
 EL CAPITAN DAM, San Diego, CA06, -116.815, 32.886, 600, 51.8, 2.41
 LAKESIDE 2 E, San Diego, CA06, -116.895, 32.854, 690, M, 4.71

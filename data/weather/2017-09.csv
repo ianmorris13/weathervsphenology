@@ -1,4 +1,4 @@
-ame, County, ClimateDivision, Longitude, Latitude, Elevation, MeanAvgTemperature, TotalPrecipitation
+Name, County, ClimateDivision, Longitude, Latitude, Elevation, MeanAvgTemperature, TotalPrecipitation
 IMPERIAL, Imperial, CA07, -115.567, 32.849, -64, 84.3, 0.08
 DESCANSO RANGER STN, San Diego, CA06, -116.617, 32.850, 3500, M, 0.23
 EL CAPITAN DAM, San Diego, CA06, -116.815, 32.886, 600, M, 0.04
