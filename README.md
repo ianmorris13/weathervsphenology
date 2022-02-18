@@ -25,14 +25,11 @@ Global Biodiversity Information Facility-
 Free and open access to biodiversity data
 https://www.gbif.org/
 
-NCDC's archive of global historical weather and climate data
-https://www.ncdc.noaa.gov/cdo-web/
+We will quiery data that includes the speacies, the number of observations, and the date and location of the observations using the built in data query.
 
-Database of Citizen Scientist self-reported observations 
-https://www.inaturalist.org/
+http://scacis.rcc-acis.org/
 
-UCNRS Weather Station Database
-https://ucnrs.org/nrs-weather-station-database/
+We will copy paste data of the mean temperature and precipitation sum of each weather station in California from the built in data query, as there is no easy way to download.
 
 ## Tools and Skills Required
 
@@ -55,12 +52,12 @@ The effect humans have on the climate and ecological systems is important to man
 
 Those who may appeal to further work and analysis in climate change are companies that produce the most environmental harm. If government officials decide to place in more regulations on, for example, the waste companies produce, those companies will be financially hurt.
 
-### Some thoughts that may question the ethics of my project:
+### Some thoughts that may question the ethics of our project:
 
 - What is the possibility for someone looking at a website gets the wrong idea?
-    - Maybe my data somehow strengthens another's thoughts against the concept of climate change? 
-- Are my data sources ethical in the first place? 
-    - Is my data complete and uniform in coverage? Are any geographic areas or groups of people (or organisms) underrepresented? 
+    - Maybe our data somehow strengthens another's thoughts against the concept of climate change? 
+- Are our data sources ethical in the first place? 
+    - Is our data complete and uniform in coverage? Are any geographic areas or groups of people (or organisms) underrepresented? 
 - If we choose to use models, what is the cost of making errors in future forcasting?
 
 ## Tentative Timeline
