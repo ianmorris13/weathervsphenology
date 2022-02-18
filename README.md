@@ -15,11 +15,11 @@ Utilizing Jupyter Notebook, the model will be trained based on already existing 
 ### Full Success
 There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Additionally, there will be options to filter between species, genus, native, non-native, etc. Different categories between all flowers and to compare said categories over the years. Lastly, this webapp will be hosted on herkuapp.com, similar to this website https://eitc-app.herokuapp.com/. 
 
-In addition to the data visualizations, we aim to forecast the future of native species. Many factors will need to be considered, especially since there are many variables that come with ecological models.  Nevertheless, the website will provide current information on the correlation and effect of a drought and plant growth. Lastly, I will provide thorough written analysis on the data, explaining why this is important.
+In addition to the data visualizations, we aim to forecast the future of native species. Many factors will need to be considered, especially since there are many variables that come with ecological models.  Nevertheless, the website will provide current information on the correlation and effect of a drought and plant growth. Lastly, we will provide thorough written analysis on the data, explaining why this is important.
 
 ## Resources Required
 
-I am going to use ope source data from scientific organizations; which include:
+We am going to use open source data from scientific organizations; which include:
 
 Global Biodiversity Information Facility-
 Free and open access to biodiversity data
@@ -61,7 +61,7 @@ Those who may appeal to further work and analysis in climate change are companie
     - Maybe my data somehow strengthens another's thoughts against the concept of climate change? 
 - Are my data sources ethical in the first place? 
     - Is my data complete and uniform in coverage? Are any geographic areas or groups of people (or organisms) underrepresented? 
-- If I choose to use models, what is the cost of making errors in future forcasting?
+- If we choose to use models, what is the cost of making errors in future forcasting?
 
 ## Tentative Timeline
 
