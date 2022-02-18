@@ -65,8 +65,15 @@ Those who may appeal to further work and analysis in climate change are companie
 
 ## Tentative Timeline
 
-There will be checkpoints for the project at approximately two-week intervals. With this in mind, please describe what you expect to achieve after two, four, and six weeks. At each stage, you should have “something that works.” For example, maybe in two weeks you’ll ready to demonstrate the data acquisition pipeline, in four weeks you’ll be able to demonstrate some data analysis, and in six weeks you’ll have your full machine learning pipeline set up. Please keep in mind that you’ll be asked to present at each of these checkpoints. Showing “something that works” will usually be necessary for full credit. The “something that works” idea is related to the common concept of “minimum viable products” in software development, and is visually illustrated here:
+### After two weeks
+- As a team we will search online and retrieve data on weather and plant growth in California. Specifically, data on precipitation and temperature at differing stations, as well as, amount of native or non-native plants were observed in differing parts of California.
+- Clean the data.
+- Input the dataframes into a database.
 
-In two weeks, I hope to have clean data that is easy to interpret and is easy to combine between the two data sets. 
-In four weeks, I hope to have my interactive plots' website ready in a shell state.
-In six weeks, I hope to have thorough analysis on aboot my data and its implications. In addition I hope to have my website up with wonderful CSS and a nice, presentable theme.
+### After four weeks
+- Continue searching for additional data on weather in California, further clean dataframes if necsessary.
+- Jovy will set up the website, input/update any additional dataframes into the database, create visualizations.
+
+
+### After six weeks
+- We hope to already have a pretty detailed analysis of our data and it's implications. The website should contain interactive plots and have a nice presentable theme.
