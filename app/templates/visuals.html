@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Visuals{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <form method="post">
+      <label for="want">Do you want to see a graph?</label>
+      <input type="radio" name="want" id="yes" value="yes">
+      <label for="yes">Yes</label>
+      <input type="radio" name="want" id="no" value="no">
+      <label for="No">No</label>
+      <br>
+      <input type="submit" value="Submit form">
+  </form>
+  {% if want %}
+    <br>
+    {% if want == "yes" %}
+    <meta http-equiv="Refresh" content="0; {{ url_for('graff')}}" />
+    {% else %}
+      oh, <b>ok</b>.</b>
+    {% endif %}
+  {% endif %}
+{% endblock %}
