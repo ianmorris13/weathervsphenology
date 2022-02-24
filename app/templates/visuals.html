@@ -14,12 +14,5 @@
       <br>
       <input type="submit" value="Submit form">
   </form>
-  {% if want %}
-    <br>
-    {% if want == "yes" %}
-    <meta http-equiv="Refresh" content="0; {{ url_for('graff')}}" />
-    {% else %}
-      oh, <b>ok</b>.</b>
-    {% endif %}
-  {% endif %}
+
 {% endblock %}

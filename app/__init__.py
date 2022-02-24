@@ -4,6 +4,11 @@
 
 from flask import Flask, g, render_template, request
 
+import pandas as pd
+import json
+import plotly
+import plotly.express as px
+
 import sklearn as sk
 import matplotlib.pyplot as plt
 import numpy as np
@@ -38,7 +43,20 @@ app = Flask(__name__)
 def main():
     return render_template('main_better.html')
 
-# Show url matching
+@app.route('/visuals/', methods=['POST', 'GET'])
+def visuals():
+    if request.method == 'POST':
+        selectedValue = request.form['want']
+        return redirect(url_for('plots', selectedValue=selectedValue))
+    return render_template('visuals.html', want=request.form['want'])
+
+@app.route('/<selectedValue>')
+def click(selectedValue):
+    return render_template(selectedValue)
+
+@app.route('/plots/', methods=['GET'])
+def plots():
+    return render_template('plots.html')
 
 @app.route('/hello/')
 def hello():
@@ -50,22 +68,10 @@ def hello_name(name):
 
 # Page with form
 
-@app.route('/visuals/', methods=['POST', 'GET'])
-def visuals():
-    if request.method == 'GET':
-        return render_template('visuals.html')
-    else:
-        try:
-            return render_template('visuals.html', want=request.form['want'])
-        except:
-            return render_template('visuals.html')
 
-@app.route('/graff/', methods=['GET'])
-def graff():
-    return render_template('Year vs Average Temperature of Climate Division CA0.html')
 
-# File uploads and interfacing with complex Python
-# basic version
+
+
 
 @app.route('/submit-basic/', methods=['POST', 'GET'])
 def submit_basic():
