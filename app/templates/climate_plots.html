@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>Average Temperature and Average Total Monthly Precipitation of Californian Weather Stations from 2000-2020</h1>
+{% endblock %}
+
+{% block content %}
+    {% include "MonthlyPrecipitation.html" %}
+    This is the average rainfall in inches of each weather station in California.
+
+    {% include "MeanAvgTemperature.html" %}
+    This is the average temperature in Fahrenheit of each weather station in California.
+{% endblock %}

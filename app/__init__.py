@@ -54,9 +54,9 @@ def visuals():
 def click(selectedValue):
     return render_template(selectedValue)
 
-@app.route('/plots/', methods=['GET'])
-def plots():
-    return render_template('plots.html')
+@app.route('/climate_plots/', methods=['GET'])
+def climate_plots():
+    return render_template('climate_plots')
 
 @app.route('/hello/')
 def hello():
