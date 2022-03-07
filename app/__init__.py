@@ -45,10 +45,8 @@ def main():
 
 @app.route('/visuals/', methods=['POST', 'GET'])
 def visuals():
-    if request.method == 'POST':
-        selectedValue = request.form['want']
-        return redirect(url_for('plots', selectedValue=selectedValue))
-    return render_template('visuals.html', want=request.form['want'])
+    plant_type = request.form.get('type')
+    return render_template('visuals.html')
 
 @app.route('/<selectedValue>')
 def click(selectedValue):
