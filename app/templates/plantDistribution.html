@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Plant Species throughout California{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <div class="w3-row-padding w3-padding-64 w3-container">
+    <div class="w3-content">
+      <div class="w3-twothird">
+        <h4 class="w3-padding-32">Take a look at the types of plants that are around California!</h4>
+        <p>Is there specific data you want to take a look at? You can select the year range, whether you want to look at native or non-native plants, and in what part of California.</p>
+        
+        <form method="POST" enctype="multipart/form-data">
+
+          <label for="plant_type">Select if Native</label>
+          <select name= 'plant_type' method="POST">
+
+            <option value="">All</option>
+            <option value="yes">Native</option>
+            <option value="no">Non-Native</option>
+
+          </select>
+
+          <option value="start_year" method="POST">Start Year</option>
+            <input type="number" id="start_year" name="start_year" min="2000" max="2020">
+
+          <option value="end_year" method="POST">End Year</option>
+            <input type="number" id="end_year" name="end_year" min="2000" max="2020">
+          
+          <br>
+          
+          <label for="_div">Select California Division</label>
+          <select name= '_div' method="POST">
+
+            <option value="">All</option>
+            <option value="North">Northern California</option>
+            <option value="Central">Central California</option>
+            <option value="South">Southern California</option>
+
+          </select>
+
+          <input type="submit" value="Submit">
+        </form>
+
+        {% if plot %}
+          Distribution of {{nativeInfo}} species in {{div}} California from {{startYear}} - {{endYear}}
+          {% include 'distributionPlot.html' %}
+        {% endif %}
+        
+      </div>
+    </div>
+  </div>
+
+{% endblock %}

@@ -2,24 +2,88 @@
 # $ export FLASK_ENV=development; flask run
 
 
+from tracemalloc import start
 from flask import Flask, g, render_template, request
 
 import pandas as pd
-import json
-import plotly
-import plotly.express as px
+import os
+from plotly import express as px
+import plotly.graph_objects as go
 
-import sklearn as sk
-import matplotlib.pyplot as plt
-import numpy as np
-import pickle
+flowersCA = pd.read_csv('./data/flowersCA.csv')
 
-from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-from matplotlib.figure import Figure
+def flowersOverCA (startYear = 2000, endYear = 2020, nativeInfo = False, div = False):
 
-import io
-import base64
+    flowers = flowersCA
+    
+    if div:
+        flowers = flowers[flowers['Div'] == div]
 
+    if nativeInfo:
+        flowers = flowers[flowers['native'] == nativeInfo]
+
+    flowers = flowers[flowers['year'] >= startYear]
+    flowers = flowers[flowers['year'] <= endYear]
+    
+    fig = px.scatter_mapbox(flowers, lat="latitude", lon="longitude",  color="species", zoom=3, height=600)
+
+    fig.update_layout(mapbox_style="open-street-map", mapbox_zoom=4, mapbox_center_lat = 41,
+        margin={"r":0,"t":0,"l":0,"b":0})
+
+    return fig
+
+def avgFloweringByYear(startYear = 2000, endYear = 2020, nativeInfo = False, trendline = None, trendline_scope= False, div = False):
+    
+    startYear = int(startYear)
+    endYear = int(endYear)
+    ntv = ''
+    
+    if div:
+        l = ['species', 'year', 'native', 'Div']
+        avg_df = flowersCA.groupby(l)["DOY"].mean().reset_index().round(0)
+        avg_df = avg_df[avg_df['Div'] == div]
+    else:
+        l = ['species', 'year', 'native']
+        avg_df = flowersCA.groupby(l)["DOY"].mean().reset_index().round(0)
+
+    
+    if nativeInfo:
+        avg_df = avg_df[avg_df['native'] == nativeInfo]
+        if nativeInfo == 'yes':
+            ntv = "Native "
+        else:
+            ntv = 'Non-Native '
+
+    if div:
+        if div == 'North':
+            div = "Northern "
+        elif div == 'Central':
+            div = 'Central '
+        else:
+            div = 'Southern '
+        
+    avg_df = avg_df[avg_df['year'] >= startYear]
+    avg_df = avg_df[avg_df['year'] <= endYear]
+    
+    title = f"Average Flowering Day of {div}Californian {ntv}species from {startYear}-{endYear}"
+
+    if trendline_scope:
+        fig = px.scatter(avg_df,
+                         x = "year",
+                         y = "DOY",
+                         color = 'species',
+                         trendline = trendline,
+                         trendline_scope = trendline_scope,
+                         title  = title
+                         )
+    else:
+        fig = px.scatter(avg_df,
+                         x = "year",
+                         y = "DOY",
+                         color = 'species',
+                         trendline = trendline,
+                         title = title)
+    return fig
 
 # Create web app, run with flask run
 # (set "FLASK_ENV" variable to "development" first!!!)
@@ -43,81 +107,66 @@ app = Flask(__name__)
 def main():
     return render_template('main_better.html')
 
-@app.route('/visuals/', methods=['POST', 'GET'])
-def visuals():
-    plant_type = request.form.get('type')
-    return render_template('visuals.html')
+@app.route('/plantDistribution/', methods=['POST', 'GET'])
+def plantDistribution():
+    if request.method == 'GET':
+        return render_template('plantDistribution.html')
+    else:
+        plant_type = request.form.get('plant_type')
 
-@app.route('/<selectedValue>')
-def click(selectedValue):
-    return render_template(selectedValue)
+        if not request.form.get('start_year'):
+            start_year = 2000
+        else:
+            start_year = int(float(request.form.get('start_year')))
+
+        if not request.form.get('end_year'):
+            end_year = 2020
+        else:
+            end_year = int(float(request.form.get('end_year')))
+
+        _div = request.form.get('_div')
+
+        flowersOverCA(startYear = start_year, endYear = end_year, nativeInfo = plant_type, div = _div).write_html('./app/templates/distributionPlot.html')
+
+        if plant_type == 'yes':
+            plant_type = 'native'
+        elif plant_type == 'no':
+            plant_type = 'non-native'
+
+        return render_template('plantDistribution.html', plot = True, startYear = start_year, endYear = end_year, nativeInfo = plant_type, div = _div)
+
+@app.route('/avgFlowering/', methods=['POST', 'GET'])
+def avgFlowering():
+    if request.method == 'GET':
+        return render_template('avgFlowering.html')
+
+    else:
+
+        if not request.form.get('start_year'):
+            start_year = 2000
+        else:
+            start_year = int(float(request.form.get('start_year')))
+
+        if not request.form.get('end_year'):
+            end_year = 2020
+        else:
+            end_year = int(float(request.form.get('end_year')))
+
+        plant_type = request.form.get('plant_type')
+        _div = request.form.get('_div')
+        tline = request.form.get('tline')
+        scope = request.form.get('scope')
+
+
+        avgFloweringByYear(startYear = start_year, endYear = end_year, nativeInfo = plant_type, trendline = tline, trendline_scope= scope, div = _div).write_html('./app/templates/avgDOYplot.html')
+
+        if plant_type == 'yes':
+            plant_type = 'native'
+        elif plant_type == 'no':
+            plant_type = 'non-native'
+
+        return render_template('avgFlowering.html', plot = True, startYear = start_year, endYear = end_year, nativeInfo = plant_type, div = _div)
 
 @app.route('/climate_plots/', methods=['GET'])
 def climate_plots():
     return render_template('climate_plots')
-
-@app.route('/hello/')
-def hello():
-    return render_template('hello.html')
-
-@app.route('/hello/<name>/')
-def hello_name(name):
-    return render_template('hello.html', name=name)
-
-# Page with form
-
-
-
-
-
-
-@app.route('/submit-basic/', methods=['POST', 'GET'])
-def submit_basic():
-    if request.method == 'GET':
-        return render_template('submit-basic.html')
-    else:
-        try:
-            return render_template('submit-basic.html', thanks = True)
-        except:
-            return render_template('submit-basic.html', error=True)
-
-# nontrivial version: makes a prediction and shows a viz
-@app.route('/submit-advanced/', methods=['POST', 'GET'])
-def submit():
-    if request.method == 'GET':
-        return render_template('submit.html')
-    else:
-        try:
-            # retrieve the image
-            img = request.files['image']
-            img = np.loadtxt(img)
-            
-            # reshape into appropriate format for prediction
-            x = img.reshape(1, 64)
-            
-            # load up a pre-trained model and get a prediction
-            model = pickle.load(open("mnist-model/model.pkl", 'rb'))
-            d = model.predict(x)[0]
-
-            # plot the image itself
-            fig = Figure(figsize = (3, 3))
-            ax = fig.add_subplot(1, 1, 1,)
-            ax.imshow(img, cmap = "binary")
-            ax.axis("off")
-            
-            # in order to show the plot on flask, we need to do a few tricks
-            # Convert plot to PNG image
-            # need to: 
-            # import io 
-            # import base64 
-            pngImage = io.BytesIO()
-            FigureCanvas(fig).print_png(pngImage)
-            
-            # Encode PNG image to base64 string
-            pngImageB64String = "data:image/png;base64,"
-            pngImageB64String += base64.b64encode(pngImage.getvalue()).decode('utf8')
-            
-            # finally we can render the template with the prediction and image
-            return render_template('submit.html', digit=d, image=pngImageB64String)
-        except:
-            return render_template('submit.html', error=True)
