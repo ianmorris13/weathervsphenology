@@ -1,5 +1,18 @@
 # weather vs phenology
 
+## Questions for Chodrow
+
+notes before quesitons... yes I know the CSS is not up to spec. I wanted to make sure, everything works before I added. on to my questions
+to run locally,  run 
+$ export FLASK_ENV=development; flask run
+in the terminal while under the main branch in the repository folder. You probably know that I'm just not sure If I had to add that. 
+
+1. Does this show an advanced use of python? I know it is no mahcine learning, but there is quiery funcitons that users can input their desired inputs to output clean visualizations, and there are a few optinos to choose from.
+
+2. If not, what do you recommend I expand on? Obviously my eyes were bigger than my stomach when orginally planning this, but so far I have a project that I am somewhat proud of, even if it is not 
+
+3. Is it ok if I continue this project outside the class? I think that was your intention if I'm correct? That's why you had us make our own github page, and not through servers like the UCLA servers, correct? 
+
 ## Abstract
 
 Over time, the impact of drought in the western United States, specifically California, has grown to be more and more worrisome. The ecological effect of a drought, specifically, the effect on plant growth, will be analyzed. We will be utilizing already existing data on plant growth and California drought, to understand the lasting effects of a drought that may occur in the future. We aim to focus on whether precipitation and differing temperature gradients affect the distribution of native plants vs the distribution of non-native plants. The goal is to visualize and project the future of the effect climate change has on California's native plants.
