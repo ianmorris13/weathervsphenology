@@ -13,42 +13,52 @@
         
         <form method="POST" enctype="multipart/form-data">
 
-          <label for="plant_type">Select if Native</label>
-          <select name= 'plant_type' method="POST">
+          <table>
 
-            <option value="">All</option>
-            <option value="yes">Native</option>
-            <option value="no">Non-Native</option>
+            <td>
+              <option value="start_year" method="POST">Start Year</option>
+                <input type="number" id="start_year" name="start_year" min="2000" max="2020" value = 2000>
 
-          </select>
+              <option value="end_year" method="POST">End Year</option>
+                <input type="number" id="end_year" name="end_year" min="2000" max="2020" value = 2020>
+            </td>
 
-          <option value="start_year" method="POST">Start Year</option>
-            <input type="number" id="start_year" name="start_year" min="2000" max="2020">
+            <td>
+              <label for="plant_type">Select Native Distribution: </label>
+              <select name= 'plant_type' method="POST">
+    
+                <option value="">All</option>
+                <option value="yes">Native</option>
+                <option value="no">Non-Native</option>
+    
+              </select>
+            </td>
 
-          <option value="end_year" method="POST">End Year</option>
-            <input type="number" id="end_year" name="end_year" min="2000" max="2020">
-          
-          <br>
-          
-          <label for="_div">Select California Division</label>
-          <select name= '_div' method="POST">
+            <td>
+              <label for="_div">Select California Division</label>
+              <select name= '_div' method="POST">
+    
+                <option value="">All</option>
+                <option value="North">Northern California</option>
+                <option value="Central">Central California</option>
+                <option value="South">Southern California</option>
+    
+              </select>
+            </td>
 
-            <option value="">All</option>
-            <option value="North">Northern California</option>
-            <option value="Central">Central California</option>
-            <option value="South">Southern California</option>
-
-          </select>
 
           <input type="submit" value="Submit">
         </form>
+      </div>
 
+      <br><br>
+      <div>
         {% if plot %}
           Distribution of {{nativeInfo}} species in {{div}} California from {{startYear}} - {{endYear}}
           {% include 'distributionPlot.html' %}
         {% endif %}
-        
       </div>
+
     </div>
   </div>
 

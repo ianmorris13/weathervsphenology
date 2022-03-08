@@ -9,55 +9,63 @@
     <div class="w3-content">
       <div class="w3-twothird">
         <h4 class="w3-padding-32">We can see how the Flowering Day of Year shifts over the years!</h4>
-        <p>Is there specific data you want to take a look at? You can select the year range, whether you want to look at native or non-native plants, and in what part of California.</p>
-        
+        <p>Is there specific data you want to take a look at? You can select the year range, whether you want to look at native or non-native plants, in what part of California, and if you want to see a trendline on the data.</p>
+        <table>
+          
         <form method="POST" enctype="multipart/form-data">
+          <table>
 
-          <label for="plant_type">Select if Native</label>
-          <select name= 'plant_type' method="POST">
+            <td>
+              <option value="start_year" method="POST">Start Year</option>
+                <input type="number" id="start_year" name="start_year" min="2000" max="2020" value = 2000>
+              <option value="end_year" method="POST">End Year</option>
+                <input type="number" id="end_year" name="end_year" min="2000" max="2020" value = 2020>
+            </td>
 
-            <option value="">All</option>
-            <option value="yes">Native</option>
-            <option value="no">Non-Native</option>
+            <td>
+              <label for="plant_type">Select Native Distribution: </label>
+              <select name= 'plant_type' method="POST">
 
-          </select>
+                <option value="">All Plants</option>
+                <option value="yes">Native</option>
+                <option value="no">Non-Native</option>
 
-          <option value="start_year" method="POST">Start Year</option>
-            <input type="number" id="start_year" name="start_year" min="2000" max="2020">
+              </select>
+            </td>
 
-          <option value="end_year" method="POST">End Year</option>
-            <input type="number" id="end_year" name="end_year" min="2000" max="2020">
-          
-          <br>
-          
-          <label for="_div">Select California Division</label>
-          <select name= '_div' method="POST">
+            <td>
+              <label for="_div">Select California Division</label>
+              <select name= '_div' method="POST">
 
-            <option value="">All</option>
-            <option value="North">Northern California</option>
-            <option value="Central">Central California</option>
-            <option value="South">Southern California</option>
+                <option value="">All</option>
+                <option value="North">Northern California</option>
+                <option value="Central">Central California</option>
+                <option value="South">Southern California</option>
 
-          </select>
+              </select>
+            </td>
 
-          <label for="tline">Trendline</label>
-          <select name= 'tline' method="POST">
+            <td>
+              <label for="tline">Trendline</label>
+              <select name= 'tline' method="POST">
 
-            <option value="">None</option>
-            <option value="ols">Linear Regression</option>
-            <option value="lowess">Local regression</option>
+                <option value="">None</option>
+                <option value="ols">Linear Regression</option>
+                <option value="lowess">Local regression</option>
 
-          </select>
+              </select>
+            </td>
 
-          <label for="scope">Trendline Scope (choose only if a trendline is selected)</label>
-          <select name= 'scope' method="POST">
+            <!-- <label for="scope">Trendline Scope (choose only if Linear Regression is selected)</label>
+            <select name= 'scope' method="POST">
 
-            <option value="">By Species</option>
-            <option value="overall">Overall</option>
+              <option value="">By Species</option>
+              <option value="overall">Overall</option>
 
-          </select>
+            </select> -->
 
-          <input type="submit" value="Submit">
+            <input type="submit" value="Submit">
+          </table>
         </form>
 
         {% if plot %}

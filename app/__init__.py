@@ -68,14 +68,22 @@ def avgFloweringByYear(startYear = 2000, endYear = 2020, nativeInfo = False, tre
     title = f"Average Flowering Day of {div}Californian {ntv}species from {startYear}-{endYear}"
 
     if trendline_scope:
-        fig = px.scatter(avg_df,
-                         x = "year",
-                         y = "DOY",
-                         color = 'species',
-                         trendline = trendline,
-                         trendline_scope = trendline_scope,
-                         title  = title
-                         )
+        if trendline != 'ols':
+            fig = px.scatter(avg_df,
+                            x = "year",
+                            y = "DOY",
+                            color = 'species',
+                            trendline = trendline,
+                            title  = title
+                            )
+        else:
+            fig = px.scatter(avg_df,
+                            x = "year",
+                            y = "DOY",
+                            color = 'species',
+                            trendline = trendline,
+                            #trendline_scope = 'overall',
+                            title = title)            
     else:
         fig = px.scatter(avg_df,
                          x = "year",
