@@ -11,9 +11,9 @@
         <h4 class="w3-padding-32">Take a look at the types of plants that are around California!</h4>
         <p>Is there specific data you want to take a look at? You can select the year range, whether you want to look at native or non-native plants, and in what part of California.</p>
         
-        <form method="POST" enctype="multipart/form-data">
+        <table>
+          <form method="POST" enctype="multipart/form-data">
 
-          <table>
 
             <td>
               <option value="start_year" method="POST">Start Year</option>
@@ -51,7 +51,7 @@
         </form>
       </div>
 
-      <br><br>
+    </table>
       <div>
         {% if plot %}
           Distribution of {{nativeInfo}} species in {{div}} California from {{startYear}} - {{endYear}}
