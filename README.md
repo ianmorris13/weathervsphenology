@@ -3,8 +3,9 @@
 ## Questions for Chodrow
 
 notes before quesitons... yes I know the CSS is not up to spec. I wanted to make sure, everything works before I added. now on to my questions... <br>
-to run locally,  run 
+to run locally,  run <br>
 $ export FLASK_ENV=development; flask run
+<br>
 in the terminal while under the main branch in the repository folder. You probably know that I'm just not sure If I had to add that. 
 
 1. Does this show an advanced use of python? I know it is no mahcine learning, but there is quiery funcitons that users can input their desired inputs to output clean visualizations, and there are a few optinos to choose from.
