@@ -12,7 +12,7 @@ in the terminal while under the main branch in the repository folder. You probab
 
 2. If not, what do you recommend I expand on? Obviously my eyes were bigger than my stomach when orginally planning this, but so far I have a project that I am somewhat proud of, even if it is not 
 
-3. Is it ok if I continue this project outside the class? I think that was your intention if I'm correct? That's why you had us make our own github page, and not through servers like the UCLA servers, correct? 
+3. Is it ok if I continue this project outside the class? I think that was your intention if I'm correct? That's why you had us make our own github page, correct? 
 
 ## Abstract
 
