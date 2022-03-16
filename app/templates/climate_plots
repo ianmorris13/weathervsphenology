@@ -1,17 +1,44 @@
 {% extends 'base.html' %}
 
-{% block header %}
-  <h1>Average Temperature and Average Total Monthly Precipitation 
-      of Californian Weather Stations from 2000-2020</h1>
-{% endblock %}
+<title>{% block title %}Climate Data Visualizations{% endblock %}</title> 
 
 {% block content %}
-    <div>
-        {% include "MonthlyPrecipitation.html" %}
-        This is the average rainfall in inches of each weather station in California.
-    </div>
-    <div>
-        {% include "MeanAvgTemperature.html" %}
-        This is the average temperature in Fahrenheit of each weather station in California.
-    </div>
+
+
+<h1>Average Temperature and Average Total Monthly Precipitation of Californian Weather Stations from 2000-2020</h1>
+
+<div class="box">
+
+  <table>
+    <form method="POST" enctype="multipart/form-data">
+      <td>
+        <label for="_div">Select California Division: </label>
+        <select name= '_div' method="POST">
+
+          <option value="">All</option>
+          <option value="1">CA01</option>
+          <option value="2">CA02</option>
+          <option value="3">CA03</option>
+          <option value="4">CA04</option>
+          <option value="5">CA05</option>
+          <option value="6">CA06</option>
+          <option value="7">CA07</option>
+
+        </select>
+      </td>
+      
+      <td>
+        <input type="submit" value="Submit">
+      </td>
+    </form>
+  </table>
+
+  <br><br>
+
+  <div class = 'box'>
+    {% include "avgTempPlot.html" %}
+    <br><br>
+    {% include "avgRainPlot.html" %}
+  </div>
+</div>
 {% endblock %}

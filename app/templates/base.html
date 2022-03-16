@@ -2,21 +2,17 @@
 <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat"> -->
-<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- -->
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
-<title>{% block title %}{% endblock %} - PIC16B</title> 
+
+<title>{% block title %}{% endblock %}PIC16B Final Project</title> 
 
 <!-- plots -->
-<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<!-- <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>
   var graphs = {{graphJSON | safe}};
   Plotly.plot('chart',graphs,{});
-</script>
+</script> -->
 
 <script src="jquery.js"></script> 
 <script> 
@@ -24,28 +20,32 @@
     $("graff").load("Year vs Average Temperature of Climate Division CA0.html"); 
   });
   </script>
+  
+{% block header %}
+<h1 class=""></h1>
+{% endblock %}
 
-<!-- Navbar -->
-<div class="w3-top">
-  <div class="w3-bar w3-red w3-card w3-left-align w3-large">
-    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="{{ url_for('main')}}" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
-    <a href="{{ url_for('plantDistribution')}}" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Plant Distribution of California</a>
-    <a href="{{ url_for('avgFlowering')}}" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Average Flowering Day of Year</a>
-    <a href="{{ url_for('climate_plots') }}" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Climate Visualizations</a>
+
+  <div class="navbar">
+    <a href="{{ url_for('main')}}" class="">Home</a>
+     | 
+    <a href="{{ url_for('plantDistribution')}}" class="">Plant Distribution of California</a>
+     | 
+    <a href="{{ url_for('avgFlowering')}}" class="">Average Flowering Day of Year</a>
+     | 
+    <a href="{{ url_for('climate_plots') }}" class="">Climate Visualizations</a>
+    | 
+   <a href="{{ url_for('species') }}" class="">Species</a>
   </div>
 
 
 <section class="content">
-  <header>
-    {% block header %}{% endblock %}
-  </header>
   {% block content %}{% endblock %}
 </section>
 
+<br><br>
 <!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-center w3-opacity">  
-  <div class="w3-xlarge w3-padding-32">
-    <i href="https://github.com/ianmorris13/weathervsphenology" class="fa fa-github w3-hover-opacity"></i>
-  </div>
+<footer>  
+  <a href="https://github.com/ianmorris13/weathervsphenology"><img src = "{{ url_for('static', filename='github.png') }}" alt="Github Logo" width="30" height="30"></a>
 </footer>
+

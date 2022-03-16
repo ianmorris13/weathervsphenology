@@ -1,79 +1,83 @@
 {% extends 'base.html' %}
 
-{% block header %}
-  <h1>{% block title %}Average Flowering Day of Year by Species{% endblock %}</h1>
-{% endblock %}
+{% block title %}Average Flowering Day of Year by Species - {% endblock %}
 
 {% block content %}
-  <div class="w3-row-padding w3-padding-64 w3-container">
-    <div class="w3-content">
-      <div class="w3-twothird">
-        <h4 class="w3-padding-32">We can see how the Flowering Day of Year shifts over the years!</h4>
-        <p>Is there specific data you want to take a look at? You can select the year range, whether you want to look at native or non-native plants, in what part of California, and if you want to see a trendline on the data.</p>
-        <table>
-          
-        <form method="POST" enctype="multipart/form-data">
-          <table>
 
-            <td>
-              <option value="start_year" method="POST">Start Year</option>
-                <input type="number" id="start_year" name="start_year" min="2000" max="2020" value = 2000>
-              <option value="end_year" method="POST">End Year</option>
-                <input type="number" id="end_year" name="end_year" min="2000" max="2020" value = 2020>
-            </td>
+<h1>Average Flowering Day of Year by Species</h1>
 
-            <td>
-              <label for="plant_type">Select Native Distribution: </label>
-              <select name= 'plant_type' method="POST">
+<div class="box">
+  <h1>We can see how the Flowering Day of Year shifts over the years!</h1>
+  <p>
+    Is there specific data you want to take a look at? You can select the year range, 
+    whether you want to look at native or non-native plants, in what part of California, 
+    and if you want to see a trendline on the data.
+  </p>
 
-                <option value="">All Plants</option>
-                <option value="yes">Native</option>
-                <option value="no">Non-Native</option>
+  <table>
+    <form method="POST" enctype="multipart/form-data">
 
-              </select>
-            </td>
+        <td>
+          <option value="start_year" method="POST">Start Year</option>
+            <input type="number" id="start_year" name="start_year" min="2000" max="2020" value = 2000>
+          <option value="end_year" method="POST">End Year</option>
+            <input type="number" id="end_year" name="end_year" min="2000" max="2020" value = 2020>
+        </td>
 
-            <td>
-              <label for="_div">Select California Division</label>
-              <select name= '_div' method="POST">
+        <td>
+          <label for="plant_type">Select Type of Species: </label>
+          <select name= 'plant_type' method="POST">
 
-                <option value="">All</option>
-                <option value="North">Northern California</option>
-                <option value="Central">Central California</option>
-                <option value="South">Southern California</option>
+            <option value="">All Plants</option>
+            <option value="yes">Native</option>
+            <option value="no">Non-Native</option>
 
-              </select>
-            </td>
+          </select>
+        </td>
 
-            <td>
-              <label for="tline">Trendline</label>
-              <select name= 'tline' method="POST">
+        <td>
+          <label for="_div">Select California Division: </label>
+          <select name= '_div' method="POST">
+  
+            <option value="">All</option>
+            <option value="1">CA01</option>
+            <option value="2">CA02</option>
+            <option value="3">CA03</option>
+            <option value="4">CA04</option>
+            <option value="5">CA05</option>
+            <option value="6">CA06</option>
+            <option value="7">CA07</option>
+  
+          </select>
+        </td>
 
-                <option value="">None</option>
-                <option value="ols">Linear Regression</option>
-                <option value="lowess">Local regression</option>
+        <td>
+          <label for="tline">Trendline</label>
+          <select name= 'tline' method="POST">
 
-              </select>
-            </td>
+            <option value="">None</option>
+            <option value="ols">Linear Regression</option>
+            <option value="lowess">Local regression</option>
 
-            <!-- <label for="scope">Trendline Scope (choose only if Linear Regression is selected)</label>
-            <select name= 'scope' method="POST">
+          </select>
+        </td>
 
-              <option value="">By Species</option>
-              <option value="overall">Overall</option>
+        <!-- <label for="scope">Trendline Scope (choose only if Linear Regression is selected)</label>
+        <select name= 'scope' method="POST">
 
-            </select> -->
+          <option value="">By Species</option>
+          <option value="overall">Overall</option>
 
-            <input type="submit" value="Submit">
-          </table>
-        </form>
+        </select> -->
 
-        {% if plot %}
-          {% include 'avgDOYplot.html' %}
-        {% endif %}
-        
-      </div>
-    </div>
-  </div>
+        <td>
+          <input type="submit" value="Submit">
+        </td>
+      </form>
+  </table>
+
+  {% include 'avgDOYplot.html' %}
+
+</div>
 
 {% endblock %}

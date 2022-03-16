@@ -1,0 +1,351 @@
+{% extends 'base.html' %}
+
+<title>{% block title %}Species{% endblock %}</title> 
+
+{% block content %}
+	<h2 style="text-align:center;"><font size="4">Species</font></h2>
+
+	<div class="wsite-spacer" style="height:22px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25.689090956126%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/arctostaphylos.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20190111-124041.jpg?1619444004" alt="Picture" style="width:191;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Arctostaphylos</i><br><b>Ericaceae</b></div>
+	</div></div>
+
+
+						
+	</td>				
+					
+	<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/amsinckia_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200321-113901.jpg?1619444001" alt="Picture" style="width:191;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Amsinckia</i><br><b>Boraginaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:24.042354356374%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/arabis_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/800px-arabis-caucasica.jpg?1619443997" alt="Picture" style="width:189;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Arabis</i><br><b>Brassicaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25.2685546875%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/argemone.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200720-112125.jpg?1619125171" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Argemone</i><br><b>Papaveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+
+	<div class="wsite-spacer" style="height:15px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/calochortus_albus_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20190428-134735.jpg?1619124613" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Calochortus albus</i><br><b>Liliaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/castilleja_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200530-170427.jpg?1619188149" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Castilleja</i><br><b>Scrophulariaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/cercocarpus_betuloides_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/cercocarpusbetuloides2.jpg?1619125225" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Cercocarpus betuloides</i><br><b>Rosaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/clarkia_unguiculata_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20190707-101837.jpg?1619193610" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Clarkia unguiculata</i><br><b>Onagraceae</b></div>
+	</div></div>
+
+
+						
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+
+	<div class="wsite-spacer" style="height:27px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/delphinium_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200425-114032.jpg?1619125168" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Delphinium</i><br><b>Ranunculaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/delphinium_cardinale_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/49684328601-a74719cde8-b.jpg?1619201455" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Delphinium cardinale</i><br><b>Ranunculaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/dendromecon.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20210327-182110.jpg?1619125394" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Dendromecon</i><br><b>Papveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/dicentra.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20200503-132430.jpg?1619125694" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Dicentra</i><br><b>Papaveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+
+	<div class="wsite-spacer" style="height:27px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/eschscholzia.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200329-113138.jpg?1619125850" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Eschscholzia</i><br><b>Papaveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/leptosiphon_androsaceus_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20200404-133709.jpg?1619126036" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Leptosiphon androsaceus</i><br><b>Polemoniaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/lupinus.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200404-134634.jpg?1619126128" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Lupinus</i><br><b>Fabaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/nemophila_menziesii_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/20200321-112543.jpg?1619527926" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Nemophila menziesii</i><br><b>Boraginaceae</b></div>
+	</div></div>
+
+
+						
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+
+	<div class="wsite-spacer" style="height:27px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/platystemon.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20200404-140104.jpg?1619126271" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Platystemon</i><br><b>Papaveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/romneya.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/paul-de-longpr-00.jpg?1619132745" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Romneya</i><br><b>Papaveraceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/salvia_mellifera_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20190324-143747.jpg?1619193726" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Salvia mellifera</i><br><b>Lamiaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/thysanocarpus_curvipes_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/editor/20200321-112253.jpg?1619443471" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Thysanocarpus curvipes</i><br><b>Brassicaceae</b></div>
+	</div></div>
+
+
+						
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+
+	<div class="wsite-spacer" style="height:27px;"></div>
+
+	<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+		<table class="wsite-multicol-table">
+			<tbody class="wsite-multicol-tbody">
+				<tr class="wsite-multicol-tr">
+					<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+						
+							
+
+	<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+	<a href="/uploads/1/6/3/7/16372936/triteleia_cheatsheet.pdf">
+	<img src="/uploads/1/6/3/7/16372936/published/original.jpg?1619126772" alt="Picture" style="width:auto;max-width:100%">
+	</a>
+	<div style="display:block;font-size:90%"><i>Triteleia</i><br><b>Asparagaceae</b></div>
+	</div></div>
+
+
+						
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					</td>			</tr>
+			</tbody>
+		</table>
+	</div></div></div>
+{% endblock %}
