@@ -4,17 +4,13 @@
 
 {% block content %}
 
-<h1>Plant Species throughout California</h1>
-
-
+<h1>Distribution of {{nativeInfo}} Plant Species in CA{{div}} from {{startYear}} - {{endYear}}</h1>
+<hr>
+<div id ='map'>
+  {% include 'distributionPlot.html' %}
+</div>
 <div class="box">
-  <h1>Take a look at the types of plants that are around California!</h1>
-  <p>
-    Is there specific data you want to take a look at? 
-    You can select the year range, whether you want to look at native or non-native plants, 
-    and in what part of California.
-  </p>
-
+  <br>
   <table>
     <form method="POST" enctype="multipart/form-data">
 
@@ -58,16 +54,11 @@
       </td>
     </form>
   </table>
-
-<br><br>
-
-  <div id = 'plot_title'>
-    Distribution of {{nativeInfo}} species in CA{{div}} from {{startYear}} - {{endYear}}
-  </div>
-  <br>
-  {% include 'distributionPlot.html' %}
-
-
 </div>
-
+<p>
+  Here is a simple map of California with every single observation from our data set plotted over it.
+  <br>
+  You may select the specifics of which plant you would like to see in the table above.
+</p>
+<hr>
 {% endblock %}

@@ -5,10 +5,13 @@
 {% block content %}
 
 
-<h1>Average Temperature and Average Total Monthly Precipitation of Californian Weather Stations from 2000-2020</h1>
-
+<h1>20 Year Average Temperature and Average Total Monthly Precipitation of California</h1>
+<hr>
 <div class="box">
-
+  {% include "avgTempPlot.html" %}
+  <br><br>
+  {% include "avgRainPlot.html" %}
+  <br><br>
   <table>
     <form method="POST" enctype="multipart/form-data">
       <td>
@@ -33,12 +36,11 @@
     </form>
   </table>
 
-  <br><br>
-
-  <div class = 'box'>
-    {% include "avgTempPlot.html" %}
-    <br><br>
-    {% include "avgRainPlot.html" %}
-  </div>
 </div>
+<p>
+  Californian weather patterns have been increasingly extreme, especially in terms of climate hazards.
+  <br>
+  Above you can see the average temperatures and average montly precipitation plotted over the past 20 years.
+</p>
+<hr>
 {% endblock %}

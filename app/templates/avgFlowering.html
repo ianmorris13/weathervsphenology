@@ -5,14 +5,9 @@
 {% block content %}
 
 <h1>Average Flowering Day of Year by Species</h1>
-
+<hr>
 <div class="box">
-  <h1>We can see how the Flowering Day of Year shifts over the years!</h1>
-  <p>
-    Is there specific data you want to take a look at? You can select the year range, 
-    whether you want to look at native or non-native plants, in what part of California, 
-    and if you want to see a trendline on the data.
-  </p>
+  {% include 'avgDOYplot.html' %}
 
   <table>
     <form method="POST" enctype="multipart/form-data">
@@ -52,7 +47,7 @@
         </td>
 
         <td>
-          <label for="tline">Trendline</label>
+          <label for="tline">Trendline:</label>
           <select name= 'tline' method="POST">
 
             <option value="">None</option>
@@ -62,22 +57,16 @@
           </select>
         </td>
 
-        <!-- <label for="scope">Trendline Scope (choose only if Linear Regression is selected)</label>
-        <select name= 'scope' method="POST">
-
-          <option value="">By Species</option>
-          <option value="overall">Overall</option>
-
-        </select> -->
-
         <td>
           <input type="submit" value="Submit">
         </td>
       </form>
   </table>
-
-  {% include 'avgDOYplot.html' %}
-
 </div>
-
+<p>
+  The average flowering day of year can have many implications between the community, 
+  the weather patterns, and espescially the individual itself. 
+  In the meantime, you can see for yourself which flowering dates are trending in particular ways. 
+</p>
+<hr>
 {% endblock %}

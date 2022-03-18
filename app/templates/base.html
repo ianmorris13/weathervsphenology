@@ -7,13 +7,6 @@
 
 <title>{% block title %}{% endblock %}PIC16B Final Project</title> 
 
-<!-- plots -->
-<!-- <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
-<script type='text/javascript'>
-  var graphs = {{graphJSON | safe}};
-  Plotly.plot('chart',graphs,{});
-</script> -->
-
 <script src="jquery.js"></script> 
 <script> 
   $(function(){
@@ -21,21 +14,16 @@
   });
   </script>
   
-{% block header %}
-<h1 class=""></h1>
-{% endblock %}
-
-
-  <div class="navbar">
-    <a href="{{ url_for('main')}}" class="">Home</a>
-     | 
-    <a href="{{ url_for('plantDistribution')}}" class="">Plant Distribution of California</a>
-     | 
-    <a href="{{ url_for('avgFlowering')}}" class="">Average Flowering Day of Year</a>
-     | 
-    <a href="{{ url_for('climate_plots') }}" class="">Climate Visualizations</a>
+  <div class="navbar" class="headings">
+    <a href="{{ url_for('main')}}">About</a>
     | 
-   <a href="{{ url_for('species') }}" class="">Species</a>
+    <a href="{{ url_for('plantDistribution')}}">Plant Distribution of California</a>
+    | 
+    <a href="{{ url_for('avgFlowering')}}">Average Flowering Day of Year</a>
+    | 
+    <a href="{{ url_for('climate_plots') }}">Climate Visualizations</a>
+    | 
+    <a href="{{ url_for('species') }}">Species</a>
   </div>
 
 

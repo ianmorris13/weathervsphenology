@@ -1,34 +1,44 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  <div class="">
-    <div class="">
-      <h2>Project Description</h2>
-      <div class="box">
-        <!-- <p class="">
-          Water availability is vital to human communities as well as the environment. 
-          Specifically, water availability greatly affects biodiversity around the world. 
-          Reports have shown that human-cause warming can be attributed to drought conditions 
-          (<a href="https://www.nature.com/articles/nclimate2067#citeas" target="_blank">2014, Nature Clim Change</a>).
-        </p>
+<h1>Project Description</h1>
+<hr>
+<div class="box">
+  <table>
+    <td>
+      <p>
+        "Flowering Phenology" is the biological timing of the reproductive process of angiosperms. 
+        Changes in flowering time can mean changes in species fitness, community distribution, 
+        and can even affect species beyond plants, such as the pollinators which depend on these flowers.
+        <br><br>
+        With this project, we hoped to investigate how the changing California climate may affect the flowering phenology of 
+        native and non-native species, and how that may affect the distribution and community makeup of these species in differing divisions of California.
+        <br><br>
+        While we did not get to comparing California Climate as of yet (03/18/22), 
+        we have so far created an aggregated database that you may query data a look at through plotly's attractive visualizations. 
+      </p>
+    </td>
+  </table>
+</div>
 
-        <p>
-          This website will provide information and analysis specifically on the effect of drought in California on plant grouwth. 
-          California experiences limited rainfall each year and rising temperatures, resulting in mainly dry seasons and lasting consequences. 
-          This leads to <a href="https://en.wikipedia.org/wiki/Droughts_in_California" target="_blank">less water availability</a> in the environment, 
-          such as native and non-native plants.
-        <p> -->
-      </div>
-    </div>
-  </div>
-
-
-  <h2>Data</h2>
-  <div class="box">
-    <p></p>
-  </div>
-
-
+<h2>Data</h2>
+<div class="box">
+  <table>
+    <td>
+      <p>
+        For the flowering observation data, we downloaded species data from iNaturalist and catergoried them as native or 
+        non-native according to Cal flora. One assumption we made is that the date of every observation off of  its flowering date.
+        <br>
+        <a href = "{{ url_for('static', filename='iNaturalistSpeciesReferences.txt') }}" download> You can download the reference list here.</a>
+        <br><br>
+        As for the climate data, it was sourced from the 
+        <a href = "http://scacis.rcc-acis.org/">SC ACIS</a> 
+        sub-team of NOAA. It is an aggregated climate database of the US.
+      </p>
+    </td>
+  </table>
+</div>
+<hr>
 
 {% endblock %}
 

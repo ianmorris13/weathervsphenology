@@ -1,90 +1,23 @@
-# weather vs phenology
-
-## Questions for Chodrow
-
-notes before quesitons... yes I know the CSS is not up to spec. I wanted to make sure, everything works before I added. now on to my questions... <br>
-to run locally,  run <br>
-$ export FLASK_ENV=development; flask run
-<br>
-in the terminal while under the main branch in the repository folder. You probably know that I'm just not sure If I had to add that. 
-
-1. Does this show an advanced use of python? I know it is no mahcine learning, but there is quiery funcitons that users can input their desired inputs to output clean visualizations, and there are a few optinos to choose from.
-
-2. If not, what do you recommend I expand on? Obviously my eyes were bigger than my stomach when orginally planning this, but so far I have a project that I am somewhat proud of, even if it is not 
-
-3. Is it ok if I continue this project outside the class? I think that was your intention if I'm correct? That's why you had us make our own github page, correct? 
-
-## Abstract
-
-Over time, the impact of drought in the western United States, specifically California, has grown to be more and more worrisome. The ecological effect of a drought, specifically, the effect on plant growth, will be analyzed. We will be utilizing already existing data on plant growth and California drought, to understand the lasting effects of a drought that may occur in the future. We aim to focus on whether precipitation and differing temperature gradients affect the distribution of native plants vs the distribution of non-native plants. The goal is to visualize and project the future of the effect climate change has on California's native plants.
-
-## Planned Deliverables
-
-The aim of this project is to create attractive visualizations and create a machine learning model that can predict to utmost accuracy what the progression of California drought will be and the effect it will have on native and non-native plant growth. 
-
-### Partial Success
-
-We will be plotting drought conditions vs plant growth, which will offer a visual of what the past and current conditions are, as well as any correlation between the two. These visuals will be accessed through a webapp that we will create using heroku.
-
-### Full Success
-There will be a constant temperature and precipitation graphing, with the option to choose what region the graph is extracting from. Additionally, there will be options to filter between species, genus, native, non-native, etc. Different categories between all flowers and to compare said categories over the years. Lastly, this webapp will be hosted on herokuapp.com, similar to this website https://eitc-app.herokuapp.com/. 
-
-In addition to the data visualizations, we aim to forecast the future of native species. Many factors will need to be considered, especially since there are many variables that come with ecological models.  Nevertheless, the website will provide current information on the correlation and effect of a drought and plant growth. Lastly, we will provide thorough written analysis on the data, explaining why this is important.
-
-## Resources Required
-
-We am going to use open source data from scientific organizations; which include:
-
-Global Biodiversity Information Facility-
-Free and open access to biodiversity data
-https://www.gbif.org/
-
-We will quiery data that includes the speacies, the number of observations, and the date and location of the observations using the built in data query.
-
-http://scacis.rcc-acis.org/
-
-We will copy paste data of the mean temperature and precipitation sum of each weather station in California from the built in data query, as there is no easy way to download.
-
-## Tools and Skills Required
-
-Web scrapping, machine learning, database management, complex visualizations, website building, and modeling are required for this project. 
-
-Packages may include; Mesa, plotly, matplotlib, pandas, sqlite3, numpy, scikit-learn, seaborn, and possibly others.
-
-## What You Will Learn
-
-We hope to learn how to create attractive websites and present data in a format that's easily digestible. In addition, we hope to forecast the future of this interaction between weather and Californian plant species using machine learning models, or provide an Agent Based Model with this data.
-
-
-## Risks
-
-A risk that we may encounter stems from the fact that ecological systems are often challenging to predict due to their multifaceted data. There are many variables that go into the growth of an organism, meaning there are also many variables that can affect plant growth which may skew the predictions. This will become especially apparent with any models or forecasts we may run, whether it be through regression or agent-based modeling.
-
-## Ethics
-
-The effect humans have on the climate and ecological systems is important to many. There are many organizations and activists whom advocate for government officials to reduce the harm we cause. Providing data and information on the further damage that climate change can have may provide more support to make an environmental difference. 
-
-Those who may appeal to further work and analysis in climate change are companies that produce the most environmental harm. If government officials decide to place in more regulations on, for example, the waste companies produce, those companies will be financially hurt.
-
-### Some thoughts that may question the ethics of our project:
-
-- What is the possibility for someone looking at a website gets the wrong idea?
-    - Maybe our data somehow strengthens another's thoughts against the concept of climate change? 
-- Are our data sources ethical in the first place? 
-    - Is our data complete and uniform in coverage? Are any geographic areas or groups of people (or organisms) underrepresented? 
-- If we choose to use models, what is the cost of making errors in future forcasting?
-
-## Tentative Timeline
-
-### After two weeks
-- As a team we will search online and retrieve data on weather and plant growth in California. Specifically, data on precipitation and temperature at differing stations, as well as, amount of native or non-native plants were observed in differing parts of California.
-- Clean the data.
-- Input the dataframes into a database.
-
-### After four weeks
-- Continue searching for additional data on weather in California, further clean dataframes if necsessary.
-- Jovy will set up the website, input/update any additional dataframes into the database, create visualizations.
-
-
-### After six weeks
-- We hope to already have a pretty detailed analysis of our data and it's implications. The website should contain interactive plots and have a nice presentable theme.
+# California Climate and Flowering Phenology - PIC16B Final Project
+ 
+## Webapp
+ 
+The main goal of this webapp was to see the effect the changing California climate has on flowering phenology of California plant species. We did not get that far as of yet (03/18/22). Instead we currently have our own aggregated database that the user can query parameters and receive visualizations of this data. Eventually, this will turn out into its intended form. However for now, this will just give a glimpse on how the climate and flowering phenology are changing from 2000-2020 independently of one another.
+ 
+Our webapp has three main pages, Plant Distribution of California, Average Flowering Day of Year, and Climate Visualizations. They are all user interactable and pull from the data sources iNaturalist and SC ACIS. iNaturalist provides an aggregated database of both professional and citizen science species observations. We pulled 11 species and cleaned the databases to fix our functions. More info on that can be seen in our DataCleaning.ipynb on the main repository page. As for our climate data, SC ACIS is a sub-team of NOAA, in which they aggregate differing weather station data to provide a robust database of the weather stations across the US. More info on how we cleaned it is also available in our DataCleaning.ipynb on the main repository page.
+ 
+### Plant Distribution of California
+ 
+This page shows all our observations over a map of California, so the user can visualize the distribution of these species. Each species is color coded and their coordinates and name are revealed with a simple hover. The user can input whether they want to see all species, only native species, or only non-native species. They can also specify the climate division and year range they want to see observations for.
+ 
+### Average Flowering Day of Year
+ 
+This page will show the average flowering day of year of a scatter plot, so the user can see any trends that may occur within or across species. Once again the species are color coded and the user can input whether they want to see all species, only native species, or only non-native species. They can also specify the climate division and year range they want to see observations for. However, one thing to note is they can also choose a linear or local regression trendline if they prefer. This may improve any difficulty reading trends.
+ 
+### Climate Visualizations
+ 
+This page will allow the user to visualize climate trends of average temperature and average monthly precipitation for the different climate divisions. By default, all divisions are shown and the trendline shows linear regression across all averages. The user can choose which climate division they may want to focus on. Additionally, there is a gradient coloring of each plot point showing how the temperature and precipitation may affect each other. Something to note is that it is less often a negative correlation than one may think.
+ 
+## Limitations
+ 
+Like stated before, this project did not go as far as originally intended. While this project does show data in an easy to digest way, someone who is less informed on these subjects may interpret them unprofessionally, and come to a conclusion that is actually the opposite of what I am trying to convey with this project. Additionally, there is empty data for some of these species, so some are overrepresented while others are underrepresented. This is another way someone may be misled by this project, and come to an inaccurate conclusion. I hope to include more data in the future to prevent this. I also hope to have better stats that convey thoughtful analytics in which I can present on top of the current appealing visualizations.
