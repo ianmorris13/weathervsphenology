@@ -1,4 +1,6 @@
 # California Climate and Flowering Phenology - PIC16B Final Project
+
+To deploy this webapp locally, first download github desktop and sign in. Then clone my repository by adding this link in the URL "https://github.com/ianmorris13/weathervsphenology". Once that is cloned, make sure you have three important python packages, pandas, flask, and plotly. The vesions for each that I have and run fine are flask==2.0.2, pandas==1.3.5, plotly==5.1.0, and my python version is python==3.8.12. You should then open up this repository in a terminal. One easy way to do this is by simply right clicking the repository and clicking open in terminal. Once in the terminal run "$ export FLASK_ENV=development; flask run" and from there the webapp should be open in http://localhost:5000
  
 ## Webapp
  
