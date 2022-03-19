@@ -21,3 +21,5 @@ This page will allow the user to visualize climate trends of average temperature
 ## Limitations
  
 Like stated before, this project did not go as far as originally intended. While this project does show data in an easy to digest way, someone who is less informed on these subjects may interpret them unprofessionally, and come to a conclusion that is actually the opposite of what I am trying to convey with this project. Additionally, there is empty data for some of these species, so some are overrepresented while others are underrepresented. This is another way someone may be misled by this project, and come to an inaccurate conclusion. I hope to include more data in the future to prevent this. I also hope to have better stats that convey thoughtful analytics in which I can present on top of the current appealing visualizations.
+
+One last limitation is that there are biases within iNaturalist. There is a disproportional amount of observations within high income neighborhoods, so this has skewed the data. For now, I hope to find other databases that aren't as skewed.
