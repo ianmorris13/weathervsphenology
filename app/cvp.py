@@ -4,7 +4,7 @@
 # site will then be available at 
 # http://localhost:5000
 
-from flask import Flask, render_template, request, debug
+from flask import Flask, render_template, request
 import pandas as pd
 import os
 from plotly import express as px
