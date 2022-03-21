@@ -5,7 +5,6 @@
 # http://localhost:5000
 
 from flask import Flask, render_template, request
-
 import pandas as pd
 from plotly import express as px
 
@@ -271,3 +270,6 @@ def climate_plots():
 @app.route('/species/', methods=['GET'])
 def species():
     return render_template('species')    
+
+if __name__ == "__main__":
+    app.run(debug==True)
