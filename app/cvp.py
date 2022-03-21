@@ -183,7 +183,7 @@ def plantDistribution():
     if request.method == 'GET':
         flowersOverCA().write_html('./app/templates/distributionPlot.html')
         start_year = 2000
-        end_year = 2000
+        end_year = 2020
         return render_template('plantDistribution.html', startYear = start_year, endYear = end_year)
     else:
         plant_type = request.form.get('plant_type')
