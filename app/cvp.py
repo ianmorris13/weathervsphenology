@@ -270,7 +270,7 @@ def climate_plots():
 
 @app.route('/species/', methods=['GET'])
 def species():
-    return render_template('species')    
+    return render_template('species.html')    
 
 if __name__ == "__main__":
     port = os.environ.get("PORT", 5000)
