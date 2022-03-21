@@ -4,8 +4,9 @@
 # site will then be available at 
 # http://localhost:5000
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, debug
 import pandas as pd
+import os
 from plotly import express as px
 
 flowersCA = pd.read_csv('./data/flowersCA.csv')
@@ -272,4 +273,5 @@ def species():
     return render_template('species')    
 
 if __name__ == "__main__":
-    app.run(debug==True)
+    port = os.environ.get("PORT", 5000)
+    app.run(debug==False, host ="0.0.0.0", port=port)
