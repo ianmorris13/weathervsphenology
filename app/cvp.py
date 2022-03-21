@@ -257,7 +257,7 @@ def climate_plots():
     if request.method == 'GET':
         divScatterTemp().write_html('./app/templates/avgTempPlot.html')
         divScatterPrecip().write_html('./app/templates/avgRainPlot.html')
-        return render_template('climate_plots')
+        return render_template('climate_plots.html')
     else:
         if not request.form.get('_div'):
             _div =  request.form.get('_div')
