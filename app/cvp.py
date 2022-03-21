@@ -266,7 +266,7 @@ def climate_plots():
 
         divScatterTemp(_div).write_html('./app/templates/avgTempPlot.html')
         divScatterPrecip(_div).write_html('./app/templates/avgRainPlot.html')    
-    return render_template('climate_plots.html')
+        return render_template('climate_plots.html')
 
 @app.route('/species/', methods=['GET'])
 def species():
