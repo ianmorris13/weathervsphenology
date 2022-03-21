@@ -1,1 +1,1 @@
-web: python cvp.py
+web: python app/cvp.py
